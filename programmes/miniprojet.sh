@@ -14,6 +14,7 @@ TABLE=""
 while read -r line;
 do
 	curl -s -L ${line} > ../aspirations/url_$N.html
+	lynx -dump -nolist ${line} > ../dumps-text/dump_$N.txt
 	#obtenir le code HTTP and store it in a variable 
 	CURL=$(curl -s -I -L ${line} | tr -d "\r" ) #obtenir les headers
 	HTTPCODE=$(echo "$CURL" | grep "^HTTP" | egrep -o "[[:digit:]]{3}" | tail -n 1)
