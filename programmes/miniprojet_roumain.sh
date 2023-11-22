@@ -19,7 +19,7 @@ do
 	CURL=$(curl -s -I -L ${line} | tr -d "\r" ) #obtenir les headers
 	HTTPCODE=$(echo "$CURL" | grep "^HTTP" | egrep -o "[[:digit:]]{3}" | tail -n 1)
 	ENCODING=$(echo "$CURL" | grep "^content-type:" | egrep -o "charset=[^;]*" | cut -f 2 -d =)
-	TABLEROW="<tr><td>$N</td><td>$HTTPCODE</td><td><a href=${line}>${line}</a></td><td>$ENCODING</td><td><a href=<a href="../aspirations/url_ro_$N.html"></a></td><td><a href="../aspirations/dump_ro_$N.html"></a></td></tr>"
+	TABLEROW="<tr><td>$N</td><td>$HTTPCODE</td><td><a href=${line}>${line}</a></td><td>$ENCODING</td><td><a href="../aspirations/url_ro_$N.html">aspiration</a></td><td><a href="../aspirations/dump_ro_$N.html">dump</a></td></tr>"
 	TABLE+="$TABLEROW\n"
 	N=$(expr $N + 1)
 done < "$FILE_PATH_IN"
