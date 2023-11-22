@@ -13,7 +13,7 @@ N=1
 TABLE=""
 while read -r line;
 do
-	curl -s -L ${line} > /Users/madalina/Documents/M1TAL/PPE/projet-PPE/aspirations/url_$N.html
+	curl -s -L ${line} > ../aspirations/url_$N.html
 	#obtenir le code HTTP and store it in a variable 
 	CURL=$(curl -s -I -L ${line} | tr -d "\r" ) #obtenir les headers
 	HTTPCODE=$(echo "$CURL" | grep "^HTTP" | egrep -o "[[:digit:]]{3}" | tail -n 1)
