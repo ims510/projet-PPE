@@ -1,0 +1,437 @@
+   #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Modifications récentes
+     * Faire un don
+
+   Langues
+   Sur cette version linguistique de Wikipédia, les liens interlangues
+   sont placés en haut à droite du titre de l'article.
+   Aller en haut.
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Créer un compte
+     * Se connecter
+
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Contributions
+     * Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1Principes d'indexation
+
+     2Les robots du Web 3.0
+
+     3Robots
+   (BUTTON) Afficher/masquer la sous-section Robots
+     * 3.1Robots historiques
+
+
+
+   4Notes et références
+
+
+
+   5Voir aussi
+
+   (BUTTON) Afficher/masquer la sous-section Voir aussi
+     * 5.1Articles connexes
+
+
+
+   5.2Liens externes
+
+   [ ] Basculer la table des matières
+
+Robot d'indexation
+
+   [ ] 46 langues
+     * Afrikaans
+     * a+l+e+r+b+y+tm
+     * a+l+d+a+r+g+tm
+     * Az@rbaycanca
+     * Boarisch
+     * Català
+     * Cestina
+     * Cymraeg
+     * Deutsch
+     * Ellynika'
+     * English
+     * Español
+     * Euskara
+     * f+a+r+s+
+     * Suomi
+     * E+B+R+J+T+
+     * Hrvatski
+     * Magyar
+     * ¡µ¥¥¶
+     * Interlingua
+     * Bahasa Indonesia
+     * Italiano
+     * ¥¬
+     * ­´
+     * Lietuviu
+     * Latviesu
+     * Olyk marij
+     * Bahasa Melayu
+     * Nedersaksies
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Runa Simi
+     * Româna
+     * Russkij
+     * Simple English
+     * Srpski / srpski
+     * Svenska
+     * ¤®¿´
+     * ¢
+     * Türkçe
+     * Ukrayins'ka
+     * ­
+     *
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l'historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l'historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Élément Wikidata
+
+   Imprimer/exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d'aide sur l'homonymie
+
+   Pour les articles homonymes, voir Spider.
+   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
+   ici pour en savoir plus.
+
+   Cet article ne cite pas suffisamment ses sources (septembre 2011).
+
+   Si vous disposez d'ouvrages ou d'articles de référence ou si vous
+   connaissez des sites web de qualité traitant du thème abordé ici, merci
+   de compléter l'article en donnant les références utiles à sa
+   vérifiabilité et en les liant à la section « Notes et références »
+
+   En pratique : Quelles sources sont attendues ? Comment ajouter mes
+   sources ?
+   Architecture d'un robot d'indexation Architecture d'un robot
+   d'indexation
+
+   Un robot d'indexation (en anglais web crawler ou web spider,
+   littéralement araignée du Web) est un logiciel qui explore
+   automatiquement le Web. Il est généralement conçu pour collecter les
+   ressources (pages Web, images, vidéos, documents Word, PDF ou
+   PostScript, etc.), afin de permettre à un moteur de recherche de les
+   indexer.
+
+   Fonctionnant sur le même principe, certains robots malveillants
+   (spambots) sont utilisés pour archiver les ressources ou collecter des
+   adresses électroniques auxquelles envoyer des courriels.
+
+   En français, depuis 2013, crawler est remplaçable par le mot
+   collecteur^[1].
+
+   Il existe aussi des collecteurs analysant finement les contenus afin de
+   ne ramener qu'une partie de leur information.
+
+Principes d'indexation[modifier | modifier le code]
+
+   Pour indexer de nouvelles ressources, un robot procède en suivant
+   récursivement les hyperliens trouvés à partir d'une page pivot. Par la
+   suite, il est avantageux de mémoriser l'URL de chaque ressource
+   récupérée et d'adapter la fréquence des visites à la fréquence observée
+   de mise à jour de la ressource. Toutefois, si le robot respecte les
+   règles du fichier robots.txt, alors de nombreuses ressources échappent
+   à cette exploration récursive. Cet ensemble de ressources inexploré est
+   appelé Web profond ou Web invisible.
+
+   Un fichier d'exclusion (robots.txt) placé dans la racine d'un site Web
+   permet de donner aux robots une liste de ressources à ignorer. Cette
+   convention permet de réduire la charge du serveur Web et d'éviter des
+   ressources sans intérêt. Toutefois, certains robots ne se préoccupent
+   pas de ce fichier.
+
+   Deux caractéristiques du Web compliquent le travail du robot
+   d'indexation : le volume de données et la bande passante. Les capacités
+   de traitement et de stockage des ordinateurs ainsi que le nombre
+   d'internautes ayant fortement progressé, cela lié au développement
+   d'outils de maintenance de pages de type Web 2.0 permettant à n'importe
+   qui de mettre facilement en ligne des contenus, le nombre et la
+   complexité des pages et objets multimédia disponibles, et leur
+   modification, s'est considérablement accru dans la première décennie du
+   XXI^e siècle. Le débit autorisé par la bande passante n'ayant pas connu
+   une progression équivalente, le problème est de traiter un volume
+   toujours croissant d'information avec un débit relativement limité. Les
+   robots ont donc besoin de donner des priorités à leurs téléchargements.
+
+   Le comportement d'un robot d'indexation résulte de la combinaison des
+   principes suivants :
+     * Un principe de sélection, qui définit quelles pages télécharger ;
+     * Un principe de re-visite, qui définit quand vérifier s'il y a des
+       changements dans les pages ;
+     * Un principe de politesse, qui définit comment éviter les surcharges
+       de pages Web (délais en général) ;
+     * Un principe de parallélisation, qui définit comment coordonner les
+       robots d'indexations distribués.
+
+Les robots du Web 3.0[modifier | modifier le code]
+
+   Le Web 3.0 définit des techniques avancées et de nouveaux principes de
+   recherche sur Internet qui devront s'appuyer en partie sur les normes
+   du Web sémantique. Les robots du Web 3.0 exploiteront des méthodes
+   d'indexation impliquant des associations personne-machine plus
+   intelligentes que celles qui sont pratiquées aujourd'hui.
+
+   Le Web sémantique se distingue de la sémantique appliquée aux langues :
+   tandis que la sémantique linguistique comprend les significations des
+   mots composés ainsi que les relations entre tous les mots d'une langue,
+   le Web sémantique ne représente que l'architecture des relations et des
+   contenus présents sur le Web.
+
+Robots[modifier | modifier le code]
+
+     * AppleBot, robot d'indexation d'Apple, supporte également
+       l'assistant Siri.
+     * Baiduspider est le robot d'indexation du moteur de recherche
+       chinois Baidu.
+     * Heritrix est le robot d'archivage de l'Internet Archive. Il a été
+       écrit en Java.
+     * OrangeBot est le robot d'indexation du moteur d'Orange LeMoteur. Il
+       possède sa propre base de données mise à jour par le robot.
+     * HTTrack est un logiciel aspirateur de site internet qui crée des
+       miroirs des sites Web pour une utilisation hors ligne. Il est
+       distribué sous la licence GPL.
+     * Googlebot de Google
+     * Qwantify est le robot du moteur de recherche Qwant.
+     * OpenSearchServer est un robot d'indexation de site Internet. Publié
+       sous licence GPL, il s'appuie sur Lucene pour l'indexation.
+     * Nutch est un robot de collecte écrit en Java et publié sous Licence
+       Apache. Il peut être utilisé avec le projet Lucene de la fondation
+       Apache.
+     * Scooter de AltaVista
+     * MSNBot de MSN et Bing
+     * Slurp de Yahoo!
+     * ExaBot d'Exalead
+     * GNU Wget est un logiciel libre en ligne de commande écrit en C
+       automatisant les transferts vers un client HTTP.
+     * YacyBot est le robot du moteur de recherche YaCy^[2].
+     * BingBot, Adidxbot, BingPreview de Bing
+     * DuckDuckBot de DuckDuckGo
+     * AynidBot du moteur de recherche Aynid.
+     * WebCrawler a été utilisé pour construire le premier index public,
+       en texte intégral, d'un sous-ensemble du Web. Son robot
+       d'exploration en temps réel suivait les liens, en fonction de la
+       similarité du texte associé à l'ancre, avec la requête fournie.
+
+Robots historiques[modifier | modifier le code]
+
+     * World Wide Web Worm était un crawler utilisé pour construire un
+       index simple de titres de documents et d'URL. L'index pouvait être
+       consulté à l'aide de la commande Unix grep.
+     * Yahoo! Slurp était le robot de Yahoo! Search jusqu'à ce que Yahoo!
+       passe un contrat avec Microsoft pour utiliser Bingbot à la place,
+
+Notes et références[modifier | modifier le code]
+
+    1. ^| Olivier Robillart, « Collecteur et enregistreur de frappe
+       remplacent les termes "Crawler" et "Keylogger" », Clubic, 2 janvier
+       2013.
+    2. ^| (en) « YaCy-Bot », 2012.
+
+Voir aussi[modifier | modifier le code]
+
+Articles connexes[modifier | modifier le code]
+
+     * PageRank
+     * Apache Ant
+     * Bot informatique
+     * Spambot
+     * Robots.txt
+     * Web profond
+
+Liens externes[modifier | modifier le code]
+
+   Sur les autres projets Wikimedia :
+     * robot d'indexation, sur le Wiktionnaire
+
+   v · m
+   Moteurs de recherche (logiciels) (catégorie, liste)
+     * ASPseek
+     * Apache Solr
+     * DataparkSearch
+     * Elasticsearch
+     * Exalead
+     * Gigablast
+     * Googlebot
+     * Grub
+     * Heritrix
+     * ht://Dig
+     * Lucene
+     * mnoGoSearch
+     * Nutch
+     * Piria
+     * Searx
+     * Seeks
+     * Sphinx
+     * Theseus
+     * Verticrawl
+     * Whoosh
+     * Xapian
+     * YaCy
+     * Zettair
+
+   Permettant le P2P
+     * Gigablast
+     * Grub
+     * Seeks
+     * YaCy
+
+   v · m
+   Big data
+   Méthodes
+     * Algorithme de fouille de flots de données
+     * Analyse des données
+     * Parallélisme
+
+   Services
+     * Centre de données
+     * Cloud computing
+     * Opinion mining
+     * Opt in
+     * Opt out
+
+   Exploration de données
+     * Fouille de données spatiales
+     * Fouille du web
+     * Fouille de flots de données
+     * Fouille de textes
+     * Fouille d'images
+     * Fouille audio
+     * Glossaire de l'exploration de données
+
+   Outils
+     * Base de données relationnelle
+     * Hadoop
+     * Logiciels de fouille de données
+     * Robot d'indexation
+     * Système de gestion de base de données
+          + NoSQL
+          + NewSQL
+     * Technologies matérielles dédiées
+
+         Organismes
+     * Union internationale des télécommunications
+
+     * Histoire d'Internet
+     * Révolution numérique
+     * Science des données
+     * Données ouvertes
+
+     * icône décorative Portail de l'informatique
+     * icône décorative Portail d'Internet
+     * icône décorative Portail du Web sémantique
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Robot_d%27indexation&oldid
+   =205243717 ».
+   Catégories:
+     * Moteur de recherche
+     * Logiciel pour le World Wide Web
+     * Hypertext Transfer Protocol
+     * Référencement
+     * Automation
+
+   Catégories cachées:
+     * Article manquant de références depuis septembre 2011
+     * Article manquant de références/Liste complète
+     * Portail:Informatique/Articles liés
+     * Portail:Technologies/Articles liés
+     * Portail:Sciences/Articles liés
+     * Portail:Internet/Articles liés
+     * Portail:Médias/Articles liés
+     * Portail:Société/Articles liés
+     * Portail:Web sémantique/Articles liés
+
+     * La dernière modification de cette page a été faite le 17 juin 2023
+       à 09:13.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d'autres
+       conditions peuvent s'appliquer. Voyez les conditions d'utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu
