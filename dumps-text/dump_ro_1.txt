@@ -6,13 +6,13 @@
 
 Linkuri accesibilitate
 
-     * Sari la continutul principal
-     * Sari la navigarea principala
-     * Sari la cautare
+     * Sari la conținutul principal
+     * Sari la navigarea principală
+     * Sari la căutare
 
-   (BUTTON) Urmatorul
-   (BUTTON) Inchide (BUTTON) Precedent (BUTTON) Urmatorul
-   Asteptati
+   (BUTTON) Următorul
+   (BUTTON) Inchide (BUTTON) Precedent (BUTTON) Următorul
+   Așteptați
 
 Print Options:
 
@@ -26,32 +26,32 @@ Print Options:
    Link has been copied to clipboard
    [ ]
 
-     * STIRI
-     * Politica
+     * ȘTIRI
+     * Politică
      * Societate
      * Externe
      * CAMPANII
-     * #10�ntrebari
+     * #10Întrebări
 
-Urmareste-ne
+Urmărește-ne
 
    Toate site-urile REL/RL
    [ ]
-   Cauta ____________________ (BUTTON)
+   Caută_____________________ (BUTTON)
    site logo site logo
    Newsletter
-   Cauta ____________________ (BUTTON)
+   Caută_____________________ (BUTTON)
    site logo site logo
-   Precedent Urmatorul
-   [ ] Ultima ora
+   Precedent Următorul
+   [ ] Ultima oră
 
-   Razboi �n Israel
+   Război în Israel
 
-300.000 de soldati israelieni, mobilizati. Beniamin Netanyahu: Nicio piatra
-nu va ram�ne ne�ntoarsa! Vom schimba Orientul Mijlociu
+300.000 de soldați israelieni, mobilizați. Beniamin Netanyahu: Nicio piatră
+nu va rămâne neîntoarsă! Vom schimba Orientul Mijlociu
 
    09 octombrie, 2023
-     * George Costita
+     * George Costiță
      * Dora Vulcan
      __________________________________________________________________
 
@@ -65,8 +65,8 @@ nu va ram�ne ne�ntoarsa! Vom schimba Orientul Mijlociu
      *
 
 
-   300.000 de soldati israelieni, mobilizati. Beniamin Netanyahu: Nicio
-   piatra nu va ram�ne ne�ntoarsa! Vom schimba Orientul Mijlociu
+   300.000 de soldați israelieni, mobilizați. Beniamin Netanyahu: Nicio
+   piatră nu va rămâne neîntoarsă! Vom schimba Orientul Mijlociu
 
    Distribuie
      *
@@ -79,281 +79,281 @@ nu va ram�ne ne�ntoarsa! Vom schimba Orientul Mijlociu
 
    (BUTTON) Print
 
-   Israelul este �n stare de razboi, dupa un atac surpriza al gruparii
-   Hamas. Iranul neaga orice implicare �n atacuri. Peste o mie de oameni
-   au fost ucisi �n cele doua zile de violente. Armata israeliana a
-   mobilizat un numar record de soldati si va �ncepe �n cur�nd o ofensiva
-   terestra �n Gaza.
+   Israelul este în stare de război, după un atac surpriză al grupării
+   Hamas. Iranul neagă orice implicare în atacuri. Peste o mie de oameni
+   au fost uciși în cele două zile de violențe. Armata israeliană a
+   mobilizat un număr record de soldați și va începe în curând o ofensivă
+   terestră în Gaza.
 
-Razboiul din Israel - informatii pe scurt
+Războiul din Israel - informații pe scurt
 
-o Peste 1.200 de oameni - 700 �n Israel si 560 �n F�sia Gaza - au fost ucisi
-�n luptele care au �nceput s�mbata dimineata printr-un atac surpriza al
-gruparii palestiniene Hamas �mpotriva Israelului. Sunt mii de raniti de
-ambele parti.
-o Aproximativ o mie de luptatori Hamas au luat parte la incursiunea fara
-precedent, care a vizat inclusiv un atac la un festival de muzica, unde
-militantii au ucis cel putin 260 de oameni.
-o Armata israeliana a eliminat majoritatea luptatorilor Hamas, a �nceput un
-asediu total asupra F�siei Gaza, iar �n paralel a mobilizat aproximativ
-300.000 de soldati rezervisti pentru o ofensiva terestra.
-o Reprezentantii Hamas si Hezbollah - o alta grupare militanta si factiune
-politica din Liban care este sustinuta de Iran - spun pentru WSJ ca oficiali
-de securitate iranieni au ajutat la planificarea asaltului si au dat unda
-verde la o �nt�lnire din 2 octombrie de la Beirut.
-o Statele Unite au anuntat "sprijin suplimentar" pentru Israel si au anuntat
-ca vor trimite un grup de portavioane �n apropiere de coasta israeliana a
-Marii Mediterane.
+• Peste 1.200 de oameni - 700 în Israel și 560 în Fâșia Gaza - au fost uciși
+în luptele care au început sâmbătă dimineață printr-un atac surpriză al
+grupării palestiniene Hamas împotriva Israelului. Sunt mii de răniți de
+ambele părți.
+• Aproximativ o mie de luptători Hamas au luat parte la incursiunea fără
+precedent, care a vizat inclusiv un atac la un festival de muzică, unde
+militanții au ucis cel puțin 260 de oameni.
+• Armata israeliană a eliminat majoritatea luptătorilor Hamas, a început un
+asediu total asupra Fâșiei Gaza, iar în paralel a mobilizat aproximativ
+300.000 de soldați rezerviști pentru o ofensivă terestră.
+• Reprezentanții Hamas și Hezbollah - o altă grupare militantă și facțiune
+politică din Liban care este susţinută de Iran - spun pentru WSJ că oficiali
+de securitate iranieni au ajutat la planificarea asaltului și au dat undă
+verde la o întâlnire din 2 octombrie de la Beirut.
+• Statele Unite au anunțat „sprijin suplimentar” pentru Israel și au anunțat
+că vor trimite un grup de portavioane în apropiere de coasta israeliană a
+Mării Mediterane.
 
-IDF continua atacurile aeriene �n Gaza
+IDF continuă atacurile aeriene în Gaza
 
-   �ntr-o discutie cu primarii localitatilor de la granita de sud a
-   Israelului, premierul israelian Beniamin Netanyahu a spus ca raspunsul
-   tarii va "schimba Orientul Mijlociu".
-   "Suntem �n mijlocul unei campanii. Stiu ca ati trecut printr-o
-   �ncercare dificila si teribila. Ceea ce va experimenta Hamas va fi
-   dificil si teribil; suntem deja �n campanie si abia �ncepem. Conducerea
-   dvs. a fost foarte puternica �n aceste zile dificile. Statul nu va lasa
-   piatra ne�ntoarsa pentru a va ajuta pe toti. Va cer sa ram�neti pe
-   pozitiii pentru ca vom schimba Orientul Mijlociu. Va �mbratisez pe voi
-   si pe locuitori.Suntem cu totii alaturi de voi si-i vom �nvinge cu
-   forta", a spus Netanyahu.
+   Într-o discuție cu primarii localităților de la granița de sud a
+   Israelului, premierul israelian Beniamin Netanyahu a spus că răspunsul
+   țării va „schimba Orientul Mijlociu”.
+   „Suntem în mijlocul unei campanii. Știu că ați trecut printr-o
+   încercare dificilă și teribilă. Ceea ce va experimenta Hamas va fi
+   dificil și teribil; suntem deja în campanie și abia începem. Conducerea
+   dvs. a fost foarte puternică în aceste zile dificile. Statul nu va lăsa
+   piatra neîntoarsă pentru a vă ajuta pe toți. Vă cer să rămâneți pe
+   pozițiii pentru că vom schimba Orientul Mijlociu. Vă îmbrățișez pe voi
+   și pe locuitori.Suntem cu toții alături de voi și-i vom învinge cu
+   forță”, a spus Netanyahu.
 
-   Fortele de Aparare Israeliene (IDF) au declarat luni ca efectueaza
-   lovituri care vizeaza numeroase tinte Hamas din F�sia Gaza.
+   Forțele de Apărare Israeliene (IDF) au declarat luni că efectuează
+   lovituri care vizează numeroase ținte Hamas din Fâșia Gaza.
 
-   Dar atacurile aeriene israeliene au lovit luni tabara Jabalia, ucig�nd
-   peste 50 de persoane, relateaza Al Jazeera. Informatiile nu au putut fi
-   confirmate �n mod independent.
+   Dar atacurile aeriene israeliene au lovit luni tabăra Jabalia, ucigând
+   peste 50 de persoane, relatează Al Jazeera. Informațiile nu au putut fi
+   confirmate în mod independent.
 
-   �n plus, Ministerul Sanatatii din Gaza a anuntat ca 560 de persoane au
-   fost ucise si 2.900 ranite �n urma loviturilor israeliene cu rachete
-   asupra F�siei Gaza �ncep�nd de s�mbata.
+   În plus, Ministerul Sănătății din Gaza a anunțat că 560 de persoane au
+   fost ucise și 2.900 rănite în urma loviturilor israeliene cu rachete
+   asupra Fâșiei Gaza începând de sâmbătă.
 
-   Pe de alta parte, �n nordul Israelului au fost declansate alerte de
-   raid aerian, iar apararea aeriana a anuntat ca a interceptat mai multe
-   rachete trase din Liban de catre gruparea islamista Hezbollah,
-   relateaza BBC.
+   Pe de altă parte, în nordul Israelului au fost declanșate alerte de
+   raid aerian, iar apărarea aeriană a anunțat că a interceptat mai multe
+   rachete trase din Liban de către gruparea islamistă Hezbollah,
+   relatează BBC.
 
-   Gruparea militanta islamista a tras si duminica cu rachete si obuze de
-   artilerie �n Israel "�n semn de solidaritate" cu Hamas. Israelul a
-   raspuns cu focuri de artilerie.
+   Gruparea militantă islamistă a tras și duminică cu rachete și obuze de
+   artilerie în Israel „în semn de solidaritate” cu Hamas. Israelul a
+   răspuns cu focuri de artilerie.
 
-   Efraim Halevy, fost director al agentiei de informatii israeliene
-   Mossad, a declarat pentru Radio Farda, redactie a Radio Europa Libera
-   �n Orientul Mijlociu, ca este evident ca Israelul a fost surprins de
-   atacul Hamas, dar ca pentru moment importanta este c�stigarea
+   Efraim Halevy, fost director al agenției de informații israeliene
+   Mossad, a declarat pentru Radio Farda, redacție a Radio Europa Liberă
+   în Orientul Mijlociu, că este evident că Israelul a fost surprins de
+   atacul Hamas, dar că pentru moment importantă este câștigarea
    contraofensivei israeliene.
 
-   �ntrebat cum comenteaza criticile aduse fortelor de securitate, care au
-   fost luate prin suprindere de o operatiune care necesita luni de
-   planificare si pregatire, Efraim Halevy a spus ca este evident si ca
-   "rezultatele vorbesc de la sine, din pacate. Si, din pacate, evident,
-   am fost surprinsi", dar ca nu este acum momentul unei evaluari, care va
-   fi facuta "atunci c�nd razboiul se va termina:"
+   Întrebat cum comentează criticile aduse forțelor de securitate, care au
+   fost luate prin suprindere de o operațiune care necesită luni de
+   planificare și pregătire, Efraim Halevy a spus că este evident și că
+   „rezultatele vorbesc de la sine, din păcate. Și, din păcate, evident,
+   am fost surprinși”, dar că nu este acum momentul unei evaluări, care va
+   fi făcută „atunci când războiul se va termina:”
 
-   "Probabil ca vom avea o comisie, care va intra �n detalii despre ceea
-   ce s-a �nt�mplat �n zilele dinaintea razboiului si, probabil, va ajunge
-   la concluzii. Momentan, nu ne concentram asupra examinarii a ceea ce
-   s-a �nt�mplat si de ce s-a �nt�mplat. Acum ne concentram asupra
-   bataliei �n sine si apoi schimbam cursul bataliei."
+   „Probabil că vom avea o comisie, care va intra în detalii despre ceea
+   ce s-a întâmplat în zilele dinaintea războiului și, probabil, va ajunge
+   la concluzii. Momentan, nu ne concentrăm asupra examinării a ceea ce
+   s-a întâmplat și de ce s-a întâmplat. Acum ne concentrăm asupra
+   bătăliei în sine și apoi schimbăm cursul bătăliei.”
 
-   El a spus ca, �n prezent, miza o reprezinta salvarea cetatenilor rapiti
+   El a spus că, în prezent, miza o reprezintă salvarea cetățenilor răpiți
    de Hamas.
 
-   �ntrebat cu privire la rolul pe care l-ar fi avut guvernul Republicii
-   Islamice din Iran �n atacurile Hamas, fostul oficial israelian a spus
-   ca Israelul a fost �ntotdeauna preocupat de ceea ce s-a �nt�mplat cu
+   Întrebat cu privire la rolul pe care l-ar fi avut guvernul Republicii
+   Islamice din Iran în atacurile Hamas, fostul oficial israelian a spus
+   că Israelul a fost întotdeauna preocupat de ceea ce s-a întâmplat cu
    Hezbollahul de Sud, care este un element controlat de Iran din Liban,
-   si daca acesta ar putea lansa un atac. El a spus ca "daca as fi
-   iranian, m-as g�ndi nu de doua ori, ci de 10 ori �nainte de a �ncerca
-   sa profit de ceea ce s-a �nt�mplat �n sud pentru a slabi Israelul �n
-   general (...)."
-   Hezbollah ("Partidul lui Dumnezeu") a aparut �n timpul Razboiul din
-   Liban din 1982 ca organizatie paramilitara siita libaneza cu circa
-   15,000 de combatanti, sprijinita si dependenta de Iran si organizata,
-   �narmata si antrenata de ofiteri ai Garzilor Revolutionare Iraniene.
+   și dacă acesta ar putea lansa un atac. El a spus că „dacă aș fi
+   iranian, m-aș gândi nu de două ori, ci de 10 ori înainte de a încerca
+   să profit de ceea ce s-a întâmplat în sud pentru a slăbi Israelul în
+   general (...).”
+   Hezbollah („Partidul lui Dumnezeu”) a apărut în timpul Războiul din
+   Liban din 1982 ca organizație paramilitară șiită libaneză cu circa
+   15,000 de combatanți, sprijinită și dependentă de Iran și organizată,
+   înarmată și antrenată de ofițeri ai Gărzilor Revoluționare Iraniene.
 
-   Hezbollah, forta importanta �n politica libaneza, care detine scoli,
-   spitale si ofera servicii sociale, este considerata miscare de
-   rezistenta legitima de o parte a lumii arabe si musulmane si o
-   organizatie terorista de Statele Unite ale Americii, Israel, Canada si
+   Hezbollah, forță importantă în politica libaneză, care deține școli,
+   spitale și oferă servicii sociale, este considerată mișcare de
+   rezistență legitimă de o parte a lumii arabe și musulmane și o
+   organizație teroristă de Statele Unite ale Americii, Israel, Canada și
    Olanda.
 
-   Marea Britanie a introdus aripa militara a organizatiei pe lista
-   organizatiilor teroriste, iar Australia considera ca o parte a
-   structurii sale militare, "Organizatia de Securitate Externa", este o
-   organizatie terorista.
+   Marea Britanie a introdus aripa militară a organizației pe lista
+   organizațiilor teroriste, iar Australia consideră că o parte a
+   structurii sale militare, „Organizația de Securitate Externă”, este o
+   organizație teroristă.
 
-   Din 2011, gruparea s-a implicat �n razboiul civil din Siria de partea
-   regimului presedintelui sirian Bashar al-Assad.
+   Din 2011, gruparea s-a implicat în războiul civil din Siria de partea
+   regimului președintelui sirian Bashar al-Assad.
 
-   �n decembrie 2015 presedintele Statelor Unite, Barack Obama, a semnat o
-   lege care �mpiedica finantarea internationala a Hezbollah si defineste
-   gruparea ca organizatie terorista care se ocupa si cu traficul de
-   stupefiante si cu spalarea de bani.
+   În decembrie 2015 președintele Statelor Unite, Barack Obama, a semnat o
+   lege care împiedică finanțarea internațională a Hezbollah și definește
+   gruparea ca organizație teroristă care se ocupă și cu traficul de
+   stupefiante și cu spălarea de bani.
    [01000000-0aff-0242-68c6-08dbc8b75e18_w250_r1_s.png]
    Infographic:
 
-Harta | Unde au avut loc ciocniri �ntre Hamas si armata israeliana
+Hartă | Unde au avut loc ciocniri între Hamas și armata israeliană
 
-Un cetatean rom�n a murit �n Israel
+Un cetățean român a murit în Israel
 
-   Un barbat cu dubla cetatenie, rom�na si israeliana, a murit �n razboiul
-   dintre Israel si Hamas, a informat luni Ministerul de Externe.
+   Un bărbat cu dublă cetățenie, română și israeliană, a murit în războiul
+   dintre Israel și Hamas, a informat luni Ministerul de Externe.
 
-   Barbatul era soldat �n armata israeliana.
-   Sute de rom�ni s-au �ntors deja �n Rom�nia, iar alte c�teva sute �nca
-   se mai afla �n Israel, spun autoritatile de la Bucuresti. Sute de
-   rom�ni s-au �ntors deja �n Rom�nia, iar alte c�teva sute �nca se mai
-   afla �n Israel, spun autoritatile de la Bucuresti.
-   ### Vezi si... ###
+   Bărbatul era soldat în armata israeliană.
+   Sute de români s-au întors deja în România, iar alte câteva sute încă
+   se mai află în Israel, spun autoritățile de la București. Sute de
+   români s-au întors deja în România, iar alte câteva sute încă se mai
+   află în Israel, spun autoritățile de la București.
+   ### Vezi și... ###
 
-Un rom�n cu dubla cetatenie a murit �n Israel. Circa 800 de rom�ni sunt
-blocati �n Israel, alti 350 �n F�sia Gaza
+Un român cu dublă cetățenie a murit în Israel. Circa 800 de români sunt
+blocați în Israel, alți 350 în Fâșia Gaza
 
-Asediu complet al F�siei Gaza
+Asediu complet al Fâșiei Gaza
 
-   Sirenele de raid aerian suna �n Ierusalim si �n tot Israelul, �n timp
-   ce militantii Hamas trag rachete din F�sia Gaza, spun Fortele de
-   Aparare Israeliene (IDF).
+   Sirenele de raid aerian sună în Ierusalim și în tot Israelul, în timp
+   ce militanții Hamas trag rachete din Fâșia Gaza, spun Forțele de
+   Apărare Israeliene (IDF).
 
-   Cel putin trei explozii au fost auzite �n Ierusalim, potrivit BBC. Nu a
-   fost clar daca sunt rachete care si-au atins tinta sau au fost
+   Cel puțin trei explozii au fost auzite în Ierusalim, potrivit BBC. Nu a
+   fost clar dacă sunt rachete care și-au atins ținta sau au fost
    interceptate.
 
-   Una dintre rachetele lansate de Hamas din Gaza, luni la pr�nz, a cazut
-   �n apropierea Aeroportului International Ben Gurion din Tel Aviv, fara
-   a face victime, au anuntat ulterior autoritatile locale.
+   Una dintre rachetele lansate de Hamas din Gaza, luni la prânz, a căzut
+   în apropierea Aeroportului Internaţional Ben Gurion din Tel Aviv, fără
+   a face victime, au anunțat ulterior autoritățile locale.
 
-   Aceste informatii vin �n paralel cu cele din sudul tarii, unde Israelul
-   spune ca a rec�stigat controlul asupra comunitatilor din apropierea
-   barierei, dar ciocniri izolate �nca mai aveau loc.
+   Aceste informații vin în paralel cu cele din sudul țării, unde Israelul
+   spune că a recâștigat controlul asupra comunităților din apropierea
+   barierei, dar ciocniri izolate încă mai aveau loc.
 
-   De asemenea, �n urma anuntului ca 300.000 de barbati si femei sunt
-   chemati sa lupte, ministrul israelian al Apararii a declarat ca a
-   ordonat "un asediu complet" asupra F�siei Gaza.
+   De asemenea, în urma anunțului că 300.000 de bărbați și femei sunt
+   chemați să lupte, ministrul israelian al Apărării a declarat că a
+   ordonat „un asediu complet” asupra Fâșiei Gaza.
 
-   "Fara electricitate, fara alimente, fara combustibil. Ne luptam cu
-   niste animale umane si actionam �n consecinta", a spus el potrivit
+   „Fără electricitate, fără alimente, fără combustibil. Ne luptăm cu
+   nişte animale umane şi acţionăm în consecinţă”, a spus el potrivit
    Times of Israel.
-   Urmarile unei lovituri aeriene a Israelului asupra moscheii Sousi din
-   orasul Gaza, 9 octombrie 2023.
-   Urmarile unei lovituri aeriene a Israelului asupra moscheii Sousi din
-   orasul Gaza, 9 octombrie 2023.
+   Urmările unei lovituri aeriene a Israelului asupra moscheii Sousi din
+   orașul Gaza, 9 octombrie 2023.
+   Urmările unei lovituri aeriene a Israelului asupra moscheii Sousi din
+   orașul Gaza, 9 octombrie 2023.
 
-   Israelul controleaza spatiul aerian deasupra F�siei Gaza si a tarmului
-   acesteia si restrictioneaza accesul persoanelor si al bunurilor. �n mod
-   similar, Egiptul controleaza cine intra si cine iese prin granita sa cu
+   Israelul controlează spațiul aerian deasupra Fâșiei Gaza și a țărmului
+   acesteia și restricționează accesul persoanelor și al bunurilor. În mod
+   similar, Egiptul controlează cine intră și cine iese prin granița sa cu
    Gaza.
 
-   De asemenea, aprovizionarea cu apa din Israel catre Gaza a fost
-   �ntrerupta, potrivit ministrului israelian al Energiei, Israel Katz.
+   De asemenea, aprovizionarea cu apă din Israel către Gaza a fost
+   întreruptă, potrivit ministrului israelian al Energiei, Israel Katz.
 
-   Aproximativ 2,3 milioane de oameni locuiesc �n Gaza.
+   Aproximativ 2,3 milioane de oameni locuiesc în Gaza.
 
-Israelul mobilizeaza 300.000 de rezervisti si se pregateste de ofensiva
+Israelul mobilizează 300.000 de rezerviști și se pregătește de ofensivă
 
-   Israelul a �nrolat 300.000 de rezervisti, cel mai mare numar din
-   istoria tarii, ca raspuns la atacul Hamas si "trece la ofensiva", a
-   declarat luni purtatorul de cuv�nt al sefului armatei, scrie Reuters.
+   Israelul a înrolat 300.000 de rezerviști, cel mai mare număr din
+   istoria țării, ca răspuns la atacul Hamas și „trece la ofensivă”, a
+   declarat luni purtătorul de cuvânt al șefului armatei, scrie Reuters.
 
-   "Niciodata nu am �nrolat at�t de multi rezervisti la o asemenea scara.
-   Trecem la ofensiva", a declarat purtatorul de cuv�nt militar sef,
+   „Niciodată nu am înrolat atât de mulți rezerviști la o asemenea scară.
+   Trecem la ofensivă”, a declarat purtătorul de cuvânt militar șef,
    contraamiralul Daniel Hagari.
 
-   Informatiile oficiale anterioare faceau referire la 100.000 de oameni
-   chemati la arme.
+   Informațiile oficiale anterioare făceau referire la 100.000 de oameni
+   chemați la arme.
 
-   De s�mbata, avioanele israeliene au bombardat tinte din Gaza, �n timp
-   ce fortele sale terestre au luptat pentru a prelua controlul asupra
-   satelor si oraselor de frontiera invadate militantii palestinieni.
+   De sâmbătă, avioanele israeliene au bombardat ținte din Gaza, în timp
+   ce forțele sale terestre au luptat pentru a prelua controlul asupra
+   satelor și orașelor de frontieră invadate militanții palestinieni.
 
-   Hagari a declarat ca a fost restabilit controlul asupra acestor
-   comunitati, dar ca au continuat ciocnirile izolate, deoarece unii
-   barbati �narmati au ramas activi.
-   Dupa ce rachetele lansate de Hamas au lovit mai multe orase din sudul
-   Israelului, fortele armate israeliene au lansat mai multe atacuri �n
-   F�sia Gaza. Dupa ce rachetele lansate de Hamas au lovit mai multe orase
-   din sudul Israelului, fortele armate israeliene au lansat mai multe
-   atacuri �n F�sia Gaza. ### Vezi si... ###
+   Hagari a declarat că a fost restabilit controlul asupra acestor
+   comunități, dar că au continuat ciocnirile izolate, deoarece unii
+   bărbați înarmați au rămas activi.
+   După ce rachetele lansate de Hamas au lovit mai multe orașe din sudul
+   Israelului, forțele armate israeliene au lansat mai multe atacuri în
+   Fâșia Gaza. După ce rachetele lansate de Hamas au lovit mai multe orașe
+   din sudul Israelului, forțele armate israeliene au lansat mai multe
+   atacuri în Fâșia Gaza. ### Vezi și... ###
 
-Razboi �n Israel | Cum de au esuat serviciile secrete din Israel sa previna
-atacul major cu rachete al organizatiei islamiste Hamas
+Război în Israel | Cum de au eșuat serviciile secrete din Israel să prevină
+atacul major cu rachete al organizației islamiste Hamas
 
-Hamas vrea sa elibereze toti prizonierii palestinieni
+Hamas vrea să elibereze toți prizonierii palestinieni
 
-   Hamas vrea sa elibereze "toti prizonierii palestinieni" din Israel si
-   sa puna capat provocarilor israeliene �n Cisiordania ocupata si �n
-   Ierusalim, �n special la Moscheea Al-Aqsa, a declarat luni un purtator
-   de cuv�nt al gruparii militante pentru Associated Press.
+   Hamas vrea să elibereze „toți prizonierii palestinieni” din Israel și
+   să pună capăt provocărilor israeliene în Cisiordania ocupată și în
+   Ierusalim, în special la Moscheea Al-Aqsa, a declarat luni un purtător
+   de cuvânt al grupării militante pentru Associated Press.
 
-   Abdel-Latif al-Qanoua a declarat prin telefon ca militantii Hamas se
-   lupta �n continuare cu fortele israeliene si ca au capturat mai multi
-   israelieni luni dimineata.
+   Abdel-Latif al-Qanoua a declarat prin telefon că militanții Hamas se
+   luptă în continuare cu forțele israeliene și că au capturat mai mulți
+   israelieni luni dimineață.
 
-   "Suntem �ntr-o lupta deschisa pentru a ne apara poporul nostru si
-   Moscheea Al-Aqsa", a spus el.
+   „Suntem într-o luptă deschisă pentru a ne apăra poporul nostru și
+   Moscheea Al-Aqsa”, a spus el.
 
-   "Aceasta batalie este legata de eliberarea tuturor prizonierilor
-   palestinieni si de �ncetarea activitatilor acestui guvern fascist �n
-   Ierusalim", a spus al-Qanoua.
+   „Această bătălie este legată de eliberarea tuturor prizonierilor
+   palestinieni și de încetarea activităților acestui guvern fascist în
+   Ierusalim”, a spus al-Qanoua.
 
-   El a spus ca grupul a capturat "un numar mare de israelieni" �n Gaza,
-   fara a da o cifra exact, mention�nd ca aripa militara a Hamas,
-   al-Qassam, va anunta cifrele mai t�rziu.
+   El a spus că grupul a capturat „un număr mare de israelieni” în Gaza,
+   fără a da o cifră exact, menționând că aripa militară a Hamas,
+   al-Qassam, va anunța cifrele mai târziu.
 
-Sute de tineri ucisi la un festival
+Sute de tineri uciși la un festival
 
    Paramedicii serviciului israelian de salvare Zaka au scos aproximativ
-   260 de cadavre de la festivalul de muzica Tribe of Nova, organizat
-   �ntr-o zona rurala din apropierea granitei dintre Gaza si Israel, unde
-   mii de tineri urmau sa sarbatoreasca sarbatoarea evreiasca Sukkot,
+   260 de cadavre de la festivalul de muzică Tribe of Nova, organizat
+   într-o zonă rurală din apropierea graniței dintre Gaza și Israel, unde
+   mii de tineri urmau să sărbătorească sărbătoarea evreiască Sukkot,
    scrie Associated Press.
 
-   Atacul asupra festivalului a venit s�mbata dimineata, �n timpul
-   asaltului general al militantilor Hamas, la care au participat peste
-   1.000 de luptatori, unii inclusiv cu deltaplane cu motor.
-   Pagubele produse �n urma unei lovituri aeriene israeliene asupra
-   moscheii Sousi din orasul Gaza, 9 octombrie 2023.
-   Pagubele produse �n urma unei lovituri aeriene israeliene asupra
-   moscheii Sousi din orasul Gaza, 9 octombrie 2023.
+   Atacul asupra festivalului a venit sâmbătă dimineață, în timpul
+   asaltului general al militanților Hamas, la care au participat peste
+   1.000 de luptători, unii inclusiv cu deltaplane cu motor.
+   Pagubele produse în urma unei lovituri aeriene israeliene asupra
+   moscheii Sousi din orașul Gaza, 9 octombrie 2023.
+   Pagubele produse în urma unei lovituri aeriene israeliene asupra
+   moscheii Sousi din orașul Gaza, 9 octombrie 2023.
 
-   Organizatorii festivalului au declarat ca asista fortele de securitate
-   pentru a ajuta la localizarea persoanelor disparute, iar serviciul
-   israelian de urgenta a mentionat ca bilantul deceselor ar putea creste,
-   pe masura ce echipele continua sa cerceteze zona.
+   Organizatorii festivalului au declarat că asistă forțele de securitate
+   pentru a ajuta la localizarea persoanelor dispărute, iar serviciul
+   israelian de urgență a menționat că bilanțul deceselor ar putea crește,
+   pe măsură ce echipele continuă să cerceteze zona.
 
-   Peste 130 de oameni ar fi fost luati prizonieri de catre Hamas, grup
-   palestinian desemnat ca organizatie terorista de catre Statele Unite,
-   Uniunea Europeana si Israel.
+   Peste 130 de oameni ar fi fost luați prizonieri de către Hamas, grup
+   palestinian desemnat ca organizaţie teroristă de către Statele Unite,
+   Uniunea Europeană şi Israel.
 
-   �nregistrarile pe retelele sociale arata cum acestia alearga sa caute
-   adapost �n timp ce se aud focuri de arma.
+   Înregistrările pe rețelele sociale arată cum aceștia aleargă să caute
+   adăpost în timp ce se aud focuri de armă.
 
-Peste 1.100 de morti de ambele parti
+Peste 1.100 de morți de ambele părți
 
-   Guvernul israelian a declarat razboi duminica si a dat unda verde
-   pentru "masuri militare semnificative" de represalii �mpotriva Hamas,
-   ca raspuns la atacul surpriza de s�mbata dimineata al gruparii.
+   Guvernul israelian a declarat război duminică și a dat undă verde
+   pentru „măsuri militare semnificative” de represalii împotriva Hamas,
+   ca răspuns la atacul surpriză de sâmbătă dimineață al grupării.
 
-   �n paralel, armata israeliana (IDF) a �ncercat sa alunge luptatorii
-   Hamas, care �nca se afla �n c�teva zone din sudul tarii, si a
-   intensificat bombardamentele asupra F�siei Gaza.
-   Atacurile mortale ale Hamas asupra Israelului declanseaza o escaladare
-   masiva a conflictului
-   Asteptati
-   Embed Rasp�ndeste
+   În paralel, armata israeliană (IDF) a încercat să alunge luptătorii
+   Hamas, care încă se află în câteva zone din sudul țării, și a
+   intensificat bombardamentele asupra Fâșiei Gaza.
+   Atacurile mortale ale Hamas asupra Israelului declanșează o escaladare
+   masivă a conflictului
+   Așteptați
+   Embed Răspândește
 
-Atacurile mortale ale Hamas asupra Israelului declanseaza o escaladare masiva
+Atacurile mortale ale Hamas asupra Israelului declanșează o escaladare masivă
 a conflictului
 
-   Embed Rasp�ndeste
+   Embed Răspândește
    Codul a fost copiat
    ____________________
      __________________________________________________________________
 
-   width 640_________________ px �naltime 360_________________ px
+   width 640_________________ px Înălți360____________________ px
 
      * Trimite pe Facebook
      * Trimite pe Twitter
@@ -364,258 +364,258 @@ a conflictului
    Codul URL a fost copiat
    https://romania.euro
 
-   Nici o sursa media
+   Nici o sursă media
    0:00 0:01:27 (BUTTON) 0:00
    (BUTTON)
 
-   La aproape doua zile dupa ce Hamas a lansat incursiunea fara precedent
-   din F�sia Gaza, cel mai recent bilant arata ca cel putin 700 de oameni
-   au fost ucisi �n Israel, dintre care peste 40 de soldati, iar peste
-   2.000 au fost raniti.
+   La aproape două zile după ce Hamas a lansat incursiunea fără precedent
+   din Fâșia Gaza, cel mai recent bilanț arată că cel puțin 700 de oameni
+   au fost uciși în Israel, dintre care peste 40 de soldați, iar peste
+   2.000 au fost răniți.
 
-   Peste 400 au fost de persoane au ucise si alte 2.700 ranite �n
-   represaliile israeliene din Gaza - o f�sie �ngusta de pam�nt �n care
+   Peste 400 au fost de persoane au ucise și alte 2.700 rănite în
+   represaliile israeliene din Gaza - o fâşie îngustă de pământ în care
    locuiesc circa 2,3 milioane de palestinieni.
 
-   "Pretul pe care �l va plati F�sia Gaza va fi unul foarte greu, care va
-   schimba realitatea pentru generatii �ntregi", a declarat ministrul
-   Apararii, Yoav Gallant, conform Reuters.
+   „Prețul pe care îl va plăti Fâșia Gaza va fi unul foarte greu, care va
+   schimba realitatea pentru generații întregi”, a declarat ministrul
+   Apărării, Yoav Gallant, conform Reuters.
 
-   Armata a precizat luni dimineata ca bombardamentele continua �mpotriva
-   militantilor Hamas din Gaza, dupa ce �n cursul noptii a atacat sute de
-   tinte.
+   Armata a precizat luni dimineață că bombardamentele continuă împotriva
+   militanților Hamas din Gaza, după ce în cursul nopții a atacat sute de
+   ținte.
 
-Peste 100.000 de soldati mobilizati
+Peste 100.000 de soldați mobilizați
 
-   Purtatorul de cuv�nt al armatei israeliene, locotenent-colonelul
-   Jonathan Conricus, a declarat ca tara a mobilizat aproximativ 100.000
-   de soldati, o decizie pe care analistii o vad ca fiind o pregatire
-   pentru o invazie terestra �n Gaza.
+   Purtătorul de cuvânt al armatei israeliene, locotenent-colonelul
+   Jonathan Conricus, a declarat că țara a mobilizat aproximativ 100.000
+   de soldați, o decizie pe care analiștii o văd ca fiind o pregătire
+   pentru o invazie terestră în Gaza.
 
-   Mii de soldati activi au fost trimisi �n jurul F�siei Gaza, acolo unde
-   armata a �nceput �n paralel sa evacueze civilii.
+   Mii de soldați activi au fost trimiși în jurul Fâșiei Gaza, acolo unde
+   armata a început în paralel să evacueze civilii.
 
-   "Treaba noastra este sa ne asiguram ca, la sf�rsitul acestui razboi,
-   Hamas nu va mai avea nicio capacitate militara cu care sa ameninte
-   civilii israelieni si, �n plus, trebuie sa ne asiguram ca Hamas nu va
-   mai guverna f�sia Gaza", a spus el.
+   „Treaba noastră este să ne asigurăm că, la sfârșitul acestui război,
+   Hamas nu va mai avea nicio capacitate militară cu care să amenințe
+   civilii israelieni și, în plus, trebuie să ne asigurăm că Hamas nu va
+   mai guverna fâșia Gaza”, a spus el.
 
-   Purtatorul de cuv�nt al Fortelor de Aparare Israeliene (IDF) a precizat
-   luni dimineata ca luptele continua �n "sapte-opt zone" si ca exista �n
-   desfasurare o luare de ostatici la un kibbutz.
-   Dupa ce rachetele lansate de Hamas au lovit mai multe orase din sudul
-   Israelului, fortele armate israeliene au lansat mai multe atacuri �n
-   F�sia Gaza. Dupa ce rachetele lansate de Hamas au lovit mai multe orase
-   din sudul Israelului, fortele armate israeliene au lansat mai multe
-   atacuri �n F�sia Gaza. ### Vezi si... ###
+   Purtătorul de cuvânt al Forţelor de Apărare Israeliene (IDF) a precizat
+   luni dimineață că luptele continuă în „şapte-opt zone” şi că există în
+   desfăşurare o luare de ostatici la un kibbutz.
+   După ce rachetele lansate de Hamas au lovit mai multe orașe din sudul
+   Israelului, forțele armate israeliene au lansat mai multe atacuri în
+   Fâșia Gaza. După ce rachetele lansate de Hamas au lovit mai multe orașe
+   din sudul Israelului, forțele armate israeliene au lansat mai multe
+   atacuri în Fâșia Gaza. ### Vezi și... ###
 
-Razboi �n Israel | Cum de au esuat serviciile secrete din Israel sa previna
-atacul major cu rachete al organizatiei islamiste Hamas
+Război în Israel | Cum de au eșuat serviciile secrete din Israel să prevină
+atacul major cu rachete al organizației islamiste Hamas
 
-   "�nca �i v�nam pe ultimii teroristi din interiorul teritoriului
-   israelian. Trupele noastre merg din usa �n usa si din casa �n casa,
-   caut�nd si, �n multe cazuri, angaj�ndu-se �n lupta cu ultimii teroristi
-   din interiorul Israelului", a declarat el pentru CNN.
+   „Încă îi vânăm pe ultimii terorişti din interiorul teritoriului
+   israelian. Trupele noastre merg din uşă în uşă şi din casă în casă,
+   căutând şi, în multe cazuri, angajându-se în luptă cu ultimii terorişti
+   din interiorul Israelului”, a declarat el pentru CNN.
 
-   Jonathan Conricus a mentionat ca �nca mai exista brese la granita, dar
-   acestea sunt "temporar �nchise si pazite".
+   Jonathan Conricus a menționat că încă mai există breşe la graniţă, dar
+   acestea sunt „temporar închise şi păzite”.
 
-   Evaluarea fortelor israeliene este ca majoritatea militantilor care se
-   mai afla �n Israel "probabil au trecut mai �nt�i �n Israel, iar apoi
-   pur si simplu nu au mai putut sa se �ntoarca si au ramas blocati, iar
-   acum aleg probabil sa iasa la lupta si �ncearca sa ucida civili
-   israelieni sau sa se angajeze �n schimburi de focuri cu trupele
-   israeliene", a spus reprezentantul IDF.
+   Evaluarea forţelor israeliene este că majoritatea militanţilor care se
+   mai află în Israel „probabil au trecut mai întâi în Israel, iar apoi
+   pur şi simplu nu au mai putut să se întoarcă şi au rămas blocaţi, iar
+   acum aleg probabil să iasă la luptă şi încearcă să ucidă civili
+   israelieni sau să se angajeze în schimburi de focuri cu trupele
+   israeliene”, a spus reprezentantul IDF.
 
-   De asemenea, �n briefingul de presa de luni dimineata, armata
-   israeliana a anuntat �nsa ca sunt trase �n continuare tiruri cu rachete
-   si artilerie �n Ashkelon, un oras cu iesire la Marea Mediterana, aflat
-   la 50 de kilometri sud de Tel Aviv si la 13 kilometri nord de granita
-   cu F�sia Gaza.
+   De asemenea, în briefingul de presă de luni dimineaţă, armata
+   israeliană a anunţat însă că sunt trase în continuare tiruri cu rachete
+   şi artilerie în Ashkelon, un oraș cu ieșire la Marea Mediterană, aflat
+   la 50 de kilometri sud de Tel Aviv și la 13 kilometri nord de granița
+   cu Fâșia Gaza.
 
 Implicarea Iranului
 
-   Iranul este un aliat al Hamas si, desi a felicitat gruparea pentru
-   atac, misiunea sa la Natiunile Unite a declarat ca Teheranul nu a fost
-   implicat �n atacuri.
+   Iranul este un aliat al Hamas și, deși a felicitat gruparea pentru
+   atac, misiunea sa la Națiunile Unite a declarat că Teheranul nu a fost
+   implicat în atacuri.
 
-   Dar cotidianul Wall Street Journal scrie, cit�nd reprezentanti ai Hamas
-   si Hezbollah, ca oficiali de securitate iranieni au ajutat la
-   planificarea atacului surpriza de s�mbata al Hamas asupra Israelului si
-   au dat unda verde pentru asalt la o �nt�lnire de lunea trecuta din
+   Dar cotidianul Wall Street Journal scrie, citând reprezentanți ai Hamas
+   și Hezbollah, că oficiali de securitate iranieni au ajutat la
+   planificarea atacului surpriză de sâmbătă al Hamas asupra Israelului și
+   au dat undă verde pentru asalt la o întâlnire de lunea trecută din
    Beirut.
 
-   �n plus, presedintele Iranului, Ebrahim Raisi, si-a exprimat sprijinul
-   pentru atacul Hamas, spun�nd ca Israelul trebuie sa fie tras la
-   raspundere pentru ca pune �n pericol regiunea.
+   În plus, președintele Iranului, Ebrahim Raisi, și-a exprimat sprijinul
+   pentru atacul Hamas, spunând că Israelul trebuie să fie tras la
+   răspundere pentru că pune în pericol regiunea.
 
-   De asemenea, separat de luptele din Gaza, fortele israeliene si militia
-   libaneza Hezbollah, sustinuta de Iran, au avut duminica un schimb de
-   focuri de artilerie si de rachete �n nordul Israelului.
+   De asemenea, separat de luptele din Gaza, forțele israeliene și miliția
+   libaneză Hezbollah, susținută de Iran, au avut duminică un schimb de
+   focuri de artilerie și de rachete în nordul Israelului.
 
-   �n Egipt, doi turisti israelieni au fost �mpuscati mortal �mpreuna cu
+   În Egipt, doi turiști israelieni au fost împușcați mortal împreună cu
    un ghid.
 
-SUA sprijina Israelul
+SUA sprijină Israelul
 
-   Statele Unite ale Americii spun ca vor muta muta un portavion, nave si
-   avioane �n estul Mediteranei si ca vor oferi Israelului echipamente si
-   munitii suplimentare.
+   Statele Unite ale Americii spun că vor muta muta un portavion, nave și
+   avioane în estul Mediteranei și că vor oferi Israelului echipamente și
+   muniții suplimentare.
 
-   Secretarul american al apararii, Lloyd Austin, a declarat ca
-   portavionul USS Gerald R. Ford, un crucisator de rachete si patru
-   distrugatoare de rachete se �ndreapta spre regiune. De asemenea, vor fi
-   trimise avioane de lupta americane.
+   Secretarul american al apărării, Lloyd Austin, a declarat că
+   portavionul USS Gerald R. Ford, un crucișător de rachete și patru
+   distrugătoare de rachete se îndreaptă spre regiune. De asemenea, vor fi
+   trimise avioane de luptă americane.
 
-   Dupa ce s�mbata a emis o declaratie �n care a promis un sprijin "solid
-   si neclintit" pentru Israel, presedintele american Joe Biden a ordonat
-   duminica "sprijin suplimentar" pentru Israel, conform unui anunt al
-   Casei Albe, �n care nu au fost oferite alte detalii, scrie AFP.
+   După ce sâmbătă a emis o declarație în care a promis un sprijin „solid
+   și neclintit” pentru Israel, președintele american Joe Biden a ordonat
+   duminică „sprijin suplimentar” pentru Israel, conform unui anunț al
+   Casei Albe, în care nu au fost oferite alte detalii, scrie AFP.
 
-   "Presedintele a directionat un sprijin suplimentar pentru Israel �n
-   fata acestui atac terorist fara precedent al Hamas", a precizat Casa
-   Alba �ntr-un comunicat.
-   Fotogalerie | Hamas a lansat operatiunea "Potopul de la Al-Aqsa".
-   Autoritatile de la Tel Aviv: "Suntem �n stare de razboi" Fotogalerie |
-   Hamas a lansat operatiunea "Potopul de la Al-Aqsa". Autoritatile de la
-   Tel Aviv: "Suntem �n stare de razboi" Photo Gallery:
+   „Președintele a direcționat un sprijin suplimentar pentru Israel în
+   fața acestui atac terorist fără precedent al Hamas”, a precizat Casa
+   Albă într-un comunicat.
+   Fotogalerie | Hamas a lansat operaţiunea „Potopul de la Al-Aqsa”.
+   Autoritățile de la Tel Aviv: „Suntem în stare de război” Fotogalerie |
+   Hamas a lansat operaţiunea „Potopul de la Al-Aqsa”. Autoritățile de la
+   Tel Aviv: „Suntem în stare de război” Photo Gallery:
 
-Fotogalerie | Hamas a lansat operatiunea "Potopul de la Al-Aqsa".
-Autoritatile de la Tel Aviv: "Suntem �n stare de razboi"
+Fotogalerie | Hamas a lansat operaţiunea „Potopul de la Al-Aqsa”.
+Autoritățile de la Tel Aviv: „Suntem în stare de război”
 
-     * Andreea Ofiteru
+     * Andreea Ofițeru
 
-   Un ultim bilant anuntat de autoritatile israeliene arata ca peste 120
-   de raniti si 5 decese au fost �nregistrate �n urma atacurilor cu
-   rachete din F�sia Gaza, lansate de organizatia islamica Hamas.
+   Un ultim bilanț anunțat de autoritățile israeliene arată că peste 120
+   de răniți și 5 decese au fost înregistrate în urma atacurilor cu
+   rachete din Fâșia Gaza, lansate de organizația islamică Hamas.
 
      * Trimite pe Facebook
      * Trimite pe WhatsApp
      * Trimite pe WhatsApp
      * Trimite pe Twitter
      * ____________________ (text)
-     * Email catre un prieten
+     * Email către un prieten
      *
 
-   Anuntul a fost facut dupa ce un oficial de rang �nalt al administratiei
-   americane a declarat s�mbata ca discutiile la nivel �nalt �ntre
-   oficialii celor doua tari privind ajutorul militar sunt deja �n curs de
-   desfasurare.
+   Anunțul a fost făcut după ce un oficial de rang înalt al administrației
+   americane a declarat sâmbătă că discuțiile la nivel înalt între
+   oficialii celor două țări privind ajutorul militar sunt deja în curs de
+   desfășurare.
 
-   De asemenea, presedintele Joe Biden si vicepresedinta Kamala Harris
-   sunt informati de catre oficiali din domeniul securitatii nationale cu
-   privire la situatia din Israel, iar oficialii Casei Albe vor ram�ne, de
-   asemenea, �n contact cu israelienii si cu "omologii din �ntreaga
-   regiune".
+   De asemenea, președintele Joe Biden și vicepreședinta Kamala Harris
+   sunt informați de către oficiali din domeniul securității naționale cu
+   privire la situația din Israel, iar oficialii Casei Albe vor rămâne, de
+   asemenea, în contact cu israelienii și cu „omologii din întreaga
+   regiune”.
 
-P�na la o mie de rom�ni s-au �ntors �n tara
+Până la o mie de români s-au întors în țară
 
-   Peste 800 de cetateni rom�ni au fost repatriati din Israel, a declarat
-   ministrul Afacerilor Externe, Luminita Odobescu, luni pentru Digi24.
+   Peste 800 de cetățeni români au fost repatriați din Israel, a declarat
+   ministrul Afacerilor Externe, Luminița Odobescu, luni pentru Digi24.
 
-   Aproximativ 800 de rom�ni mai sunt �nca �n Israel, iar alti 350 de
-   rom�ni se afla �n F�sia Gaza, dintre care circa 100 au solicitat
+   Aproximativ 800 de români mai sunt încă în Israel, iar alți 350 de
+   români se află în Fâșia Gaza, dintre care circa 100 au solicitat
    evacuarea.
 
-   Ministrul a precizat ca repatrierile au fost facute prin intermediul a
-   noua curse aeriene operate de compania TAROM si de companii private.
+   Ministrul a precizat că repatrierile au fost făcute prin intermediul a
+   nouă curse aeriene operate de compania TAROM și de companii private.
 
-   Ministerul Afacerilor Externe a precizat anterior ca a "continuat
-   demersurile pentru identificarea si a altor posibilitati de repatriere
-   a cetatenilor rom�ni si a grupurilor de pelerinilor rom�ni din zona".
+   Ministerul Afacerilor Externe a precizat anterior că a „continuat
+   demersurile pentru identificarea şi a altor posibilităţi de repatriere
+   a cetăţenilor români şi a grupurilor de pelerinilor români din zonă”.
 
-   De asemenea, MAE a mai transmis ca rom�nii care intentioneaza sa
-   calatoreasca �n Israel sa �si reprogrameze calatoria si sa urmareasca
-   rubrica Alerte de calatorie.
+   De asemenea, MAE a mai transmis că românii care intenţionează să
+   călătorească în Israel să îşi reprogrameze călătoria şi să urmărească
+   rubrica Alerte de călătorie.
 
-   Ministerul mai spune ca pe Aeroportul Ben Gurion din Tel Aviv se afla o
-   echipa consulara mobila a Ambasadei Rom�niei si a Oficiului de
-   Reprezentare al Rom�niei la Ramallah cu scopul de a acorda asistenta
-   consulara cetatenilor rom�ni aflati pe aeroport.
+   Ministerul mai spune că pe Aeroportul Ben Gurion din Tel Aviv se află o
+   echipă consulară mobilă a Ambasadei României şi a Oficiului de
+   Reprezentare al României la Ramallah cu scopul de a acorda asistenţă
+   consulară cetăţenilor români aflaţi pe aeroport.
 
-UE �ngheata ajutorul pentru dezvoltare acordat palestinienilor
+UE îngheață ajutorul pentru dezvoltare acordat palestinienilor
 
-   Comisia Europeana a anuntat luni ca �si va revizui �ntregul ajutor
-   pentru dezvoltare pentru palestinieni, �n valoare de 691 de milioane de
-   euro (729 de milioane de dolari), si ca suspenda imediat toate platile
-   dupa atacul Hamas asupra Israelului.
+   Comisia Europeană a anunțat luni că își va revizui întregul ajutor
+   pentru dezvoltare pentru palestinieni, în valoare de 691 de milioane de
+   euro (729 de milioane de dolari), și că suspendă imediat toate plățile
+   după atacul Hamas asupra Israelului.
 
-   Germania si Austria au declarat luni ca suspenda ajutorul bilateral
-   pentru dezvoltare pentru palestinieni, �n timp ce altii, precum Italia,
-   au spus ca suspendarea ajutorului nu intra �n discutie.
+   Germania și Austria au declarat luni că suspendă ajutorul bilateral
+   pentru dezvoltare pentru palestinieni, în timp ce alții, precum Italia,
+   au spus că suspendarea ajutorului nu intră în discuție.
 
    Europa este una dintre principalele surse de ajutor pentru teritoriile
-   palestiniene ocupate de Israel, unde Natiunile Unite estimeaza ca
-   aproximativ 2,1 milioane de oameni au nevoie de asistenta umanitara,
-   printre care 1 milion de copii. Nu este clar daca suspendarile
-   ajutorului pentru dezvoltare se vor aplica si unei astfel de asistente,
+   palestiniene ocupate de Israel, unde Națiunile Unite estimează că
+   aproximativ 2,1 milioane de oameni au nevoie de asistență umanitară,
+   printre care 1 milion de copii. Nu este clar dacă suspendările
+   ajutorului pentru dezvoltare se vor aplica și unei astfel de asistențe,
    scrie Reuters.
 
-   Comisia UE nu a raspuns imediat unei solicitari a agentiei de a
+   Comisia UE nu a răspuns imediat unei solicitări a agenției de a
    clarifica acest lucru.
 
-   "Amploarea terorii si a brutalitatii �mpotriva Israelului si a
-   poporului sau este un punct de cotitura", a declarat Oliver Varhelyi,
-   comisarul european pentru vecinatate si extindere, �ntr-o postare pe
-   retelele de socializare. "Nu pot fi afaceri ca de obicei".
+   „Amploarea terorii și a brutalității împotriva Israelului și a
+   poporului său este un punct de cotitură”, a declarat Oliver Varhelyi,
+   comisarul european pentru vecinătate și extindere, într-o postare pe
+   rețelele de socializare. „Nu pot fi afaceri ca de obicei”.
 
-   Luni seara, o sursa guvernamentala a declarat ca Spania nu este de
+   Luni seara, o sursă guvernamentală a declarat că Spania nu este de
    acord cu suspendarea ajutorului Comisiei Europene pentru palestinieni
-   si ca aceasta a fost facuta fara consultarea ministrilor de externe ai
-   statelor membre. Ministerul de Externe al Spaniei a cerut o discutie
-   urgenta �n cadrul unei reuniuni speciale a UE de marti, a adaugat
+   și că aceasta a fost făcută fără consultarea miniștrilor de externe ai
+   statelor membre. Ministerul de Externe al Spaniei a cerut o discuție
+   urgentă în cadrul unei reuniuni speciale a UE de marți, a adăugat
    sursa.
-   Sute de rom�ni s-au �ntors deja �n Rom�nia, iar alte c�teva sute �nca
-   se mai afla �n Israel, spun autoritatile de la Bucuresti. Sute de
-   rom�ni s-au �ntors deja �n Rom�nia, iar alte c�teva sute �nca se mai
-   afla �n Israel, spun autoritatile de la Bucuresti.
-   ### Vezi si... ###
+   Sute de români s-au întors deja în România, iar alte câteva sute încă
+   se mai află în Israel, spun autoritățile de la București. Sute de
+   români s-au întors deja în România, iar alte câteva sute încă se mai
+   află în Israel, spun autoritățile de la București.
+   ### Vezi și... ###
 
-Un rom�n cu dubla cetatenie a murit �n Israel. Circa 800 de rom�ni sunt
-blocati �n Israel, alti 350 �n F�sia Gaza
+Un român cu dublă cetățenie a murit în Israel. Circa 800 de români sunt
+blocați în Israel, alți 350 în Fâșia Gaza
 
      * 16x9 Image 16x9 Image
 
-George Costita
-       A intrat ca Senior Correspondent �n echipa Europei Libere �n
-       ianuarie 2022, dupa zece ani �n care a scris despre cele mai
-       importante evenimente interne si externe ale zilei �n doua redactii
-       de televiziune din Bucuresti si a colaborat cu o platforma de
-       investigatii. Este absolvent al Facultatii de Jurnalism din Iasi si
-       a c�stigat experienta �nca din anii studentiei, colabor�nd cu
+George Costiță
+       A intrat ca Senior Correspondent în echipa Europei Libere în
+       ianuarie 2022, după zece ani în care a scris despre cele mai
+       importante evenimente interne și externe ale zilei în două redacții
+       de televiziune din București și a colaborat cu o platformă de
+       investigații. Este absolvent al Facultății de Jurnalism din Iași și
+       a câștigat experiență încă din anii studenției, colaborând cu
        revistele locale.
-       Aboneaza-te
+       Abonează-te
      * 16x9 Image 16x9 Image
 
 Dora Vulcan
-       Dora Vulcan este Senior Correspondent si s-a alaturat echipei
-       Europa Libera �n ianuarie 2020. A intrat �n presa �n 1992 ca
-       reporter de politica interna la Rom�nia libera. A
-       devenit apoi jurnalist de investigatii specializat �n
-       Justitie, preocupat de ingerinta politicului �n anchetele penale.
-       �n paralel, Dora a fost si stringer BBC. A scris la Revista "22"
+       Dora Vulcan este Senior Correspondent și s-a alăturat echipei
+       Europa Liberă în ianuarie 2020. A intrat în presă în 1992 ca
+       reporter de politică internă la România liberă. A
+       devenit apoi jurnalist de investigații specializat în
+       Justiție, preocupat de ingerința politicului în anchetele penale.
+       În paralel, Dora a fost și stringer BBC. A scris la Revista „22”
        despre plagiatele din mediul universitar, a acoperit domeniul
-       politic la Reporter Global (partener The Economist �n Rom�nia) si a
-       fost editor coordonator la departamentul Social al agentiei
-       Mediafax. A fost consultant pentru filmul "De ce eu?", despre
-       moartea suspecta a procurorului Cristian Panait, o tragedie cu
-       implicatii politice care a marcat anii 2000.
-       Aboneaza-te
+       politic la Reporter Global (partener The Economist în România) și a
+       fost editor coordonator la departamentul Social al agenției
+       Mediafax. A fost consultant pentru filmul „De ce eu?”, despre
+       moartea suspectă a procurorului Cristian Panait, o tragedie cu
+       implicații politice care a marcat anii 2000.
+       Abonează-te
 
    Sus
 
-     * Urmareste-ne
+     * Urmărește-ne
           +
           +
           +
           +
-     * Informatii despre site
-          + Contactati-ne
+     * Informații despre site
+          + Contactați-ne
           + Despre noi
           + Politica RFE/RL
           + Reguli forum
 
-   Radio Free Europe/Radio Liberty � 2023 RFE/RL, Inc. Toate drepturile
+   Radio Free Europe/Radio Liberty © 2023 RFE/RL, Inc. Toate drepturile
    rezervate
 
    XS

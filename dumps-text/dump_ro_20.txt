@@ -2,146 +2,146 @@
    Hotnews.ro Sport Hotnews.ro Revista Presei Hotnews.ro Science
    Hotnews.ro English Hotnews.ro Espanol Hotnews.ro Politic
 
-   updated_icon Actualizat acum un minut EUR 4.9706 USD 4.5402
+   updated_icon Actualizat acum un minut EUR 4.9703 USD 4.5559
 
    hotnews_logo
-   ____________________ (BUTTON) CAUTA search_icon
+   ____________________ (BUTTON) CAUTĂ search_icon
    search_icon user_icon menu_icon close_icon
 
    plus ACTUALITATE
-   Razboi �n Ucraina International Politic Educatie Minte&Corp Sanatate
-   Copii&Parinti Mediu Opinii Europa �mpreuna Infrastructura Administratie
+   Război în Ucraina International Politic Educatie Minte&Corp Sănătate
+   Copii&Părinți Mediu Opinii Europa împreună Infrastructura Administratie
    Vezi toate categoriile forward_icon
    plus ECONOMIE
-   Banci Finante Energie Auto IT Telecom
+   Bănci Finanțe Energie Auto IT Telecom
    Vezi toate categoriile back_icon
    plus SPORT
    [superliga.svg] SuperLiga Fotbal Tenis Pariuri
    Vezi toate categoriile back_icon
    plus LIFE
-   Muzica Showbiz Fun
+   Muzică Showbiz Fun
    Vezi toate categoriile back_icon
    plus SCIENCE
-   Spatiul
+   Spațiul
    Vezi toate categoriile back_icon
    plus REVISTA PRESEI
    Subiectele zilei Radio - TV
    Vezi toate categoriile back_icon
    plus DOSARE JURIDICE
-   Deloitte si Reff & Asociatii Stoica & Asociatii act Botezatu Estrade
-   Partners Filip & Company Schoenherr & Asociatii
+   Deloitte si Reff & Asociații Stoica & Asociații act Botezatu Estrade
+   Partners Filip & Company Schoenherr & Asociații
    plus PROIECTE
-   Ucraina si noi Banking si mai si Dictionar financiar Fashion Tips
-   Innova Lab Pagini de [cod] #BigData in business Facem Rom�nia Bine
-   Blogul PwC Rom�nia EY - Fiscalitatea la zi Portile ni se deschid
-   Alternative fara fum Statia de energie E.ON Drink Insider GoDigital
+   Ucraina și noi Banking și mai și Dictionar financiar Fashion Tips
+   Innova Lab Pagini de [cod] #BigData in business Facem România Bine
+   Blogul PwC România EY - Fiscalitatea la zi Porțile ni se deschid
+   Alternative fără fum Stația de energie E.ON Drink Insider GoDigital
    info_icon English
-   info_icon Espa�ol
+   info_icon Español
    info_icon Despre noi
    info_icon GDPR
    ACTUALITATE
-   back_icon �NAPOI
-   Administratie Ajutor pentru Ucraina Coronavirus Cultura Defense
-   Educatie Esential Film Infrastructura International Magazin Mediu
-   Minte&Corp Opinii Perspektiva Politic Razboi �n Ucraina Sanatate
+   back_icon ÎNAPOI
+   Administrație Ajutor pentru Ucraina Coronavirus Cultură Defense
+   Educație Esențial Film Infrastructură Internațional Magazin Mediu
+   Minte&Corp Opinii Perspektiva Politic Război în Ucraina Sănătate
    ECONOMIE
-   back_icon �NAPOI
-   Agricultura Asigurari si pensii private Auto Bani europeni Banci Blogul
-   PwC Rom�nia Burse Cariere Companii Energie EuROfonduri Finante EY -
-   Fiscalitatea la zi Gadget Imobiliar Industrie Feroviara IT Media si
+   back_icon ÎNAPOI
+   Agricultură Asigurări și pensii private Auto Bani europeni Bănci Blogul
+   PwC România Burse Cariere Companii Energie EuROfonduri Finanțe EY -
+   Fiscalitatea la zi Gadget Imobiliar Industrie Feroviară IT Media și
    Publicitate Startup Cafe Telecom
    SPORT
-   back_icon �NAPOI
+   back_icon ÎNAPOI
    Alte sporturi Extrem Fotbal Motor Pariuri Teamball Tenis Snooker
    SuperLiga
    LIFE
-   back_icon �NAPOI
-   Calatorii Fun Muzica Natural Portrete din multime Povestiri Urbane Prin
-   oras Showbiz
+   back_icon ÎNAPOI
+   Călătorii Fun Muzică Natural Portrete din mulțime Povestiri Urbane Prin
+   oraș Showbiz
    SCIENCE
-   back_icon �NAPOI
-   Arheologie Antropologie Idei Interviuri HotScience Povestile Stiintei
-   Spatiul Stiinte fundamentale Stiintele vietii Tehnologie Terra
+   back_icon ÎNAPOI
+   Arheologie Antropologie Idei Interviuri HotScience Poveștile Științei
+   Spațiul Științe fundamentale Științele vieții Tehnologie Terra
    REVISTA PRESEI
-   back_icon �NAPOI
+   back_icon ÎNAPOI
    Business Faze tari Politic Opinii/analize Radio - TV Subiectele zilei
    Utile Vedete
    DOSARE JURIDICE
-   back_icon �NAPOI
+   back_icon ÎNAPOI
    Opinia specialistilor
-   act Botezatu Estrade Partners Deloitte si Reff & Asociatii Filip &
-   Company Oglinda & Asociatii ONV LAW PeliPartners Pop Briciu Crai
-   Attorneys Schoenherr & Asociatii Stoica & Asociatii Tuca Zb�rcea &
-   Asociatii
+   act Botezatu Estrade Partners Deloitte si Reff & Asociații Filip &
+   Company Oglinda & Asociații ONV LAW PeliPartners Pop Briciu Crai
+   Attorneys Schoenherr & Asociații Stoica & Asociații Țucă Zbârcea &
+   Asociații
    CONTUL MEU
    user icon Login
    user icon Cont nou
-   Folosind contul tau de pe HotNews.ro ai posibilitatea sa:
-     * participi la discutii, coment�nd sau raspunz�nd la comentarii
+   Folosind contul tău de pe HotNews.ro ai posibilitatea să:
+     * participi la discuții, comentând sau raspunzând la comentarii
      * moderezi comentariile altor utilizatori prin vot
-     * primesti �n fiecare dimineata un News Letter cu cele mai importante
-       stiri din ziua precedenta
+     * primești în fiecare dimineață un News Letter cu cele mai importante
+       știri din ziua precedentă
      * fii informat in timp real prin intermediul serviciului Breaking
        News
-     * primesti alerte personalizate de tine - News Alert
+     * primești alerte personalizate de tine - News Alert
 
-   Folosind functionalitatea de login, sunteti de acord cu termenii si
-   conditiile HotNews.ro
+   Folosind funcționalitatea de login, sunteti de acord cu termenii și
+   condițiile HotNews.ro
 
-   ____________________ (BUTTON) CAUTA search_icon
+   ____________________ (BUTTON) CAUTĂ search_icon
 
    HOME ECONOMIE SPORT LIFE SCIENCE REVISTA PRESEI DOSARE JURIDICE ULTIMA
    ORA
 
-   Razboi �n Ucraina International Politic Educatie Sanatate Minte&Corp
-   Opinii Copii&Parinti Administratie
+   Război în Ucraina International Politic Educație Sănătate Minte&Corp
+   Opinii Copii&Părinți Administrație
 
-   Ultima stire - 01:30 Marti, 17 Octombrie 2023, 06:20
+   Ultima știre - 01:30 Marți, 17 Octombrie 2023, 06:20
 
-LIVE Razboi �n Israel: Cel putin 300 de morti dupa lovirea unui spital din
-Gaza / Israelul spune ca Hamas a lovit spitalul / Iordania si Abbas anuleaza
-summitul cu Biden /Hezbollah ameninta ca miercuri va fi "o zi de furie fara
-precedent" �mpotriva Israelului
+LIVE ​Război în Israel: Cel puțin 300 de morți după lovirea unui spital din
+Gaza / Israelul spune că Hamas a lovit spitalul / Iordania și Abbas anulează
+summitul cu Biden /Hezbollah amenință că miercuri va fi „o zi de furie fără
+precedent” împotriva Israelului
 
    HotNews.ro
    [ic_comments_blue.svg] 35
 
-   Presedintele american Joe Biden va efectua miercuri o vizita cu miza
-   mare �n Israel, tara care se pregateste sa intensifice ofensiva
-   �mpotriva Hamas, care a declansat o criza umanitara �n Gaza si a
-   provocat temeri privind un conflict mai amplu cu Iranul, mai ales �n
-   conditiile �n care Teheranul ameninta cu actiuni preventive".
+   Președintele american Joe Biden va efectua miercuri o vizită cu miză
+   mare în Israel, țară care se pregătește să intensifice ofensiva
+   împotriva Hamas, care a declanșat o criză umanitară în Gaza și a
+   provocat temeri privind un conflict mai amplu cu Iranul, mai ales în
+   condițiile în care Teheranul amenință cu acțiuni preventive".
    [image-2023-10-17-26614819-41-raniti-dupa-atacul-spitalul-din-gaza.jpg]
-   Raniti dupa atacul la spitalul din Gaza Foto: Abed Khaled / AP /
+   Răniți după atacul la spitalul din Gaza Foto: Abed Khaled / AP /
    Profimedia
 
-   Joe Biden este miercuri �n Orientul Mijlociu unde se �nt�lni cu
-   premierul israelian, Benjamin Netanyahu. Apoi, Biden se va �nt�lni la
-   Amman, cu regele Iordaniei Abdullah, presedintele egiptean, Abdel Fat
-   ah al-Sisi, si presedintele palestinian, Mahmoud Abbas.
+   Joe Biden este miercuri în Orientul Mijlociu unde se întâlni cu
+   premierul israelian, Benjamin Netanyahu. Apoi, Biden se va întâlni la
+   Amman, cu regele Iordaniei Abdullah, președintele egiptean, Abdel Fat
+   ah al-Sisi, și președintele palestinian, Mahmoud Abbas.
 
-Razboiul Israel-Hamas - ziua a 11-a, toate informatiile LIVE pe Hotnews.ro:
+Războiul Israel-Hamas - ziua a 11-a, toate informațiile LIVE pe Hotnews.ro:
 
-   01:30UE poate fi solidara cu Israelul si, �n acelasi timp, poate
-   contribui la satisfacerea nevoilor palestinienilor, afirma presedinta
+   01:30UE poate fi solidară cu Israelul și, în același timp, poate
+   contribui la satisfacerea nevoilor palestinienilor, afirmă președinta
    Comisiei Europene
 
-   Ursula von der Leyen a declarat ca Comisia este �n contact cu
-   autoritatile din Egipt pentru a �ncerca sa permita livrarea de ajutor
-   umanitar �n Gaza.
+   Ursula von der Leyen a declarat că Comisia este în contact cu
+   autoritățile din Egipt pentru a încerca să permită livrarea de ajutor
+   umanitar în Gaza.
 
-   De asemenea, Comisia "stabileste un pod aerian catre Egipt, �n
-   apropiere de Gaza, pentru a fi �n masura sa livreze rapid ajutoare
-   peste granita".
+   De asemenea, Comisia "stabilește un pod aerian către Egipt, în
+   apropiere de Gaza, pentru a fi în măsură să livreze rapid ajutoare
+   peste graniță".
 
-   01:08 Presedintele israelian Isaac Herzog a denuntat explozia mortala
-   de la Spitalul Baptist Al-Ahli din orasul Gaza, despre care a spus ca a
-   fost provocata de o racheta a Jihadului Islamic si a criticat modul �n
+   01:08 Președintele israelian Isaac Herzog a denunțat explozia mortală
+   de la Spitalul Baptist Al-Ahli din orașul Gaza, despre care a spus că a
+   fost provocată de o rachetă a Jihadului Islamic și a criticat modul în
    care mass-media a relatat tragedia.
 
-   "O racheta a Jihadului Islamic a ucis mai multi palestinieni �ntr-un
-   spital din Gaza, un loc unde ar trebui sa fie salvate vieti", a
-   declarat Herzog pe retelele de socializare.
+   „O rachetă a Jihadului Islamic a ucis mai mulți palestinieni într-un
+   spital din Gaza, un loc unde ar trebui să fie salvate vieți”, a
+   declarat Herzog pe rețelele de socializare.
 
      GeoConfirmed ISR-PAL.
      A missile launched by Palestinian Groups exploded mid-air and one of
@@ -149,86 +149,86 @@ Razboiul Israel-Hamas - ziua a 11-a, toate informatiile LIVE pe Hotnews.ro:
      31.504822, 34.46169
      Before reacting READ our thread.https://t.co/qbpUGQk89o
      1/X
-     -- GeoConfirmed (@GeoConfirmed) October 17, 2023
+     — GeoConfirmed (@GeoConfirmed) October 17, 2023
 
-   00:56Iordania anuleaza summitul cu Biden
+   00:56Iordania anulează summitul cu Biden
 
-   Iordania a anulat summitul pe care urma sa �l organizeze m�ine la Amman
-   cu Joe Biden si cu liderii egiptean si palestinian, potrivit Sky News.
+   Iordania a anulat summitul pe care urma să îl organizeze mâine la Amman
+   cu Joe Biden și cu liderii egiptean și palestinian, potrivit Sky News.
 
-   Presedintele Biden urma sa soseasca m�ine la Tel Aviv pentru a se
-   �nt�lni cu premierul israelian Benjamin Netanyahu, iar apoi urma sa
-   mearga la summitul din regatul vecin.
+   Președintele Biden urma să sosească mâine la Tel Aviv pentru a se
+   întâlni cu premierul israelian Benjamin Netanyahu, iar apoi urma să
+   meargă la summitul din regatul vecin.
 
-   00:46Ministerul Sanatatii condus de Hamas sustine ca un protestatar
-   palestinian a fost �mpuscat mortal de fortele israeliene �n timpul
-   confruntarilor din satul Nabi Saleh, �n apropiere de orasul Ramallah
+   00:46Ministerul Sănătății condus de Hamas susține că un protestatar
+   palestinian a fost împușcat mortal de forțele israeliene în timpul
+   confruntărilor din satul Nabi Saleh, în apropiere de orașul Ramallah
    din Cisiordania.
 
-   Protestele au izbucnit anterior �n oras dupa ce sute de persoane ar fi
-   fost ucise �ntr-un atac asupra spitalului al Alhi din Gaza.
+   Protestele au izbucnit anterior în oraș după ce sute de persoane ar fi
+   fost ucise într-un atac asupra spitalului al Alhi din Gaza.
 
-Hezbollah ameninta ca miercuri va fi "o zi de furie fara precedent" �mpotriva
+Hezbollah amenință că miercuri va fi „o zi de furie fără precedent” împotriva
 Israelului
 
    00:30Consilierul principal al lui Benjamin Netanyahu a repetat
-   afirmatia armatei israeliene potrivit careia o racheta lansata de
-   Jihadul Islamic palestinian este cel mai probabil de vina pentru atacul
+   afirmația armatei israeliene potrivit căreia o rachetă lansată de
+   Jihadul Islamic palestinian este cel mai probabil de vină pentru atacul
    asupra spitalului din Gaza.
 
-   "Statisticile sunt clare. �n rundele anterioare de lupte, aproximativ
-   33% din rachetele Jihadului Islamic lansate asupra Israelului au cazut
-   �n gol si au aterizat �n Gaza", a declarat Mark Regev pentru Sky News.
+   „Statisticile sunt clare. În rundele anterioare de lupte, aproximativ
+   33% din rachetele Jihadului Islamic lansate asupra Israelului au căzut
+   în gol și au aterizat în Gaza”, a declarat Mark Regev pentru Sky News.
 
    [image-2023-10-17-26614843-0-sute-victime-dupa-atac-asupra-unui-spital-
    din-gaza.jpg]
 
    Foto: AA/ABACA / Abaca Press / Profimedia
 
-   00:01Hezbollah afirma ca miercuri va fi "o zi de furie fara precedent"
-   �mpotriva Israelului
+   00:01Hezbollah afirmă că miercuri va fi "o zi de furie fără precedent"
+   împotriva Israelului
 
-   Organizatia Hezbollah, sustinuta de Iran, a anuntat ca m�ine va fi "o
-   zi de furie fara precedent" �mpotriva Israelului si a vizitei lui Joe
-   Biden �n aceasta tara.
+   Organizația Hezbollah, susținută de Iran, a anunțat că mâine va fi "o
+   zi de furie fără precedent" împotriva Israelului și a vizitei lui Joe
+   Biden în această țară.
 
-   Gruparea militanta libaneza este un aliat al Hamas si a laudat atacul
-   fara precedent din sudul Israelului din 7 octombrie.
+   Gruparea militantă libaneză este un aliat al Hamas și a lăudat atacul
+   fără precedent din sudul Israelului din 7 octombrie.
 
-   Israelul si Hezbollah au schimbat focuri de arma peste granita �n mod
-   repetat �n ultimele zile.
+   Israelul și Hezbollah au schimbat focuri de armă peste graniță în mod
+   repetat în ultimele zile.
 
-   23:41 Reactii �n lumea musulmana dupa lovirea unui spital �n Gaza / �n
-   Iordania, manifestanti au �ncercat sa patrunda �n ambasada israeliana
+   23:41 Reacții în lumea musulmană după lovirea unui spital în Gaza / În
+   Iordania, manifestanți au încercat să pătrundă în ambasada israeliană
 
-   Zeci de manifestanti au �ncercat sa patrunda marti seara �n incinta
-   ambasadei israeliene din Amman pentru a-si exprima furia fata de
-   lovirea unui spital din Gaza cu rachete rezult�nd peste 300 de morti, a
+   Zeci de manifestanți au încercat să pătrundă marți seara în incinta
+   ambasadei israeliene din Amman pentru a-și exprima furia față de
+   lovirea unui spital din Gaza cu rachete rezultând peste 300 de morți, a
    relatat un jurnalist AFP.
 
-   Demonstrantii au ocolit gardul de securitate si au avansat spre incinta
-   ambasadei. Fortele de securitate au tras cu gaze lacrimogene pentru a-i
+   Demonstranții au ocolit gardul de securitate și au avansat spre incinta
+   ambasadei. Forțele de securitate au tras cu gaze lacrimogene pentru a-i
    dispersa.
 
 Cine este Jihadul Islamic Palestinian?
 
-   23:27Rusia si Emiratele Arabe Unite au cerut marti o reuniune de
-   urgenta a Consiliului de Securitate al ONU miercuri, �n urma atacului
-   asupra unui spital din Gaza, soldat cu cel putin 300 de morti, potrivit
-   autoritatilor locale.
+   23:27Rusia și Emiratele Arabe Unite au cerut marți o reuniune de
+   urgență a Consiliului de Securitate al ONU miercuri, în urma atacului
+   asupra unui spital din Gaza, soldat cu cel puțin 300 de morți, potrivit
+   autorităților locale.
 
-   "Rusia si Emiratele Arabe Unite au solicitat o reuniune publica de
-   urgenta a Consiliului de Securitate al ONU �n dimineata zilei de 18
+   "Rusia și Emiratele Arabe Unite au solicitat o reuniune publică de
+   urgență a Consiliului de Securitate al ONU în dimineața zilei de 18
    octombrie din cauza loviturii asupra unui spital din Gaza", a declarat
    pe Telegram Dmitri Polianskii, ambasadorul adjunct al Rusiei la ONU.
 
    23:06Cine este Jihadul Islamic Palestinian?
 
-   Israelul afirma ca serviciile sale de informatii arata ca Jihadul
+   Israelul afirmă că serviciile sale de informații arată că Jihadul
    Islamic Palestinian este responsabil pentru atacul de la spital.
 
-   Este vorba de un grup militant mai mic din F�sia Gaza. Desi acesta este
-   un razboi �ntre Israel si Hamas, Jihadul Islamic Palestinian a fost
+   Este vorba de un grup militant mai mic din Fâșia Gaza. Deși acesta este
+   un război între Israel și Hamas, Jihadul Islamic Palestinian a fost
    implicat, potrivit Sky News.
 
      Breaking: IDF Spokesperson
@@ -236,24 +236,23 @@ Cine este Jihadul Islamic Palestinian?
      rocket barrage was carried out towards Israel, which passed through
      the vicinity of the hospital when it was hit.
      According to intelligence information, from several sources we
-     have,... pic.twitter.com/hdQra9QZAm
-     -- Israel J+ShR+#L+ \uD83C\uDDEE\uD83C\uDDF1 (@Israel) October 17,
-     2023
+     have,… pic.twitter.com/hdQra9QZAm
+     — Israel ישראל \uD83C\uDDEE\uD83C\uDDF1 (@Israel) October 17, 2023
 
-   22:51Fortele de Aparare ale Israelului afirma ca, pe baza "serviciilor
-   de informatii, o racheta esuata a Jihadului Islamic Palestinian (PIJ) a
-   provocat explozia mortala de la spitalul din Gaza", potrivit Times of
-   Israel si Haaretz.
+   22:51Forțele de Apărare ale Israelului afirmă că, pe baza „serviciilor
+   de informații, o rachetă eșuată a Jihadului Islamic Palestinian (PIJ) a
+   provocat explozia mortală de la spitalul din Gaza", potrivit Times of
+   Israel și Haaretz.
 
      From the analysis of the @IDF operational systems, an enemy rocket
      barrage was carried out towards #Israel, which passed in the
      vicinity of the hospital, when it was hit.
      According to intelligence information, from several sources we have,
-     the Palestinian Islamic Jihad is... https://t.co/5I42S34bNr
-     -- Lt. Col. (R) Peter Lerner (@LTCPeterLerner) October 17, 2023
+     the Palestinian Islamic Jihad is… https://t.co/5I42S34bNr
+     — Lt. Col. (R) Peter Lerner (@LTCPeterLerner) October 17, 2023
 
-   22:45Armata israeliana sustine ca mai multe rachete lansate din Gaza
-   spre Israel au trecut pe l�nga spitalul din Gaza c�nd a fost lovit,
+   22:45Armata israeliană susține că mai multe rachete lansate din Gaza
+   spre Israel au trecut pe lângă spitalul din Gaza când a fost lovit,
    potrivit Reuters.
 
    [image-2023-10-17-26614851-0-sute-victime-dupa-atac-asupra-unui-spital-
@@ -261,41 +260,41 @@ Cine este Jihadul Islamic Palestinian?
 
    Foto: AA/ABACA / Abaca Press / Profimedia
 
-   22:38Ciocniri violente au izbucnit marti seara �ntre manifestanti care
-   cereau plecarea presedintelui palestinian Mahmoud Abbas si fortele de
-   securitate ale acestuia la Ramallah, �n Cisiordania ocupata, �n timp ce
-   razboiul face ravagii �ntre Israel si Hamas �n Gaza, au constatat
-   jurnalistii AFP.
+   22:38Ciocniri violente au izbucnit marți seară între manifestanți care
+   cereau plecarea președintelui palestinian Mahmoud Abbas și forțele de
+   securitate ale acestuia la Ramallah, în Cisiordania ocupată, în timp ce
+   războiul face ravagii între Israel și Hamas în Gaza, au constatat
+   jurnaliștii AFP.
 
-   Fortele de securitate ale Autoritatii Palestiniene au tras cu grenade
-   lacrimogene asupra demonstratilor, protestele �ncep�nd la scurt timp
-   dupa ce un atac israelian a ucis cel putin 300 de persoane �ntr-un
-   complex spital din Gaza, potrivit Ministerului Sanatatii din Gaza,
+   Forțele de securitate ale Autorității Palestiniene au tras cu grenade
+   lacrimogene asupra demonstraților, protestele începând la scurt timp
+   după ce un atac israelian a ucis cel puțin 300 de persoane într-un
+   complex spital din Gaza, potrivit Ministerului Sănătății din Gaza,
    teritoriu palestinian controlat de Hamas.
 
-Presedintele palestinian �si anuleaza �nt�lnirea cu Joe Biden
+Președintele palestinian își anulează întâlnirea cu Joe Biden
 
-   22:25Sute de palestinieni au manifestat marti seara la Ramallah, �n
-   Cisiordania ocupata, cer�nd demisia presedintelui Mahmoud Abbas,
-   �ntr-un moment �n care razboiul face ravagii �ntre Israel si Hamas, a
+   22:25Sute de palestinieni au manifestat marți seară la Ramallah, în
+   Cisiordania ocupată, cerând demisia președintelui Mahmoud Abbas,
+   într-un moment în care războiul face ravagii între Israel și Hamas, a
    constatat un jurnalist AFP.
 
-   Manifestantii, care s-au adunat la scurt timp dupa un atac israelian
-   care a ucis cel putin 200 de persoane �n interiorul unui spital din
-   Gaza, au scandat "Iesi afara" si "Poporul vrea ca presedintele sa
-   cada", potrivit Hamas, partidul aflat la putere �n teritoriul
+   Manifestanții, care s-au adunat la scurt timp după un atac israelian
+   care a ucis cel puțin 200 de persoane în interiorul unui spital din
+   Gaza, au scandat "Ieși afară" și "Poporul vrea ca președintele să
+   cadă", potrivit Hamas, partidul aflat la putere în teritoriul
    palestinian.
 
      Huge protests in Ramallah in the West Bank. Protesters are calling
      for the overthrow of Mahmoud Abbas pic.twitter.com/mGejRNJHpb
-     -- Sprinter (@Sprinter99800) October 17, 2023
+     — Sprinter (@Sprinter99800) October 17, 2023
 
-   22:16Israelul le cere cetatenilor sai din Turcia sa plece de urgenta
-   exist�nd riscul unor atacuri antisemite, potrivit Haaretz.
+   22:16Israelul le cere cetățenilor săi din Turcia să plece de urgență
+   existând riscul unor atacuri antisemite, potrivit Haaretz.
 
    22:10Premierul canadian, Justin Trudeau, a condamnat atacul israelian
-   asupra spitalului din Gaza, desi informatiile nu sunt foarte clare
-   acum. "Nu e acceptabil sa lovesti un spital", a declarat Trudeau
+   asupra spitalului din Gaza, deși informațiile nu sunt foarte clare
+   acum. „Nu e acceptabil să lovești un spital”, a declarat Trudeau
    presei.
 
    [image-2023-10-17-26614847-0-sute-victime-dupa-atac-asupra-unui-spital-
@@ -303,948 +302,945 @@ Presedintele palestinian �si anuleaza �nt�lnirea cu Joe Biden
 
    Abed Khaled / AP / Profimedia
 
-   22:03Presedintele palestinian �si anuleaza �nt�lnirea cu Joe Biden
+   22:03Președintele palestinian își anulează întâlnirea cu Joe Biden
 
-   Mahmoud Abbas si-a anulat �nt�lnirea planificata pentru m�ine cu Joe
-   Biden, potrivit unor �nalti oficiali palestinien
+   Mahmoud Abbas și-a anulat întâlnirea planificată pentru mâine cu Joe
+   Biden, potrivit unor înalți oficiali palestinien
 
-   21:47Armata israeliana ar fi spus ca spitalul a fost lovit chiar de
-   Hamas �n urma lansarii esuate a unei rachete , potrivit i24News.
+   21:47Armata israeliană ar fi spus că spitalul a fost lovit chiar de
+   Hamas în urma lansării eșuate a unei rachete , potrivit i24News.
 
-   Nu exista deocamdata alte surse care sa confirme aceasta informatie.
+   Nu există deocamdată alte surse care să confirme această informație.
 
-   Purtatorul de cuv�nt al IDF, contraamiralul Daniel Hagari, a declarat
-   ca rapoartele despre un posibil atac aerian israelian �mpotriva
-   spitalui din Gaza sunt �nca �n curs de examinare.
+   Purtătorul de cuvânt al IDF, contraamiralul Daniel Hagari, a declarat
+   că rapoartele despre un posibil atac aerian israelian împotriva
+   spitalui din Gaza sunt încă în curs de examinare.
 
-   El a precizat ca nu stie �nca daca explozia, care ar fi cauzat sute de
+   El a precizat că nu știe încă dacă explozia, care ar fi cauzat sute de
    victime, a fost un atac israelian.
 
-Hamas este dispus sa elibereze toti ostaticii civili �ntr-o ora daca
-�nceteaza bombardamentele din Gaza
+Hamas este dispus să elibereze toți ostaticii civili într-o oră dacă
+încetează bombardamentele din Gaza
 
-   21:45Armata israeliana investigheaza explozia de la un spital din Gaza,
-   care ar fi ucis p�na la 500 de persoane, transmite corespondentul Sky
+   21:45Armata israeliană investighează explozia de la un spital din Gaza,
+   care ar fi ucis până la 500 de persoane, transmite corespondentul Sky
    News pentru Orientul Mijlociu, Alistair Bunkall.
 
-   Rapoartele din ultima jumatate de ora arata ca Spitalul Baptist Arab
-   al-Ahli din orasul Gaza "a fost lovit de un atac aerian israelian",
+   Rapoartele din ultima jumătate de oră arată că Spitalul Baptist Arab
+   al-Ahli din orașul Gaza „a fost lovit de un atac aerian israelian”,
    spune el.
 
-   "Acesta este un spital administrat de crestini �n Gaza. �nteleg ca IDF
-   investigheaza situatia, spun�nd ca este posibil sa fi lovit un depozit
-   de rachete care a provocat o explozie mult mai mare sau daca a fost o
-   lovitura directa care ar fi putut fi o greseala. Orice ar fi, este un
-   incident catastrofal �n ceea ce este deja o situatie dezastruoasa",
+   „Acesta este un spital administrat de creștini în Gaza. Înțeleg că IDF
+   investighează situația, spunând că este posibil să fi lovit un depozit
+   de rachete care a provocat o explozie mult mai mare sau dacă a fost o
+   lovitură directă care ar fi putut fi o greșeală. Orice ar fi, este un
+   incident catastrofal în ceea ce este deja o situație dezastruoasă”,
    spune el.
 
-   21:39Hamas este dispus sa elibereze toti ostaticii civili �ntr-o ora
-   daca �nceteaza bombardamentele din Gaza, afirma un oficial
+   21:39Hamas este dispus să elibereze toți ostaticii civili într-o oră
+   dacă încetează bombardamentele din Gaza, afirmă un oficial
 
-   Hamas este dispusa sa elibereze toti ostaticii civili �ntr-o ora daca
-   Israelul opreste bombardamentele asupra Gaza, a declarat un oficial de
-   rang �nalt al Hamas pentru NBC News.
+   Hamas este dispusă să elibereze toți ostaticii civili într-o oră dacă
+   Israelul oprește bombardamentele asupra Gaza, a declarat un oficial de
+   rang înalt al Hamas pentru NBC News.
 
-   21:33Presedintele palestinian Mahmoud Abbas a decretat trei zile de
-   doliu, �n urma atacului cu victime �n masa din spitalul din Gaza
+   21:33Președintele palestinian Mahmoud Abbas a decretat trei zile de
+   doliu, în urma atacului cu victime în masă din spitalul din Gaza
 
    IFRAME: https://www.youtube.com/embed/rJoQUFaQGMQ?si=4x96Lq_1AtrM59xw
 
-   21:29Egiptul denunta "�n termenii cei mai fermi" raidul aerian asupra
+   21:29Egiptul denunță „în termenii cei mai fermi” raidul aerian asupra
    spitalului din Gaza, care a ucis sute de palestinieni.
 
-   �ntr-un comunicat difuzat marti seara, Ministerul de Externe egiptean
-   spune ca comunitatea internationala trebuie sa intervina urgent pentru
-   a stopa asemenea �ncalcari.
+   Într-un comunicat difuzat marți seara, Ministerul de Externe egiptean
+   spune că comunitatea internațională trebuie să intervină urgent pentru
+   a stopa asemenea încălcări.
 
-Gaza: Cel putin 300 de morti �ntr-un atac asupra unui complex spitalicesc
+Gaza: Cel puțin 300 de morți într-un atac asupra unui complex spitalicesc
 (ministerul Hamas)
 
-   21:16Un oficial al ministerul Sanatatii din Palestina avanseaza cifra
-   de 500 de mortica urmare a atacului israelian. Cifrele nu sunt
-   verificat independent p�na acum.
+   21:16Un oficial al ministerul Sănătății din Palestina avansează cifra
+   de 500 de morțica urmare a atacului israelian. Cifrele nu sunt
+   verificat independent până acum.
 
-     This is a genocide!
+     ❌This is a genocide!
      Hundreds of martyrs as a result of the occupation forces targeting
      the Al-Ma'madani Hospital in Gaza Strip, where thousands of
      displaced people are forcibly residing.#Gaza_under_attack
      pic.twitter.com/P9V8aKIWDI
-     -- PRCS (@PalestineRCS) October 17, 2023
+     — PRCS (@PalestineRCS) October 17, 2023
 
-   20:54Gaza: Cel putin 300 de morti �ntr-un atac asupra unui complex
+   20:54Gaza: Cel puțin 300 de morți într-un atac asupra unui complex
    spitalicesc (ministerul Hamas)
 
-   Cel putin 200 de persoane au fost ucise marti seara �ntr-un atac
-   israelian asupra unui complex spitalicesc din orasul Gaza, a anuntat
-   Ministerul Sanatatii din teritoriul palestinian controlat de Hamas.
+   Cel puțin 200 de persoane au fost ucise marți seara într-un atac
+   israelian asupra unui complex spitalicesc din orașul Gaza, a anunțat
+   Ministerul Sănătății din teritoriul palestinian controlat de Hamas.
 
-   20:11 Ce se asteapta de la vizita lui Biden �n Israel?
+   20:11 Ce se așteaptă de la vizita lui Biden în Israel?
 
-   Presedintele american Joe Biden se deplaseaza miercuri �n Israel pentru
-   a-si arata "solidaritatea" �n urma atacului s�ngeros al Hamas, dar si
-   pentru a negocia un ajutor umanitar pentru F�sia Gaza bombardata,
-   aflata sub asediu, si pentru a �ncerca sa �mpiedice o escaladare
-   regionala, potrivit AFP.
+   Președintele american Joe Biden se deplasează miercuri în Israel pentru
+   a-și arăta „solidaritatea” în urma atacului sângeros al Hamas, dar și
+   pentru a negocia un ajutor umanitar pentru Fâșia Gaza bombardată,
+   aflată sub asediu, și pentru a încerca să împiedice o escaladare
+   regională, potrivit AFP.
 
-   �n timp ce Israelul se pregateste de o ofensiva terestra pentru a
-   "nimici" miscarea islamista palestiniana, activitatea diplomatica se
-   intensifica. Marti, premierul israelian Benjamin Netanyahu a facut apel
-   la "lumea sa fie unita alaturi de Israel pentru a �nvinge Hamas".
+   În timp ce Israelul se pregătește de o ofensivă terestră pentru a
+   „nimici” mișcarea islamistă palestiniană, activitatea diplomatică se
+   intensifică. Marți, premierul israelian Benjamin Netanyahu a făcut apel
+   la „lumea să fie unită alături de Israel pentru a învinge Hamas”.
 
-   19:47Franta vrea sa expulzeze unsprezece rusi pentru radicalizare
-   islamista
+   19:47Franța vrea să expulzeze unsprezece ruși pentru radicalizare
+   islamistă
 
-   Franta doreste sa expulzeze unsprezece rusi aflati �n cercetare pentru
-   radicalizare islamista si considerati "activi" si "periculosi", a
-   anuntat marti Ministerul de Interne, la patru zile dupa ce un cetatean
-   rus a ucis un profesor �n nordul tarii, potrivit AFP.
+   Franța dorește să expulzeze unsprezece ruși aflați în cercetare pentru
+   radicalizare islamistă și considerați „activi” și „periculoși”, a
+   anunțat marți Ministerul de Interne, la patru zile după ce un cetățean
+   rus a ucis un profesor în nordul țării, potrivit AFP.
 
-   "Astazi, exista saizeci de rusi pe lista persoanelor radicalizate,
-   active, (...), periculoase" si carora li s-au retras permisele de
-   sedere, potrivit ministerului. Dintre acestia, patruzeci sunt "�n
-   �nchisoare" si "unsprezece ar putea fi expulzati", potrivit
-   Ministerului de Interne, care nu a precizat daca printre ei se afla si
+   „Astăzi, există șaizeci de ruși pe lista persoanelor radicalizate,
+   active, (...), periculoase” și cărora li s-au retras permisele de
+   ședere, potrivit ministerului. Dintre aceștia, patruzeci sunt „în
+   închisoare” și „unsprezece ar putea fi expulzați”, potrivit
+   Ministerului de Interne, care nu a precizat dacă printre ei se află și
    membri ai familiei atacatorului.
 
-   19:20Eric Cantona, comentarii controversate despre razboiul din Israel:
-   "Eliberati Palestina"
+   19:20Eric Cantona, comentarii controversate despre războiul din Israel:
+   „Eliberați Palestina”
 
-   Legenda lui Manchester United a aparut �mbracat �ntr-un tricoul �n
-   culorile Palestinei, �nsa a precizat ca nu sustine Hamas.
+   Legenda lui Manchester United a apărut îmbrăcat într-un tricoul în
+   culorile Palestinei, însă a precizat că nu susține Hamas.
 
-   19:06Surse iraniene au declarat Al Jazeera ca SUA au transmis
-   Teheranului avertismentul ca, daca Iranul intra direct �n conflictul
-   din Israel, acesta va fi confruntat cu o actiune directa americana,
+   19:06Surse iraniene au declarat Al Jazeera că SUA au transmis
+   Teheranului avertismentul că, dacă Iranul intră direct în conflictul
+   din Israel, acesta va fi confruntat cu o acțiune directă americană,
    potrivit Haaretz.com.
 
-   19:00O sinteza a informatiilor p�na la aceasta ora
-     * Presedintele american Joe Biden este miercuri �n Orientul Mijlociu,
-       �ntr-un tur diplomatic de forta, care va include �nt�lniri cu
-       premierul israelian, Benjamin Netanyahu, si alti oficiali la Tel
-       Aviv. Biden se va �nt�lni apoi la Amman cu regele Iordaniei
-       Abdullah, presedintele egiptean, Abdel Fat ah al-Sisi, si
-       presedintele palestinian, Mahmoud Abbas.
-     * Liderul suprem al Iranului, ayatollahul Ali Khamenei, a declarat ca
-       "genocidul" Israelului �mpotriva palestinienilor din F�sia Gaza ar
-       trebui sa �nceteze "imediat", amenint�nd ca "nimeni nu va putea
-       face fata musulmanilor".
-     * Statele Unite nu au �n acest moment indicii despre o implicare mai
-       puternica a Iranului �n razboiul dintre Israel si Hamas, a declarat
-       marti un purtator de cuv�nt al Casei Albe.
-     * Seful serviciilor de informatii ale armatei Israelului a declarat
-       ca este responsabil pentru esecul serviciilor de informatii care au
-       determinat Hamas sa efectueze atacul asupra Israelului pe 7
+   19:00O sinteză a informațiilor până la această oră
+     * Președintele american Joe Biden este miercuri în Orientul Mijlociu,
+       într-un tur diplomatic de forță, care va include întâlniri cu
+       premierul israelian, Benjamin Netanyahu, și alți oficiali la Tel
+       Aviv. Biden se va întâlni apoi la Amman cu regele Iordaniei
+       Abdullah, președintele egiptean, Abdel Fat ah al-Sisi, și
+       președintele palestinian, Mahmoud Abbas.
+     * Liderul suprem al Iranului, ayatollahul Ali Khamenei, a declarat că
+       „genocidul" Israelului împotriva palestinienilor din Fâșia Gaza ar
+       trebui să înceteze „imediat", amenințând că „nimeni nu va putea
+       face față musulmanilor”.
+     * Statele Unite nu au în acest moment indicii despre o implicare mai
+       puternică a Iranului în războiul dintre Israel şi Hamas, a declarat
+       marţi un purtător de cuvânt al Casei Albe.
+     * Șeful serviciilor de informații ale armatei Israelului a declarat
+       că este responsabil pentru eșecul serviciilor de informații care au
+       determinat Hamas să efectueze atacul asupra Israelului pe 7
        octombrie
-     * Ayman Nofal, unul dintre comandantii principali ai Brigazilor
-       Al-Qassam, aripa militara a Hamas, a fost ucis, a anuntat Hamas.
-       "El a condus multe atacuri teroriste �mpotriva Israelului si a
-       fortelor de securitate si a directionat tintele tirurilor de
-       rachete ale Hamas, viz�nd �n mod specific zonele populate de civili
-       neimplicati",, au precizat oficialii israelieni. Premierul Marcel
-       Ciolacu a fost primul sef de Guvern care a mers la Tel Aviv. El a
-       avut o �nt�lnire cu Benjamin Netanyahu si a reiterat sprijinul
-       Rom�niei pentru Israel, cer�nd, totodata, facilitarea coridoarelor
+     * Ayman Nofal, unul dintre comandanții principali ai Brigăzilor
+       Al-Qassam, aripa militară a Hamas, a fost ucis, a anunțat Hamas.
+       „El a condus multe atacuri teroriste împotriva Israelului și a
+       forțelor de securitate și a direcționat țintele tirurilor de
+       rachete ale Hamas, vizând în mod specific zonele populate de civili
+       neimplicați”,, au precizat oficialii israelieni. Premierul Marcel
+       Ciolacu a fost primul șef de Guvern care a mers la Tel Aviv. El a
+       avut o întâlnire cu Benjamin Netanyahu și a reiterat sprijinul
+       României pentru Israel, cerând, totodată, facilitarea coridoarelor
        umanitare din Gaza.
-     * Aproximativ 3.000 de oameni au fost ucisi �n atacurile israeliene
-       �n F�sia Gaza, a anuntat Ministerul palestinian al Sanatatii
+     * Aproximativ 3.000 de oameni au fost uciși în atacurile israeliene
+       în Fâșia Gaza, a anunțat Ministerul palestinian al Sănătății
 
-"�n calitate de sef al Directiei de Informatii Militare, am �ntreaga
-responsabilitate pentru esec"
+„În calitate de șef al Direcției de Informații Militare, am întreaga
+responsabilitate pentru eșec”
 
-   18:30Seful serviciilor de informatii ale armatei Israelului a declarat
-   ca este responsabil pentru esecul serviciilor de informatii care au
-   determinat Hamas sa efectueze atacul asupra Israelului pe 7 octombrie.
-   �ntr-o scrisoare catre trupe, generalul-major Aharon Haliva a scris:
+   18:30Șeful serviciilor de informații ale armatei Israelului a declarat
+   că este responsabil pentru eșecul serviciilor de informații care au
+   determinat Hamas să efectueze atacul asupra Israelului pe 7 octombrie.
+   Într-o scrisoare către trupe, generalul-major Aharon Haliva a scris:
 
-   "Directia de Informatii Militare, sub comanda mea, nu a avertizat
-   asupra atacului terorist efectuat de Hamas. Am esuat �n cea mai
-   importanta misiune a noastra si, �n calitate de sef al Directiei de
-   Informatii Militare, am �ntreaga responsabilitate pentru esec". Haliva
-   a precizat ca va avea loc o ancheta "profunda si cuprinzatoare", dar
-   singuramisiune acum este "sa lupte si sa c�stige".
+   „Directia de Informații Militare, sub comanda mea, nu a avertizat
+   asupra atacului terorist efectuat de Hamas. Am eșuat în cea mai
+   importantă misiune a noastră și, în calitate de șef al Direcției de
+   Informații Militare, am întreaga responsabilitate pentru eșec”. Haliva
+   a precizat că va avea loc o anchetă „profundă și cuprinzătoare”, dar
+   singuramisiune acum este „să lupte și să câștige”.
 
      The head of the National Security Agency, Major General Aharon
      Haliva, in his first reference to the failure: "We bear full
      responsibility - our fault".#BREAKING #gaza #israel #lebanon
      #palestine #hamas #hezbollah pic.twitter.com/7tTcq3aWEf
-     -- Insightful Informer (@InsightfulInf) October 17, 2023
+     — Insightful Informer (@InsightfulInf) October 17, 2023
 
-Bilantul mortilor �n Gaza creste la 3.000
+Bilanțul morților în Gaza crește la 3.000
 
-   18:12Aproximativ 3.000 de oameni au fost ucisi �n atacurile israeliene
-   �n F�sia Gaza, a anuntat Ministerul palestinian al Sanatatii. Alte
-   12.500 de persoane au fost ranite de c�nd Israelul a �nceput sa
+   18:12Aproximativ 3.000 de oameni au fost uciși în atacurile israeliene
+   în Fâșia Gaza, a anunțat Ministerul palestinian al Sănătății. Alte
+   12.500 de persoane au fost rănite de când Israelul a început să
    bombardeze Gaza pe 7 octombrie.
 
-   De asemenea, �n Cisiordania, 61 de persoane au fost ucise si peste
-   1.250 au fost ranite.
+   De asemenea, în Cisiordania, 61 de persoane au fost ucise și peste
+   1.250 au fost rănite.
 
-   17:56Statele Unite nu au �n acest moment indicii despre o implicare mai
-   puternica a Iranului �n razboiul dintre Israel si Hamas, a declarat
-   marti un purtator de cuv�nt al Casei Albe.
+   17:56Statele Unite nu au în acest moment indicii despre o implicare mai
+   puternică a Iranului în războiul dintre Israel şi Hamas, a declarat
+   marţi un purtător de cuvânt al Casei Albe.
 
-   La �ntrebarea daca Washingtonul are "avertismente sau semnale" ca
-   Iranul �ncepe sa intervina mai mult, John Kirby, purtatorul de cuv�nt
-   al Consiliului de Securitate Nationala al SUA, a raspuns: "�n afara de
-   discurs, nu, nu avem".
+   La întrebarea dacă Washingtonul are „avertismente sau semnale” că
+   Iranul începe să intervină mai mult, John Kirby, purtătorul de cuvânt
+   al Consiliului de Securitate Naţională al SUA, a răspuns: „În afară de
+   discurs, nu, nu avem”.
 
-   17:01Olaf Scholz, �n vizita-fulger �n Israel si Egipt, �ncerc�nd sa
+   17:01Olaf Scholz, în vizită-fulger în Israel și Egipt, încercând să
    pareze escaladarea conflictului
 
-   Cancelarul german Olaf Scholz este primul sef de guvern european care
-   se deplaseaza �n Israel dupa recentele atacuri ale Hamas. "Guvernul
-   federal lucreaza cu toata forta sa pentru a se asigura ca situatia nu
-   va escalada, �n urma atacului Hamas asupra Israelului", se mentioneaza
-   �ntr-un comunicat pe site-ul guvernului, �naintea vizitei de marti.
+   Cancelarul german Olaf Scholz este primul șef de guvern european care
+   se deplasează în Israel după recentele atacuri ale Hamas. „Guvernul
+   federal lucrează cu toată forța sa pentru a se asigura că situația nu
+   va escalada, în urma atacului Hamas asupra Israelului”, se menționează
+   într-un comunicat pe site-ul guvernului, înaintea vizitei de marți.
 
 Un important comandant militar al Hamas a fost ucis
 
    16:46Un comandant militar important al Hamas a fost ucis. Gruparea
-   islamista palestiniana Hamas a anuntat marti moartea unuia dintre
-   comandantii sai militari, �ntr-un raid aerian israelian asupra Gaza.
+   islamistă palestiniană Hamas a anunțat marți moartea unuia dintre
+   comandanții săi militari, într-un raid aerian israelian asupra Gaza.
 
-   Ayman Nofal, un comandant al Brigazilor Al-Qassam, aripa militara a
-   Hamas, a fost ucis "ca urmare a unui bombardament sionist barbar care a
-   vizat tabara Bureij din centrul F�siei Gaza", a anuntat Hamas �ntr-un
+   Ayman Nofal, un comandant al Brigăzilor Al-Qassam, aripa militară a
+   Hamas, a fost ucis „ca urmare a unui bombardament sionist barbar care a
+   vizat tabăra Bureij din centrul Fâșiei Gaza”, a anunțat Hamas într-un
    scurt comunicat.
 
-   16:09 118 organizatii evreiesti din SUA au lansat o declaratie comuna
-   prin care resping islamofobia si ura anti-araba, dupa ce un baiat
-   palestiniano-american de sase ani a fost ucis �ntr-o presupusa crima
-   motivata de razboiul Israel-Hamas.
+   16:09 118 organizații evreiești din SUA au lansat o declarație comună
+   prin care resping islamofobia și ura anti-arabă, după ce un băiat
+   palestiniano-american de șase ani a fost ucis într-o presupusă crimă
+   motivată de războiul Israel-Hamas.
 
-   Haaretz noteaza ca �n declaratia organizatiilor conduse de Consiliul
-   Evreiesc pentru Afaceri Publice se arata ca "pe masura ce extremistii
-   continua sa exploateze acest moment, ni se reaminteste ca siguranta si
-   viitorul tuturor comunitatilor noastre sunt indisolubil legate - si ne
-   angajam din nou sa luptam �mpotriva urii �n toate formele ei".
+   Haaretz notează că în declarația organizațiilor conduse de Consiliul
+   Evreiesc pentru Afaceri Publice se arată că „pe măsură ce extremiștii
+   continuă să exploateze acest moment, ni se reamintește că siguranța și
+   viitorul tuturor comunităților noastre sunt indisolubil legate – și ne
+   angajăm din nou să luptăm împotriva urii în toate formele ei”.
 
-   16:00 Aproximativ 2.000 de militari americani au fost plasati �n stare
-   de pregatire sporita, av�nd �n vedere "evolutia mediului de securitate
-   din Orientul Mijlociu", dar nu s-a luat nicio decizie de a-i desfasura,
-   a anuntat marti Departamentul american al Apararii.
+   16:00 Aproximativ 2.000 de militari americani au fost plasați în stare
+   de pregătire sporită, având în vedere „evoluția mediului de securitate
+   din Orientul Mijlociu", dar nu s-a luat nicio decizie de a-i desfășura,
+   a anunțat marți Departamentul american al Apărării.
 
-   Desfasurarea grupului de atac al portavionului Gerald R. Ford, care se
-   apropie de finalul misiunii sale de sase luni �n zona Comandamentului
-   European al SUA, ar urma sa fie prelungita, a precizat adjunctul
-   secretarului de presa Sabrina Singh.
+   Desfășurarea grupului de atac al portavionului Gerald R. Ford, care se
+   apropie de finalul misiunii sale de șase luni în zona Comandamentului
+   European al SUA, ar urma să fie prelungită, a precizat adjunctul
+   secretarului de presă Sabrina Singh.
 
-Joe Biden se duce �n Israel
+Joe Biden se duce în Israel
 
-   15:54 Europa asista la o crestere a "terorismului islamist" si toate
-   statele sunt amenintate, a declarat marti presedintele francez Emmanuel
-   Macron �n timpul unei vizite �n Albania, dupa uciderea de catre
-   islamisti a unui profesor �n Franta si a doi suporteri suedezi de
-   fotbal �n Belgia.
+   15:54 Europa asistă la o creștere a „terorismului islamist” și toate
+   statele sunt amenințate, a declarat marți președintele francez Emmanuel
+   Macron în timpul unei vizite în Albania, după uciderea de către
+   islamiști a unui profesor în Franța și a doi suporteri suedezi de
+   fotbal în Belgia.
 
-   "Am vazut-o din nou ieri la Bruxelles. Toate statele europene sunt
-   vulnerabile si, �ntr-adevar, exista o recrudescenta a terorismului
-   islamist", a declarat Macron dupa discutiile cu premierul albanez Edi
+   „Am văzut-o din nou ieri la Bruxelles. Toate statele europene sunt
+   vulnerabile și, într-adevăr, există o recrudescență a terorismului
+   islamist", a declarat Macron după discuțiile cu premierul albanez Edi
    Rama la Tirana.
 
-   15:28 Joe Biden va pleca din Washington �n aceasta seara si urmeaza sa
-   petreaca o parte din ziua de miercuri la Tel Aviv pentru discutii cu
-   premierul israelian Benjamin Netanyahu si alti oficiali.
+   15:28 Joe Biden va pleca din Washington în această seară și urmează să
+   petreacă o parte din ziua de miercuri la Tel Aviv pentru discuții cu
+   premierul israelian Benjamin Netanyahu și alți oficiali.
 
-   Biden este asteptat apoi sa zboare la �n Iordania, pentru discutii
-   privind accelerarea asistentei umanitare �n Gaza. La Amman, liderul
-   american se va �nt�lni cu regele Abdullah al Iordaniei, cu presedintele
-   egiptean Abdel Fattah al-Sisi si cu presedintele palestinian Mahmoud
+   Biden este așteptat apoi să zboare la în Iordania, pentru discuții
+   privind accelerarea asistenței umanitare în Gaza. La Amman, liderul
+   american se va întâlni cu regele Abdullah al Iordaniei, cu președintele
+   egiptean Abdel Fattah al-Sisi și cu președintele palestinian Mahmoud
    Abbas.
 
-   15:15 Procuratura federala belgiana nu mai exclude o legatura �ntre
-   atacul mortal de luni de la Bruxelles si conflictul �n curs de
-   desfasurare din Israel, a relatat marti postul public belgian RTBF.
+   15:15 Procuratura federală belgiană nu mai exclude o legătură între
+   atacul mortal de luni de la Bruxelles și conflictul în curs de
+   desfășurare din Israel, a relatat marți postul public belgian RTBF.
 
-   Un procuror federal belgian declarase luni ca nu exista nicio dovada ca
-   atacatorul ar avea vreo legatura cu recenta reluare a conflictului
-   dintre Israel si militantii palestinieni.
+   Un procuror federal belgian declarase luni că nu există nicio dovadă că
+   atacatorul ar avea vreo legătură cu recenta reluare a conflictului
+   dintre Israel și militanții palestinieni.
 
-   Dar, �ntre timp, s-a aflat ca autorul atacurilor de la Bruxelles a
-   trimis numeroase mesaje de sustinere a poporului palestinian, a relatat
+   Dar, între timp, s-a aflat că autorul atacurilor de la Bruxelles a
+   trimis numeroase mesaje de susținere a poporului palestinian, a relatat
    RTBF.
 
-ONU: Israelul ar putea �ncalca dreptul international
+ONU: Israelul ar putea încălca dreptul internațional
 
-   14:51 Biroul ONU pentru drepturile omului a afirmat marti ca blocada
-   israeliana asupra Gaza si ordinul de evacuare a nordului enclavei ar
-   putea echivala cu un transfer fortat de civili si ar �ncalca dreptul
-   international.
+   14:51 Biroul ONU pentru drepturile omului a afirmat marți că blocada
+   israeliană asupra Gaza și ordinul de evacuare a nordului enclavei ar
+   putea echivala cu un transfer forțat de civili și ar încălca dreptul
+   internațional.
 
-   Ravina Shamdasani, purtator de cuv�nt al biroului ONU pentru drepturile
-   omului, a declarat presei la Geneva ca Israelul pare sa nu fi facut
-   niciun efort pentru a se asigura ca civilii evacuati temporar din Gaza
-   au primit o cazare adecvata, precum si conditii satisfacatoare de
-   igiena, sanatate, siguranta si nutritie.
+   Ravina Shamdasani, purtător de cuvânt al biroului ONU pentru drepturile
+   omului, a declarat presei la Geneva că Israelul pare să nu fi făcut
+   niciun efort pentru a se asigura că civilii evacuați temporar din Gaza
+   au primit o cazare adecvată, precum și condiții satisfăcătoare de
+   igienă, sănătate, siguranță și nutriție.
 
-   "Suntem �ngrijorati de faptul ca acest ordin, combinat cu impunerea
+   „Suntem îngrijorați de faptul că acest ordin, combinat cu impunerea
    unui asediu complet al Gazei, nu poate fi considerat ca o evacuare
-   temporara legala si, prin urmare, ar echivala cu un transfer fortat de
-   civili, �ncalc�nd astfel dreptul international", a declarat ea.
+   temporară legală și, prin urmare, ar echivala cu un transfer forțat de
+   civili, încălcând astfel dreptul internațional", a declarat ea.
    (Reuters)
 
-   14:38 Iordania va gazdui miercuri, la Amman, un summit cvadrilateral cu
-   presedintele american Joe Biden si liderii egiptean si palestinian
-   pentru a discuta despre repercusiunile "periculoase" ale razboiului din
-   Gaza �n regiune si despre gasirea unei solutii politice, a anuntat
-   presa de stat, preluata de Reuters.
+   14:38 Iordania va găzdui miercuri, la Amman, un summit cvadrilateral cu
+   președintele american Joe Biden și liderii egiptean și palestinian
+   pentru a discuta despre repercusiunile "periculoase" ale războiului din
+   Gaza în regiune și despre găsirea unei soluții politice, a anunțat
+   presa de stat, preluată de Reuters.
 
-   14:06 Turcia poarta discutii cu gruparea militanta palestiniana Hamas
-   privind eliberarea strainilor, civililor si copiilor tinuti ostatici de
-   catre grupare, a declarat marti ministrul de externe Hakan Fidan.
+   14:06 Turcia poartă discuții cu gruparea militantă palestiniană Hamas
+   privind eliberarea străinilor, civililor și copiilor ținuți ostatici de
+   către grupare, a declarat marți ministrul de externe Hakan Fidan.
 
-   Vorbind alaturi de omologul sau libanez la Beirut, Fidan a declarat ca
-   "multe tari" au trimis solicitari Turciei pentru a obtine eliberarea
-   cetatenilor lor detinuti de Hamas.
+   Vorbind alături de omologul său libanez la Beirut, Fidan a declarat că
+   „multe țări" au trimis solicitări Turciei pentru a obține eliberarea
+   cetățenilor lor deținuți de Hamas.
 
-   Luni, Fidan a discutat aceasta chestiune cu liderul Hamas, Ismail
-   Haniyeh, a declarat o sursa din cadrul ministerului de externe pentru
+   Luni, Fidan a discutat această chestiune cu liderul Hamas, Ismail
+   Haniyeh, a declarat o sursă din cadrul ministerului de externe pentru
    Reuters.
 
-Iranul ameninta tot mai mult Israelul
+Iranul amenință tot mai mult Israelul
 
-   13:39Ayatollahul iranian Ali Khamenei duce amenintarile la un alt
-   nivel: "Trebuie sa reactionam la ceea ce se �nt�mpla �n Gaza. Nimeni nu
-   va putea face fata musulmanilor daca vor continua crimele regimului
-   sionist"
+   13:39Ayatollahul iranian Ali Khamenei duce amenințările la un alt
+   nivel: „Trebuie să reacționăm la ceea ce se întâmplă în Gaza. Nimeni nu
+   va putea face față musulmanilor dacă vor continua crimele regimului
+   sionist”
 
-   13:27Presedintele Frantei, Emanuel Macron, a anuntat ca va merge "�n
-   cur�nd" �n Israel, tara care are dreptul sa se apere, �nsa �n
-   conformitate cu dreptul international, cu dreptul umanitar.
+   13:27Președintele Franței, Emanuel Macron, a anunțat că va merge „în
+   curând” în Israel, țară care are dreptul să se apere, însă în
+   conformitate cu dreptul internațional, cu dreptul umanitar.
 
-     \uD83D\uDD34 DIRECT \uD83D\uDDE3 - "Je soutiens le droit d'Isra�l de
-     se d�fendre (...) Mais cela doit toujours �tre compatible avec le
+     \uD83D\uDD34 DIRECT \uD83D\uDDE3️ - "Je soutiens le droit d'Israël
+     de se défendre (...) Mais cela doit toujours être compatible avec le
      respect du droit international, le droit humanitaire."
-     Emmanuel Macron confirme vouloir se d�placer prochainement en
-     Isra�l, mais sans pr�ciser la date de son...
+     Emmanuel Macron confirme vouloir se déplacer prochainement en
+     Israël, mais sans préciser la date de son…
      pic.twitter.com/4kNV3ChcxB
-     -- franceinfo (@franceinfo) October 17, 2023
+     — franceinfo (@franceinfo) October 17, 2023
 
-   13:10 Organizatia Mondiala a Sanatatii (OMS) a spus marti ca are nevoie
-   de acces urgent �n Gaza pentru a livra ajutoare si provizii medicale si
-   a avertizat �n privinta unei crize umanitare pe termen lung �n enclava
-   palestiniana.
+   13:10 Organizația Mondială a Sănătății (OMS) a spus marți că are nevoie
+   de acces urgent în Gaza pentru a livra ajutoare și provizii medicale și
+   a avertizat în privința unei crize umanitare pe termen lung în enclava
+   palestiniană.
 
-   Dr. Richard Brennan, directorul pentru situatii de urgenta al biroului
-   regional al OMS pentru Mediterana de Est, a declarat ca agentia se va
-   �nt�lni marti cu "factorii de decizie" pentru a deschide accesul
-   �ncatre Gaza c�t mai cur�nd posibil.
+   Dr. Richard Brennan, directorul pentru situații de urgență al biroului
+   regional al OMS pentru Mediterana de Est, a declarat că agenția se va
+   întâlni marți cu „factorii de decizie" pentru a deschide accesul
+   încătre Gaza cât mai curând posibil.
 
-   ""Avem ajutoare la sud de Rafah si asteptam aprobarea pentru a intra �n
+   „"Avem ajutoare la sud de Rafah și așteptăm aprobarea pentru a intra în
    Gaza", a spus el, referindu-se la punctul de trecere cu Egiptul, care
-   era o artera vitala �nainte de actualul razboi.
+   era o arteră vitală înainte de actualul război.
 
-Ciolacu s-a �nt�lnit cu Netanyahu la Tel Aviv
+Ciolacu s-a întâlnit cu Netanyahu la Tel Aviv
 
-   12:44 Marcel Ciolacu sustine la aceasta ora o conferinta de presa
-   comuna cu Benjamin Netanyahu. "Am transmis premierului Netanyahu ca
-   Israelul are dreptul sa se apere", a spus premierul rom�n.
+   12:44 Marcel Ciolacu susține la această oră o conferință de presă
+   comună cu Benjamin Netanyahu. „Am transmis premierului Netanyahu că
+   Israelul are dreptul să se apere”, a spus premierul român.
 
    IFRAME:
    https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%
    2Fwww.facebook.com%2FCiolacuMarcel%2Fvideos%2F1011224723489486%2F&show_
    text=false&width=560&t=0
 
-   12:03Armata israeliana se pregateste pentru urmatoarea faza a campaniei
-   sale �mpotriva F�siei Gaza, dar este posibil ca aceasta sa nu fie
-   ofensiva terestra la care se asteapta cei mai multi, a declarat marti
-   un purtator de cuv�nt al armatei.
+   12:03Armata israeliană se pregătește pentru următoarea fază a campaniei
+   sale împotriva Fâșiei Gaza, dar este posibil ca aceasta să nu fie
+   ofensiva terestră la care se așteaptă cei mai mulți, a declarat marți
+   un purtător de cuvânt al armatei.
 
-   "Ne pregatim pentru urmatoarele etape ale razboiului. Nu am spus care
-   vor fi acestea. Toata lumea vorbeste despre o ofensiva terestra. S-ar
-   putea sa fie ceva diferit", a declarat locotenent-colonelul Richard
-   Hecht �n cadrul unei discutii cu presa.
+   „Ne pregătim pentru următoarele etape ale războiului. Nu am spus care
+   vor fi acestea. Toată lumea vorbește despre o ofensivă terestră. S-ar
+   putea să fie ceva diferit", a declarat locotenent-colonelul Richard
+   Hecht în cadrul unei discuții cu presa.
 
    11:42Liderul suprem al Iranului, Ayatollahul Ali Khamenei sa declarat
-   ca bombardamentele din Gaza ar trebui sa �nceteze imediat, potrivut
-   presei iraniene de stat, citata de Reuters.
+   că bombardamentele din Gaza ar trebui să înceteze imediat, potrivut
+   presei iraniene de stat, citată de Reuters.
 
-   Ali Khamenei a spus ca nimeni nu �i va putea opri pe musulmanii din
-   �ntreaga lume si fortele de rezistenta daca vor continua crimele
-   Israelului �n Gaza, a relatat televiziunea de stat iraniana. Oficialii
-   israelieni ar trebui sa fie judecati pentru crimele comise �mpotriva
-   palestinienilor din Gaza, a adaugat ayatollahul.
+   Ali Khamenei a spus că nimeni nu îi va putea opri pe musulmanii din
+   întreaga lume și forțele de rezistență dacă vor continua crimele
+   Israelului în Gaza, a relatat televiziunea de stat iraniană. Oficialii
+   israelieni ar trebui să fie judecați pentru crimele comise împotriva
+   palestinienilor din Gaza, a adăugat ayatollahul.
 
    [image-2022-12-9-25953192-0-ayatollahul-ali-khamenei-liderul-suprem-ira
    nului.jpg]
 
    (Foto: Office of the Iranian Supreme Leader / AP / Profimedia)
 
-100.000 de oameni au ramas �n orasul Gaza
+100.000 de oameni au rămas în orașul Gaza
 
-   11:11Marcel Ciolacu a ajuns �n Israel cu un avion militar. Premierul
-   rom�n si cel israelian vor sustine declaratii comune de presa �n jurul
+   11:11Marcel Ciolacu a ajuns în Israel cu un avion militar. Premierul
+   român și cel israelian vor susține declarații comune de presă în jurul
    orei 12:45, au declarat pentru HotNews.ro surse guvernamentale.
 
-   11:09Un purtator de cuv�nt al Fortelor de Aparare Israelului sustine ca
-   aproximativ 100.000 de oameni au ramas �n orasul Gaza, �n ciuda
+   11:09Un purtător de cuvânt al Forțelor de Apărare Israelului susține că
+   aproximativ 100.000 de oameni au rămas în orașul Gaza, în ciuda
    avertismentelor armatei israeliene. Potrivit The Guardian, Lt. Col.
-   Jonathan Conricus a declarat ca operatiunile militare vor �ncepe "c�nd
-   momentul se potriveste obiectivului".
+   Jonathan Conricus a declarat că operațiunile militare vor începe „când
+   momentul se potrivește obiectivului”.
 
-   11:03Fostul sef al CIA, generalul �n retragere David Petraeus, a
-   declarat �ntr-o emisiune la BBC ca vizita presedintelui american Joe
-   Biden �n Israel arata "c�t de grav este acest conflict". "Merg�nd �n
-   Israel arata c�t de important este acest lucru pentru presedinte,
-   pentru SUA, si, sincer, pentru toti aliatii nostri", a spus Petraeus.
+   11:03Fostul șef al CIA, generalul în retragere David Petraeus, a
+   declarat într-o emisiune la BBC că vizita președintelui american Joe
+   Biden în Israel arată „cât de grav este acest conflict”. „Mergând în
+   Israel arată cât de important este acest lucru pentru președinte,
+   pentru SUA, și, sincer, pentru toți aliații noștri”, a spus Petraeus.
 
-   10:53 Cancelarul Germaniei, Olaf Scholtz, a avertizat Iranul si
-   Hezbollah sa nu intervina �n conflictul din Israel. Delaratia a fost
-   facuta dupa �nt�lnirea cu Regele Abdullah al Iordaniei, potrivit
+   10:53 Cancelarul Germaniei, Olaf Scholtz, a avertizat Iranul și
+   Hezbollah să nu intervină în conflictul din Israel. Delarația a fost
+   făcută după întâlnirea cu Regele Abdullah al Iordaniei, potrivit
    Reuters.
 
-   10:36 Mai multe fotografii aparute pe retelele de socializare arata ca
-   armata israeliana a apelat la o improvizatie aparuta pentru prima oara
-   �n timpul razboiului din Ucraina: deja faimoasele "custi de protectie"
-   pentru apararea tancurilor si vehiculelor blindate.
+   10:36 Mai multe fotografii apărute pe rețelele de socializare arată că
+   armata israeliană a apelat la o improvizație apărută pentru prima oară
+   în timpul războiului din Ucraina: deja faimoasele „cuști de protecție”
+   pentru apărarea tancurilor și vehiculelor blindate.
 
-Israelul ar fi dejucat o tentativa de infiltrare dinspre Liban
+Israelul ar fi dejucat o tentativă de infiltrare dinspre Liban
 
-   10:34 Premierul Marcel Ciolacu efectueaza marti o vizita �n Israel,
-   unde urmeaza sa aiba o �ntrevedere cu omologul sau, Benjamin Netanyahu,
+   10:34 Premierul Marcel Ciolacu efectuează marţi o vizită în Israel,
+   unde urmează să aibă o întrevedere cu omologul său, Benjamin Netanyahu,
    au precizat, pentru Agerpres, surse guvernamentale.
 
-   Potrivit acestora, seful Executivului de la Bucuresti va fi �nsotit de
-   ministrul Afacerilor Externe, Luminita Odobescu, si de cel al Apararii,
-   Angel T�lvar.
+   Potrivit acestora, şeful Executivului de la Bucureşti va fi însoţit de
+   ministrul Afacerilor Externe, Luminiţa Odobescu, şi de cel al Apărării,
+   Angel Tîlvăr.
 
-   10:10Armata israeliana a ucis patru persoane care �ncercau sa intre �n
-   Israel din Liban, oficialii calific�ndu-i drept "teroristi". "Cu putin
-   timp �n urma, trupele IDF au vazut o echipa terorista care �ncerca sa
-   se infiltreze �n gardul de securitate cu Liban si sa amplaseze un
-   dispozitiv exploziv. Patru teroristi au fost ucisi", se arata �ntr-o
+   10:10Armata israeliană a ucis patru persoane care încercau să intre în
+   Israel din Liban, oficialii calificându-i drept „terorişti”. „Cu puțin
+   timp în urmă, trupele IDF au văzut o echipă teroristă care încerca să
+   se infiltreze în gardul de securitate cu Liban și să amplaseze un
+   dispozitiv exploziv. Patru teroriști au fost uciși”, se arată într-o
    comunicare a armatei.
 
-     ZJH+"L+ S+J+K+L+ N+J+S+J+W+N% X+D+J+R+H+ ShL+ X+W+L+J+J+T+
-     M+X+B+L+J+M% M+ShTjX+ L+B+N+W+N%.
-     ZJH+"L+ S+J+K+L+ L+P+N+J+ Z+M+N% Q+ZJR+ N+J+S+J+W+N% X+D+J+R+H+ ShL+
-     X+W+L+J+J+T+ M+X+B+L+J+M%, ShZ+W+H+T+H+ E+L+ J+D+J+ T+ZJP+J+W+T+
-     ZJH+"L+ M+T+Q+R+B+T+ L+G+D+R+ H+M+E+R+K+T+ M+ShTjX+ L+B+N+W+N%
-     W+M+TjM+J+N+H+ M+TjE+N%. #R+B+E+H+ M+X+B+L+J+M% X+W+S+L+W+
-     pic.twitter.com/YGFgLOyi01
-     -- ZJB+# H+H+G+N+H+ L+J+ShR+#L+ (@idfonline) October 17, 2023
+     צה"ל סיכל ניסיון חדירה של חוליית מחבלים משטח לבנון.
+     צה"ל סיכל לפני זמן קצר ניסיון חדירה של חוליית מחבלים, שזוהתה על ידי
+     תצפיות צה"ל מתקרבת לגדר המערכת משטח לבנון ומטמינה מטען. ארבעה מחבלים
+     חוסלו pic.twitter.com/YGFgLOyi01
+     — צבא ההגנה לישראל (@idfonline) October 17, 2023
 
-   10:05Ministrul de externe al Iranului a declarat luni la televiziunea
-   de stat ca o "actiune preventiva" �mpotriva Israelului ar putea fi
-   asteptata �n urmatoarele ore, adaug�nd ca nu i se va permite sa
-   �ntreprinda nicio actiune �n F�sia Gaza fara a suporta consecinte,
-   relateaza Reuters.
+   10:05​Ministrul de externe al Iranului a declarat luni la televiziunea
+   de stat că o "acţiune preventivă" împotriva Israelului ar putea fi
+   aşteptată în următoarele ore, adăugând că nu i se va permite să
+   întreprindă nicio acţiune în Fâşia Gaza fără a suporta consecinţe,
+   relatează Reuters.
 
-Scurta recapitulare a evenimentelor recente:
+Scurtă recapitulare a evenimentelor recente:
 
-     * Diplomati din mai multe tari au au re�nnoit apelurile pentru
-       furnizarea de ajutoare �n F�sia Gaza asediata, �n timp ce ministrul
-       iranian de externe a declarat ca Israelului nu i se va permite sa
-       actioneze acolo, avertiz�nd asupra unei "actiuni preventive" �n
-       urmatoarele ore.
-     * Japonia, presedintele Grupului celor 7 va oferi un ajutor de 10
+     * Diplomați din mai multe țări au au reînnoit apelurile pentru
+       furnizarea de ajutoare în Fâșia Gaza asediată, în timp ce ministrul
+       iranian de externe a declarat că Israelului nu i se va permite să
+       acționeze acolo, avertizând asupra unei „acțiuni preventive" în
+       următoarele ore.
+     * Japonia, președintele Grupului celor 7 va oferi un ajutor de 10
        milioane de dolari pentru civilii din Gaza, a declarat ministrul
-       sau de externe, adaug�nd ca face ultimele pregatiri pentru
-       discutiile cu omologul sau iranian
-     * Presedintele egiptean al-Sisi si iden au subliniat, �n cadrul unei
-       convorbiri telefonice, necesitatea de a tine sub control conflictul
-       palestiniano-israelian, astfel �nc�t acesta sa nu ameninte
-       securitatea regionala, a transmis biroul lui Sisi.
-     * Vladimir Putin i-a spus lui Netanyahu ca Moscova doreste sa ajute
-       la prevenirea unui dezastru umanitar �n Gaza, �n timp ce a
-       intervenit �n criza din Orientul Mijlociu cu o avalansa de apeluri
-       catre actorii regionali.
-     * Un lider de v�rf al gruparii militante palestiniene Hamas a
-       declarat ca "are tot ce-i trebuie" pentru a elibera toti
-       palestinienii din �nchisorile israeliene, indic�nd ca Hamas ar
-       putea �ncerca sa �i foloseasca pe israelienii pe care i-a rapit ca
-       moneda de schimb pentru a obtine eliberarea prizonierilor
+       său de externe, adăugând că face ultimele pregătiri pentru
+       discuțiile cu omologul său iranian
+     * Președintele egiptean al-Sisi și iden au subliniat, în cadrul unei
+       convorbiri telefonice, necesitatea de a ține sub control conflictul
+       palestiniano-israelian, astfel încât acesta să nu amenințe
+       securitatea regională, a transmis biroul lui Sisi.
+     * Vladimir Putin i-a spus lui Netanyahu că Moscova dorește să ajute
+       la prevenirea unui dezastru umanitar în Gaza, în timp ce a
+       intervenit în criza din Orientul Mijlociu cu o avalanșă de apeluri
+       către actorii regionali.
+     * Un lider de vârf al grupării militante palestiniene Hamas a
+       declarat că „are tot ce-i trebuie" pentru a elibera toți
+       palestinienii din închisorile israeliene, indicând că Hamas ar
+       putea încerca să îi folosească pe israelienii pe care i-a răpit ca
+       monedă de schimb pentru a obține eliberarea prizonierilor
        palestinieni.
-     * Hamas are aproximativ 200-250 de prizonieri israelieni �n Gaza, a
-       declarat purtatorul de cuv�nt al aripei armate a grupului. Printre
-       prizonierii israelieni se numara ofiteri de rang �nalt din Divizia
-       Gaza, a declarat fostul sef al Hamas, Khaled Meshaal.
+     * Hamas are aproximativ 200-250 de prizonieri israelieni în Gaza, a
+       declarat purtătorul de cuvânt al aripei armate a grupului. Printre
+       prizonierii israelieni se numără ofițeri de rang înalt din Divizia
+       Gaza, a declarat fostul șef al Hamas, Khaled Meshaal.
 
-Liderii UE tin o reuniune de urgenta
+Liderii UE țin o reuniune de urgență
 
-   09:43 Liderii Uniunii Europene �ncearca marti sa ajunga la o abordare
-   unitara a crizei declansate de atacul Hamas asupra Israelului, dupa
-   zile de confuzie, dispute interne si mesaje contradictorii, noteaza
+   09:43 Liderii Uniunii Europene încearcă marți să ajungă la o abordare
+   unitară a crizei declanșate de atacul Hamas asupra Israelului, după
+   zile de confuzie, dispute interne și mesaje contradictorii, notează
    Reuters.
 
-   �n cadrul unei videoconferinte de urgenta, care va avea loc la ora
-   18.30, Consiliul European va aborda, de asemenea, consecintele
-   potential grave ale crizei pentru continent.
+   În cadrul unei videoconferințe de urgență, care va avea loc la ora
+   18.30, Consiliul European va aborda, de asemenea, consecințele
+   potențial grave ale crizei pentru continent.
 
-   09:16Cancelarul german Olaf Scholz calatoreste marti �n Israel, �ntr-o
-   demonstratie de solidaritate �n urma atacului terorist al Hamas
-   organizat din F�sia Gaza.
+   09:16Cancelarul german Olaf Scholz călătorește marți în Israel, într-o
+   demonstrație de solidaritate în urma atacului terorist al Hamas
+   organizat din Fâșia Gaza.
 
-   "Este important pentru mine sa-mi exprim solidaritatea cu Israelul si
-   �ntr-un mod foarte practic prin vizita mea", a spus Scholz, adaug�nd ca
-   acest lucru este important pentru Israel si poporul sau.
+   „Este important pentru mine să-mi exprim solidaritatea cu Israelul și
+   într-un mod foarte practic prin vizita mea”, a spus Scholz, adăugând că
+   acest lucru este important pentru Israel și poporul său.
 
-   Scholz este primul sef de guvern care a calatorit �n Israel dupa atacul
-   de acum 10 zile. El va avea discutii cu premierul israelian Benjamin
-   Netanyahu �nainte de a zbura �n Egipt pentru a se �nt�lni cu
-   presedintele Abdel Fattah al-Sissi.
+   Scholz este primul șef de guvern care a călătorit în Israel după atacul
+   de acum 10 zile. El va avea discuții cu premierul israelian Benjamin
+   Netanyahu înainte de a zbura în Egipt pentru a se întâlni cu
+   președintele Abdel Fattah al-Sissi.
 
-   09:04Cel putin 23 de persoane au murit �n loviturile israeliene din
+   09:04Cel puțin 23 de persoane au murit în loviturile israeliene din
    Khan Younis, potrivit unui comunicat publicat de Ministerul de Interne
    palestinian.
 
-   Acesta sustine ca alti 28 au fost ucisi �n lovituri �n zona Rafah,
+   Acesta susține că alți 28 au fost uciși în lovituri în zona Rafah,
    aproape de punctul de trecere a frontierei cu Egiptul.
 
-   Multi rezidenti din Gaza au fost evacuati ieri �n Khan Younis, dupa ce
-   guvernul israelian le-a spus civililor sa se mute �n sud.
+   Mulți rezidenți din Gaza au fost evacuați ieri în Khan Younis, după ce
+   guvernul israelian le-a spus civililor să se mute în sud.
 
-SUA nu pune conditii pentru ajutorul militar
+SUA nu pune condiții pentru ajutorul militar
 
-   08:48Seful serviciului de securitate Shin Bet, Ronen Bar, si-a asumat
-   luni responsabilitatea pentru esecurile care au dus la masacrul Hamas
-   din 7 octombrie. Fac�nd acest lucru, Bar se alatura mai multor figuri
-   proeminente care si-au asumat responsabilitatea, inclusiv seful de stat
-   major al Armatei, comandanti superiori din armata si Consilieri pentru
-   securitate nationala.
+   08:48Șeful serviciului de securitate Shin Bet, Ronen Bar, și-a asumat
+   luni responsabilitatea pentru eșecurile care au dus la masacrul Hamas
+   din 7 octombrie. Făcând acest lucru, Bar se alătură mai multor figuri
+   proeminente care și-au asumat responsabilitatea, inclusiv șeful de stat
+   major al Armatei, comandanți superiori din armată și Consilieri pentru
+   securitate națională.
 
-   08:43 Oficialii de la Casa Alba se �ntreaba daca Biden �i va cere lui
-   Netanyahu si oficialilor israelieni sa dea dovada de retinere sau va
-   stabili conditii pentru noul ajutor militar american.
+   08:43 Oficialii de la Casa Albă se întreabă dacă Biden îi va cere lui
+   Netanyahu și oficialilor israelieni să dea dovadă de reținere sau va
+   stabili condiții pentru noul ajutor militar american.
 
-   "Nu punem conditii pentru asistenta militara pe care o oferim
-   Israelului " , a spus Kirby. "Au dreptul sa se apere. Au dreptul sa
-   urmeze aceasta amenintare terorista."
+   „Nu punem condiții pentru asistența militară pe care o oferim
+   Israelului ” , a spus Kirby. „Au dreptul să se apere. Au dreptul să
+   urmeze această amenințare teroristă.”
 
-   Israelul se pregateste, de asemenea, pentru deschiderea unui nou front
-   la granita de nord cu Libanul, unde a schimbat foc �n mod repetat cu
-   gruparea Hezbollah sustinuta de Iran
+   Israelul se pregătește, de asemenea, pentru deschiderea unui nou front
+   la granița de nord cu Libanul, unde a schimbat foc în mod repetat cu
+   gruparea Hezbollah susținută de Iran
 
-   08:28 Armata sud-coreeana considera ca nord-coreenii au furnizat Hamas
-   arme folosite �n atacul asupra Israelului.
+   08:28 Armata sud-coreeană consideră că nord-coreenii au furnizat Hamas
+   arme folosite în atacul asupra Israelului.
 
-   "Vedem dovezi ca Coreea de Nord a exportat o varietate de arme �n
-   tarile din Orientul Mijlociu si grupurilor militante, inclusiv obuze de
-   artilerie de 122 mm (fabricate din Coreea de Nord) folosite de catre
-   sustinatori Hamas", a declarat un oficial militar �ntr-un briefing de
-   presa.
+   „Vedem dovezi că Coreea de Nord a exportat o varietate de arme în
+   țările din Orientul Mijlociu și grupurilor militante, inclusiv obuze de
+   artilerie de 122 mm (fabricate din Coreea de Nord) folosite de către
+   susținători Hamas”, a declarat un oficial militar într-un briefing de
+   presă.
 
-   08:13 O �nt�lnire de urgenta a sefilor statelor membre UE a fost
-   convocata marti �n efortul de a "armoniza" raspunsul blocului la
-   conflictul dintre Israel si Gaza, dupa o saptam�na de
-   disfunctionalitati si opinii scindate
+   08:13 O întâlnire de urgență a șefilor statelor membre UE a fost
+   convocată marți în efortul de a „armoniza” răspunsul blocului la
+   conflictul dintre Israel și Gaza, după o săptămână de
+   disfuncționalități și opinii scindate
 
-   Pe masura ce temerile cu privire la escaladarea conflictului cresc,
-   menbrii UE recunosc ca s-au straduit sa para ca formeaza un front unit.
+   Pe măsură ce temerile cu privire la escaladarea conflictului cresc,
+   menbrii UE recunosc că s-au străduit să pară că formează un front unit.
 
-   Presedintele Consiliului European, Charles Michel, a emis o declaratie
-   comuna duminica, dupa apeluri frenetice catre toate cele 27 de state
-   membre, dar dupa o saptam�na de dispute cu privire la finantarea
-   Palestinei si a vizitei lui Ursula von der Leyen �n Israel, oamenii
-   acuza lipsa coordonarea din ultima saptam�na care "nu mai poate
-   continua".
+   Președintele Consiliului European, Charles Michel, a emis o declarație
+   comună duminică, după apeluri frenetice către toate cele 27 de state
+   membre, dar după o săptămână de dispute cu privire la finanțarea
+   Palestinei și a vizitei lui Ursula von der Leyen în Israel, oamenii
+   acuză lipsa coordonarea din ultima săptămână care „nu mai poate
+   continua”.
 
-Japonia ofera ajutor pentru civilii din Gaza
+Japonia oferă ajutor pentru civilii din Gaza
 
    08:07 Premierul canadian Justin Trudeau a cerut crearea unui coridor
-   umanitar sa fie deschis �n Gaza, adaug�nd ca e nevoie de ajutor
-   "urgent".
+   umanitar să fie deschis în Gaza, adăugând că e nevoie de ajutor
+   „urgent”.
 
-   Canada sustine dreptul Israelului de a se apara, dar "p�na si
-   razboaiele au reguli", a adaugat el.
+   Canada susține dreptul Israelului de a se apăra, dar „până și
+   războaiele au reguli”, a adăugat el.
 
-   "Terorismul este �ntotdeauna de neaparat si nimic nu poate justifica
-   actele de teroare ale Hamas. ... Hamas nu reprezinta Poporul
-   palestinian si nici aspiratiile lor legitime", a spus el parlamentului.
+   „Terorismul este întotdeauna de neapărat și nimic nu poate justifica
+   actele de teroare ale Hamas. ... Hamas nu reprezintă Poporul
+   palestinian și nici aspirațiile lor legitime”, a spus el parlamentului.
 
-   Cinci canadieni au fost ucisi �n atacul de la Hamas Israel �n timp ce
-   trei sunt �nca disparuti.
+   Cinci canadieni au fost uciși în atacul de la Hamas Israel în timp ce
+   trei sunt încă dispăruți.
 
-   08:00Japonia va oferi ajutor de urgenta �n valoare de 10 milioane de
-   dolari civililor din Gaza , a declarat marti ministrul de externe Yoko
-   Kamikawa. Japonia este actualul presedinte al Grupului celor 7 natiuni
-   dezvoltate, iar Kamikawa a spus ca monitorizeaza situatia din Gaza "cu
-   �ngrijorare".
+   08:00Japonia va oferi ajutor de urgență în valoare de 10 milioane de
+   dolari civililor din Gaza , a declarat marți ministrul de externe Yoko
+   Kamikawa. Japonia este actualul președinte al Grupului celor 7 națiuni
+   dezvoltate, iar Kamikawa a spus că monitorizează situația din Gaza „cu
+   îngrijorare”.
 
-   Kamikawa a spus ca face, de asemenea, ultimele pregatiri pentru
-   discutiile cu omologul sau iranian.
+   Kamikawa a spus că face, de asemenea, ultimele pregătiri pentru
+   discuțiile cu omologul său iranian.
 
-   07:58Sprijinul oferit de SUA Israelului a descurajat Hezbollah sa
-   lanseze o ofensiva din nord asupra Israelului, scrie New York Times
-   marti dimineata, cit�nd un oficial american si altul israelian. Mai
-   mult, surse din intelligence-ul libanez au declarat pentru NYT ca
-   Hassan Nasrallah (Hezbollah) "nu vrea un razboi total cu Israelul, de
-   teama pagubelor pe care le-ar putea aduce gruparii sale si Libanului".
+   07:58Sprijinul oferit de SUA Israelului a descurajat Hezbollah să
+   lanseze o ofensivă din nord asupra Israelului, scrie New York Times
+   marți dimineață, citând un oficial american și altul israelian. Mai
+   mult, surse din intelligence-ul libanez au declarat pentru NYT că
+   Hassan Nasrallah (Hezbollah) „nu vrea un război total cu Israelul, de
+   teama pagubelor pe care le-ar putea aduce grupării sale și Libanului”.
 
-Armata israeliana spune ca a lovit 200 de tinte Hamas
+Armata israeliană spune că a lovit 200 de ținte Hamas
 
-   07:38Fortele Armate Israeliene au anuntat marti dimineata ca �n
-   ultimele 24 de ore au fost lansate lovituri �mpotriva a peste 200 de
-   tinte apartin�nd Hamas
+   07:38Forțele Armate Israeliene au anunțat marți dimineață că în
+   ultimele 24 de ore au fost lansate lovituri împotriva a peste 200 de
+   ținte aparținând Hamas
 
-   07:21La mai bine de o saptam�na de la atacurile Hamas asupra Israel ,
-   peste 350 de cadavre ale civililor �nca nu au fost identificate,
-   potrivit doctorului Chen Kugel, directorul Institutului National de
-   Medicina Legala din Israel. Unele cadavre au fost arse fara a putea fi
-   recunoscute, iar altele au putrezit �nainte de a fi gasite.
+   07:21La mai bine de o săptămână de la atacurile Hamas asupra Israel ,
+   peste 350 de cadavre ale civililor încă nu au fost identificate,
+   potrivit doctorului Chen Kugel, directorul Institutului Național de
+   Medicină Legală din Israel. Unele cadavre au fost arse fără a putea fi
+   recunoscute, iar altele au putrezit înainte de a fi găsite.
 
-   Mii de oameni asteapta cu disperare vesti despre cei dragi sau
-   ramasitele pe care sa le poata �ngropa, traditia evreiasca privind
-   �ngroparea fiind diferita, iar doliu formal poate �ncepe numai dupa
-   �nmorm�ntare.
+   Mii de oameni așteaptă cu disperare vești despre cei dragi sau
+   rămășițele pe care să le poată îngropa, tradiția evreiască privind
+   îngroparea fiind diferită, iar doliu formal poate începe numai după
+   înmormântare.
 
-   Kugel se teme ca ritmul �n care familiile vor primi raspunsuri ar putea
-   �ncetini, iar unele victime ar putea sa nu fie niciodata identificate.
+   Kugel se teme că ritmul în care familiile vor primi răspunsuri ar putea
+   încetini, iar unele victime ar putea să nu fie niciodată identificate.
 
-   07:12Mormane de gunoi, lipsa alimentelor si a apei, mirosuri
-   pestilentiale de la gunoiul adunat si neridicat- o privire asupra
-   vietii din Gaza (BBC)
+   07:12Mormane de gunoi, lipsa alimentelor și a apei, mirosuri
+   pestilențiale de la gunoiul adunat și neridicat- o privire asupra
+   vieții din Gaza (BBC)
 
-   �ntreruperile de curent si o lipsa critica de alimente, medicamente si
-   apa curenta au pus Gaza �n genunchi, scrie BBC. Situatia este
-   catastrofala, potrivitlui Rushdi Abualouf de la BBC, care s-a mutat la
-   Khan Yunis, �n sudul Gazei, �mpreuna cu familia si de unde transmite.
+   Întreruperile de curent și o lipsă critică de alimente, medicamente și
+   apă curentă au pus Gaza în genunchi, scrie BBC. Situația este
+   catastrofală, potrivitlui Rushdi Abualouf de la BBC, care s-a mutat la
+   Khan Yunis, în sudul Gazei, împreună cu familia și de unde transmite.
 
-   "Am �ncercat sa cumpar apa, am mers la cinci sau sase supermarketuri si
-   nu am putut gasi nici macar o sticla de apa", a spus el.
+   „Am încercat să cumpăr apă, am mers la cinci sau șase supermarketuri și
+   nu am putut găsi nici măcar o sticlă de apă”, a spus el.
 
-   "A trebuit sa calatoresc aproximativ 10 km p�na la Rafah astazi pentru
-   a ne putea asigura doua-trei sticle de apa. Chiar si �n spitale se dau
-   fiecarui pacient doar c�te 350 de mililitri de apa pe zi".
+   „A trebuit să călătoresc aproximativ 10 km până la Rafah astăzi pentru
+   a ne putea asigura două-trei sticle de apă. Chiar și în spitale se dau
+   fiecărui pacient doar câte 350 de mililitri de apă pe zi”.
 
-   O alta problema se aduna si �n Gaza: gunoiul. Gunoiul colectat �n
-   ultimele 10 zile nu are de cine sa fie str�ns, asa ca e adunat �ntr-un
-   fel de curte din spatele caselor", a spus el, adaug�nd ca oamenii sunt
-   �ngrijorati de sanatatea copiilor lor. Mirosul de aici este
+   O altă problemă se adună și în Gaza: gunoiul. Gunoiul colectat în
+   ultimele 10 zile nu are de cine să fie strâns, așa că e adunat într-un
+   fel de curte din spatele caselor”, a spus el, adăugând că oamenii sunt
+   îngrijorați de sănătatea copiilor lor. Mirosul de aici este
    insuportabil , mai spune jurnalistul.
 
-Punctul de frontiera Rafah, plin cu camioane care asteapta sa duca ajutoare
+Punctul de frontieră Rafah, plin cu camioane care așteaptă să ducă ajutoare
 
-   06:20 Peste 100 de camioane pline cu ajutoare umanitare se afla �n
-   prezent pe partea egipteana a punctului de trecere a frontierei Rafah,
-   asteapta sa intre �n Gaza, relateaza Al Arabiya.
+   06:20 Peste 100 de camioane pline cu ajutoare umanitare se află în
+   prezent pe partea egipteană a punctului de trecere a frontierei Rafah,
+   așteaptă să intre în Gaza, relatează Al Arabiya.
 
    Israelul a bombardat de mai multe ori punctul de trecere pentru a
-   �mpiedica intrarea ajutorului umanitar sa ajunga �n Gaza pentru a-i
-   str�nge si mai mult pe conducatorii Hamas ai enclavei �n urma atacului
+   împiedica intrarea ajutorului umanitar să ajungă în Gaza pentru a-i
+   strânge și mai mult pe conducătorii Hamas ai enclavei în urma atacului
    lor din 7 octombrie.
 
-   06:14 Israelul a cerut Statelor Unite 10 miliarde de dolari �n ajutor
-   militar de urgenta, relateaza The New York Times, cit�nd trei oficiali
-   familiarizati cu cererea.
+   06:14 Israelul a cerut Statelor Unite 10 miliarde de dolari în ajutor
+   militar de urgență, relatează The New York Times, citând trei oficiali
+   familiarizați cu cererea.
 
-   05:50 Generalul american care coordoneaza fortele americane din
-   Orientul Mijlociu a facut o calatorie neanuntata �n Israel ca se
-   asigure ca armata dispune de tot ce are nevoie �n razboi. Vizita
-   generalului de armata Michael "Erik" Kurilla, seful Comandamentului
-   Central al SUA, este cea mai recenta calatorie a unui �nalt oficial
-   american �n Israel �naintea unui atac la sol asteptat al armatei
-   israeliene �n Gaza si vine cu o zi �nainte de o vizita planificata a
-   presedintelui american Joe Biden �n tara.
+   05:50 Generalul american care coordonează forțele americane din
+   Orientul Mijlociu a făcut o călătorie neanunțată în Israel ca se
+   asigure că armata dispune de tot ce are nevoie în război. Vizita
+   generalului de armată Michael „Erik” Kurilla, șeful Comandamentului
+   Central al SUA, este cea mai recentă călătorie a unui înalt oficial
+   american în Israel înaintea unui atac la sol așteptat al armatei
+   israeliene în Gaza și vine cu o zi înainte de o vizită planificată a
+   președintelui american Joe Biden în țară.
 
-   05:45Fortele Aeriene Israeliene spun ca a lovit tinte Hezbollah �n
-   Liban. IAF au postat un videoclip pe platforma X �n care spun ca
-   loviturile au fost ca raspuns la tirul dinspre Liban catre Israel.
-   Hezbollah - Partidul lui Dumnezeu - este o organizatie politica,
-   militara islamista siita care detine o putere considerabila �n Liban.
+   05:45Forțele Aeriene Israeliene spun că a lovit ținte Hezbollah în
+   Liban. IAF au postat un videoclip pe platforma X în care spun că
+   loviturile au fost ca răspuns la tirul dinspre Liban către Israel.
+   Hezbollah - Partidul lui Dumnezeu - este o organizație politică,
+   militară islamistă șiită care deține o putere considerabilă în Liban.
 
      A short while ago, the IAF struck terror targets and military
      infrastructure of the Hezbollah terrorist organization in Lebanon,
      in response to fire yesterday (Monday) towards Israel.
      pic.twitter.com/6AP56PSHld
-     -- Israeli Air Force (@IAFsite) October 17, 2023
+     — Israeli Air Force (@IAFsite) October 17, 2023
 
-Abbas: Actiunile Hamas nu �i reprezinta pe palestinieni
+Abbas: Acțiunile Hamas nu îi reprezintă pe palestinieni
 
-   05:00Un videoclip analizat de BBC Verify pare sa arate un atac aerian
-   la punctul de trecere Rafah de pe partea egipteana a frontierei, soldat
-   cu o explozie puternica.
+   05:00Un videoclip analizat de BBC Verify pare să arate un atac aerian
+   la punctul de trecere Rafah de pe partea egipteană a frontierei, soldat
+   cu o explozie puternică.
 
-   02:12Presedintele american Joe Biden a discutat luni dupa-amiaza cu
-   premierul irakian Mohammed Shia Al-Sudani, care a �ncercat sa limiteze
-   conflictul cu Israelul, a anuntat Casa Alba.
+   02:12Președintele american Joe Biden a discutat luni după-amiază cu
+   premierul irakian Mohammed Shia Al-Sudani, care a încercat să limiteze
+   conflictul cu Israelul, a anunțat Casa Albă.
 
-   02:00 Hamas si Iranul sunt de acord sa "continue cooperarea" dupa
+   02:00 Hamas și Iranul sunt de acord să „continue cooperarea” după
    atacul asupra Israelului
 
-   Liderul Hamas, Ismail Haniyeh, s-a �nt�lnit s�mbata �n Qatar cu
+   Liderul Hamas, Ismail Haniyeh, s-a întâlnit sâmbătă în Qatar cu
    ministrul iranian de externe, unde au discutat despre atacul mortal al
-   gruparii militante palestiniene �n Israel "si au convenit sa continue
-   cooperarea" pentru a atinge obiectivele gruparii, a precizat Hamas
-   �ntr-un comunicat.
+   grupării militante palestiniene în Israel „și au convenit să continue
+   cooperarea” pentru a atinge obiectivele grupării, a precizat Hamas
+   într-un comunicat.
 
-   01:31Presedintele Abbas spune ca actiunile Hamas nu �i reprezinta pe
+   01:31Președintele Abbas spune că acțiunile Hamas nu îi reprezintă pe
    palestinieni
 
-   Presedintele Autoritatii Palestiniene, Mahmoud Abbas, a declarat ca
-   actiunile si politicile gruparii islamiste Hamas nu reprezinta poporul
-   palestinian, potrivit agentiei oficiale de presa WAFA.
+   Președintele Autorității Palestiniene, Mahmoud Abbas, a declarat că
+   acțiunile și politicile grupării islamiste Hamas nu reprezintă poporul
+   palestinian, potrivit agenției oficiale de presă WAFA.
 
-   �n cadrul unei convorbiri telefonice cu presedintele venezuelean
-   Nicolas Maduro, Abbas a mai spus ca Organizatia pentru Eliberarea
+   În cadrul unei convorbiri telefonice cu președintele venezuelean
+   Nicolas Maduro, Abbas a mai spus că Organizația pentru Eliberarea
    Palestinei este "singurul reprezentant legitim al poporului
    palestinian", a precizat WAFA
 
 Americanii vor o strategie post-Hamas
 
-   01:00Medic israelian stabilit �n Rom�nia: �n ultimele zile am vazut
-   medici �ngenuncheati de durerea propriei neputinte / �n Gaza nu e apa,
-   nu e curent electric, nu e m�ncare, iar civilizatia pare ca s-a stins
-   �ntr-o bezna ad�nca
+   01:00Medic israelian stabilit în România: În ultimele zile am văzut
+   medici îngenuncheaţi de durerea propriei neputinţe / În Gaza nu e apă,
+   nu e curent electric, nu e mâncare, iar civilizaţia pare că s-a stins
+   într-o beznă adâncă
 
-   Un medic israelian stabilit �n Rom�nia vorbeste, luni seara, despre
-   medici din F�sia Gaza care, �n timp ce salvau vieti, au aflat vestea
-   mortii unor rude dragi sau chiar au primit trupurile copiilor decedati.
-   "Am vazut medici �ngenuncheati de durerea propriei neputinte", a
+   Un medic israelian stabilit în România vorbeşte, luni seară, despre
+   medici din Fâşia Gaza care, în timp ce salvau vieţi, au aflat vestea
+   morţii unor rude dragi sau chiar au primit trupurile copiilor decedaţi.
+   „Am văzut medici îngenuncheaţi de durerea propriei neputinţe”, a
    transmis medicul.
 
-   "Ieri, un medic din Gaza, �n timp ce salva oameni raniti �n
-   bombardamente, a primit si trupul fara viatta al propriului copil.
-   Astazi, un alt medic, a primit vestea ca tatal si fratele si-au pierdut
-   viata �n bombardamente. Suntem medici si am fost pregatiti pentru a
-   salva vieti, �nsa nimeni nu ne-a pregatit sa suportam durerea de a nu
-   putea salva viata celor dragi", a scris, luni seara, pe Facebook,
-   medicul Amin Zahra, originar din Israel si care �n prezent lucreaza la
-   Brasov, potrivit News.ro.
+   „Ieri, un medic din Gaza, în timp ce salva oameni răniţi în
+   bombardamente, a primit şi trupul fără viatţă al propriului copil.
+   Astăzi, un alt medic, a primit vestea că tatăl şi fratele şi-au pierdut
+   viaţa în bombardamente. Suntem medici şi am fost pregătiţi pentru a
+   salva vieţi, însă nimeni nu ne-a pregătit să suportam durerea de a nu
+   putea salva viaţa celor dragi”, a scris, luni seară, pe Facebook,
+   medicul Amin Zahra, originar din Israel şi care în prezent lucrează la
+   Braşov, potrivit News.ro.
 
-   00:44SUA preseaza Israelul sa elaboreze o strategie pentru scenariul �n
-   care ar rasturna regimul Hamas din Gaza
+   00:44SUA presează Israelul să elaboreze o strategie pentru scenariul în
+   care ar răsturna regimul Hamas din Gaza
 
-   Administratia presedintelui american Joe Biden a facut presiuni �n
-   privat asupra Israelului �n ultimele zile pentru a-si elabora o
-   strategie concreta pentru scenariul �n care �si va �ndeplini obiectivul
-   declarat de a rasturna conducerea Hamas �n Gaza, au declarat un oficial
-   american si un oficial israelian pentru The Times of Israel.
+   Administraţia preşedintelui american Joe Biden a făcut presiuni în
+   privat asupra Israelului în ultimele zile pentru a-şi elabora o
+   strategie concretă pentru scenariul în care îşi va îndeplini obiectivul
+   declarat de a răsturna conducerea Hamas în Gaza, au declarat un oficial
+   american şi un oficial israelian pentru The Times of Israel.
 
-   00:30Joe Biden a avut o conversatie telefonica cu presedintele
-   egiptean, Abdel Fattah al-Sissi, a anuntat luni Casa Alba, �n contextul
-   �n care acesta a propus organizarea unui summit international privind
+   00:30Joe Biden a avut o conversație telefonică cu președintele
+   egiptean, Abdel Fattah al-Sissi, a anunțat luni Casa Albă, în contextul
+   în care acesta a propus organizarea unui summit internațional privind
    "viitorul cauzei palestiniene", potrivit AFP.
 
-   De asemenea, presedintele american a discutat cu cancelarul german Olaf
-   Scholz despre calatoria pe care acesta din urma se pregateste sa o
-   efectueze saptam�na aceasta �n Israel si Egipt.
+   De asemenea, președintele american a discutat cu cancelarul german Olaf
+   Scholz despre călătoria pe care acesta din urmă se pregătește să o
+   efectueze săptămâna aceasta în Israel și Egipt.
 
 Sinteza ultimelor 24 de ore de conflict:
 
-     * Presedintele american Joe Biden va vizita Israelul miercuri pentru
-       a fi informat despre planurile sale de razboi �mpotriva
-       militantilor Hamas. Biden vrea sa se convinga ca Israelul �si
-       conduce operatiunile �ntr-un mod care "minimizeaza victimele
-       civile"
+     * Președintele american Joe Biden va vizita Israelul miercuri pentru
+       a fi informat despre planurile sale de război împotriva
+       militanților Hamas. Biden vrea să se convingă că Israelul își
+       conduce operațiunile într-un mod care „minimizează victimele
+       civile”
 
-     * Hamas spune ca a tras mai multe rachete �n Ierusalim si Tel Aviv -
-       sirenele de alarma trimit�nd parlamentarii �n adaposturile
+     * Hamas spune că a tras mai multe rachete în Ierusalim și Tel Aviv -
+       sirenele de alarmă trimițând parlamentarii în adăposturile
        antibombe
 
-     * Seful ONU pentru asistenta umanitara, Martin Griffiths, spune ca
-       sistemul de sanatate si spitalele din F�sia Gaza, condusa de Hamas,
-       "se prabusesc"
+     * Șeful ONU pentru asistență umanitară, Martin Griffiths, spune că
+       sistemul de sănătate și spitalele din Fâșia Gaza, condusă de Hamas,
+       „se prăbușesc”
 
-     * Trecerea Rafah din Egipt �n Gaza a fost lovita de un atac aerian -
-       amploarea pagubelor este neclara
+     * Trecerea Rafah din Egipt în Gaza a fost lovită de un atac aerian -
+       amploarea pagubelor este neclară
 
-     * Armata israeliana a actualizat numarul de persoane despre care
-       crede ca sunt tinuti ostatici �n Gaza - de la 155 la 199
+     * Armata israeliană a actualizat numărul de persoane despre care
+       crede că sunt ținuți ostatici în Gaza - de la 155 la 199
 
-     * Cel putin 2.808 de palestinieni au fost ucisi si 10.850 au fost
-       raniti de c�nd Israelul a lansat atacuri asupra F�siei Gaza, a
-       anuntat Ministerul Sanatatii din Gaza . Sindicatul Jurnalistilor
-       Palestinieni a declarat ca Israelul a ucis 11 jurnalisti
-       palestinieni �n atacurile sale aeriene
+     * Cel puțin 2.808 de palestinieni au fost uciși și 10.850 au fost
+       răniți de când Israelul a lansat atacuri asupra Fâșiei Gaza, a
+       anunțat Ministerul Sănătății din Gaza . Sindicatul Jurnaliştilor
+       Palestinieni a declarat că Israelul a ucis 11 jurnalişti
+       palestinieni în atacurile sale aeriene
 
-     * Organizatia Mondiala a Sanatatii (OMS) a avertizat ca Gaza se
-       confrunta cu o criza iminenta de sanatate publica, deoarece enclava
-       palestiniana "ram�ne fara apa". Agentia ONU a declarat ca vietile a
-       peste 3.500 de pacienti din 35 de spitale din Gaza sunt �n pericol
-       si a cerut accesul la ajutoare umanitare
+     * Organizația Mondială a Sănătății (OMS) a avertizat că Gaza se
+       confruntă cu o criză iminentă de sănătate publică, deoarece enclava
+       palestiniană „rămâne fără apă”. Agenția ONU a declarat că viețile a
+       peste 3.500 de pacienți din 35 de spitale din Gaza sunt în pericol
+       și a cerut accesul la ajutoare umanitare
 
-     * Secretarul de stat al SUA, Antony Blinken, si prim-ministrul
-       israelian, Benjamin Netanyahu, s-au adapostit �ntr-un buncar timp
-       de cinci minute c�nd sirenele au sunat �n timpul �nt�lnirii lor de
-       luni la Tel Aviv. �ntr-o conferinta de presa comuna, Blinken a spus
-       ca Israelul "va avea �ntotdeauna sprijinul Statelor Unite"
+     * Secretarul de stat al SUA, Antony Blinken, și prim-ministrul
+       israelian, Benjamin Netanyahu, s-au adăpostit într-un buncăr timp
+       de cinci minute când sirenele au sunat în timpul întâlnirii lor de
+       luni la Tel Aviv. Într-o conferință de presă comună, Blinken a spus
+       că Israelul „va avea întotdeauna sprijinul Statelor Unite”
 
-     * 600.000 de locuitori din Gaza au evacuat zona orasului Gaza, �n
-       urma avertismentelor armatei israeliene, potrivit purtatorului de
-       cuv�nt al Fortelor de Aparare Israelului , Jonathan Conricus. Mai
-       sunt de plecat alti 100.000 de oameni, potrivit aceleiasi surse
+     * 600.000 de locuitori din Gaza au evacuat zona orașului Gaza, în
+       urma avertismentelor armatei israeliene, potrivit purtătorului de
+       cuvânt al Forțelor de Apărare Israelului , Jonathan Conricus. Mai
+       sunt de plecat alți 100.000 de oameni, potrivit aceleiași surse
 
    [ic_comments_blue.svg] 35
-   [ic_sun.svg] RECOMANDARI HotNews.ro
+   [ic_sun.svg] RECOMANDĂRI HotNews.ro
 
-   Osama bin Laden si Ayman al-Zawahiri, 1998
+   Drumuri blocate din cauza viscolului
 
-VIDEO Ce nu vezi la tv despre conflictul din Gaza, episodul 3: Scrisoarea lui
-Bin Laden catre America a devenit virala pe TikTok, la 21 ani de la...
+HARTĂ Cod roşu de viscol puternic în sud-estul României: Zeci de drumuri
+naționale închise, sute de persoane blocate în mașini și zeci de trenuri...
 
-   Autostrada Moldovei A7
+   Future Jobs Cup
 
-HARTA Autostrada "Moldovei" A7: Ultimul contract pe loturile PNRR, semnat pe
-1 mld de lei cu o asociere din Turcia pentru tronsonul care ajunge la Buzau
+INTERVIU Cine poate participa la competiția Future Jobs, demarată de Tik Tok?
+"Comunitatea noastră TikTok așteaptă astfel de oportunități"
 
-   Frauda
+   Calcule
 
-fanatik.ro: Nou tip de frauda pe Booking: "Cardul tau a fost marcat ca
-invalid". Ce a patit un bucurestean care a vrut sa faca o rezervare
+fanatik.ro: Ce salariu primește Diana Șoșoacă de la Senatul României. Câștigă
+o sumă la care unii români doar visează
 
-   Valentin Lazea
+   Ionel Sporea, inventatorul lansatorului automat de mingi de tenis
 
-Valentin Lazea: Cele 3 motive pentru care Rom�nia nu e Danemarca
+Inventatorul care a fost aruncat în închisoare de Securitate în urma unei
+înscenări povestește cum l-a salvat Fane Spoitoru de „rechini” în...
 
-   VIDEO Plantele din interior: �ntr-o garsoniera dubla traiesc 80 de
-   plante, un designer si o pisica aristocrata
+   VIDEO Un designer de interior și-a amenajat apartamentul cu inspirație
+   și elemente din vacanțele favorite
 
-lovedeco.ro: VIDEO Plantele din interior: �ntr-o garsoniera dubla traiesc 80
-de plante, un designer si o pisica aristocrata
+lovedeco.ro: VIDEO Un designer de interior și-a amenajat apartamentul cu
+inspirație și elemente din vacanțele favorite
 
-   Sam Altman, CEO-ul OpenAI
+   Calorifer cu repartitor
 
-Telenovela Sam Altman pare sa fi ajuns la final: Open AI a anuntat ca acesta
-revine �n functia de director general
+De ce montarea repartitoarelor la calorifere va aprinde scandaluri între
+vecini
 
-   Vlad Gheorghe
+   Tanc Abrams
 
-Europarlamentarul Vlad Gheorghe despre lista USR pentru alegerile europene:
-"Acum am ajuns sa facem lucrurile fix la fel ca ceilalti". VIDEO...
+FOTO Primele imagini cu tancurile americane Abrams pe frontul din Ucraina
 
-   Edi Iordanescu
+   Platformă petrolieră offshore
 
-Varianta de grupa infernala pe care Rom�nia ar putea sa o aiba la Euro 2024
+Cum vor putea fi exportate gazele din Marea Neagră, fără modificarea Legii
+offshore / Austriecii și ungurii abia așteaptă să cumpere gazele din...
 
-   E Rom�nia oaia neagra a banilor cash? Care sunt limitele la plata cu
-   numerar, �n restul Europei
+   Panorama cu ALP: Marea schismă AI, faza pe banii ChatGPT
 
-panorama.ro: E Rom�nia oaia neagra a banilor cash? Care sunt limitele la
-plata cu numerar, �n restul Europei
+panorama.ro: Panorama cu ALP: Marea schismă AI, faza pe banii ChatGPT
 
-   "A fost doar sex, de ce te superi?" Motive actuale de infidelitate
+   8 mituri despre sex care ar trebui să dispară, conform terapeuților
+   sexologi
 
-smartliving.ro: "A fost doar sex, de ce te superi?" Motive actuale de
-infidelitate
+smartliving.ro: 8 mituri despre sex care ar trebui să dispară, conform
+terapeuților sexologi
 
-   Changpeng "CZ" Zhao, cofondatorul Binance
+   Autostrada A0 - Lotul 2 Nord
 
-Cutremur �n lumea crypto: "CZ" �si da demisia de la Binance si se pregateste
-de �nchisoare / Compania, amendata cu peste 4 miliarde de dolari
+VIDEO Autostrada Bucureștiului prinde formă: Primul tronson care va fi
+deschis, terminat de UMB înainte de termen. Cum arată acum
 
-   Electricitate
+   Nerd Alert
 
-Cine sunt oamenii de afaceri si firmele care au profitat de pe urma crizei
-energetice �n Rom�nia / Un furnizor a avut o crestere de 18.346% a...
+Cimpanzeii folosesc o tactică de război nemaivăzută până acum / Ultimul film
+Indiana Jones apare în streaming / Black Mirror a fost reînnoit...
 
-   ADAUGA COMENTARIU (35 comentarii)
-   Rusul ucrainian o 2023-10-17 07:44
-   "Israel bombardeaza punctul de trecere sa nu se infiltreze "agenti
-   straini" printre apa , hrana si medicamente! Atat au inteles
+   ADAUGĂ COMENTARIU (35 comentarii)
+   Rusul ucrainian • 2023-10-17 07:44
+   „Israel bombardeaza punctul de trecere sa nu se infiltreze „agenti
+   straini“ printre apa , hrana si medicamente! Atat au inteles
    mostenitorii avantajelor Holocaustului, ca adversarii nu au dreptul
    nici apa sa bea, in timp ce ei nu platesc taxe si impozite pe unde
    traiesc! Mare rusine, mare prostie!
    [comment_gray.svg] [ic_downvote.svg] 73 [ic_upvote.svg] 28
    [share_gray.svg]
-   Andro_ID o 2023-10-17 13:32
+   Andro_ID • 2023-10-17 13:32
    Categoric tu ai mult mai multe informatii si stii exact ce se intampla
    acolo.
    [comment_gray.svg] [ic_downvote.svg] 10 [ic_upvote.svg] 34
    [share_gray.svg]
-   DormiInLiniste o 2023-10-17 22:04
+   DormiInLiniste • 2023-10-17 22:04
    Vezi ca sti...astea sunt consecintele la ce au facut teroristii
    aia,cand ei au ciuruit civilii israeleni, era bine? Si tine aproape ca
    la un momendat vor veni si consecinte pentru prietenii tai rusi
    [comment_gray.svg] [ic_downvote.svg] 2 [ic_upvote.svg] 8
    [share_gray.svg]
-   ras-putin o 2023-10-18 03:49
+   ras-putin • 2023-10-18 03:49
    "mostenitorii avantajelor Holocaustului", cit de cretin poti sa fii sa
    scrii asa ceva?! @HN: cum permiteti astfel de comentarii, daca tot
    aveti moderatori. daca nu isi fac treaba cum trebuie atunci macar sa nu
    mai cenzureze dupa ureche.
    [comment_gray.svg] [ic_downvote.svg] 0 [ic_upvote.svg] 2
    [share_gray.svg]
-   Gigel cu elefantii o 2023-10-17 07:48
+   Gigel cu elefantii • 2023-10-17 07:48
    200 ostatici din cati?
    [comment_gray.svg] [ic_downvote.svg] 28 [ic_upvote.svg] 7
    [share_gray.svg]
-   Iulian71 o 2023-10-17 09:08
-   S-a dezumflat si gogoasa cu cei 40 de bebelusi decapitati.nu i-a vazut
-   dar toata lumea s-au oripilat. Acum se da vina pe un soldat israelian"
-   necunoscut" si pe o reportera care ar fi exagerat" putin". Tactici de
-   influentare a opiniei publice ,model "Rusia". Si c�te cazuri or mai fi.
-   Atac aerian asupra refugiatilor, " nu noi, Hamas-ul! Atac aerian pe
+   Iulian71 • 2023-10-17 09:08
+   S-a dezumflat și gogoasa cu cei 40 de bebeluși decapitați.nu i-a văzut
+   dar toată lumea s-au oripilat. Acum se dă vina pe un soldat israelian"
+   necunoscut" și pe o reporteră care ar fi exagerat" puțin". Tactici de
+   influențare a opiniei publice ,model "Rusia". Și câte cazuri or mai fi.
+   Atac aerian asupra refugiaților, " nu noi, Hamas-ul! Atac aerian pe
    teritoriul Egiptului la punctul de trecere a frontierei: Tot Hamas?
-   Probabil! Realitate este ca evreii si-au cumparat dreptul de a avea
-   doar ei dreptate. Dreptatea lor! Si aici pe HN daca nu urmezi linia lor
-   esti batjocorit si insultat pentru ca, nu-i asa,doar ei cunosc
-   adevarul.
+   Probabil! Realitate este că evreii și-au cumpărat dreptul de a avea
+   doar ei dreptate. Dreptatea lor! Și aici pe HN dacă nu urmezi linia lor
+   ești batjocorit și insultat pentru că, nu-i așa,doar ei cunosc
+   adevărul.
    [comment_gray.svg] [ic_downvote.svg] 61 [ic_upvote.svg] 31
    [share_gray.svg]
-   Rusul ucrainian o 2023-10-17 11:23
+   Rusul ucrainian • 2023-10-17 11:23
    In curand vom fi dati in judecata pentru nealiniere in turma, asteapta
    putin!
    [comment_gray.svg] [ic_downvote.svg] 52 [ic_upvote.svg] 18
    [share_gray.svg]
-   ParaDoxis o 2023-10-17 11:26
-   ... urechea si ochiu' mare ... e anotimpu' de manipulare !...
+   ParaDoxis • 2023-10-17 11:26
+   ... urechea și ochiu' mare ... e anotimpu' de manipulare !...
    [comment_gray.svg] [ic_downvote.svg] 29 [ic_upvote.svg] 16
    [share_gray.svg]
-   sicario o 2023-10-17 12:40
-   Numai de Ciolacu aveau astia chef acum.
+   sicario • 2023-10-17 12:40
+   Numai de Ciolacu aveau ăștia chef acum.
    [comment_gray.svg] [ic_downvote.svg] 2 [ic_upvote.svg] 34
    [share_gray.svg]
-   ParaDoxis o 2023-10-17 13:51
-   ... vine si cu cumparaturi de acolo ?!
+   ParaDoxis • 2023-10-17 13:51
+   ... vine și cu cumparături de acolo ?!
    [comment_gray.svg] [ic_downvote.svg] 3 [ic_upvote.svg] 23
    [share_gray.svg]
-   ParaDoxis o 2023-10-17 14:20
-   ... este o gluma bineinteles ! Peste toate nenorocirile care se
+   ParaDoxis • 2023-10-17 14:20
+   ... este o glumă bineinteles ! Peste toate nenorocirile care se
    intampla ... totusi nu trebuie sa ne pierdem cu firea ! :)
    [comment_gray.svg] [ic_downvote.svg] 11 [ic_upvote.svg] 5
    [share_gray.svg]
-   H2SO4 o 2023-10-17 18:23
-   Vezi ca Firea e nume propriu.
+   H2SO4 • 2023-10-17 18:23
+   Vezi că Firea e nume propriu.
    [comment_gray.svg] [ic_downvote.svg] 2 [ic_upvote.svg] 10
    [share_gray.svg]
-   ParaDoxis o 2023-10-17 20:35
-   ... firea-i tu sa fii ... nu e chiar asa ! :)
+   ParaDoxis • 2023-10-17 20:35
+   ... firea-i tu să fii ... nu e chiar așa ! :)
    [comment_gray.svg] [ic_downvote.svg] 1 [ic_upvote.svg] 6
    [share_gray.svg]
-   Ion B o 2023-10-17 12:59
+   Ion B • 2023-10-17 12:59
    Asta lipsea in Israel, vizita lui Ciolacu.
    [comment_gray.svg] [ic_downvote.svg] 1 [ic_upvote.svg] 26
    [share_gray.svg]
-   mos ion roata o 2023-10-17 13:07
+   mos ion roata • 2023-10-17 13:07
    S-a intors lumea cu ciolacu-n sus, parca altcineva facea politica
    externa...
    [comment_gray.svg] [ic_downvote.svg] 3 [ic_upvote.svg] 20
    [share_gray.svg]
-   olariub2005 o 2023-10-17 13:11
+   olariub2005 • 2023-10-17 13:11
    Colacu e inutil acolo; merge sa-si faca campanie electorala si sa se
    dea important.
    [comment_gray.svg] [ic_downvote.svg] 4 [ic_upvote.svg] 29
    [share_gray.svg]
-   triciupa o 2023-10-17 13:36
+   triciupa • 2023-10-17 13:36
    Ciolacu e inutil oriunde, nu doar in Israel.
    [comment_gray.svg] [ic_downvote.svg] 1 [ic_upvote.svg] 30
    [share_gray.svg]
-   TarzanescuDEla7 o 2023-10-17 18:54
-   Merge sa "cerseasca" un Iron Dome pentru armata rom�na pe care sa-l
-   facem cadou Ucrainei, ca sa boceasca toti putleristii cu lacrimi de
+   TarzanescuDEla7 • 2023-10-17 18:54
+   Merge sa "cerșească" un Iron Dome pentru armata română pe care să-l
+   facem cadou Ucrainei, că sa bocească toți putleristii cu lacrimi de
    crocobau!
    [comment_gray.svg] [ic_downvote.svg] 11 [ic_upvote.svg] 2
    [share_gray.svg]
-   SimonneLe o 2023-10-17 13:16
+   SimonneLe • 2023-10-17 13:16
    Sa-l opreasca acolo, doamne ajuta :)
    [comment_gray.svg] [ic_downvote.svg] 3 [ic_upvote.svg] 24
    [share_gray.svg]
-   tedycv o 2023-10-17 13:53
-   Omul, desi nu este cel mai puternic animal de pe pam�nt, este cel mai
-   inteligent. Nimic din ceea ce a dezvoltat omul pe pam�nt nu este mai
-   rau dec�t razboiul, adica RAUL RAULUI! Cu orice argumente de politica,
-   ideologie sau rasa, raul ram�ne rau. Bine ar fi sa ne adunam toti, umar
-   langa umar, pentru PACE. C�nd ma veti chema, eu voi fi acolo.
+   tedycv • 2023-10-17 13:53
+   Omul, deși nu este cel mai puternic animal de pe pământ, este cel mai
+   inteligent. Nimic din ceea ce a dezvoltat omul pe pământ nu este mai
+   rău decât războiul, adică RAUL RAULUI! Cu orice argumente de politica,
+   ideologie sau rasa, răul rămâne rău. Bine ar fi sa ne adunam toți, umăr
+   langa umăr, pentru PACE. Când ma veți chema, eu voi fi acolo.
    [comment_gray.svg] [ic_downvote.svg] 15 [ic_upvote.svg] 11
    [share_gray.svg]
-   John_Re o 2023-10-17 14:48
-   Cea mai nociva arma dezvoltata de om este religia. At�ta vreme cat
-   exista religii pe pam�nt vor fi si razboaie. Spalatul pe creier din
-   universitati si media doar ascund realitatea in care traim.
+   John_Re • 2023-10-17 14:48
+   Cea mai nociva arma dezvoltată de om este religia. Atâta vreme cat
+   există religii pe pământ vor fi si războaie. Spălatul pe creier din
+   universități si media doar ascund realitatea in care traim.
    [comment_gray.svg] [ic_downvote.svg] 14 [ic_upvote.svg] 15
    [share_gray.svg]
-   gmb72 o 2023-10-17 20:25
+   gmb72 • 2023-10-17 20:25
    Nu, omul nu a inventat religia, ci A POLITIZAT-O. In loc sa fie
    cultivate cele 10 porunci biblice sau cei 5 stalpi ai islamului,
    fiecare a interpretat preceptele biblice sau coranice dupa interesele
@@ -1258,360 +1254,352 @@ energetice �n Rom�nia / Un furnizor a avut o crestere de 18.346% a...
    neganditoare.
    [comment_gray.svg] [ic_downvote.svg] 4 [ic_upvote.svg] 17
    [share_gray.svg]
-   ex nihilo o 2023-10-17 15:42
-   @tedy (sper ca nu esti ursuletul): Esti sigur?! C�teodata, Razboiul, da
-   - e rau ca ia vieti, distruge, deposedeaza, alieneaza, chinuie si
-   dezumanizeaza. �nsa, nu de putine ori, produce si oameni sfinti. �n
-   timp ce Pacea - de cealalta parte - (produce) homosexuali & leze,
-   traficanti de droguri, (datatori dar mai ales) primitori de mita,
-   traficanti de organe (invoc�nd ca unii desi n-au activitate cerebrala,
-   cica n-ar fi vii), corupti, �ncasatori de pensii speciale, ceceristi,
-   violatori si alte specii ca m-am saturat sa le enumar... Deci, �nca
-   odata: esti sigur, de cele ce ne spui? (Nu de altceva - dar ti-am dat
+   ex nihilo • 2023-10-17 15:42
+   @tedy (sper că nu ești ursulețul): Ești sigur?! Câteodată, Războiul, da
+   - e rău că ia vieți, distruge, deposedează, alienează, chinuie și
+   dezumanizează. Însă, nu de puține ori, produce și oameni sfinți. În
+   timp ce Pacea - de cealaltă parte - (produce) homosexuali & leze,
+   traficanți de droguri, (dătători dar mai ales) primitori de mită,
+   traficanți de organe (invocând că unii deși n-au activitate cerebrală,
+   cică n-ar fi vii), corupți, încasatori de pensii speciale, ceceriști,
+   violatori și alte specii că m-am saturat să le enumăr… Deci, încă
+   odată: ești sigur, de cele ce ne spui? (Nu de altceva - dar ți-am dat
    plus).
    [comment_gray.svg] [ic_downvote.svg] 21 [ic_upvote.svg] 5
    [share_gray.svg]
-   Bolovanu2 o 2023-10-17 23:25
+   Bolovanu2 • 2023-10-17 23:25
    Vezi comentariile despre Religie, ca d-aia sunt razboaie si lipsa de
    educatie, scoala.
    [comment_gray.svg] [ic_downvote.svg] 2 [ic_upvote.svg] 2
    [share_gray.svg]
-   salvatore o 2023-10-17 15:31
+   salvatore • 2023-10-17 15:31
    Bine ca le-a spus Ciolacu evreilor ca au dreptul sa se apere. Va dati
    seama ce s-ar fi intamplat daca nu le dadea acceptul? Sau le-a spus ca
    au dreptul sa se apere atacand? Eh, asta e altceva.
    [comment_gray.svg] [ic_downvote.svg] 5 [ic_upvote.svg] 14
    [share_gray.svg]
-   mahnit o 2023-10-17 16:13
-   Mai �nt�i trebuie gasita solutia sa-i "afume" pe teroristii aciuati in
+   mahnit • 2023-10-17 16:13
+   Mai întâi trebuie găsită soluția să-i "afume" pe teroriștii aciuati in
    subteranele din nordul Gaza.
    [comment_gray.svg] [ic_downvote.svg] 3 [ic_upvote.svg] 13
    [share_gray.svg]
-   othersidelusion o 2023-10-17 16:31
+   othersidelusion • 2023-10-17 16:31
    Da, cred ca cel mai repede ii scoteau cu fum de la gratarele noastre cu
    mici din porc! Se lasau de terorism
    [comment_gray.svg] [ic_downvote.svg] 1 [ic_upvote.svg] 15
    [share_gray.svg]
-   Andrei(C) o 2023-10-17 17:18
-   Chiar �ncepusem sa-mi fac griji ca nu se duce Ciolacu �n Israel sa
-   rezolve problema. Pfiu, era c�t pe ce sa asistam la un conflict major
-   de lunga durata. M-am linistit.
+   Andrei(C) • 2023-10-17 17:18
+   Chiar începusem să-mi fac griji că nu se duce Ciolacu în Israel să
+   rezolve problema. Pfiu, era cât pe ce să asistăm la un conflict major
+   de lungă durată. M-am liniştit.
    [comment_gray.svg] [ic_downvote.svg] 1 [ic_upvote.svg] 15
    [share_gray.svg]
-   mcmn243 o 2023-10-17 18:59
+   mcmn243 • 2023-10-17 18:59
    Bine ca n-ai facut infarct!
    [comment_gray.svg] [ic_downvote.svg] 11 [ic_upvote.svg] 1
    [share_gray.svg]
-   baimarean o 2023-10-17 22:00
+   baimarean • 2023-10-17 22:00
    Tot internetul e plin de videouri cu cele 2 rachete lansate de Hamas,
-   din care una a "esuat" in spital (intentionat sau nu nu stim). Ar
-   trebui lasate linkurile pt edificare fie ele YTube sau Telegram
+   din care una a "esuat" in spital (intenționat sau nu nu știm). Ar
+   trebui lăsate linkurile pt edificare fie ele YTube sau Telegram
    [comment_gray.svg] [ic_downvote.svg] 10 [ic_upvote.svg] 4
    [share_gray.svg]
-   Radium o 2023-10-17 22:43
+   Radium • 2023-10-17 22:43
    Demonii Hamas au facut din adins ptr a escalada conflictul.
    [comment_gray.svg] [ic_downvote.svg] 7 [ic_upvote.svg] 5
    [share_gray.svg]
-   ploiesteanu o 2023-10-17 23:01
-   Bombardarea spitalului din Gaza este rezultatul lansarii esuate a unei
-   rachete, de catre Jihadul Islamic. �n momentele premergatoare lovirii
+   ploiesteanu • 2023-10-17 23:01
+   Bombardarea spitalului din Gaza este rezultatul lansării eșuate a unei
+   rachete, de către Jihadul Islamic. În momentele premergătoare lovirii
    spitalului, a fost efectuat un baraj de rachete pentru a lovi Israelul.
-   Rachetele au trecut prin vecinatatea spitalului c�nd a fost lovit. Una
-   dintre aceste rachete �ndreptate spre Israel, �si modifica �naltimea si
-   pica pe spital, se vede din imaginile filmate.
+   Rachetele au trecut prin vecinătatea spitalului când a fost lovit. Una
+   dintre aceste rachete îndreptate spre Israel, își modifică înălțimea și
+   pică pe spital, se vede din imaginile filmate.
    [comment_gray.svg] [ic_downvote.svg] 7 [ic_upvote.svg] 5
    [share_gray.svg]
-   Salam42 o 2023-10-18 02:30
+   Salam42 • 2023-10-18 02:30
    Imaginile alea sunt cu 1h inaintea atacului.
    [comment_gray.svg] [ic_downvote.svg] 1 [ic_upvote.svg] 1
    [share_gray.svg]
-   AM1981 o 2023-10-17 23:11
+   AM1981 • 2023-10-17 23:11
    Si au aparut si filmarile (culmea de la hamas)...in care se vede cum
    racheta este lansata din apropiere si are o traiectorie ciudata...cam
    improbabil ca israelienii sa intre si sa lanseze o racheta chiar din
    Gaza.
    [comment_gray.svg] [ic_downvote.svg] 7 [ic_upvote.svg] 11
    [share_gray.svg]
-   Salam42 o 2023-10-18 02:32
+   Salam42 • 2023-10-18 02:32
    dupa rezultatul atacului, cel mai probabil a fost un JDAM din F35.
    [comment_gray.svg] [ic_downvote.svg] 0 [ic_upvote.svg] 2
    [share_gray.svg]
-   ADAUGA COMENTARIU (35 comentarii)
+   ADAUGĂ COMENTARIU (35 comentarii)
 
-   ADAUGA COMENTARIU
+   ADAUGĂ COMENTARIU
    ____________________ 700
 
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
    ____________________________________________________________
-   Renunta Trimite comentariu
+   Renunță Trimite comentariu
 
    Avertisment: Autorul comentariului va fi singurul responsabil de
-   continutul comentariului si �si va asuma eventualele daune, �n cazul
-   unor actiuni legale �mpotriva celor publicate.
-   Prin apasarea butonului "Trimite comentariu", sunteti de acord cu
-   "Termenii si conditiile de utilizare ale site-ului HotNews.ro".
-   Daca nu sunteti de acord, apasati butonul "Renunta".
+   conținutul comentariului și își va asuma eventualele daune, în cazul
+   unor acțiuni legale împotriva celor publicate.
+   Prin apasarea butonului "Trimite comentariu", sunteți de acord cu
+   "Termenii și condițiile de utilizare ale site-ului HotNews.ro".
+   Dacă nu sunteți de acord, apăsați butonul "Renunță".
    [ic_close.svg]
    Login
    Cont nou
 
-Intra �n contul tau folosind adresa de e-mail si parola
+Intra în contul tau folosind adresa de e-mail si parola
 
    ____________________ ____________________
    Am uitat parola
    Login
-   Folosind functionalitatea de login, sunteti de acord cu termenii si
-   conditiile HotNews.ro
+   Folosind funcționalitatea de login, sunteti de acord cu termenii și
+   condițiile HotNews.ro
 
 Creaza un cont nou pe HotNews.ro
 
    ____________________ ____________________ ____________________
    ____________________ ____________________ ____________________
-   [ ] Sunt de acord cu termenii si conditiile de utilizare ale siteului
+   [ ] Sunt de acord cu termenii și condițiile de utilizare ale siteului
    HotNews.ro
-   Ma �nregistrez
-   Folosind functionalitatea de login, sunteti de acord cu termenii si
-   conditiile HotNews.ro.
-   Oameni Fericiti. Medici Buni Medlife logo
+   Mă înregistrez
+   Folosind funcționalitatea de login, sunteti de acord cu termenii și
+   condițiile HotNews.ro.
+   Oameni Fericiți. Medici Buni Medlife logo
 
-   Cea mai noua tehnologie robotica �n neurochirurgie, la Spitalul MedLife
+   De ce consideră medicii că acest program face diferența între viață și
+   moarte
+
+1 din 2 copii recent diagnosticați cu cancer în România a fost deja înscris
+în Programul Gratuit de Testare Genetică dezvoltat de MedLife
+
+   Cea mai nouă tehnologie robotică în neurochirurgie, la Spitalul MedLife
    Humaniatas Cluj
 
-Premiera: MedLife aduce �n Rom�nia cea mai noua tehnologie robotica din lume
-�n practica neurochirurgicala, la Spitalul Humanitas din Cluj
+Premieră: MedLife aduce în România cea mai nouă tehnologie robotică din lume
+în practica neurochirurgicală, la Spitalul Humanitas din Cluj
 
    Dr. Pop Raluca
 
-Dr. Raluca Pop, dermatolog la DermaLife Oradea: "Un pacient pe care �l
-�ntelegi si cu care esti bun este pe jumatate vindecat"
-
-   Sala hibrida mobila, Spitalul MedLife Brasov
-
-Tratamente chirurgicale complexe la Spitalul MedLife Brasov, �n prima sala
-hibrida mobila din centrul tarii. Investitia depaseste 500.000 euro
+Dr. Raluca Pop, dermatolog la DermaLife Oradea: „Un pacient pe care îl
+înțelegi și cu care ești bun este pe jumătate vindecat”
 
    [ic_sun.svg] INTERVIURILE HotNews.ro
-   hotnews_sun ULTIMA ORA
-   12:15 o ACTUALITATE
+   hotnews_sun ULTIMA ORĂ
+   Articol susținut de fanatik.ro
 
-26 de politisti de frontiera de la Calafat, retinuti pentru luare de mita / O
-parte din ei, dusi �n alt judet din cauza aglomeratiei din arest
+fanatik.ro: De ce nu e bine să ții telefonul lângă tine atunci când dormi.
+Este un obicei foarte nesănătos
 
-   12:10 o ECONOMIE
+   20:00 • SPORT
 
-Ciolacu, nervos pe tema datoriilor: De ce nu-l �ntrebati pe C�tu? De ce nu
-ati tipat c�nd a facut datorii de 9,2% din PIB? - VIDEO
+Ladislau Boloni, încă o victorie în Ligue 1 - Pe ce loc a urcat echipa
 
-   Articol sustinut de Mediastandard.ro
+   19:59 • SuperLiga - Powered by Superbet
 
-Mediastandard.ro: Recomandarile redactiei: despre "supra�ncarea cu stiri" si
-cum sa combatem dezinformarea
+LiveBlog Dinamo - FCSB, în etapa a 17-a a SuperLigii României / Startul
+partidei, întârziat cu 10 minute
 
-   11:44 o ACTUALITATE
+   19:49 • ACTUALITATE
 
-Rom�nia, industria, carbonul si mai putina poluare - Un drum complicat pentru
-care nu suntem �nca pregatiti
+VIDEO S-a deschis Târgul de Crăciun de la Timișoara / Când se deschid
+târgurile de Crăciun din București
 
-   11:39 o LIFE
+   19:21 • ACTUALITATE
 
-O actrita c�stigatoare a Premiului Oscar a ramas fara impresar din cauza
-comentariilor de la un miting pro-Palestina
+Eugen Teodorovici a anunţat că va candida la preşedinţia României în
+alegerile din 2024
 
-   11:36 o ACTUALITATE
+   19:05 • ACTUALITATE
 
-Mircea Miclea: "Relatia dintre Educatie si Viata e ca un angrenaj dintre doua
-roti dintate. De-a lungul istoriei, ele au avut un ritm relativ compatibil.
-Dar mai nou realitatea a luat-o razna" / Solutiile fostului ministru
+Un bărbat a fost salvat de polițiști după ce a rămas blocat cu mașina din
+cauza zăpezii și a încercat să ajungă acasă pe jos
 
-   11:34 o SPORT
+   18:45 • ACTUALITATE
 
-Ciolacu, dupa ce Rom�nia s-a calificat pe primul loc �n grupa la Euro 2024: A
-venit momentul ca si Guvernul sa se implice direct �n finantarea Academiilor
-de fotbal
+Un cargobot s-a scufundat în Grecia: O persoană a murit / Operațiune de
+salvare a 12 membri ai echipajului / Un bărbat a fost salvat
 
-   11:26 o MONITORIZARI
+   18:38 • SPORT
 
-HARTA Autostrada "Moldovei" A7: Ultimul contract pe loturile PNRR, semnat pe
-1 mld de lei cu o asociere din Turcia pentru tronsonul care ajunge la Buzau
+Formula 1: Max Verstappen, încântat după un sezon fabulos pentru RedBull
 
-   Articol sustinut de fanatik.ro
+   18:32 • INTERVIU
 
-fanatik.ro: Nou tip de frauda pe Booking: "Cardul tau a fost marcat ca
-invalid". Ce a patit un bucurestean care a vrut sa faca o rezervare
+Inventatorul care a fost aruncat în închisoare de Securitate în urma unei
+înscenări povestește cum l-a salvat Fane Spoitoru de „rechini” în schimbul
+lecțiilor de engleză
 
-   11:00 o ACTUALITATE
+   18:29 • SPORT
 
-Franta se declara �n favoarea controlarii mai stricte a ajutoarelor trimise
-de UE palestinienilor
+Revelația sezonului din Premier League, încă un succes entuziasmant
 
-   10:47 o ECONOMIE
+   18:18 • SPORT
 
-Cutremur �n lumea crypto: "CZ" �si da demisia de la Binance si se pregateste
-de �nchisoare / Compania, amendata cu peste 4 miliarde de dolari
+Novak Djokovic și refuzul testului antidoping - Un fost ciclist crede că
+liderul ATP ar trebui suspendat
 
-   10:41 o DOSARE JURIDICE
+   18:17 • ACTUALITATE
 
-webPR: Reff & Asociatii | Deloitte Legal da startul unei noi editii a
-proiectului educational "Law Is Awesome!", care antreneaza studentii ce vor
-deveni viitorii avocati de business
+Încă 17 ostatici au fost eliberați de Hamas / Printre ei se află și un
+cetățean rus
 
-   10:34 o SPORT
+   18:14 • ACTUALITATE
 
-Surpriza mare �n Cupa Davis: Campioana en-titre, eliminata din sferturi
+Criza climatismului – Un interviu cu profesorul Mike Hulme, Universitatea
+Cambridge
 
-   10:16 o ECONOMIE
+   18:12 • ACTUALITATE
 
-Valentin Lazea: Cele 3 motive pentru care Rom�nia nu e Danemarca
+S-a întâmplat într-o noapte
 
-   10:06 o Minte&Corp - Powered by Regina Maria
+   17:40 • ACTUALITATE
 
-Accidentul vascular cerebral afecteaza multi tineri. Care sunt semnele AVC si
-factorii de risc ce pot fi tinuti sub control
+Premierul Spaniei îşi menţine poziția cu privire la războiul din Fâşia Gaza,
+după ce Israelul l-a acuzat de „susţinerea terorismului”: „E o chestiune de
+umanitate”
 
    Vezi toate articolele
    [ic_sun_white.svg] PROIECTE
-   Ucraina si noi
-   Banking si mai si
+   Ucraina și noi
+   Banking și mai și
    Dictionar Financiar
    Fashion Tips
    Innova Lab
-   Facem Rom�nia Bine
+   Facem România Bine
    Pagini de [cod]
    Sistemul Garantie-Returnare
-   Blogul PwC Rom�nia
+   Blogul PwC România
    EY - Fiscalitatea la zi
-   Portile ni se deschid
-   Alternative fara fum
+   Porțile ni se deschid
+   Alternative fără fum
    Drink Insider
    GoDigital
-   Recomandari de lectura
+   Recomandări de lectură
    hotnews_sun CELE MAI CITITE
-   Brigazile Al-Qassam, aripa militara a Hamas, distrug un tanc al
-   fortelor israeliene, �n Gaza
+   Drumuri blocate din cauza viscolului
 
-"Pur si simplu n-am mai rezistat". Un deputat USR a iesit din sedinta secreta
-a parlamentului �n care au fost prezentate imaginile masacrului Hamas �n
-Israel / Diana Sosoaca a facut scandal
+HARTĂ Cod roşu de viscol puternic în sud-estul României: Zeci de drumuri
+naționale închise, sute de persoane blocate în mașini și zeci de trenuri
+anulate / Granița cu Bulgaria, închisă parțial pentru camioane / Școli
+închise luni în 5 județe
 
-Preliminarii Euro 2024: Rom�nia c�stiga Grupa I si �ncheie campania de
-calificare fara esec
+Trupele rusești avansează în Avdiivka. Ce spune armata ucraineană
 
-Comisia Europeana a aprobat modificarea PNRR, care include un capitol privind
-REPowerEU / Mai multi bani pentru energia verde si tranzitia digitala
+FOTO Primele imagini cu tancurile americane Abrams pe frontul din Ucraina
 
-Cine sunt oamenii de afaceri si firmele care au profitat de pe urma crizei
-energetice �n Rom�nia / Un furnizor a avut o crestere de 18.346% a cifrei de
-afaceri si cu 3.298% a profitului
+LIVE Război în Ucraina, ziua 641: Rusia ar fi mutat sisteme strategice din
+Kaliningrad pierderile recente de pe front - Armata britanică / Moscova și
+Kiev susțin fiecare că au respins atacuri cu drone / Trupele rusești
+avansează la Avdiivka
 
-Cristian Ghinea, derapaj: "Marcel Ciolacu e un prost. Nu exista nimic dincolo
-de privirea bovina"
+Cum va fi vremea în zilele următoare după episodul sever de iarnă din
+noiembrie. Anunțul șefei ANM
 
-Proiect megaloman: Sebastian Burduja vrea sa conecteze Rom�nia cu
-Azerbaidjan, Georgia si Ungaria printr-un urias cablu de curent continuu / A
-fost semnat un memorandum
+Cimpanzeii folosesc o tactică de război nemaivăzută până acum / Ultimul film
+Indiana Jones apare în streaming / Black Mirror a fost reînnoit pentru încă
+un sezon la Netflix
 
-VIDEO Ce nu vezi la tv despre conflictul din Gaza, episodul 3: Scrisoarea lui
-Bin Laden catre America a devenit virala pe TikTok, la 21 ani de la
-publicare, dar oamenii care au rasp�ndit-o nu au �nteles-o
+Șeful Poliției de Frontieră ar urma să fie demis, după ce Cătălin Cherecheș a
+ieșit din țară cu actul unei rude - presă
 
    Banca Transilvania
 
-Cutremur �n lumea crypto: "CZ" �si da demisia de la Binance si se pregateste
-de �nchisoare / Compania, amendata cu peste 4 miliarde de dolari
+Ce urmări va avea marea schismă AI, faza pe banii ChatGPT
 
-Auchan si Penny, amendate �n total cu 6,3 milioane de lei, din cauza
-produselor expirate, mizeriei si g�ndacilor
+Elon Musk s-a răzgândit în privința uneia dintre modificările majore pe care
+le-a decis la „X”
 
-Un grup de congresmeni americani acuza platforma "X" a lui Elon Musk ca
-profita financiar de pe urma postarilor antisemite violente
+Joburi part-time și full-time la Târgurile de Crăciun din România. Ce salarii
+oferă organizatorii și comercianții în 2023
 
-Rom�nia pierde 640 milioane EUR din PNRR, �n urma ajustarii aprobate de
-Comisia Europeana
+Cazul Binance: Investitorii au retras aproape 956 milioane dolari de pe
+platforma crypto după demisia CEO-ului Changpeng Zhao
 
-Ce asteptari au angajatii rom�ni c�nd vine vorba de locul de munca, �n
-functie de generatie: Z, Y, X si Baby Boomers (studiu 2023)
+Rezultate Digitalizare IMM: Primele 1020 de firme admise la fondurile de max.
+100.000 EUR din PNRR. MIPE le-a evaluat cu roboții software ai startup-ului
+românesc Tailent
 
    contributors_logo
    contributors_author
-   Cristian Ghinghes
+   Constantin Crânganu
 
-Legea mobilitatii urbane obliga orasele din Rom�nia sa ia �ncep�nd din 2025
-masurile...
-
-   contributors_author
-   Laurentiu Plesca
-
-Rusia �si pregateste stocurile de rachete pentru a bombarda infrastructura
-energetica...
+Criza climatismului – Un interviu cu profesorul Mike Hulme, Universitatea
+Cambridge
 
    contributors_author
-   Gabriel Barbu
+   Mihai Maci
 
-Fenomenul legiferarii prin rectificari
+Dezastrul învățământului românesc
 
    contributors_author
    Mircea Morariu
 
-Spectacole bucurestene (I)
+S-a întâmplat într-o noapte
 
    contributors_author
-   Contributors
+   Mircea Morariu
 
-Armand Gosu: "Eu ma pricep la Rusia si va spun ca nu e deloc de ne�nvins, e o
-tara �n...
+Virgil Ierunca- MÂNTUIREA ROMÂNEASCĂ
 
-   sigla_partener
+   contributors_author
+   Cristian Felea
 
-"Tatal" ChatGPT se �ntoarce "acasa": Sam Altman revine �n functia de director
-general al OpenAI
-
-Crypto 2023: Departamentul de Justitie al SUA solicita peste 4 miliarde
-dolari de la Binance Holdings
-
-Doua startup-uri rom�nesti, calificate la competitia BASF Innovation Hub
-2023, �n etapa regionala
-
-Rom�nia pierde 640 milioane EUR din PNRR, �n urma ajustarii aprobate de
-Comisia Europeana
-
-Startup-ul GoodLegal, fondat de fostul "avocat al UiPath", �nchide platforma
-de automatizare juridica lansata �n 2022
+Reactoarele modulare mici, între optimism defensiv și pesimism exaltat
 
    sigla_partener
 
-"Dolarizarea" Argentinei: Ce �nseamna si de ce ar fi o palma pentru China
+Se depun iarăși bani la programul Fidelis 2023: Dobânzile acordate de stat la
+lei și euro
 
-Perchezitii DNA la Vama Sculeni; politisti si vamesi, acuzati ca luau mita de
-la soferi - surse
+Finanțări de max. 500.000 lei de la stat pentru firme românești, prin
+Programul de accelerare IMM - procedura din Monitorul Oficial
 
-Din Turcia se pregateste o operatiune de perturbare a activitatilor din
-porturile israeliene
+[P] Anunț finalizare „Retehnologizare activitate cursuri de limba engleza” -
+SMILE EFFECT SRL
 
-Eurodeputat bulgar: Bulgaria nu va adera la Schengen �nainte de alegerile din
-Austria din 2024
+Startup-uri românești, incluse într-un top al firmelor de tehnologie cu cea
+mai mare creștere până în 2023
 
-Guvernul israelian aproba un acord de armistitiu temporar. Mai multi ostatici
-vor fi eliberati
+„Robotul” ChatGPT poate discuta acum cu utilizatorii în mod gratuit
+
+   sigla_partener
+
+Putin sărbătorește victoria lui ”Trump olandez”
+
+Strugariu: Justiția trebuie să își facă treaba și să investigheze
+
+PE: Reacție insuficientă a Comisiei Europene față de interceptările realizate
+cu softuri de spionaj
+
+Rusia va opri exportul de grâu în următoarele șase luni pentru ”a-și asigura
+securitatea alimentară"
+
+Coreea de Nord a primit ajutor din partea Rusiei pentru a-și lansa satelitul
+spion, suștine Seul
 
    hotnews_logo
 
-   Siteul HotNews.ro foloseste cookie-uri. Cookie-urile ne ajuta sa
-   �mbunatatim serviciile noastre. Mai multe detalii, aici.
+   Siteul HotNews.ro foloseste cookie-uri. Cookie-urile ne ajută să
+   îmbunătățim serviciile noastre. Mai multe detalii, aici.
 
-   Puteti modifica aici setarile de cookie: (BUTTON) Modifica Setarile
+   Puteți modifica aici setările de cookie: (BUTTON) Modifică Setările
 
-   Cititi si Politica de confidentialitate aici
+   Citiți și Politica de confidențialitate aici
 
-   Folosind HotNews.ro, sunteti de acord cu termenii si conditiile de
+   Folosind HotNews.ro, sunteți de acord cu termenii și condițiile de
    utilizare ale siteului nostru.
    Despre noi
    Site
    Contact
-   Redactie
+   Redacție
    Publicitate
-   Agentii
+   Agenții
    Agerpres
    France Presse
    News.ro
@@ -1630,4 +1618,4 @@ vor fi eliberati
    GTS
    Medlife
    Tremend
-   � Copyright HotNews.ro 2006-2023
+   © Copyright HotNews.ro 2006-2023

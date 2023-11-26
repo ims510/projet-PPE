@@ -7,120 +7,120 @@
    alternate alternate alternate alternate alternate alternate alternate
    alternate alternate alternate
 
-   Treci la continutul paginii
+   Treci la conținutul paginii
 
-   (BUTTON) Pagina principala Europeana
+   (BUTTON) Pagina principală Europeana
 
-     * Pagina natala
-     * Colectii
-     * Naratiuni
-     * Contribuiti datele voastre
-     * Autentificare / �nregistrare
+     * Pagină natală
+     * Colecții
+     * Narațiuni
+     * Contribuiți datele voastre
+     * Autentificare / Înregistrare
 
    (BUTTON) (BUTTON)
 
-   (BUTTON) Pagina principala Europeana
-     * Pagina natala
-     * Colectii
-     * Naratiuni
-     * Contribuiti datele voastre
+   (BUTTON) Pagina principală Europeana
+     * Pagină natală
+     * Colecții
+     * Narațiuni
+     * Contribuiți datele voastre
      * Pentru profesori
      * Despre
      * Help
-     * Autentificare / �nregistrare
+     * Autentificare / Înregistrare
 
    (BUTTON)
    ____________________
-   (BUTTON) Curata
-   (BUTTON) Cauta tot
+   (BUTTON) Curăță
+   (BUTTON) Caută tot
 
-Cautare rapida
+Căutare rapidă
 
-   Arheologie Arta Fotografie Harti si geografie Istorie naturala
-   Manuscrise Migratie Moda Muzica Patrimoniu industrial Primul Razboi
+   Arheologie Artă Fotografie Hărți și geografie Istorie naturală
+   Manuscrise Migrație Modă Muzică Patrimoniu industrial Primul Razboi
    Mondial Sport Ziare
 
     1. Expozitii
-    2. Sunetul transeelor
-    3. Instrumente de razboi
+    2. Sunetul tranșeelor
+    3. Instrumente de război
 
-   Expozitie
+   Expoziție
 
-Sunetul transeelor
+Sunetul tranșeelor
 
-Instrumente de razboi
+Instrumente de război
 
-   (BUTTON) Distribuiti
+   (BUTTON) Distribuiți
 
-   Este greu de imaginat cum au putut supravietui soldatii �n transee,
-   c�nd fiecare zi putea sa fie ultima. Erau �nsa momente de eliberare �n
-   mijlocul noroiului si obuzelor de pe front. Muzica se auzea �n zona din
-   spate, o zona operationala care avea legatura cu teritoriul de origine,
-   care constituia un loc de calm si recreere pentru soldatii care se
-   �ntorceau de la datorie din prima linie. Evident, nu aveau loc aici
+   Este greu de imaginat cum au putut supraviețui soldații în tranșee,
+   când fiecare zi putea să fie ultima. Erau însă momente de eliberare în
+   mijlocul noroiului și obuzelor de pe front. Muzica se auzea în zona din
+   spate, o zonă operațională care avea legătură cu teritoriul de origine,
+   care constituia un loc de calm și recreere pentru soldații care se
+   întorceau de la datorie din prima linie. Evident, nu aveau loc aici
    recitaluri orchestrale mari, dar erau persoane sau grupuri mici de
-   muzicieni care �ncercau sa detensioneze atmosfera.
+   muzicieni care încercau să detensioneze atmosfera.
 
-     O crima flagranta �mi sf�sie dupa-amiezile.
+     O crimă flagrantă îmi sfâșie după-amiezile.
 
-   dintr-un poem "The Calls" de Wilfred Owen
+   dintr-un poem „The Calls” de Wilfred Owen
 
-   Toate armatele aveau orchestre de regiment, dar soldatii �si aduceau
-   instrumentele personale, nu doar pe cele mici si portabile, precum orga
-   de suflat, fluiere, muzicute si instrumente de alama, ci si
-   instrumentele cu coarde mai vulnerabile, precum viori, chitari si chiar
+   Toate armatele aveau orchestre de regiment, dar soldații își aduceau
+   instrumentele personale, nu doar pe cele mici și portabile, precum orgă
+   de suflat, fluiere, muzicuțe și instrumente de alamă, ci și
+   instrumentele cu coarde mai vulnerabile, precum viori, chitări și chiar
    violoncel.
 
-   "Violoncelul de transeu" sau, cum era initial numit "violoncelul de
-   vacanta" era un instrument foarte practic deoarece era capabil, cu
-   exceptia arcusului, sa fie �mpachetat �ntr-un recipient de marimea unui
-   cutii de munitie, fac�ndu-l rezonabil de usor de transportat. �n timpul
-   primul razboi mondial, au fost produse versiuni �n spatele liniilor, de
-   obicei din placaj, desi erau folosite si vechi recipiente de ulei de
-   otel.
+   „Violoncelul de tranșeu” sau, cum era inițial numit „violoncelul de
+   vacanță” era un instrument foarte practic deoarece era capabil, cu
+   excepția arcușului, să fie împachetat într-un recipient de mărimea unui
+   cutii de muniție, făcându-l rezonabil de ușor de transportat. În timpul
+   primul război mondial, au fost produse versiuni în spatele liniilor, de
+   obicei din placaj, deși erau folosite și vechi recipiente de ulei de
+   oțel.
 
-   Desi acestor instrumente le lipseste profunzimea si tonul unui
-   violoncel autentic, de marime normala, sunetul pe care �l produc este
-   foarte usor de recunoscut si se apropie surprinzator de mult de
-   original. Specialistul britanic Stephen Isserlis a �nregistrat piese de
-   Faur�, Debussy si Webern pe un violoncel de transee (Violoncelul �n
-   timp de razboi, Stephen Isserlis).
+   Deși acestor instrumente le lipsește profunzimea și tonul unui
+   violoncel autentic, de mărime normală, sunetul pe care îl produc este
+   foarte ușor de recunoscut și se apropie surprinzător de mult de
+   original. Specialistul britanic Stephen Isserlis a înregistrat piese de
+   Fauré, Debussy și Webern pe un violoncel de tranșee (Violoncelul în
+   timp de război, Stephen Isserlis).
 
-   �n timpul primului razboi mondial, fluierele erau folosite pentru a
-   indica infanteriei sa "ia cu asalt", cu alte cuvinte sa iasa din
-   transee si sa avanseze contactul cu inamicul. Prezentat aici este un
-   exemplu foarte comun de astfel de fluier folosit de armata britanica,
-   facut de J. Hudson & Co �n 1914.
+   În timpul primului război mondial, fluierele erau folosite pentru a
+   indica infanteriei să „ia cu asalt”, cu alte cuvinte să iasă din
+   tranșee și să avanseze contactul cu inamicul. Prezentat aici este un
+   exemplu foarte comun de astfel de fluier folosit de armata britanică,
+   făcut de J. Hudson & Co în 1914.
 
-   Cea mai cunoscuta folosinta a tobelor �n domeniul militar este pentru
-   sincronizarea marsului soldatilor. �n transee, tobosarii erau activi ca
-   si curieri, infirmieri sau purtatori de targa.
+   Cea mai cunoscută folosință a tobelor în domeniul militar este pentru
+   sincronizarea marșului soldaților. În tranșee, toboșarii erau activi ca
+   și curieri, infirmieri sau purtători de targă.
 
-   Toba prezentata era detinuta de Louis-Marius Guy, nascut �n 1895 �n
-   Montpellier, Franta. Dupa instruirea sa �n 1911, el s-a alaturat
-   Regimentului 141 de infanterie, din Marseille, �n 1912, ca tobosar.
-   Louis-Marius era activ pe mai multe fronturi si a fost ranit de mai
-   multe ori. Dupa Armistitiu, el a fost trimis �n Germania ca membru al
-   fortelor ocupante. A fost eliberat din serviciu �n august 1919, dupa
-   opt ani. Louis-Marius a tinut la toba sa toata viata lui. A murit �n
+   Toba prezentată era deținută de Louis-Marius Guy, născut în 1895 în
+   Montpellier, Franța. După instruirea sa în 1911, el s-a alăturat
+   Regimentului 141 de infanterie, din Marseille, în 1912, ca toboșar.
+   Louis-Marius era activ pe mai multe fronturi și a fost rănit de mai
+   multe ori. După Armistițiu, el a fost trimis în Germania ca membru al
+   forțelor ocupante. A fost eliberat din serviciu în august 1919, după
+   opt ani. Louis-Marius a ținut la toba sa toată viața lui. A murit în
    2005.
 
-   De fel t�mplar, �n timpul primului razboi mondial, Czeslaus Nowakowski
-   a luat parte la numeroase batalii at�t pe frontul de vest c�t si pe cel
-   de est. A fost ranit de trei ori si a primit Crucea de Fier si alte
-   medalii. A c�ntat la mai multe instrumente dupa ureche si a fost
-   desemnat interpret de corn �n timpul razboiului. Zeci de ani dupa
-   razboi, instrumentul a fost tinut �ntr-un pod, �mpachetat �n ziare.
-   Goarna este gravata cu cuvintele "C.W. Meisel Senior, Klingenthal i/S
-   [in Saxony] 1915" si are un vultur cu literele "F.R.".
+   De fel tâmplar, în timpul primului război mondial, Czeslaus Nowakowski
+   a luat parte la numeroase bătălii atât pe frontul de vest cât și pe cel
+   de est. A fost rănit de trei ori și a primit Crucea de Fier și alte
+   medalii. A cântat la mai multe instrumente după ureche și a fost
+   desemnat interpret de corn în timpul războiului. Zeci de ani după
+   război, instrumentul a fost ținut într-un pod, împachetat în ziare.
+   Goarna este gravată cu cuvintele „C.W. Meisel Senior, Klingenthal i/S
+   [in Saxony] 1915” și are un vultur cu literele „F.R.”.
 
-     C�nd suna goarna, am sentimentul ca as construi un pod spre
-     transeele primului razboi mondial catre bunicul meu.
+     Când sună goarna, am sentimentul că aș construi un pod spre
+     tranșeele primului război mondial către bunicul meu.
 
-   Proprietarul curent al goarnei - nepotul lui Nowakowski - pretinde ca
-   muzicalitatea s-a transmis de la bunicul sau la el. "C�nd am �nceput sa
-   suflu semnale pe furtunul pompei cu aer c�nd ma aflam �n vacanta �n
-   1981, ca adolescent, tatal meu si-a amintit de goarna �n dulapul
-   bucatariei matusii sale si mai t�rziu mi-a adus-o. Dupa o scurta
-   �ncercare, am putut sa redau semnalele obisnuite dupa ureche, de ex.
-   Ultimul Post si Zapfenstreich."
+   Proprietarul curent al goarnei - nepotul lui Nowakowski - pretinde că
+   muzicalitatea s-a transmis de la bunicul său la el. „Când am început să
+   suflu semnale pe furtunul pompei cu aer când mă aflam în vacanță în
+   1981, ca adolescent, tatăl meu și-a amintit de goarnă în dulapul
+   bucătăriei mătușii sale și mai târziu mi-a adus-o. După o scurtă
+   încercare, am putut să redau semnalele obișnuite după ureche, de ex.
+   Ultimul Post și Zapfenstreich.”
