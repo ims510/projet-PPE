@@ -53,6 +53,21 @@ pe HotNews.ro:
    războiul arabo-israelian 1949, Războiul de 6 zile 1967, Intifada 1987.
    O hotărâre proastă luată politic a dus la zeci de ani de lupte.
 --
+<<<<<<< HEAD
+   20:21 • ACTUALITATE
+Ucraina se teme că războiul se va extinde din nou dincolo de est și sud.
+„Este un război al resurselor” - comandantul Forțelor Comune
+   Articol susținut de fanatik.ro
+--
+FOTO Primele imagini cu tancurile americane Abrams pe frontul din Ucraina
+LIVE Război în Ucraina, ziua 641: Rusia ar fi mutat sisteme strategice din
+Kaliningrad pe fondul pierderilor de pe front - Armata britanică / Moscova și
+--
+vecini
+Cimpanzeii folosesc o tactică de război nemaivăzută până acum / Ultimul film
+Indiana Jones apare în streaming / Black Mirror a fost reînnoit pentru încă
+=======
 „pentru restabilirea eficienței manageriale”
 Război în Ucraina, ziua 642: Rusia a suferit luna aceasta pierderi de soldați
 fără precedent / „Vremea extrem de dificilă” afectează mai multe regiuni
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc

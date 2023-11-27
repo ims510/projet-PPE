@@ -4,7 +4,11 @@
 
    cauta ANTENA 3 CNN
    ANTENA 3 CNN LIVE
+<<<<<<< HEAD
+   În Gura Presei cu Mircea Badea
+=======
    NEWSROOM cu Andreea Dumitrache
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
    icon TV
    ____________________
    Cauta
@@ -249,6 +253,26 @@ atacuri rusești cu un număr record de drone
 
    TOP articole pe Antena 3 CNN:
     1.
+<<<<<<< HEAD
+   ciudatenie meteo romania viscol prognoza
+       Ciudăţenie meteo în România, azi-noapte, în mijlocul viscolului
+    2.
+   pensionari romani bani in plus pensie luna decembrie carduri alimente
+       Pensionarii români care vor primi bani în plus, pe lângă pensie, în
+       luna decembrie
+    3.
+   elena mateescu director anm vremea iarna prognoza meteo fenomen
+       Elena Mateescu, director ANM, avertisment despre vremea din
+       următoarele zile | Fenomenul care ar putea afecta România
+    4.
+   sorin gadola fondator untold obiceiuri schimbate boala autoimuna grava
+       Sorin Gadola, fondatorul Untold, schimbare majoră după ce a aflat
+       că suferă de o boală gravă | Obiceiurile la care a renunțat total
+    5.
+   razboi in ucraina 26 noiembrie 2023
+       Război în Ucraina, ziua 641 | Rusia anunţă că a doborât două
+       rachete ucrainene deasupra Mării Azov
+=======
    tara europa amenintare dezindustrializari galopante avertisment experti
        Ţara din Europa care se confruntă cu ameninţarea unei
        dezindustrializări galopante | Avertismentul experţilor
@@ -268,6 +292,7 @@ atacuri rusești cu un număr record de drone
    acuzatii grave cantaret muzica populara
        Acuzații grave la adresa unui celebru cântăreț de muzică populară |
        ”Vezi că dimineață vii cu mine”
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
 
    Parteneri
      *
@@ -281,10 +306,19 @@ atacuri rusești cu un număr record de drone
        UPS! Rochia PREA SCURTĂ i-a jucat feste lui Kate! Ce s-a văzut când
        a coborât din maşină
      *
+<<<<<<< HEAD
+   Exclusiv. După ce Bruxelles ul ne a refuzat finanțarea investițiilor,
+       Ion Sterian, directorul general Transgaz, va negocia la Paris
+       obținerea banilor
+       Exclusiv. După ce Bruxelles-ul ne-a refuzat finanțarea
+       investițiilor, Ion Sterian, directorul general Transgaz, va negocia
+       la Paris obținerea banilor
+=======
    Rezerviștii din Armată, Poliție și servicii, revoltați de viitoarea
        lege a pensiilor
        Rezerviștii din Armată, Poliție și servicii, revoltați de viitoarea
        lege a pensiilor
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
      *
    Cât de frumoasă este soţia lui Ionuţ Iftimoaie. Maria întoarce toate
        privirile şi vrea să dea o nouă lovitură în afaceri
@@ -316,6 +350,17 @@ atacuri rusești cu un număr record de drone
        În timp ce în aproape toată țara s-au trimis alerte de vreme rea,
        un sat din România arată ca și cum ar fi de pe vreo altă planetă
      *
+<<<<<<< HEAD
+   Pensionarii vor primi bani în plus de sărbători. Ce sumă le revine în
+       decembrie
+       Pensionarii vor primi bani în plus de sărbători. Ce sumă le revine
+       în decembrie
+     *
+   Jobul care oferă un salariu de 38.000 de lei, stres redus și muncă de
+       la distanță. Ce trebuie să faci?
+       Jobul care oferă un salariu de 38.000 de lei, stres redus și muncă
+       de la distanță. Ce trebuie să faci?
+=======
    CUTREMUR pe scena politică! Anunț privind NOUL PREȘEDINTE al României
        CUTREMUR pe scena politică! Anunț privind NOUL PREȘEDINTE al
        României
@@ -323,6 +368,7 @@ atacuri rusești cu un număr record de drone
    Semnarea unui acord de pace acum ar însemna sfârșitul Ucrainei așa cum
        o știm noi, spun experții Semnarea unui acord de pace acum ar
        însemna sfârșitul Ucrainei așa cum o știm noi, spun experții
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
      *
    „Ați crezut că s vai morțișorii mei?” Ce zice Lia Bugnar despre un nou
        iubit după despărțirea de Anghel Damian
@@ -351,10 +397,15 @@ atacuri rusești cu un număr record de drone
        singură” Gina Pistol, declarații dureroase! Nu îî este deloc ușor
        să vorbească despre asta, după atâția ani
      *
+<<<<<<< HEAD
+   Se caută preot pentru o parohie de lângă oraș
+       Se caută preot pentru o parohie de lângă oraș
+=======
    USR Botoșani: Măsuri urgente cerute de la CJ pentru salvarea situației
        generate de Nova ApaServ
        USR Botoșani: Măsuri urgente cerute de la CJ pentru salvarea
        situației generate de Nova ApaServ
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
      *
    „Cât de tare m a bătut, eu îl iubesc și mai mult. Pentru mine, e idolul
        meu tata.” Nicolae Guță, dezvăluiri neștiute despre copilăria sa!
@@ -363,9 +414,16 @@ atacuri rusești cu un număr record de drone
        idolul meu tata.” Nicolae Guță, dezvăluiri neștiute despre
        copilăria sa! Ce semnifică tatuajul său de pe frunte?
      *
+<<<<<<< HEAD
+   razboi in ucraina 27 noiembrie 2023
+       Război în Ucraina, ziua 642. Sute de localităţi din Ucraina au
+       rămas fără curent | Volodimir Zelenski: "Ne confruntăm cu condiţii
+       meteorologice extreme"
+=======
    companie ofera angajati 17000 euro prima sarbatori bonus urias
        Compania care oferă fiecărui angajat, de la femeia de serviciu până
        la CEO, 17.000 de euro primă de sărbători
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
      *
    Femeia cu două rânduri de pomeți. Așa arată chipul ei, dar stai să i
        vezi corpul | FOTO. Oamenii nu se pot abține să nu se holbeze
@@ -376,6 +434,10 @@ atacuri rusești cu un număr record de drone
    companie. Termeni și condiții. (BUTTON) Cookie Settings
    SAL SOL
 
+<<<<<<< HEAD
+   Abonează-te la canalul oficial de WhatsApp al Antena CNN
+=======
    Horoscop 27 noiembrie - 3 decembrie 2023, cu Mihai Voropchievici
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
 
    x close
