@@ -10,16 +10,14 @@
      *
      *
 
-Încearcă noul modul de căutare din Republica
+Descoperă habits by Republica
 
-   Folosește noul modul inteligent de căutare din Republica. Primești
-   rezultate în timp ce tastezi și descoperi ceea ce te interesează
-   filtrat pe trei categorii: texte publicate, contributori și subiecte.
-   Încearcă-l și spune-ne cum funcționează, părerea ta ne ajută.
-     * Caută
-     * Scrie-ne părerea ta
+   Vă invităm să intrați în comunitatea habits, un spațiu în care înveți,
+   găsești răspunsuri și resurse pentru a fi mai bun, pentru a avea o
+   viață mai sănătoasă.
+     * Află mai multe
 
-   [f583df1f2b435d49694fd499a76744abff29d784.png]
+   [e4dcc184c2a9e49c3ce684713de9dd4a5d30f79f.png]
    Marco Darius Badea
    Marco Darius Badea
    Contributor comentator
@@ -437,7 +435,7 @@ Garanție-Returnare
    Baie de plastic Citește mai mult
    Florin Negruțiu Florin Negruțiu
    Autor fondator
-   15 comentarii
+   16 comentarii
 
 De azi, mă supun unui experiment „imposibil”: două săptămâni de cumpărături
 la supermarket fără plastic

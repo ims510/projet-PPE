@@ -1,0 +1,452 @@
+   #alternate (function (a, d, o, r, i, c, u, p, w, m) { m =
+   d.getElementsByTagName(o)[0], a[c] = a[c] || {}, a[c].trigger =
+   a[c].trigger || function () { (a[c].trigger.arg = a[c].trigger.arg ||
+   []).push(arguments)}, a[c].on = a[c].on || function () {(a[c].on.arg =
+   a[c].on.arg || []).push(arguments)}, a[c].off = a[c].off || function ()
+   {(a[c].off.arg = a[c].off.arg || []).push(arguments) }, w =
+   d.createElement(o), w.id = i, w.src = r, w.async = 1, w.setAttribute(p,
+   u), m.parentNode.insertBefore(w, m), w = null} )(window, document,
+   "script", "https://95662602.adoric-om.com/adoric.js", "Adoric_Script",
+   "adoric","9cc40a7455aa779b8031bd738f77ccf1", "data-key");
+
+   [tr?id=1730128020581377&ev=PageView&noscript=1]
+   [tr?id=742096245912121&ev=PageView&noscript=1] var
+   domain=window.location.hostname; var params_totm = ""; (new
+   URLSearchParams(window.location.search)).forEach(function(value, key)
+   {if (key.startsWith('totm')) { params_totm = params_totm
+   +"&"+key.replace('totm','')+"="+value}}); var
+   rand=Math.floor(10*Math.random()); var
+   script=document.createElement("script");
+   script.src=`https://stag-core.tfla.xyz/pre_onetag?pub_id=34&domain=${do
+   main}&rand=${rand}&min_ugl=0${params_totm}`;
+   document.head.append(script); window.googletag = window.googletag ||
+   {cmd: []}; googletag.cmd.push(function() { var slot =
+   googletag.defineOutOfPageSlot( '/6943/Desktop_Interstitial',
+   googletag.enums.OutOfPageFormat.INTERSTITIAL); if (slot)
+   slot.addService(googletag.pubads()); googletag.enableServices(); //
+   NOTE! Consider delaying until first div on page
+   googletag.display(slot); });
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-T4BJGTM
+
+   Advertisement
+
+   JPOST LOGO ISRAEL FLAG Israel News Health & Wellness WORLD NEWS Middle
+   East Business & Innovation Opinion Archeology
+
+   Login
+
+   [profile-user.svg]
+
+   Log Out
+
+   [more.svg]
+
+   Aliyah Israel Real Estate Judaism Kabbalah Science Antisemitism 50 Jews
+   Advisor Podcast Premium
+
+   Jerusalem Post [arrow-areucle.svg] Opinion
+
+Israel-Hamas war: North Korea's bloody fingerprints are over October 7 - opinion
+
+North Korea has shown itself to be nothing less than an enemy of Israel. It has
+close ties with Iran and Syria and has backed Hamas and Hezbollah.
+
+   By MICHAEL FREUND
+
+   NOVEMBER 25, 2023 22:29
+
+     * Email
+     * Twitter
+     * Facebook
+     * fb-messenger
+
+   NORTH KOREAN leader Kim Jong Un inspecting nuclear warheads at an
+   undisclosed location. (photo credit: KRT/via Reuters TV/Handout via
+   Reuters)
+
+   NORTH KOREAN leader Kim Jong Un inspecting nuclear warheads at an
+   undisclosed location.
+
+   (photo credit: KRT/via Reuters TV/Handout via Reuters)
+
+   In the seven weeks since Hamas invaded Israel and massacred over 1,200
+   people, growing international attention has been directed toward the
+   terrorist organization’s primary backers and paymasters, chief among
+   them Iran and Qatar.
+
+   The two autocratic regimes, which have provided Hamas with various
+   forms of support over the course of many years, both bear
+   responsibility for the savagery that was inflicted by their Gaza-based
+   client. Largely overlooked, however, has been the role of yet another
+   nefarious dictatorship, one that also deserves to be held to account
+   for the part that it played in the largest mass murder of Jews since
+   the Holocaust.
+
+   While its capital city of Pyongyang may be 8,000 kilometers away, the
+   North Korean regime’s bloody fingerprints are in fact all over the
+   October 7 Hamas atrocities. And Kim Jong Un’s evil Stalinist state must
+   not go unpunished for the chaos that it helped to unleash. Although
+   North Korea’s state-run news agency has vehemently denied any
+   involvement, the facts on the ground indicate otherwise.
+
+  How did North Korea help Hamas carry out the October 7 massacre against
+  Israel?
+
+   To begin with, Hamas used weapons that were made in the Hermit
+   Kingdom.
+
+   On October 19, the Associated Press (AP) reported, based on information
+   provided by South Korean officials, two experts on North Korean arms,
+   as well as the AP’s own analysis of weapons captured by Israel on the
+   battlefield, that Hamas was using Pyongyang’s F-7 rocket-propelled
+   grenade, or RPGs.
+
+   North Korea's leader Kim Jong Un and Russia's Defence Minister Sergei
+   Shoigu inspect the guard of honour at Knevichi aerodrome near
+   Vladivostok in the Primorsky region, Russia, September 16, 2023.
+   (credit: Russian Defence Ministry/Handout via REUTERS) North Korea's
+   leader Kim Jong Un and Russia's Defence Minister Sergei Shoigu inspect
+   the guard of honour at Knevichi aerodrome near Vladivostok in the
+   Primorsky region, Russia, September 16, 2023. (credit: Russian Defence
+   Ministry/Handout via REUTERS)
+
+   “North Korea has long supported Palestinian militant [terrorist]
+   groups, and North Korean arms have previously been documented amongst
+   interdicted supplies,” arms expert N.R. Jenzen-Jones told AP.
+
+   He further added, based on video imagery of the October 7 assault, that
+   the terrorist group was employing North Korea’s Type 58 self-loading
+   rifle, a variant of the Kalashnikov assault rifle. In other words, it
+   is highly likely that at least some of the Israelis who were murdered
+   by Hamas died at the hands of weapons provided by North Korea. Indeed,
+   on October 26, Agence France-Presse quoted an Israeli military official
+   as saying that 10% of the weapons used by Hamas in the attacks had
+   originated in North Korea. South Korean military and intelligence
+   sources concur.
+
+   Advertisement
+
+   On October 17, a senior official from South Korea’s Joint Chiefs of
+   Staff was quoted by UPI as saying, “Hamas is believed to be directly or
+   indirectly linked to North Korea in various areas, such as the weapons
+   trade, tactical guidance, and training.”
+
+   “The official also noted,” the report said, “that North Korean-made
+   122-mm. multiple rocket launchers were provided to an armed group
+   related to Hamas, and artillery shells marked ‘Bang-122’ – the same as
+   ammunition used by North Korea – were found on the Israel-Gaza border.”
+
+   In addition to providing Hamas with the means to murder, Pyongyang may
+   also have assisted with the know-how.
+
+   Back in December 2016, Kim Jong Un publicly presided over a military
+   training exercise of North Korean paragliders simulating an assault on
+   the South Korean presidential residence in Seoul. And that tactic is
+   precisely what Hamas utilized as part of its coordinated attack on
+   Israel on October 7.
+
+   “There is a possibility that this know-how was passed on to Hamas,” the
+   South Korean official told UPI. His remarks were later confirmed by the
+   South Korean Defense Ministry.
+
+   THE RELATIONSHIP between Hamas and North Korea is actually not new and
+   stretches back for years.
+
+   Nearly a decade ago, on July 26, 2014, the UK Daily Telegraph reported
+   that Hamas had made a down payment to Pyongyang to acquire missiles and
+   communications equipment as part of a larger arms deal. The paper noted
+   that “Hamas has forged close links with North Korea, which is keen to
+   support groups that are opposed to Western interests in the region.” It
+   also cited unnamed Israeli military commanders as saying that North
+   Korean experts had been advising Hamas on how to build its network of
+   underground terror tunnels based on those that Pyongyang constructed
+   decades ago beneath the demilitarized zone with South Korea.
+
+   Prior to that, in 2009, a shipment from North Korea of 35 tons of
+   military materiel, which included rockets, was seized in Thailand. It
+   was later revealed that it had been intended for delivery to Iran,
+   which was planning to smuggle the weapons to Hamas in Gaza and
+   Hezbollah in Lebanon.
+
+   And last month, in an article on the 38 North website, a publication of
+   the Stimson Center, Dr. Samuel Ramani highlighted the history of “North
+   Korea’s covert alliance with Iran-aligned militias in the Middle East.”
+
+   These ties stretch back to the 1970s when Pyongyang provided weapons to
+   Yasser Arafat and training to other Palestinian terrorist groups.
+
+   By any measure, North Korea has shown itself to be nothing less than an
+   enemy of Israel. It has close ties with Iran and Syria, has backed
+   Hamas and Hezbollah, and provided arms and know-how to those who seek
+   to destroy the Jewish state.
+
+   Kim Jong Un may be pudgy and puerile, but he is perilous too. It is
+   therefore essential that Israel take a more forceful public stand
+   against North Korea and continue to strengthen relations with South
+   Korea, which can serve as an important partner in trying to contain
+   Pyongyang’s Middle Eastern mischief.
+
+   And we must raise greater awareness about North Korea’s support for
+   groups such as Hamas, which underlines how Kim’s regime is a force for
+   instability not only in the Far East but around the globe.
+
+   Simply put, North Korea has Jewish blood on its hands. It cannot be
+   allowed to act with impunity. 
+
+   The writer served as deputy communications director under Prime
+   Minister Benjamin Netanyahu during his first term of office.
+
+   Related Tags
+
+   Gaza
+
+   Hamas
+
+   north korea
+
+   The October 7 Massacre
+
+   Hamas-Israel War
+
+   var cont = `Stay Informed
+   As the war against Hamas unfolds, our unwavering newsroom remains
+   committed to covering Israel's most profound crisis.
+   Sign up for our newsletter to get real-time news and in-depth analysis
+   from our top reporters.
+   Subscribe Now
+   `; document.getElementById("linkPremium").innerHTML = cont; var
+   divWithLink = document.getElementById("premium-link"); if(divWithLink
+   !== null && divWithLink !== 'undefined') { divWithLink.style.border =
+   "solid 1px #cb0f3e"; divWithLink.style.textAlign = "center";
+   divWithLink.style.marginBottom = "40px"; divWithLink.style.marginTop =
+   "40px"; divWithLink.style.width = "728px";
+   divWithLink.style.backgroundColor = "#122952"; divWithLink.style.color
+   = "#ffffff"; } (function (v, i){ });
+
+   Advertisement
+
+   Hot Opinion
+
+   Jpost editorial logo
+
+  What is up with Ireland? - editorial
+
+   By JPOST EDITORIAL
+
+   Amotz Asa-El
+
+  Israel-Hamas war: Israel's finance minister can't handle a wartime economy -
+  opinion
+
+   By AMOTZ ASA-EL
+
+   JJ Sussman
+
+  When this is all over, we must find new ways to stay unified - opinion
+
+   By JJ SUSSMAN
+
+   Zalman Shoval
+
+  Israel-Hamas war: Global perspectives on the Gaza operation - opinion
+
+   By ZALMAN SHOVAL
+
+   Uri Pilichowski
+
+  Israel-Hamas war: Palestinians who attack Jews are unjustifiably evil -
+  opinion
+
+   By URI PILICHOWSKI
+
+   Advertisement
+
+   Advertisement
+
+   Most Read
+
+   1
+
+   Israel-Hamas war: What happened on day 47?
+
+   Families of Israelis held hostage by Hamas militants in Gaza set a
+   symbolic shabbat table with more than 200 empty seats for the hostages,
+   at "Hostage Square", outside the Art Museum of Tel Aviv, October 20,
+   2023.
+
+   2
+
+   Israeli cabinet approves partial Gaza hostage deal in late night vote
+
+   An artist sprays a graffiti for the release of Israelis held hostage by
+   Hamas terrorists in Gaza, in the Jezreel Valley, on October 30, 2023
+
+   3
+
+   Israel accepts clause of Hamas's Sinwar: No drone intel gathering in
+   Gaza
+
+   Hamas Gaza Chief Yahya Al-Sinwar gestures during an anti-Israel rally
+   in Gaza City, May 24, 2021
+
+   4
+
+   Hamas morale suffers as Israel gains ground in Gaza, fleeing from IDF
+
+   Activity of Unit 36 forces in the Zeitoun neighborhood. November 20,
+   2023
+
+   5
+
+   Israel-Hamas war: Shin Bet interrogations break open Hamas strategy
+
+   Israeli soldier around the destruction caused by Hamas terrorists in
+   Kibbutz Nir Oz on October 7, 2023, near the Israeli-Gaza border, in
+   southern Israel, October 30, 2023.
+
+   Advertisement
+
+   The Jerusalem Post - Israel News
+
+     * [mail1-footer_dwfxfv.svg]
+     * [twitter1-footer_j9nys9.svg]
+     * [facebook1-footer_sq9jm0.svg]
+     * [youtube1-footer_kuzudx.svg]
+     * [telegram-footer_zxck2w.svg]
+     * [instegram-footer_brctag.svg]
+     * [linkein-footer_jeeib8.svg]
+
+     * Available On App Store
+     * Android App On Google play
+
+   Information
+
+   About Us
+
+   Contact us
+
+   Feedback
+
+   Terms Of Service
+
+   Privacy Policy
+
+   Subscriber Agreement
+
+   JPost Jobs
+
+   Cancel Subscription
+
+   Sitemap
+
+   פרסום בג'רוזלם פוסט
+
+   Customer Service
+
+   Advertise with Us
+
+   The Jerusalem Post Group
+
+   Breaking News
+
+   World News
+
+   IvritTalk- Free trial lesson
+
+   The Jerusalem Report
+
+   Jerusalem Post Lite
+
+   Trending Articles
+
+   חדשות מעריב
+
+   לוח חגים ומועדים 2023
+
+   זמני כניסת שבת
+
+   Real Estate Listings
+
+   Hype
+
+   Special Content
+
+   Insights
+
+   50 Jews
+
+   Tools and services
+
+   JPost Premium
+
+   Ulpan Online
+
+   JPost Newsletter
+
+   Our Magazines
+
+   Learn Hebrew
+
+   RSS feed
+
+   JPost.com Archive
+
+   Digital Library
+
+   Lists of Jewish holidays
+
+   Law
+
+   Sites Of Interest
+
+   Poalim Online
+
+   JNF-USA
+
+   Who is Hamas
+
+   Advisor
+
+   Home & Kitchen
+
+   Appliances
+
+   Electronics
+
+   Health & Fitness
+
+   Beauty
+
+   Patio Lawn & Garden
+
+   Tools & Home Improvement
+
+   Sports & Outdoors
+
+   Office
+
+   Toys & Games
+
+   Deals
+
+   Gifts
+
+   Gadgets
+
+   Money
+
+   The Jerusalem Post Customer Service Center can be contacted with any
+   questions or requests:
+   Telephone: *2421 * Extension 4 Jerusalem Post or 03-7619056 Fax:
+   03-5613699 E-mail: subs@jpost.com
+   The center is staffed and provides answers on Sundays through Thursdays
+   between 07:00 AM and 14:00 PM and Fridays only handles distribution
+   requests between 7:00 AM and 12:30 PM
+   For international customers: The center is staffed and provides answers
+   on Sundays through Thursdays between 7AM and 14PM Israel time Toll Free
+   number 1-800-448-9291 Telephone +972-3-761-9056 Fax: 972-3-561-3699
+   E-mail: subs@jpost.com
+
+   Copyright © 2023 Jpost Inc. All rights reserved • Terms of Use •
+   Privacy Policy Designed by [linkein-footer_jeeib8.svg]
