@@ -982,18 +982,55 @@ Rezumat al situației din Israel
    [ic_comments_blue.svg] 108
    [ic_sun.svg] RECOMANDĂRI HotNews.ro
 
+   Economii pentru pensie
+
+O ambiguitate legislativă la Codul Fiscal ar putea impozita pensiile private
+cu 15% sau 20%, precum pensiile speciale. Ce riscă participanții la Pilonul
+II
+
+   Luminițe de Crăciun în Cișmigiu
+
+Cât plătesc cele mai mari orașe din România pentru luminițele de Crăciun
+
+   Revolta companiilor de stat împotriva măsurilor de austeritate
+
+fanatik.ro: Revolta companiilor de stat împotriva măsurilor de austeritate.
+„Supra-plata directorimii e înghesuită sub nasul contribuabililor"
+
+   Soldatul rus ranit a fost abandonat de camarazii sai
+
+VIDEO Imagini de un dramatism extrem pe frontul din Avdiivka: Un grup de
+soldați ruși încearcă să supraviețuiască sub tirul artileriei ucrainene
+
+   După o viață petrecută la bloc, un cuplu din Baia Mare s-a mutat
+   într-un tiny house înconjurat de dealuri
+
+lovedeco.ro: După o viață petrecută la bloc, un cuplu din Baia Mare s-a mutat
+într-un tiny house înconjurat de dealuri
+
+   Schimbari climatice
+
+Banca Mondială: Adaptarea la schimbările climatice va duce la creșteri de
+prețuri și de impozite, iar contractul social al României este deja tensionat
+
    Drumuri blocate din cauza viscolului
 
+<<<<<<< HEAD
 HARTĂ Iarnă severă în sud-estul Românie după un cod roșu de viscol și vânt:
 Drumuri închise, trenuri anulate / Sute de oameni blocați în mașini și...
+=======
+Infotrafic: 21 de drumuri naționale sunt închise în șase județe / Situație
+dificilă în județul Tulcea, unde zeci de localități nu au energie și...
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
 
-   Future Jobs Cup
+   Simona Halep
 
-INTERVIU Cine poate participa la competiția Future Jobs, demarată de Tik Tok?
-"Comunitatea noastră TikTok așteaptă astfel de oportunități"
+TAS, anunț oficial - Cazul Simonei Halep nu este o prioritate
 
-   De ce nu e bine să ții telefonul lângă tine atunci când dormi
+   Supravegheați, click cu click. Cum funcționează noua realitate care ne
+   dictează viețile și banii
 
+<<<<<<< HEAD
 fanatik.ro: De ce nu e bine să ții telefonul lângă tine atunci când dormi.
 Este un obicei foarte nesănătos
 
@@ -1025,6 +1062,8 @@ FOTO Primele imagini cu tancurile americane Abrams pe frontul din Ucraina
    Supravegheați, click cu click. Cum funcționează noua realitate care ne
    dictează viețile și banii
 
+=======
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
 panorama.ro: Supravegheați, click cu click. Cum funcționează noua realitate
 care ne dictează viețile și banii
 
@@ -1034,16 +1073,27 @@ care ne dictează viețile și banii
 smartliving.ro: 8 mituri despre sex care ar trebui să dispară, conform
 terapeuților sexologi
 
+<<<<<<< HEAD
    Platformă petrolieră offshore
 
 Cum vor putea fi exportate gazele din Marea Neagră, fără modificarea Legii
 offshore / Austriecii și ungurii abia așteaptă să cumpere gazele din...
 
    Autostrada A0 - Lotul 2 Nord
+=======
+   Comune bogate, comune sarace
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
 
-VIDEO Autostrada Bucureștiului prinde formă: Primul tronson care va fi
-deschis, terminat de UMB înainte de termen. Cum arată acum
+Comunele din România mai bogate decât unele reședințe de județ
 
+<<<<<<< HEAD
+=======
+   Furtună în stațiunea Soci din Rusia
+
+VIDEO Sudul Rusiei și Crimeea, lovite de „furtuna secolului”: 500.000 de
+oameni fără energie electrică, autostrăzi inundate, hoteluri distruse, un...
+
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
    ADAUGĂ COMENTARIU (108 comentarii)
    Rusul ucrainian • 2023-10-09 10:06
    Serbia a facut mult mai putin rau minoritatii albaneze din Kosovo,
@@ -1743,6 +1793,11 @@ Creaza un cont nou pe HotNews.ro
    condițiile HotNews.ro.
    Oameni Fericiți. Medici Buni Medlife logo
 
+   Dr. Adina Gheorghe
+
+Dr. Adina Gheorghe, medic specialist în ecografii: „Văd foarte multe paciente
+tinere cu cancer de sân. Din fericire, există tehnologii prin care...
+
    De ce consideră medicii că acest program face diferența între viață și
    moarte
 
@@ -1755,13 +1810,9 @@ Creaza un cont nou pe HotNews.ro
 Premieră: MedLife aduce în România cea mai nouă tehnologie robotică din lume
 în practica neurochirurgicală, la Spitalul Humanitas din Cluj
 
-   Dr. Pop Raluca
-
-Dr. Raluca Pop, dermatolog la DermaLife Oradea: „Un pacient pe care îl
-înțelegi și cu care ești bun este pe jumătate vindecat”
-
    [ic_sun.svg] INTERVIURILE HotNews.ro
    hotnews_sun ULTIMA ORĂ
+<<<<<<< HEAD
    23:13 • SuperLiga - Powered by Superbet
 
 Eroul FCSB-ului a analizat jocul echipei în meciul cu Dinamo
@@ -1826,19 +1877,85 @@ VIDEO SuperLiga: Universitatea Craiova, victorie pe terenul Oțelului -
 Hat-trick pentru Alexandru Mitriță
 
    20:21 • ACTUALITATE
+=======
+   13:30 • SCIENCE
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
 
-Ucraina se teme că războiul se va extinde din nou dincolo de est și sud.
-„Este un război al resurselor” - comandantul Forțelor Comune
+Lansarea telescopului spațial Xuntian se amână până în 2025
+
+   13:28 • ECONOMIE
+
+Opt companii sunt interesate de construirea terminalului de bitum de la
+Constanța
+
+   13:22 • ACTUALITATE
+
+Dispariția iernii îi face pe greci să își numere măslinele
+
+   13:15 • SPORT
+
+Jose Mourinho, declarația momentului: „Sunt un bandit al fotbalului. AS Roma
+nu e așa și asta e o problemă”
+
+   13:09 • ACTUALITATE
+
+[P] IMM-urile din domeniul HoReCa s-au reunit la Târgul Întreprinderilor Mici
+şi Mijlocii, ediţia 2023
 
    Articol susținut de fanatik.ro
 
-fanatik.ro: De ce nu e bine să ții telefonul lângă tine atunci când dormi.
-Este un obicei foarte nesănătos
+fanatik.ro: Revolta companiilor de stat împotriva măsurilor de austeritate.
+„Supra-plata directorimii e înghesuită sub nasul contribuabililor"
 
-   20:00 • SPORT
+   13:05 • ACTUALITATE
 
-Ladislau Boloni, încă o victorie în Ligue 1 - Pe ce loc a urcat echipa
+Cătălin Cherecheș s-ar afla în Italia, împreună cu mama și soția lui. Cum a
+reușit primarul din Baia Mare să fugă din țară / Lista fugarilor români care
+și-au găsit refugiul în Italia
 
+<<<<<<< HEAD
+=======
+   13:01 • ACTUALITATE
+
+VIDEO Imagini de un dramatism extrem pe frontul din Avdiivka: Un grup de
+soldați ruși încearcă să supraviețuiască sub tirul artileriei ucrainene
+
+   Articol susținut de Mediastandard.ro
+
+Mediastandard.ro: Social media, locul unde se întâlnește cel mai des
+dezinformarea legată de schimbările climatice
+
+   12:31 • ACTUALITATE
+
+VIDEO Mega-captură de țigări la frontieră: Într-un tir au fost găsite 1.120
+de baxuri, în valoare de 1,5 milioane de euro
+
+   12:19 • ECONOMIE
+
+Tarifele de distribuție a energiei electrice cresc cu 6% de la 1 ianuarie. Ce
+înseamnă pentru consumatorii casnici
+
+   12:18 • ACTUALITATE
+
+Tolontan povestește cum redacției GSP i s-a cerut să fondeze o asociație de
+lobby pentru industria de jocuri de noroc. Ce a urmat
+
+   12:07 • ACTUALITATE
+
+Miniștrii de interne din șase țări se întâlnesc în Ungaria să discute despre
+migrația ilegală
+
+   12:01 • SPORT
+
+Istvan Kovacs va arbitra un meci foarte important din grupele Champions
+League
+
+   11:56 • ACTUALITATE
+
+Incident grav într-un liceu din Oradea: Pedagog înjunghiat de o elevă, în
+biroul unui director al școlii
+
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
    Vezi toate articolele
    [ic_sun_white.svg] PROIECTE
    Ucraina și noi
@@ -1857,6 +1974,7 @@ Ladislau Boloni, încă o victorie în Ligue 1 - Pe ce loc a urcat echipa
    GoDigital
    Recomandări de lectură
    hotnews_sun CELE MAI CITITE
+<<<<<<< HEAD
    Drumuri blocate din cauza viscolului
 
 HARTĂ Iarnă severă în sud-estul Românie după un cod roșu de viscol și vânt:
@@ -1871,17 +1989,44 @@ LIVE Război în Ucraina, ziua 641: Rusia ar fi mutat sisteme strategice din
 Kaliningrad pe fondul pierderilor de pe front - Armata britanică / Moscova și
 Kiev susțin fiecare că au respins atacuri cu drone / Trupele rusești
 avansează la Avdiivka
+=======
+   Ninsoare pe Valea Prahovei
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
 
 Cum va fi vremea în zilele următoare după episodul sever de iarnă din
 noiembrie. Anunțul șefei ANM
 
 De ce montarea repartitoarelor la calorifere va aprinde scandaluri între
 vecini
+<<<<<<< HEAD
 
 Cimpanzeii folosesc o tactică de război nemaivăzută până acum / Ultimul film
 Indiana Jones apare în streaming / Black Mirror a fost reînnoit pentru încă
 un sezon la Netflix
 
+=======
+
+Inventatorul care a fost aruncat în închisoare de Securitate în urma unei
+înscenări povestește cum l-a salvat Fane Spoitoru de „rechini” în schimbul
+lecțiilor de engleză
+
+Rareș Bogdan: N-o să rupem guvernarea mâine-poimâine / Către ministrul
+Finanțelor: Stai, mă, nene! Stop! Tocmai am dat câteva ciomege companiilor
+private / Am văzut și glumele pe subiectul Hakuna Matata. Klaus Iohannis e
+extrem de puternic
+
+Rusia, pusă sub presiune. Mișcarea neașteptată pe care o face la granițele
+NATO
+
+Șeful Poliției de Frontieră, Victor Ștefan Ivașcu, demis după fuga lui
+Cătălin Cherecheș din țară / MAI a hotărât să facă mai multe schimbări
+„pentru restabilirea eficienței manageriale”
+
+Război în Ucraina, ziua 642: Rusia a suferit luna aceasta pierderi de soldați
+fără precedent / „Vremea extrem de dificilă” afectează mai multe regiuni
+ucrainene / Crimeea și sudul Rusiei, lovite de „furtuna secolului”
+
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
    Banca Transilvania
 
 Ce urmări va avea marea schismă AI, faza pe banii ChatGPT
@@ -1900,6 +2045,11 @@ Rezultate Digitalizare IMM: Primele 1020 de firme admise la fondurile de max.
 românesc Tailent
 
    contributors_logo
+   contributors_author
+   Mircea Morariu
+
+Spectacole bucureștene (II)
+
    contributors_author
    Constantin Crânganu
 
@@ -1921,41 +2071,36 @@ S-a întâmplat într-o noapte
 
 Virgil Ierunca- MÂNTUIREA ROMÂNEASCĂ
 
-   contributors_author
-   Cristian Felea
+   sigla_partener
 
-Reactoarele modulare mici, între optimism defensiv și pesimism exaltat
+Un antreprenor român, numit în Consiliul de Administrație al Revolut
+
+Startup-uri românești din domeniul sănătății, premiate de Uniunea Europeană
+la Milano
+
+IMM-urile din județele Gorj, Hunedoara, Dolj, Galați, Prahova și Mureș pot
+accesa maxim 8 milioane euro nerambursabili prin Programul Tranziție Justă
+
+Miliardarul Jack Ma (ex-Alibaba) vrea să se extindă pe zona de mâncare și
+produse agricole
+
+Cum a arătat Black Friday 2023 la nivel mondial: vânzări record
 
    sigla_partener
 
-Se depun iarăși bani la programul Fidelis 2023: Dobânzile acordate de stat la
-lei și euro
+Romsilva scoate la vânzare aproape 25.000 de pomi de Crăciun
 
-Finanțări de max. 500.000 lei de la stat pentru firme românești, prin
-Programul de accelerare IMM - procedura din Monitorul Oficial
+De ce vor să se întâlnească liderii din Japonia, Coreea de Sud și China „cât
+de curând posibil”
 
-[P] Anunț finalizare „Retehnologizare activitate cursuri de limba engleza” -
-SMILE EFFECT SRL
+Vizita în Galați a comisarului european pentru coeziune și reforme, anulată
+din cauza vremii
 
-Startup-uri românești, incluse într-un top al firmelor de tehnologie cu cea
-mai mare creștere până în 2023
+În ultimii 3 ani, românii au cumpărat titluri de stat de peste 4,5 miliarde
+euro
 
-„Robotul” ChatGPT poate discuta acum cu utilizatorii în mod gratuit
-
-   sigla_partener
-
-Putin sărbătorește victoria lui ”Trump olandez”
-
-Strugariu: Justiția trebuie să își facă treaba și să investigheze
-
-PE: Reacție insuficientă a Comisiei Europene față de interceptările realizate
-cu softuri de spionaj
-
-Rusia va opri exportul de grâu în următoarele șase luni pentru ”a-și asigura
-securitatea alimentară"
-
-Coreea de Nord a primit ajutor din partea Rusiei pentru a-și lansa satelitul
-spion, suștine Seul
+Noul record de migrație din Marea Britanie înfurie aripa dură a Partidului
+Conservator
 
    hotnews_logo
 
@@ -1969,27 +2114,12 @@ spion, suștine Seul
    Folosind HotNews.ro, sunteți de acord cu termenii și condițiile de
    utilizare ale siteului nostru.
    Despre noi
-   Site
-   Contact
-   Redacție
-   Publicitate
+   Site Contact Redacție Publicitate
    Agenții
-   Agerpres
-   France Presse
-   News.ro
-   Reuters
-   Profimedia Images
-   Inquam Photos
+   Agerpres France Presse News.ro Reuters Profimedia Images Inquam Photos
    Dreamstime
    Parteneri Media
-   Contributors
-   Deutsche Welle
-   Euractiv
-   Rise Project
-   StartupCafe
+   Contributors Deutsche Welle Euractiv Rise Project StartupCafe
    Parteneri
-   Esri Romania
-   GTS
-   Medlife
-   Tremend
+   Esri Romania GTS Medlife Tremend
    © Copyright HotNews.ro 2006-2023

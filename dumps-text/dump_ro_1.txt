@@ -37,10 +37,10 @@ Urmărește-ne
 
    Toate site-urile REL/RL
    [ ]
-   Caută_____________________ (BUTTON)
+   Caută ____________________ (BUTTON)
    site logo site logo
    Newsletter
-   Caută_____________________ (BUTTON)
+   Caută ____________________ (BUTTON)
    site logo site logo
    Precedent Următorul
    [ ] Ultima oră
@@ -353,7 +353,7 @@ a conflictului
    ____________________
      __________________________________________________________________
 
-   width 640_________________ px Înălți360____________________ px
+   width 640_________________ px Înălțime 360_________________ px
 
      * Trimite pe Facebook
      * Trimite pe Twitter

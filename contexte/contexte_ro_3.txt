@@ -42,6 +42,7 @@ Război în Ucraina, ziua 591. Volodimir Zelenski, avertisment: "Rusia va
    ×
    Subiecte în articol: Război Ucraina Volodimir Zelenski Vladimir Putin
    TOP articole pe Antena 3 CNN:
+<<<<<<< HEAD
 --
    razboi in ucraina 26 noiembrie 2023
        Război în Ucraina, ziua 641 | Rusia anunţă că a doborât două
@@ -50,3 +51,5 @@ Război în Ucraina, ziua 591. Volodimir Zelenski, avertisment: "Rusia va
    razboi in ucraina 27 noiembrie 2023
        Război în Ucraina, ziua 642. Sute de localităţi din Ucraina au
        rămas fără curent | Volodimir Zelenski: "Ne confruntăm cu condiţii
+=======
+>>>>>>> 944c2674022f1729249ae961601c15774e14fabc
