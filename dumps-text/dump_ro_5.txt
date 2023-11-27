@@ -2,7 +2,7 @@
    Hotnews.ro Sport Hotnews.ro Revista Presei Hotnews.ro Science
    Hotnews.ro English Hotnews.ro Espanol Hotnews.ro Politic
 
-   updated_icon Actualizat acum un minut EUR 4.9703 USD 4.5559
+   updated_icon Actualizat acum 5 minute EUR 4.9703 USD 4.5559
 
    hotnews_logo
    ____________________ (BUTTON) CAUTĂ search_icon
@@ -984,8 +984,8 @@ Rezumat al situației din Israel
 
    Drumuri blocate din cauza viscolului
 
-HARTĂ Cod roşu de viscol puternic în sud-estul României: Zeci de drumuri
-naționale închise, sute de persoane blocate în mașini și zeci de trenuri...
+HARTĂ Iarnă severă în sud-estul Românie după un cod roșu de viscol și vânt:
+Drumuri închise, trenuri anulate / Sute de oameni blocați în mașini și...
 
    Future Jobs Cup
 
@@ -1013,18 +1013,20 @@ inspirație și elemente din vacanțele favorite
 De ce montarea repartitoarelor la calorifere va aprinde scandaluri între
 vecini
 
+   Benjamin Netanyahu în Fâșia Gaza, printre soldații israelieni
+
+Benjamin Netanyahu, tur făcut în Fâșia Gaza: „Continuăm până la capăt, până
+la victorie” / Joe Biden: „O soluție cu două state este singura...
+
    Tanc Abrams
 
 FOTO Primele imagini cu tancurile americane Abrams pe frontul din Ucraina
 
-   Platformă petrolieră offshore
+   Supravegheați, click cu click. Cum funcționează noua realitate care ne
+   dictează viețile și banii
 
-Cum vor putea fi exportate gazele din Marea Neagră, fără modificarea Legii
-offshore / Austriecii și ungurii abia așteaptă să cumpere gazele din...
-
-   Panorama cu ALP: Marea schismă AI, faza pe banii ChatGPT
-
-panorama.ro: Panorama cu ALP: Marea schismă AI, faza pe banii ChatGPT
+panorama.ro: Supravegheați, click cu click. Cum funcționează noua realitate
+care ne dictează viețile și banii
 
    8 mituri despre sex care ar trebui să dispară, conform terapeuților
    sexologi
@@ -1032,15 +1034,15 @@ panorama.ro: Panorama cu ALP: Marea schismă AI, faza pe banii ChatGPT
 smartliving.ro: 8 mituri despre sex care ar trebui să dispară, conform
 terapeuților sexologi
 
+   Platformă petrolieră offshore
+
+Cum vor putea fi exportate gazele din Marea Neagră, fără modificarea Legii
+offshore / Austriecii și ungurii abia așteaptă să cumpere gazele din...
+
    Autostrada A0 - Lotul 2 Nord
 
 VIDEO Autostrada Bucureștiului prinde formă: Primul tronson care va fi
 deschis, terminat de UMB înainte de termen. Cum arată acum
-
-   Nerd Alert
-
-Cimpanzeii folosesc o tactică de război nemaivăzută până acum / Ultimul film
-Indiana Jones apare în streaming / Black Mirror a fost reînnoit...
 
    ADAUGĂ COMENTARIU (108 comentarii)
    Rusul ucrainian • 2023-10-09 10:06
@@ -1760,6 +1762,69 @@ Dr. Raluca Pop, dermatolog la DermaLife Oradea: „Un pacient pe care îl
 
    [ic_sun.svg] INTERVIURILE HotNews.ro
    hotnews_sun ULTIMA ORĂ
+   23:13 • SuperLiga - Powered by Superbet
+
+Eroul FCSB-ului a analizat jocul echipei în meciul cu Dinamo
+
+   22:47 • ULTIMA ORĂ
+
+Șeful Poliției de Frontieră, Victor Ștefan Ivașcu, demis după fuga lui
+Cătălin Cherecheș din țară / MAI a hotărât să facă mai multe schimbări
+„pentru restabilirea eficienței manageriale”
+
+   22:32 • REVISTA PRESEI
+
+Victor Ponta spune că DNA i-a ascultat convorbirile după ce a demisionat din
+funcția de premier: Kovesi voia să vadă ce fac eu / Trei sferturi erau
+convorbiri cu copiii mei
+
+   22:17 • ACTUALITATE
+
+Un bărbat din Franța s-a predat poliției după ce și-a omorât toate cele trei
+fiice
+
+   21:39 • ACTUALITATE
+
+VIDEO Incendiu major la o fabrică de tractoare din Rusia, care produce
+motoare pentru echipamente militare ale armatei ruse
+
+   21:33 • SPORT
+
+VIDEO Italia a câștigat Cupa Davis - Jannik Sinner, omul momentului
+
+   21:25 • VIDEO Interviu de la Strasbourg
+
+Rareș Bogdan: N-o să rupem guvernarea mâine-poimâine / Către ministrul
+Finanțelor: Stai, mă, nene! Stop! Tocmai am dat câteva ciomege companiilor
+private / Am văzut și glumele pe subiectul Hakuna Matata. Klaus Iohannis e
+extrem de puternic
+
+   21:16 • REVISTA PRESEI
+
+Victor Ponta: Mie mi se pare că premierul Ciolacu chiar mă ascultă / Cu mulţi
+alţii am avut impresia că vorbesc ca şi cum aş vorbi cu geamul
+
+   20:47 • ACTUALITATE
+
+Gruparea Hamas este pregătită de o prelungire a armistiţiului cu „două până
+la patru zile” - sursă AFP
+
+   20:32 • ACTUALITATE
+
+Benjamin Netanyahu, tur făcut în Fâșia Gaza: „Continuăm până la capăt, până
+la victorie” / Joe Biden: „O soluție cu două state este singura modalitate de
+a garanta o securitate pe termen lung”
+
+   20:30 • SPORT
+
+VIDEO Premier League: Manchester United, victorie categorică și un eurogol pe
+Goodison Park
+
+   20:25 • SuperLiga - Powered by Superbet
+
+VIDEO SuperLiga: Universitatea Craiova, victorie pe terenul Oțelului -
+Hat-trick pentru Alexandru Mitriță
+
    20:21 • ACTUALITATE
 
 Ucraina se teme că războiul se va extinde din nou dincolo de est și sud.
@@ -1773,64 +1838,6 @@ Este un obicei foarte nesănătos
    20:00 • SPORT
 
 Ladislau Boloni, încă o victorie în Ligue 1 - Pe ce loc a urcat echipa
-
-   19:59 • SuperLiga - Powered by Superbet
-
-LiveBlog Dinamo - FCSB, în etapa a 17-a a SuperLigii României / Startul
-partidei, întârziat cu 10 minute
-
-   19:49 • ACTUALITATE
-
-VIDEO S-a deschis Târgul de Crăciun de la Timișoara / Când se deschid
-târgurile de Crăciun din București
-
-   19:21 • ACTUALITATE
-
-Eugen Teodorovici a anunţat că va candida la preşedinţia României în
-alegerile din 2024
-
-   19:05 • ACTUALITATE
-
-Un bărbat a fost salvat de polițiști după ce a rămas blocat cu mașina din
-cauza zăpezii și a încercat să ajungă acasă pe jos
-
-   18:45 • ACTUALITATE
-
-Un cargobot s-a scufundat în Grecia: O persoană a murit / Operațiune de
-salvare a 12 membri ai echipajului / Un bărbat a fost salvat
-
-   18:38 • SPORT
-
-Formula 1: Max Verstappen, încântat după un sezon fabulos pentru RedBull
-
-   18:32 • INTERVIU
-
-Inventatorul care a fost aruncat în închisoare de Securitate în urma unei
-înscenări povestește cum l-a salvat Fane Spoitoru de „rechini” în schimbul
-lecțiilor de engleză
-
-   18:29 • SPORT
-
-Revelația sezonului din Premier League, încă un succes entuziasmant
-
-   18:18 • SPORT
-
-Novak Djokovic și refuzul testului antidoping - Un fost ciclist crede că
-liderul ATP ar trebui suspendat
-
-   18:17 • ACTUALITATE
-
-Încă 17 ostatici au fost eliberați de Hamas / Printre ei se află și un
-cetățean rus
-
-   18:14 • ACTUALITATE
-
-Criza climatismului – Un interviu cu profesorul Mike Hulme, Universitatea
-Cambridge
-
-   18:12 • ACTUALITATE
-
-S-a întâmplat într-o noapte
 
    Vezi toate articolele
    [ic_sun_white.svg] PROIECTE
@@ -1852,29 +1859,28 @@ S-a întâmplat într-o noapte
    hotnews_sun CELE MAI CITITE
    Drumuri blocate din cauza viscolului
 
-HARTĂ Cod roşu de viscol puternic în sud-estul României: Zeci de drumuri
-naționale închise, sute de persoane blocate în mașini și zeci de trenuri
-anulate / Granița cu Bulgaria, închisă parțial pentru camioane / Școli
-închise luni în 5 județe
+HARTĂ Iarnă severă în sud-estul Românie după un cod roșu de viscol și vânt:
+Drumuri închise, trenuri anulate / Sute de oameni blocați în mașini și
+numeroase localități fără curent / Școala a fost suspendată în 5 județe
 
 Trupele rusești avansează în Avdiivka. Ce spune armata ucraineană
 
 FOTO Primele imagini cu tancurile americane Abrams pe frontul din Ucraina
 
 LIVE Război în Ucraina, ziua 641: Rusia ar fi mutat sisteme strategice din
-Kaliningrad pierderile recente de pe front - Armata britanică / Moscova și
+Kaliningrad pe fondul pierderilor de pe front - Armata britanică / Moscova și
 Kiev susțin fiecare că au respins atacuri cu drone / Trupele rusești
 avansează la Avdiivka
 
 Cum va fi vremea în zilele următoare după episodul sever de iarnă din
 noiembrie. Anunțul șefei ANM
 
+De ce montarea repartitoarelor la calorifere va aprinde scandaluri între
+vecini
+
 Cimpanzeii folosesc o tactică de război nemaivăzută până acum / Ultimul film
 Indiana Jones apare în streaming / Black Mirror a fost reînnoit pentru încă
 un sezon la Netflix
-
-Șeful Poliției de Frontieră ar urma să fie demis, după ce Cătălin Cherecheș a
-ieșit din țară cu actul unei rude - presă
 
    Banca Transilvania
 
