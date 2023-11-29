@@ -7,6 +7,14 @@
 Nous avons choisi le mot guerre à l’unanimité car il était très présent dans l’actualité que cela soit par rapport à la guerre en Ukraine ou bien au conflit Israélo-Palestinien. Initialement, nous avions prévu d’uniquement nous intéresser à la guerre en Ukraine mais l’escalade des affrontement au moyen-orient nous a fait nous rendre compte que ces deux conflits étaient traités de manière différente dans les médias. Nous avons donc trouvé intéressant de voir si notre intuition était averée ou non. 
 
 - **Anglais :**
+    * J'ai considéré que le choix du mot "guerre" était intéressant car les médias anglophones (américains, britanniques ou autres) apportent le point de vu "occidental" ou de l'"ouest" par rapport à certains conflits. L'Angleterre comme les États-Unis ont par exemple apporté leurs soutiens au peuple ukrainien.
+    * Dans le cas du conflit Israélo-Palestinien, les États-Unis ont apporté leur soutient à Israël. Nous nous sommes demandés si le traitement des deux conflits était traité différement dans les médias anglais.
+    * Kehina : Pour ce qui est du mot, j'ai contrairement à mes camarades eu beaucoup moins de mal à créer une expression régulière pouvant prendre en compte toutes les occurences du mot guerre. Je n'ai eu par exemple qu'à prendre en compte une seule variation du mot, celle du pluriel. 
+    * Les formes du mots que je vais chercher seront : 
+    1. war = guerre
+    2. WAR = guerre
+    3. Wars = guerres
+    4. WARS = guerres
 
 - **Roumain (Ioana-Madalina Silai):** 
     * J'ai consideré que ce mot est intéressant pour le roumain dans le contexte de la guerre en Ukraine grâce à la position geographique du pays, ce qui a fait que cette guerre a était un evenement majeur pour la Roumaine aussi. 
