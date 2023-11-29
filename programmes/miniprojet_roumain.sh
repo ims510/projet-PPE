@@ -15,8 +15,8 @@ while read -r line;
 do
 	ASPIRATION=$(curl -s -L ${line} > ../aspirations/url_ro_$N.html)
 	DUMP=$(lynx -dump -nolist --display_charset=utf-8 ../aspirations/url_ro_$N.html > ../dumps-text/dump_ro_$N.txt)
-	WORDCOUNT=$(cat ../dumps-text/dump_ro_$N.txt | egrep -o "[Rr]ăzbo((iul)|(iui)|(aiele)|(aie)|(aielor)|i)"| wc -w)
-	cat ../dumps-text/dump_ro_$N.txt | sed '/^$/d'| egrep -C 1 "([Rr]ăzbo((iul)|(iui)|(aiele)|(aie)|(aielor)|i)" > ../contexte/contexte_ro_$N.txt
+	WORDCOUNT=$(cat ../dumps-text/dump_ro_$N.txt | egrep -o "[Rr]ăzbo((iul)|(iului)|(aiele)|(aie)|(aielor)|i)"| wc -w)
+	cat ../dumps-text/dump_ro_$N.txt | sed '/^$/d'| egrep -C 1 "[Rr]ăzbo((iul)|(iului)|(aiele)|(aie)|(aielor)|i)" > ../contexte/contexte_ro_$N.txt
 	./concordancier_roumain.sh dump_ro_$N.txt ../tableaux/concordances_roumain_$N.html
 	#obtenir le code HTTP and store it in a variable 
 	CURL=$(curl -s -I -L ${line} | tr -d "\r" ) #obtenir les headers
