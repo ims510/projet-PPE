@@ -1976,8 +1976,8 @@ Ucraina nu este un conflict de teritoriu, ci de principii
    search_icon user_icon menu_icon close_icon
 
    plus ACTUALITATE
-   Război în Ucraina International Politic Educatie Minte&ampCorp Sănătate
-   Copii&ampPărinți Mediu Opinii Europa împreună Infrastructura Administratie
+   Război în Ucraina International Politic Educatie Minte&amp;Corp Sănătate
+   Copii&amp;Părinți Mediu Opinii Europa împreună Infrastructura Administratie
    Vezi toate categoriile forward_icon
    plus ECONOMIE
    Bănci Finanțe Energie Auto IT Telecom
@@ -1995,8 +1995,8 @@ Ucraina nu este un conflict de teritoriu, ci de principii
    Subiectele zilei Radio - TV
    Vezi toate categoriile back_icon
    plus DOSARE JURIDICE
-   Deloitte si Reff &amp Asociații Stoica &amp Asociații act Botezatu Estrade
-   Partners Filip &amp Company Schoenherr &amp Asociații
+   Deloitte si Reff &amp; Asociații Stoica &amp; Asociații act Botezatu Estrade
+   Partners Filip &amp; Company Schoenherr &amp; Asociații
    plus PROIECTE
    Ucraina și noi Banking și mai și Dictionar financiar Fashion Tips
    Innova Lab Pagini de [cod] #BigData in business Facem România Bine
@@ -2010,7 +2010,7 @@ Ucraina nu este un conflict de teritoriu, ci de principii
    back_icon ÎNAPOI
    Administrație Ajutor pentru Ucraina Coronavirus Cultură Defense
    Educație Esențial Film Infrastructură Internațional Magazin Mediu
-   Minte&ampCorp Opinii Perspektiva Politic Război în Ucraina Sănătate
+   Minte&amp;Corp Opinii Perspektiva Politic Război în Ucraina Sănătate
    ECONOMIE
    back_icon ÎNAPOI
    Agricultură Asigurări și pensii private Auto Bani europeni Bănci Blogul
@@ -2036,9 +2036,9 @@ Ucraina nu este un conflict de teritoriu, ci de principii
    DOSARE JURIDICE
    back_icon ÎNAPOI
    Opinia specialistilor
-   act Botezatu Estrade Partners Deloitte si Reff &amp Asociații Filip &amp
-   Company Oglinda &amp Asociații ONV LAW PeliPartners Pop Briciu Crai
-   Attorneys Schoenherr &amp Asociații Stoica &amp Asociații Țucă Zbârcea &amp
+   act Botezatu Estrade Partners Deloitte si Reff &amp; Asociații Filip &amp;
+   Company Oglinda &amp; Asociații ONV LAW PeliPartners Pop Briciu Crai
+   Attorneys Schoenherr &amp; Asociații Stoica &amp; Asociații Țucă Zbârcea &amp;
    Asociații
    CONTUL MEU
    user icon Login
@@ -2060,8 +2060,8 @@ Ucraina nu este un conflict de teritoriu, ci de principii
    HOME ECONOMIE SPORT LIFE SCIENCE REVISTA PRESEI DOSARE JURIDICE ULTIMA
    ORA
 
-   Război în Ucraina International Politic Educație Sănătate Minte&ampCorp
-   Opinii Copii&ampPărinți Administrație
+   Război în Ucraina International Politic Educație Sănătate Minte&amp;Corp
+   Opinii Copii&amp;Părinți Administrație
 
    Ultima știre - 01:20 Luni, 09 Octombrie 2023, 07:12
 
@@ -3344,7 +3344,7 @@ dată de artist
    [comment_gray.svg] [ic_downvote.svg] 13 [ic_upvote.svg] 15
    [share_gray.svg]
    Pensionar_2021 • 2023-10-09 12:52
-   Palestinienii au fost manevrati!S Sunt si ei in fond niste VICTIME>gt
+   Palestinienii au fost manevrati!S Sunt si ei in fond niste VICTIME>gt;
    Tatuca de la Teheran sau de la Maskwa le-a dat asigurari ca vor fi
    sustinuti, ca pot sa atace linistiti, Fratele cele mare o sa dea cu
    nucleaarele si o sa spulberea aremata Israelului!
@@ -3956,7 +3956,7 @@ China a decis să-și salveze sectorul imobiliar, crucial pentru economia țări
 <text>
    #alternate alternate alternate alternate
 
-   [tr?id=306238671984056&ampev=PageView&ampnoscript=1]
+   [tr?id=306238671984056&amp;ev=PageView&amp;noscript=1]
 
 G4Media.ro
 
@@ -4607,7 +4607,7 @@ Ucraina
    Dacă este cazul, reţinerea coșului de cumpărături și reţinerea
    progresului unei comenzi Ascunderea modulelor cookie necesare
    Companie Domeniu Politica de confidenţialitate
-   RCS&ampRDS S.A. digi24.ro Vezi politica de confidenţialitate
+   RCS&amp;RDS S.A. digi24.ro Vezi politica de confidenţialitate
    cmp_level, prv_level, m2digi24ro, stickyCookie
    Studiu de Audienţă și Trafic Internet (prin CXENSE) brat.ro
    cX_S, cX_P, cX_T
@@ -4628,13 +4628,13 @@ Ucraina
    de analiză
        Companie      Domeniu         Politica de confidenţialitate
    Google Analytics google.com Vezi politica de confidenţialitate
-   _ga, _gid, _gat, AMP_TOKEN, _gac_<ltproperty-id>gt, __utma, __utm, __utmb,
+   _ga, _gid, _gat, AMP_TOKEN, _gac_<lt;property-id>gt;, __utma, __utm, __utmb,
    __utmc, __utmz, __utmv
    [ ] Fişiere cookie de social media
    Aceste module cookie vă permit să vă conectaţi la reţelele de
    socializare preferate și să interacţionaţi cu alţi utilizatori.
    [ ] Vizualizarea modulelor cookie social media
-   - Interacţiuni social media (like &amp share) - Posibilitatea de a te loga
+   - Interacţiuni social media (like &amp; share) - Posibilitatea de a te loga
    în cont folosind o platformă terţă (Facebook, Google, etc) - Rularea
    conţinutului din platforme terţe (youtube, soundcloud, etc) Ascunderea
    modulelor cookie social media
@@ -5085,7 +5085,7 @@ UNICEF sprijină copiii și tinerii afectați de război.
    Credit: UNICEF/Dorina Pantaz
 
    IFRAME:
-   https://www.youtube.com/embed/qPsrVS4OtPM?autoplay=0&ampstart=0&amprel=0
+   https://www.youtube.com/embed/qPsrVS4OtPM?autoplay=0&amp;start=0&amp;rel=0
 
    UNICEF
 
@@ -6548,7 +6548,7 @@ Click! Sănătate
 <text>
    #alternate alternate alternate alternate
 
-   [tr?id=306238671984056&ampev=PageView&ampnoscript=1]
+   [tr?id=306238671984056&amp;ev=PageView&amp;noscript=1]
 
 G4Media.ro
 
@@ -7379,7 +7379,7 @@ Ce se întâmplă cu deznodământul pentru EURO 2024
    Cum salvezi sute de euro cu bilete la EURO 2024? Românii pot beneficia
    de aceste oferte super avantajoase legate de turneul final din
    Germania! SPECIAL
-   >gt
+   >gt;
    Naționala
    17:09
    Cum salvezi sute de euro cu bilete la EURO 2024? Românii pot beneficia
@@ -7387,14 +7387,14 @@ Ce se întâmplă cu deznodământul pentru EURO 2024
    Adversari România la EURO 2024. Trei palme zdravene pe care trebuie să
    și le dea preventiv tricolorii și Edi Iordănescu după tragerea la
    sorți! ANALIZĂ
-   >gt
+   >gt;
    Naționala
    15:55
    Adversari România la EURO 2024. Trei palme zdravene pe care trebuie să
    și le dea preventiv tricolorii și Edi Iordănescu ...
    Răzvan Burleanu, reacție surprinzătoare după tragerea la sorți de la
    EURO 2024! Ce echipă uriașă din urna 1 și-ar fi dorit în locul Belgiei
-   >gt
+   >gt;
    Naționala
    14:59
    Răzvan Burleanu, reacție surprinzătoare după tragerea la sorți de la
@@ -7852,7 +7852,7 @@ pregătim”
    Dacă este cazul, reţinerea coșului de cumpărături și reţinerea
    progresului unei comenzi Ascunderea modulelor cookie necesare
    Companie Domeniu Politica de confidenţialitate
-   RCS&ampRDS S.A. digi24.ro Vezi politica de confidenţialitate
+   RCS&amp;RDS S.A. digi24.ro Vezi politica de confidenţialitate
    cmp_level, prv_level, m2digi24ro, stickyCookie
    Studiu de Audienţă și Trafic Internet (prin CXENSE) brat.ro
    cX_S, cX_P, cX_T
@@ -7873,13 +7873,13 @@ pregătim”
    de analiză
        Companie      Domeniu         Politica de confidenţialitate
    Google Analytics google.com Vezi politica de confidenţialitate
-   _ga, _gid, _gat, AMP_TOKEN, _gac_<ltproperty-id>gt, __utma, __utm, __utmb,
+   _ga, _gid, _gat, AMP_TOKEN, _gac_<lt;property-id>gt;, __utma, __utm, __utmb,
    __utmc, __utmz, __utmv
    [ ] Fişiere cookie de social media
    Aceste module cookie vă permit să vă conectaţi la reţelele de
    socializare preferate și să interacţionaţi cu alţi utilizatori.
    [ ] Vizualizarea modulelor cookie social media
-   - Interacţiuni social media (like &amp share) - Posibilitatea de a te loga
+   - Interacţiuni social media (like &amp; share) - Posibilitatea de a te loga
    în cont folosind o platformă terţă (Facebook, Google, etc) - Rularea
    conţinutului din platforme terţe (youtube, soundcloud, etc) Ascunderea
    modulelor cookie social media
@@ -8613,8 +8613,8 @@ judiciare, zero condamnări, dreptate on hold
    search_icon user_icon menu_icon close_icon
 
    plus ACTUALITATE
-   Război în Ucraina International Politic Educatie Minte&ampCorp Sănătate
-   Copii&ampPărinți Mediu Opinii Europa împreună Infrastructura Administratie
+   Război în Ucraina International Politic Educatie Minte&amp;Corp Sănătate
+   Copii&amp;Părinți Mediu Opinii Europa împreună Infrastructura Administratie
    Vezi toate categoriile forward_icon
    plus ECONOMIE
    Bănci Finanțe Energie Auto IT Telecom
@@ -8632,8 +8632,8 @@ judiciare, zero condamnări, dreptate on hold
    Subiectele zilei Radio - TV
    Vezi toate categoriile back_icon
    plus DOSARE JURIDICE
-   Deloitte si Reff &amp Asociații Stoica &amp Asociații act Botezatu Estrade
-   Partners Filip &amp Company Schoenherr &amp Asociații
+   Deloitte si Reff &amp; Asociații Stoica &amp; Asociații act Botezatu Estrade
+   Partners Filip &amp; Company Schoenherr &amp; Asociații
    plus PROIECTE
    Ucraina și noi Banking și mai și Dictionar financiar Fashion Tips
    Innova Lab Pagini de [cod] #BigData in business Facem România Bine
@@ -8647,7 +8647,7 @@ judiciare, zero condamnări, dreptate on hold
    back_icon ÎNAPOI
    Administrație Ajutor pentru Ucraina Coronavirus Cultură Defense
    Educație Esențial Film Infrastructură Internațional Magazin Mediu
-   Minte&ampCorp Opinii Perspektiva Politic Război în Ucraina Sănătate
+   Minte&amp;Corp Opinii Perspektiva Politic Război în Ucraina Sănătate
    ECONOMIE
    back_icon ÎNAPOI
    Agricultură Asigurări și pensii private Auto Bani europeni Bănci Blogul
@@ -8673,9 +8673,9 @@ judiciare, zero condamnări, dreptate on hold
    DOSARE JURIDICE
    back_icon ÎNAPOI
    Opinia specialistilor
-   act Botezatu Estrade Partners Deloitte si Reff &amp Asociații Filip &amp
-   Company Oglinda &amp Asociații ONV LAW PeliPartners Pop Briciu Crai
-   Attorneys Schoenherr &amp Asociații Stoica &amp Asociații Țucă Zbârcea &amp
+   act Botezatu Estrade Partners Deloitte si Reff &amp; Asociații Filip &amp;
+   Company Oglinda &amp; Asociații ONV LAW PeliPartners Pop Briciu Crai
+   Attorneys Schoenherr &amp; Asociații Stoica &amp; Asociații Țucă Zbârcea &amp;
    Asociații
    CONTUL MEU
    user icon Login
@@ -8697,8 +8697,8 @@ judiciare, zero condamnări, dreptate on hold
    HOME ECONOMIE SPORT LIFE SCIENCE REVISTA PRESEI DOSARE JURIDICE ULTIMA
    ORA
 
-   Război în Ucraina International Politic Educație Sănătate Minte&ampCorp
-   Opinii Copii&ampPărinți Administrație
+   Război în Ucraina International Politic Educație Sănătate Minte&amp;Corp
+   Opinii Copii&amp;Părinți Administrație
 
    Ultima știre - 01:30 Marți, 17 Octombrie 2023, 06:20
 
@@ -9244,9 +9244,9 @@ Ciolacu s-a întâlnit cu Netanyahu la Tel Aviv
    Israelul are dreptul să se apere”, a spus premierul român.
 
    IFRAME:
-   https://www.facebook.com/plugins/video.php?height=314&amphref=https%3A%2F%
-   2Fwww.facebook.com%2FCiolacuMarcel%2Fvideos%2F1011224723489486%2F&ampshow_
-   text=false&ampwidth=560&ampt=0
+   https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%
+   2Fwww.facebook.com%2FCiolacuMarcel%2Fvideos%2F1011224723489486%2F&amp;show_
+   text=false&amp;width=560&amp;t=0
 
    12:03Armata israeliană se pregătește pentru următoarea fază a campaniei
    sale împotriva Fâșiei Gaza, dar este posibil ca aceasta să nu fie
@@ -9864,7 +9864,7 @@ dată de artist
    @tedy (sper că nu ești ursulețul): Ești sigur?! Câteodată, Războiul, da
    - e rău că ia vieți, distruge, deposedează, alienează, chinuie și
    dezumanizează. Însă, nu de puține ori, produce și oameni sfinți. În
-   timp ce Pacea - de cealaltă parte - (produce) homosexuali &amp leze,
+   timp ce Pacea - de cealaltă parte - (produce) homosexuali &amp; leze,
    traficanți de droguri, (dătători dar mai ales) primitori de mită,
    traficanți de organe (invocând că unii deși n-au activitate cerebrală,
    cică n-ar fi vii), corupți, încasatori de pensii speciale, ceceriști,
@@ -11424,7 +11424,7 @@ din Israel
 <text>
    #alternate alternate alternate alternate
 
-   [tr?id=306238671984056&ampev=PageView&ampnoscript=1]
+   [tr?id=306238671984056&amp;ev=PageView&amp;noscript=1]
 
 G4Media.ro
 
@@ -12343,7 +12343,7 @@ Muzeul Național de Istorie a României
 </page>§
 <page='ro-25'>
 <text>
-   [tr?id=524936886177568&ampev=PageView &ampnoscript=1]
+   [tr?id=524936886177568&amp;ev=PageView &amp;noscript=1]
 
 
 
@@ -13233,9 +13233,9 @@ Liban - VIDEO
    Marcel Ciolacu.
 
    IFRAME:
-   https://www.facebook.com/plugins/video.php?height=314&amphref=https%3A%2F%
-   2Fwww.facebook.com%2Fstiripesurse.ro%2Fvideos%2F1167030797586604%2F&ampsho
-   w_text=false&ampwidth=560&ampt=0
+   https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%
+   2Fwww.facebook.com%2Fstiripesurse.ro%2Fvideos%2F1167030797586604%2F&amp;sho
+   w_text=false&amp;width=560&amp;t=0
 
   UPDATE 17 octombrie, ora 12.10: IDF afirmă că a lovit ținte teroriste în Gaza,
   Rafah, Jabaliya și Khan Younis
@@ -14405,16 +14405,16 @@ rating de credit investment grade
    You need to enable JavaScript to run this app.
 
    IFRAME:
-   https://www.googletagmanager.com/ns.html?id=GTM-PZGTJJ2&amppageData[catego
-   ryLevel1]=FOCUS&amppageData[categoryLevel2]=Germania&amppageData[contentTitle
+   https://www.googletagmanager.com/ns.html?id=GTM-PZGTJJ2&amp;pageData[catego
+   ryLevel1]=FOCUS&amp;pageData[categoryLevel2]=Germania&amp;pageData[contentTitle
    ]=Cel de-al Doilea R%C4%83zboi Mondial %C8%99i lec%C8%9Biile
-   trecutului&amppageData[contentLanguage]=25&amppageData[pageOID]=53368472&amppage
-   Data[contentType]=1&amppageData[date]=20200508&amppageData[topicIds][0]=19990
-   022&amppageData[pageSID]=11628&amppageData[departmentName]=Rum%C3%A4nisch&amppag
-   eData[categoryType]=1&amppageData[displayForm]=5&amppageData[level1ID]=615873
-   &amppageData[environment]=WEBAPP_LIVE&amppageData[pageUrl]=https://www.dw.com
+   trecutului&amp;pageData[contentLanguage]=25&amp;pageData[pageOID]=53368472&amp;page
+   Data[contentType]=1&amp;pageData[date]=20200508&amp;pageData[topicIds][0]=19990
+   022&amp;pageData[pageSID]=11628&amp;pageData[departmentName]=Rum%C3%A4nisch&amp;pag
+   eData[categoryType]=1&amp;pageData[displayForm]=5&amp;pageData[level1ID]=615873
+   &amp;pageData[environment]=WEBAPP_LIVE&amp;pageData[pageUrl]=https://www.dw.com
    /ro/cel-de-al-doilea-r%C4%83zboi-mondial-%C8%99i-lec%C8%9Biile-trecutul
-   ui/a-53368472&amppageData[metaTopics]=Politik
+   ui/a-53368472&amp;pageData[metaTopics]=Politik
 
     1. Mergi direct la conținut
     2. Mergi direct la meniul principal
@@ -14648,7 +14648,7 @@ Service
 
 B2B
 
-     * Vânzări &amp Distribuțieîn engleză
+     * Vânzări &amp; Distribuțieîn engleză
      * Călătoriiîn engleză
      * Publicitateîn engleză
 
@@ -14752,7 +14752,7 @@ Instrumente de război
    indica infanteriei să „ia cu asalt”, cu alte cuvinte să iasă din
    tranșee și să avanseze contactul cu inamicul. Prezentat aici este un
    exemplu foarte comun de astfel de fluier folosit de armata britanică,
-   făcut de J. Hudson &amp Co în 1914.
+   făcut de J. Hudson &amp; Co în 1914.
 
    Cea mai cunoscută folosință a tobelor în domeniul militar este pentru
    sincronizarea marșului soldaților. În tranșee, toboșarii erau activi ca
