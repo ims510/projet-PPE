@@ -13,6 +13,7 @@ N=1
 TABLE=""
 while read -r line;
 do
+	echo "Manipulation lien $N ..."
 	ASPIRATION=$(curl -s -L ${line} > ../aspirations/url_ro_$N.html)
 	DUMP=$(lynx -dump -nolist --display_charset=utf-8 ../aspirations/url_ro_$N.html > ../dumps-text/dump_ro_$N.txt)
 	WORDCOUNT=$(cat ../dumps-text/dump_ro_$N.txt | egrep -o "[Rr]ăzbo((iul)|(iului)|(aiele)|(aie)|(aielor)|i)"| wc -w)
