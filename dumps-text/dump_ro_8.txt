@@ -21,11 +21,11 @@ Global Links
 
      *
           + DESCOPERĂ UNICEF
-               o Contactează-ne!
-               o Lucrează împreună cu noi
-               o Partenerii noștri
-     * Centru media
+          + Contactează-ne!
+          + Lucrează împreună cu noi
+          + Partenerii noștri
 
+     Centru media
    Donează
 
 Main navigation

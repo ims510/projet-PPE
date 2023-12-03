@@ -17,21 +17,21 @@ do
 	DUMP=$(lynx -dump -nolist --display_charset=utf-8 ../aspirations/url_ro_$N.html > ../dumps-text/dump_ro_$N.txt)
 	WORDCOUNT=$(cat ../dumps-text/dump_ro_$N.txt | egrep -o "[Rr]ăzbo((iul)|(iului)|(aiele)|(aie)|(aielor)|i)"| wc -w)
 	cat ../dumps-text/dump_ro_$N.txt | sed '/^$/d'| egrep -C 1 "[Rr]ăzbo((iul)|(iului)|(aiele)|(aie)|(aielor)|i)" > ../contexte/contexte_ro_$N.txt
-	./concordancier_roumain.sh dump_ro_$N.txt ../tableaux/concordances_roumain_$N.html
+	./concordancier_roumain.sh ../dumps-text/dump_ro_$N.txt ../tableaux/concordances_roumain_$N.html
 	#obtenir le code HTTP and store it in a variable 
 	CURL=$(curl -s -I -L ${line} | tr -d "\r" ) #obtenir les headers
 	HTTPCODE=$(echo "$CURL" | grep "^HTTP" | egrep -o "[[:digit:]]{3}" | tail -n 1)
 	ENCODING=$(echo "$CURL" | grep "^content-type:" | egrep -o "charset=[^;]*" | cut -f 2 -d =)
-	TABLEROW="<tr><td>$N</td>
-				  <td>$HTTPCODE</td>
-				  <td><a href=${line}>${line}</a></td>
-				  <td>$ENCODING</td>
-				  <td><a href="../aspirations/url_ro_$N.html">aspiration</a></td>
-				  <td><a href="../dumps-text/dump_ro_$N.txt">dump</a></td>
-				  <td>$WORDCOUNT</td>
-				  <td><a href="../contexte/contexte_ro_$N.txt">contexte</a></td>
-				  <td><a href="../tableaux/concordances_roumain_$N.html">concordances</a></td>
-				  </tr>"
+	TABLEROW="<tr><td>$N</td>\n"
+	TABLEROW+="<td>$HTTPCODE</td>\n"
+	TABLEROW+="<td><a href=${line}>${line}</a></td>\n"
+	TABLEROW+="<td>$ENCODING</td>\n"
+	TABLEROW+="<td><a href="../aspirations/url_ro_$N.html">aspiration</a></td>\n"
+	TABLEROW+="<td><a href="../dumps-text/dump_ro_$N.txt">dump</a></td>\n"
+	TABLEROW+="<td>$WORDCOUNT</td>\n"
+	TABLEROW+="<td><a href="../contexte/contexte_ro_$N.txt">contexte</a></td>\n"
+	TABLEROW+="<td><a href="../tableaux/concordances_roumain_$N.html">concordances</a></td>\n"
+	TABLEROW+="</tr>"
 	TABLE+="$TABLEROW\n"
 	N=$(expr $N + 1)
 done < "$FILE_PATH_IN"

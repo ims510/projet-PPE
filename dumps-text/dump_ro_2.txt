@@ -4,11 +4,7 @@
 
    cauta ANTENA 3 CNN
    ANTENA 3 CNN LIVE
-<<<<<<< HEAD
-   În Gura Presei cu Mircea Badea
-=======
-   NEWSROOM cu Andreea Dumitrache
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
+   iTHINK cu Iusti Fudulu
    icon TV
    ____________________
    Cauta
@@ -25,6 +21,7 @@ Emisiuni ANTENA 3 CNN
      * Sfat de Sănătate Sfat de Sănătate
 
    ACTUALITATE
+     * Politică
      * Educaţie
      * Sănătate
      * Mediu
@@ -32,9 +29,10 @@ Emisiuni ANTENA 3 CNN
      * Social
      * Locale
      * Justiţie
-     * Cultură
 
-   POLITICĂ
+   CONFERINȚE
+     * România Inteligentă
+     * RO 3.0
 
    EXTERNE
      * Be EU
@@ -253,191 +251,135 @@ atacuri rusești cu un număr record de drone
 
    TOP articole pe Antena 3 CNN:
     1.
-<<<<<<< HEAD
-   ciudatenie meteo romania viscol prognoza
-       Ciudăţenie meteo în România, azi-noapte, în mijlocul viscolului
+   scutiri impozit locuinte 2024 conditii
+       Scutiri la impozitul pe locuinţe în 2024. Condiţia pe care românii
+       care stau la bloc trebuie să o îndeplinească
     2.
-   pensionari romani bani in plus pensie luna decembrie carduri alimente
-       Pensionarii români care vor primi bani în plus, pe lângă pensie, în
-       luna decembrie
+   meteo romania prognoza meteo
+       Șoc termic pentru România. Diferențe de temperatură de până la 20
+       de grade | Prognoza meteo pentru următoare săptămână
     3.
-   elena mateescu director anm vremea iarna prognoza meteo fenomen
-       Elena Mateescu, director ANM, avertisment despre vremea din
-       următoarele zile | Fenomenul care ar putea afecta România
+   planta agricultura salvata romania seceta intretinere
+       Planta care ar putea salva agricultura din România. E rezistentă la
+       secetă şi are costuri de întreţinere mici
     4.
-   sorin gadola fondator untold obiceiuri schimbate boala autoimuna grava
-       Sorin Gadola, fondatorul Untold, schimbare majoră după ce a aflat
-       că suferă de o boală gravă | Obiceiurile la care a renunțat total
+   informatii elev 12 ani murit excursie austria sora declaratii
+       Noi informații în cazul elevului de 12 ani care a murit în timpul
+       unei excursii cu școala în Austria. Sora băiatului a făcut primele
+       declarații
     5.
-   razboi in ucraina 26 noiembrie 2023
-       Război în Ucraina, ziua 641 | Rusia anunţă că a doborât două
-       rachete ucrainene deasupra Mării Azov
-=======
-   tara europa amenintare dezindustrializari galopante avertisment experti
-       Ţara din Europa care se confruntă cu ameninţarea unei
-       dezindustrializări galopante | Avertismentul experţilor
-    2.
-   lista completa drumuri inchise romania ninsori viscol 27 noiembrie 2023
-       Lista completă a drumurilor închise în România, din cauza ninsorii
-       și viscolului, astăzi, 27 noiembrie
-    3.
-   profesor injunghiat eleva 16 ani oradea
-       Un profesor a fost înjunghiat în spate de o elevă de 16 ani, la
-       Oradea! Poliția intervine
-    4.
-   avertizare meteo anm imediata localitati cod galben ninsori viscol
-       Avertizare meteo ANM imediată! Lista localităților afectate de
-       codul galben de ninsori și viscol
-    5.
-   acuzatii grave cantaret muzica populara
-       Acuzații grave la adresa unui celebru cântăreț de muzică populară |
-       ”Vezi că dimineață vii cu mine”
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
+   obicei care duce la avc dr vlad ciurea
+       Dr. Vlad Ciurea trage un semnal de alarmă! Obiceiul care poate
+       ucide: ”Este adevărat”
 
    Parteneri
      *
-   Alertă ANM! Un ciclon va afecta grav România! Cum se explică ninsorile
-       și viscolul extrem
-       Alertă ANM! Un ciclon va afecta grav România! Cum se explică
-       ninsorile și viscolul extrem
+   Lele și Andra Volos au împodobit bradul de Crăciun alături de fiica
+       lor. Fotografii speciale cu aranjarea locuinței lor / VIDEO
+       Lele și Andra Volos au împodobit bradul de Crăciun alături de fiica
+       lor. Fotografii speciale cu aranjarea locuinței lor / VIDEO
      *
-   UPS! Rochia PREA SCURTĂ i a jucat feste lui Kate! Ce s a văzut când a
-       coborât din maşină
-       UPS! Rochia PREA SCURTĂ i-a jucat feste lui Kate! Ce s-a văzut când
-       a coborât din maşină
+   ȘOC! Cum arată mormântul lui Adrian Iovan, la aproape 10 ani de la
+       moartea sa. Detaliul RUȘINOS din cimitir VIDEO EXCLUSIV
+       ȘOC! Cum arată mormântul lui Adrian Iovan, la aproape 10 ani de la
+       moartea sa. Detaliul RUȘINOS din cimitir VIDEO EXCLUSIV
      *
-<<<<<<< HEAD
-   Exclusiv. După ce Bruxelles ul ne a refuzat finanțarea investițiilor,
-       Ion Sterian, directorul general Transgaz, va negocia la Paris
-       obținerea banilor
-       Exclusiv. După ce Bruxelles-ul ne-a refuzat finanțarea
-       investițiilor, Ion Sterian, directorul general Transgaz, va negocia
-       la Paris obținerea banilor
-=======
-   Rezerviștii din Armată, Poliție și servicii, revoltați de viitoarea
-       lege a pensiilor
-       Rezerviștii din Armată, Poliție și servicii, revoltați de viitoarea
-       lege a pensiilor
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
+   Horoscop săptămânal, 3 10 decembrie 2023. Gemenii ies din rutină. Leii
+       își asumă riscuri. Scorpionii câștigă un premiu
+       Horoscop săptămânal, 3-10 decembrie 2023. Gemenii ies din rutină.
+       Leii își asumă riscuri. Scorpionii câștigă un premiu
      *
-   Cât de frumoasă este soţia lui Ionuţ Iftimoaie. Maria întoarce toate
-       privirile şi vrea să dea o nouă lovitură în afaceri
-       Cât de frumoasă este soţia lui Ionuţ Iftimoaie. Maria întoarce
-       toate privirile şi vrea să dea o nouă lovitură în afaceri
+   Leonard Doroftei s a simţit trădat în România şi a luat o decizie
+       radicală. Pierderea e una uriaşă
+       Leonard Doroftei s-a simţit trădat în România şi a luat o decizie
+       radicală. Pierderea e una uriaşă
      *
-   ALERTĂ! Cod ROŞU în România! Românii, sfătuiţi să stea în case! Drumuri
-       închise şi fenomene
-       ALERTĂ! Cod ROŞU în România! Românii, sfătuiţi să stea în case!
-       Drumuri închise şi fenomene
+   El este omul care a distrus tragerea la sorți! Momente de stupoare sub
+       ochii lui Edi Iordănescu. 'O să înfunzi pușcăria!'
+       El este omul care a distrus tragerea la sorți! Momente de stupoare
+       sub ochii lui Edi Iordănescu. 'O să înfunzi pușcăria!'
      *
-   Se complică ancheta în cazul pacienților decedați de la Spitalul
-       Murgeni! Ce arată rezultatele testelor bacteriologice
-       Se complică ancheta în cazul pacienților decedați de la Spitalul
-       Murgeni! Ce arată rezultatele testelor bacteriologice
+   Experiența inedită trăită de o femeie. S a trezit cu 86 de milioane de
+       dolari în cont, dar a avut parte de o surpriză de proporții: „Este
+       o experiență dezamăgitoare memorabilă”
+       Experiența inedită trăită de o femeie. S-a trezit cu 86 de milioane
+       de dolari în cont, dar a avut parte de o surpriză de proporții:
+       „Este o experiență dezamăgitoare memorabilă”
      *
-   Ce este GHEAȚA NEAGRĂ, pericolul de pe șosele în timpul iernii. Titi
-       Aur: „Aderența se schimbă de la una bună la una rea”
-       Ce este GHEAȚA NEAGRĂ, pericolul de pe șosele în timpul iernii.
-       Titi Aur: „Aderența se schimbă de la una bună la una rea”
+   Englezilor nu le vine să creadă că există un oraș din România,
+       necunoscut în Europa, care este cel mai IEFTIN pentru o vacanță
+       Englezilor nu le vine să creadă că există un oraș din România,
+       necunoscut în Europa, care este cel mai IEFTIN pentru o vacanță
      *
-   Imagini SECRETE cu Andreea Marin au scăpat pe net! NU ai văzut o
-       niciodată așa
-       Imagini SECRETE cu Andreea Marin au scăpat pe net! NU ai văzut-o
-       niciodată așa
+   HORROR! Așa arăta Adelina Pestrițu înainte de operațiile estetice.
+       Imaginile trebuie INTERZISE
+       HORROR! Așa arăta Adelina Pestrițu înainte de operațiile estetice.
+       Imaginile trebuie INTERZISE
      *
-   În timp ce în aproape toată țara s au trimis alerte de vreme rea, un
-       sat din România arată ca și cum ar fi de pe vreo altă planetă
-       În timp ce în aproape toată țara s-au trimis alerte de vreme rea,
-       un sat din România arată ca și cum ar fi de pe vreo altă planetă
+   Presa belgiană ironizează naționala României. Ce au scris jurnaliștii:
+       „Vedeta lor ...”
+       Presa belgiană ironizează naționala României. Ce au scris
+       jurnaliștii: „Vedeta lor ...”
      *
-<<<<<<< HEAD
-   Pensionarii vor primi bani în plus de sărbători. Ce sumă le revine în
-       decembrie
-       Pensionarii vor primi bani în plus de sărbători. Ce sumă le revine
-       în decembrie
+   Anunț privind VÂRSTA DE PENSIONARE. Milioane de români sunt vizați
+       Anunț privind VÂRSTA DE PENSIONARE. Milioane de români sunt vizați
      *
-   Jobul care oferă un salariu de 38.000 de lei, stres redus și muncă de
-       la distanță. Ce trebuie să faci?
-       Jobul care oferă un salariu de 38.000 de lei, stres redus și muncă
-       de la distanță. Ce trebuie să faci?
-=======
-   CUTREMUR pe scena politică! Anunț privind NOUL PREȘEDINTE al României
-       CUTREMUR pe scena politică! Anunț privind NOUL PREȘEDINTE al
-       României
+   Japoneza îndrăgostită de România: „Sunt o româncuță din Extremul
+       Orient. Aici am învățat să fiu fericită” VIDEO
+       Japoneza îndrăgostită de România: „Sunt o româncuță din Extremul
+       Orient. Aici am învățat să fiu fericită” VIDEO
      *
-   Semnarea unui acord de pace acum ar însemna sfârșitul Ucrainei așa cum
-       o știm noi, spun experții Semnarea unui acord de pace acum ar
-       însemna sfârșitul Ucrainei așa cum o știm noi, spun experții
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
+   Zodiile care calcă totul în picioare în următoarele zile. Vor avea
+       noroc pe toate planurile
+       Zodiile care calcă totul în picioare în următoarele zile. Vor avea
+       noroc pe toate planurile
      *
-   „Ați crezut că s vai morțișorii mei?” Ce zice Lia Bugnar despre un nou
-       iubit după despărțirea de Anghel Damian
-       „Ați crezut că-s vai morțișorii mei?” Ce zice Lia Bugnar despre un
-       nou iubit după despărțirea de Anghel Damian
+   Zodia protejată de Dumnezeu în luna ianuarie. Acești nativi vor fi
+       binecuvântați în noul an
+       Zodia protejată de Dumnezeu în luna ianuarie. Acești nativi vor fi
+       binecuvântați în noul an
      *
-   Alertă ANM! Un ciclon va afecta grav România! Cum se explică ninsorile
-       și viscolul extrem
-       Alertă ANM! Un ciclon va afecta grav România! Cum se explică
-       ninsorile și viscolul extrem
+   DOLIU în PNL. Lumea politică s a unit în rugăciune: Dumnezeu să l aibă
+       în paza sa!
+       DOLIU în PNL. Lumea politică s-a unit în rugăciune: Dumnezeu să-l
+       aibă în paza sa!
      *
-   UNDE A FUGIT Cătălin Cherecheș? S a aflat exact unde este primarul
-       (SURSE)
-       UNDE A FUGIT Cătălin Cherecheș? S-a aflat exact unde este primarul
-       (SURSE)
+   Scandal după înmormântarea Ronei Hartner! Sora artistei, acuzații dure
+       la adresa lui Rocco Sedano: ”A zis că vrea să fie alături de fiica
+       lui, dar scopul lui este să o...” Scandal după înmormântarea Ronei
+       Hartner! Sora artistei, acuzații dure la adresa lui Rocco Sedano:
+       ”A zis că vrea să fie alături de fiica lui, dar scopul lui este să
+       o...”
      *
-   Despărțirea anului în showbiz! După 7 ani, ea s a afișat deja cu noul
-       iubit. Toți au rămas surprinși când i au văzut
-       Despărțirea anului în showbiz! După 7 ani, ea s-a afișat deja cu
-       noul iubit. Toți au rămas surprinși când i-au văzut
+   Oana Lis, cuprinsă de durere înainte de sărbători: „Nu mai e”
+       Oana Lis, cuprinsă de durere înainte de sărbători: „Nu mai e”
      *
-   „Undeva s a rupt legătura noastră emoțională. Înseamnă că sunt singură”
-       Gina Pistol, declarații dureroase! Nu îî este deloc ușor să
-       vorbească despre asta, după atâția ani
-       „Undeva s-a rupt legătura noastră emoțională. Înseamnă că sunt
-       singură” Gina Pistol, declarații dureroase! Nu îî este deloc ușor
-       să vorbească despre asta, după atâția ani
+   Zmeu la el în sat, un botoșănean găsit totuși de polițiști
+       Zmeu la el în sat, un botoșănean găsit totuși de polițiști
      *
-<<<<<<< HEAD
-   Se caută preot pentru o parohie de lângă oraș
-       Se caută preot pentru o parohie de lângă oraș
-=======
-   USR Botoșani: Măsuri urgente cerute de la CJ pentru salvarea situației
-       generate de Nova ApaServ
-       USR Botoșani: Măsuri urgente cerute de la CJ pentru salvarea
-       situației generate de Nova ApaServ
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
+   „Ne făcea cu ou și cu oțet pe mine și pe mama, auzeau vecinii, îmi era
+       atât de rușine.” Andreea Bănică, despre adolescența alături de
+       tatăl ei
+       „Ne făcea cu ou și cu oțet pe mine și pe mama, auzeau vecinii, îmi
+       era atât de rușine.” Andreea Bănică, despre adolescența alături de
+       tatăl ei
      *
-   „Cât de tare m a bătut, eu îl iubesc și mai mult. Pentru mine, e idolul
-       meu tata.” Nicolae Guță, dezvăluiri neștiute despre copilăria sa!
-       Ce semnifică tatuajul său de pe frunte?
-       „Cât de tare m-a bătut, eu îl iubesc și mai mult. Pentru mine, e
-       idolul meu tata.” Nicolae Guță, dezvăluiri neștiute despre
-       copilăria sa! Ce semnifică tatuajul său de pe frunte?
+   razboi in ucraina 3 decembrie 2023
+       Război în Ucraina, ziua 648. Primarul Kievului îl critică pe
+       Zelenski pentru greşeli şi îndeamă la sinceritate cu privire la
+       situaţia de pe front
      *
-<<<<<<< HEAD
-   razboi in ucraina 27 noiembrie 2023
-       Război în Ucraina, ziua 642. Sute de localităţi din Ucraina au
-       rămas fără curent | Volodimir Zelenski: "Ne confruntăm cu condiţii
-       meteorologice extreme"
-=======
-   companie ofera angajati 17000 euro prima sarbatori bonus urias
-       Compania care oferă fiecărui angajat, de la femeia de serviciu până
-       la CEO, 17.000 de euro primă de sărbători
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
-     *
-   Femeia cu două rânduri de pomeți. Așa arată chipul ei, dar stai să i
-       vezi corpul | FOTO. Oamenii nu se pot abține să nu se holbeze
-       Femeia cu două rânduri de pomeți. Așa arată chipul ei, dar stai
-       să-i vezi corpul | FOTO. Oamenii nu se pot abține să nu se holbeze
+   Rona Hartner a fost uitată de colegii de breaslă în ziua înmormântării.
+       Doar două persoane publice au condus o pe ultimul drum. Despre cine
+       este vorba
+       Rona Hartner a fost uitată de colegii de breaslă în ziua
+       înmormântării. Doar două persoane publice au condus-o pe ultimul
+       drum. Despre cine este vorba
 
    © 2005-2023 S.C. Antena 3 S.A. Toate drepturile rezervate. Date
    companie. Termeni și condiții. (BUTTON) Cookie Settings
    SAL SOL
 
-<<<<<<< HEAD
    Abonează-te la canalul oficial de WhatsApp al Antena CNN
-=======
-   Horoscop 27 noiembrie - 3 decembrie 2023, cu Mihai Voropchievici
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
 
    x close

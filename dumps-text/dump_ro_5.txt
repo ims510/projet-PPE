@@ -2,7 +2,7 @@
    Hotnews.ro Sport Hotnews.ro Revista Presei Hotnews.ro Science
    Hotnews.ro English Hotnews.ro Espanol Hotnews.ro Politic
 
-   updated_icon Actualizat acum 5 minute EUR 4.9703 USD 4.5559
+   updated_icon Actualizat acum 5 minute EUR 4.9726 USD 4.5313
 
    hotnews_logo
    ____________________ (BUTTON) CAUTĂ search_icon
@@ -982,90 +982,50 @@ Rezumat al situației din Israel
    [ic_comments_blue.svg] 108
    [ic_sun.svg] RECOMANDĂRI HotNews.ro
 
-   Economii pentru pensie
+   Euro
 
-O ambiguitate legislativă la Codul Fiscal ar putea impozita pensiile private
-cu 15% sau 20%, precum pensiile speciale. Ce riscă participanții la Pilonul
-II
+Câți bani trebuie să pui deoparte ca să ai o pensie de 1.000 euro pe lună
 
-   Luminițe de Crăciun în Cișmigiu
+   Zona Schengen
 
-Cât plătesc cele mai mari orașe din România pentru luminițele de Crăciun
+Europarlamentar: Șansele ca România să intre în Schengen au crescut
+„simțitor” / Variantele prin care o decizie ar putea fi luată luna aceasta
 
-   Revolta companiilor de stat împotriva măsurilor de austeritate
+   Dinu Patriciu și-a cumpărat în 2011 un iaht pe care l-a denumit
+   "Darlings Danama"
 
-fanatik.ro: Revolta companiilor de stat împotriva măsurilor de austeritate.
-„Supra-plata directorimii e înghesuită sub nasul contribuabililor"
+fanatik.ro: Ce se întâmplă cu iahtul de 35 milioane de euro al lui Dinu
+Patriciu. Miliardarul l-a botezat după numele femeilor din viața sa
 
-   Soldatul rus ranit a fost abandonat de camarazii sai
+   Nerd Alert
 
-VIDEO Imagini de un dramatism extrem pe frontul din Avdiivka: Un grup de
-soldați ruși încearcă să supraviețuiască sub tirul artileriei ucrainene
+Delfinii militari ai Rusiei ar fi evadat / Studiul care a vrut să-i facă pe
+bărbați vegani a dat chix / Netflix încheie anul în forță
 
-   După o viață petrecută la bloc, un cuplu din Baia Mare s-a mutat
-   într-un tiny house înconjurat de dealuri
+   Un mic bar de cartier a devenit locuință cu două camere după o renovare
+   de 20.000 euro
 
-lovedeco.ro: După o viață petrecută la bloc, un cuplu din Baia Mare s-a mutat
-într-un tiny house înconjurat de dealuri
+lovedeco.ro: Un mic bar de cartier a devenit locuință cu două camere după o
+renovare de 20.000 euro
 
-   Schimbari climatice
+   Gânditorul lui Rodin
 
-Banca Mondială: Adaptarea la schimbările climatice va duce la creșteri de
-prețuri și de impozite, iar contractul social al României este deja tensionat
+Ce este Paradoxul Sapient și de ce rămâne el unul dintre cele mai mari
+mistere ale evoluției umane
 
-   Drumuri blocate din cauza viscolului
+   Prelungirea Ghencea 7
 
-<<<<<<< HEAD
-HARTĂ Iarnă severă în sud-estul Românie după un cod roșu de viscol și vânt:
-Drumuri închise, trenuri anulate / Sute de oameni blocați în mașini și...
-=======
-Infotrafic: 21 de drumuri naționale sunt închise în șase județe / Situație
-dificilă în județul Tulcea, unde zeci de localități nu au energie și...
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
+FOTO Ce am învățat de când locuiesc în cel mai urât cartier din București
 
-   Simona Halep
+   Copil abuzat
 
-TAS, anunț oficial - Cazul Simonei Halep nu este o prioritate
+De ce își bat românii copiii? Gelu Duminică: „Avem de a face cu normalizarea
+anormalului”
 
-   Supravegheați, click cu click. Cum funcționează noua realitate care ne
-   dictează viețile și banii
+   Panorama cu ALP: Românii care vor și slănina în pod, și porcul gras
 
-<<<<<<< HEAD
-fanatik.ro: De ce nu e bine să ții telefonul lângă tine atunci când dormi.
-Este un obicei foarte nesănătos
-
-   Ionel Sporea, inventatorul lansatorului automat de mingi de tenis
-
-Inventatorul care a fost aruncat în închisoare de Securitate în urma unei
-înscenări povestește cum l-a salvat Fane Spoitoru de „rechini” în...
-
-   VIDEO Un designer de interior și-a amenajat apartamentul cu inspirație
-   și elemente din vacanțele favorite
-
-lovedeco.ro: VIDEO Un designer de interior și-a amenajat apartamentul cu
-inspirație și elemente din vacanțele favorite
-
-   Calorifer cu repartitor
-
-De ce montarea repartitoarelor la calorifere va aprinde scandaluri între
-vecini
-
-   Benjamin Netanyahu în Fâșia Gaza, printre soldații israelieni
-
-Benjamin Netanyahu, tur făcut în Fâșia Gaza: „Continuăm până la capăt, până
-la victorie” / Joe Biden: „O soluție cu două state este singura...
-
-   Tanc Abrams
-
-FOTO Primele imagini cu tancurile americane Abrams pe frontul din Ucraina
-
-   Supravegheați, click cu click. Cum funcționează noua realitate care ne
-   dictează viețile și banii
-
-=======
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
-panorama.ro: Supravegheați, click cu click. Cum funcționează noua realitate
-care ne dictează viețile și banii
+panorama.ro: Panorama cu ALP: Românii care vor și slănina în pod, și porcul
+gras
 
    8 mituri despre sex care ar trebui să dispară, conform terapeuților
    sexologi
@@ -1073,27 +1033,17 @@ care ne dictează viețile și banii
 smartliving.ro: 8 mituri despre sex care ar trebui să dispară, conform
 terapeuților sexologi
 
-<<<<<<< HEAD
-   Platformă petrolieră offshore
+   Operatorii unei drone rusești, nevoiți să vadă cum colegii lor de pe
+   câmpul de luptă sunt anihilați de ucraineni
 
-Cum vor putea fi exportate gazele din Marea Neagră, fără modificarea Legii
-offshore / Austriecii și ungurii abia așteaptă să cumpere gazele din...
+VIDEO Doi soldați ucraineni au făcut praf un grup de asalt rusesc sub
+privirile șocate ale operatorilor dronei inamice: „La dracu, au omorât pe...
 
-   Autostrada A0 - Lotul 2 Nord
-=======
-   Comune bogate, comune sarace
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
+   Grigore Leșe
 
-Comunele din România mai bogate decât unele reședințe de județ
+Grigore Leşe: Melodia „Aşa-i românul” este din folclorul maghiar / Explicația
+dată de artist
 
-<<<<<<< HEAD
-=======
-   Furtună în stațiunea Soci din Rusia
-
-VIDEO Sudul Rusiei și Crimeea, lovite de „furtuna secolului”: 500.000 de
-oameni fără energie electrică, autostrăzi inundate, hoteluri distruse, un...
-
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
    ADAUGĂ COMENTARIU (108 comentarii)
    Rusul ucrainian • 2023-10-09 10:06
    Serbia a facut mult mai putin rau minoritatii albaneze din Kosovo,
@@ -1793,6 +1743,11 @@ Creaza un cont nou pe HotNews.ro
    condițiile HotNews.ro.
    Oameni Fericiți. Medici Buni Medlife logo
 
+   Spitalul MedLife Polisano
+
+MedLife Polisano Sibiu deschide primul centru medical cu servicii ambulatorii
+și spitalicești permanente 24/7
+
    Dr. Adina Gheorghe
 
 Dr. Adina Gheorghe, medic specialist în ecografii: „Văd foarte multe paciente
@@ -1804,158 +1759,78 @@ tinere cu cancer de sân. Din fericire, există tehnologii prin care...
 1 din 2 copii recent diagnosticați cu cancer în România a fost deja înscris
 în Programul Gratuit de Testare Genetică dezvoltat de MedLife
 
-   Cea mai nouă tehnologie robotică în neurochirurgie, la Spitalul MedLife
-   Humaniatas Cluj
-
-Premieră: MedLife aduce în România cea mai nouă tehnologie robotică din lume
-în practica neurochirurgicală, la Spitalul Humanitas din Cluj
-
-   [ic_sun.svg] INTERVIURILE HotNews.ro
    hotnews_sun ULTIMA ORĂ
-<<<<<<< HEAD
-   23:13 • SuperLiga - Powered by Superbet
+   17:07 • SPORT
 
-Eroul FCSB-ului a analizat jocul echipei în meciul cu Dinamo
+Selecționerul Belgiei descrie naționala României înainte de EURO 2024
 
-   22:47 • ULTIMA ORĂ
+   16:59 • ECONOMIE
 
-Șeful Poliției de Frontieră, Victor Ștefan Ivașcu, demis după fuga lui
-Cătălin Cherecheș din țară / MAI a hotărât să facă mai multe schimbări
-„pentru restabilirea eficienței manageriale”
+​Granturi IMM 4.1.1/4.1.1Bis: 1669 proiecte realizate sub 5% NU se mai
+reziliază prematur. Miză de sute de milioane EUR
 
-   22:32 • REVISTA PRESEI
+   16:51 • ACTUALITATE
 
-Victor Ponta spune că DNA i-a ascultat convorbirile după ce a demisionat din
-funcția de premier: Kovesi voia să vadă ce fac eu / Trei sferturi erau
-convorbiri cu copiii mei
+SUA: Kraft, General Mills, Kellogg şi Nestle obțin despăgubiri de 17,7
+milioane de dolari într-un proces privind preţurile exagerate ale ouălor
 
-   22:17 • ACTUALITATE
+   16:32 • ACTUALITATE
 
-Un bărbat din Franța s-a predat poliției după ce și-a omorât toate cele trei
-fiice
+Operatorul satelitului spion nord-coreean va livra datele sale armatei
 
-   21:39 • ACTUALITATE
+   16:09 • ACTUALITATE
 
-VIDEO Incendiu major la o fabrică de tractoare din Rusia, care produce
-motoare pentru echipamente militare ale armatei ruse
+Netanyahu spune că nu va permite Autorităţii Palestiniene să guverneze în
+Gaza după război
 
-   21:33 • SPORT
+   15:47 • ECONOMIE
 
-VIDEO Italia a câștigat Cupa Davis - Jannik Sinner, omul momentului
+Este mult prea devreme să declarăm victoria în lupta cu inflaţia, spune șeful
+Băncii Centrale a Germaniei
 
-   21:25 • VIDEO Interviu de la Strasbourg
+   15:36 • SPORT
 
-Rareș Bogdan: N-o să rupem guvernarea mâine-poimâine / Către ministrul
-Finanțelor: Stai, mă, nene! Stop! Tocmai am dat câteva ciomege companiilor
-private / Am văzut și glumele pe subiectul Hakuna Matata. Klaus Iohannis e
-extrem de puternic
+Dan Petrescu, înfrângere și obiectiv ratat în Coreea de Sud
 
-   21:16 • REVISTA PRESEI
+   15:27 • ACTUALITATE
 
-Victor Ponta: Mie mi se pare că premierul Ciolacu chiar mă ascultă / Cu mulţi
-alţii am avut impresia că vorbesc ca şi cum aş vorbi cu geamul
+Actriţa Susan Sarandon prezintă scuze după ce a făcut afirmaţii controversate
+despre evrei
 
-   20:47 • ACTUALITATE
+   15:16 • SPORT
 
-Gruparea Hamas este pregătită de o prelungire a armistiţiului cu „două până
-la patru zile” - sursă AFP
+Performanțe extraordinare la CM Tenis de masă (juniori) - Elena Zaharia, în
+finală / Bronz pentru Eduard Ionescu
 
-   20:32 • ACTUALITATE
+   15:05 • ACTUALITATE
 
-Benjamin Netanyahu, tur făcut în Fâșia Gaza: „Continuăm până la capăt, până
-la victorie” / Joe Biden: „O soluție cu două state este singura modalitate de
-a garanta o securitate pe termen lung”
+Primarul Kievului îl critică pe Zelenski pentru greșelile făcute și se
+poziționează de partea lui Zalujnîi: „A spus adevărul”
 
-   20:30 • SPORT
+   14:46 • ACTUALITATE
 
-VIDEO Premier League: Manchester United, victorie categorică și un eurogol pe
-Goodison Park
+COP28: Papa îndeamnă religiile lumii să se unească împotriva distrugerii
+mediului înconjurător
 
-   20:25 • SuperLiga - Powered by Superbet
+   14:40 • SPORT
 
-VIDEO SuperLiga: Universitatea Craiova, victorie pe terenul Oțelului -
-Hat-trick pentru Alexandru Mitriță
+Liga 2: Remiză între Chindia și Concordia - Clasamentul la finalul anului
+2023
 
-   20:21 • ACTUALITATE
-=======
-   13:30 • SCIENCE
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
+   14:25 • ACTUALITATE
 
-Lansarea telescopului spațial Xuntian se amână până în 2025
+Statele Unite au exclus Boeing din competiția pentru noua flotă de „Avioane
+ale Apocalipsei” / În cursă pare să fi rămas o singură companie
 
-   13:28 • ECONOMIE
+   14:00 • LIFE
 
-Opt companii sunt interesate de construirea terminalului de bitum de la
-Constanța
+FOTO/VIDEO Unde merg turcii să mănânce și ce vezi în Paflagonia: carburant
+ieftin, mâncare bună, plaje și puțini turiști
 
-   13:22 • ACTUALITATE
+   13:53 • ECONOMIE
 
-Dispariția iernii îi face pe greci să își numere măslinele
+Piața mondială a ceasurilor smart a crescut cu 9% în trimestrul trei
 
-   13:15 • SPORT
-
-Jose Mourinho, declarația momentului: „Sunt un bandit al fotbalului. AS Roma
-nu e așa și asta e o problemă”
-
-   13:09 • ACTUALITATE
-
-[P] IMM-urile din domeniul HoReCa s-au reunit la Târgul Întreprinderilor Mici
-şi Mijlocii, ediţia 2023
-
-   Articol susținut de fanatik.ro
-
-fanatik.ro: Revolta companiilor de stat împotriva măsurilor de austeritate.
-„Supra-plata directorimii e înghesuită sub nasul contribuabililor"
-
-   13:05 • ACTUALITATE
-
-Cătălin Cherecheș s-ar afla în Italia, împreună cu mama și soția lui. Cum a
-reușit primarul din Baia Mare să fugă din țară / Lista fugarilor români care
-și-au găsit refugiul în Italia
-
-<<<<<<< HEAD
-=======
-   13:01 • ACTUALITATE
-
-VIDEO Imagini de un dramatism extrem pe frontul din Avdiivka: Un grup de
-soldați ruși încearcă să supraviețuiască sub tirul artileriei ucrainene
-
-   Articol susținut de Mediastandard.ro
-
-Mediastandard.ro: Social media, locul unde se întâlnește cel mai des
-dezinformarea legată de schimbările climatice
-
-   12:31 • ACTUALITATE
-
-VIDEO Mega-captură de țigări la frontieră: Într-un tir au fost găsite 1.120
-de baxuri, în valoare de 1,5 milioane de euro
-
-   12:19 • ECONOMIE
-
-Tarifele de distribuție a energiei electrice cresc cu 6% de la 1 ianuarie. Ce
-înseamnă pentru consumatorii casnici
-
-   12:18 • ACTUALITATE
-
-Tolontan povestește cum redacției GSP i s-a cerut să fondeze o asociație de
-lobby pentru industria de jocuri de noroc. Ce a urmat
-
-   12:07 • ACTUALITATE
-
-Miniștrii de interne din șase țări se întâlnesc în Ungaria să discute despre
-migrația ilegală
-
-   12:01 • SPORT
-
-Istvan Kovacs va arbitra un meci foarte important din grupele Champions
-League
-
-   11:56 • ACTUALITATE
-
-Incident grav într-un liceu din Oradea: Pedagog înjunghiat de o elevă, în
-biroul unui director al școlii
-
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
    Vezi toate articolele
    [ic_sun_white.svg] PROIECTE
    Ucraina și noi
@@ -1974,133 +1849,103 @@ biroul unui director al școlii
    GoDigital
    Recomandări de lectură
    hotnews_sun CELE MAI CITITE
-<<<<<<< HEAD
-   Drumuri blocate din cauza viscolului
+   Euro
 
-HARTĂ Iarnă severă în sud-estul Românie după un cod roșu de viscol și vânt:
-Drumuri închise, trenuri anulate / Sute de oameni blocați în mașini și
-numeroase localități fără curent / Școala a fost suspendată în 5 județe
+Câți bani trebuie să pui deoparte ca să ai o pensie de 1.000 euro pe lună
 
-Trupele rusești avansează în Avdiivka. Ce spune armata ucraineană
+Euro 2024 - Adversari accesibili pentru tricolori - Programul Grupei E
 
-FOTO Primele imagini cu tancurile americane Abrams pe frontul din Ucraina
+Ce este Paradoxul Sapient și de ce rămâne el unul dintre cele mai mari
+mistere ale evoluției umane
 
-LIVE Război în Ucraina, ziua 641: Rusia ar fi mutat sisteme strategice din
-Kaliningrad pe fondul pierderilor de pe front - Armata britanică / Moscova și
-Kiev susțin fiecare că au respins atacuri cu drone / Trupele rusești
-avansează la Avdiivka
-=======
-   Ninsoare pe Valea Prahovei
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
+Paris: Un turist a fost ucis și doi răniți după ce au fost atacați de un
+bărbat care strigat „Allahu Akbar"
 
-Cum va fi vremea în zilele următoare după episodul sever de iarnă din
-noiembrie. Anunțul șefei ANM
+LIVE Război în Ucraina, ziua 648: Luptele sunt încetinite de condițiile de
+iarnă - ISW / Ucraina acuză că rușii au ucis doi soldați care se predaseră /
+Oficiali ruși și ucraineni își vor vizita prizonierii de război
 
-De ce montarea repartitoarelor la calorifere va aprinde scandaluri între
-vecini
-<<<<<<< HEAD
+Razboiul sovieto-polonez din 1919 sau cum a fost dejucat planul Rusiei de
+cucerire a Occidentului
 
-Cimpanzeii folosesc o tactică de război nemaivăzută până acum / Ultimul film
-Indiana Jones apare în streaming / Black Mirror a fost reînnoit pentru încă
-un sezon la Netflix
+Adversarele României la Euro 2024 – Valoarea loturilor și cei mai periculoși
+jucători
 
-=======
-
-Inventatorul care a fost aruncat în închisoare de Securitate în urma unei
-înscenări povestește cum l-a salvat Fane Spoitoru de „rechini” în schimbul
-lecțiilor de engleză
-
-Rareș Bogdan: N-o să rupem guvernarea mâine-poimâine / Către ministrul
-Finanțelor: Stai, mă, nene! Stop! Tocmai am dat câteva ciomege companiilor
-private / Am văzut și glumele pe subiectul Hakuna Matata. Klaus Iohannis e
-extrem de puternic
-
-Rusia, pusă sub presiune. Mișcarea neașteptată pe care o face la granițele
-NATO
-
-Șeful Poliției de Frontieră, Victor Ștefan Ivașcu, demis după fuga lui
-Cătălin Cherecheș din țară / MAI a hotărât să facă mai multe schimbări
-„pentru restabilirea eficienței manageriale”
-
-Război în Ucraina, ziua 642: Rusia a suferit luna aceasta pierderi de soldați
-fără precedent / „Vremea extrem de dificilă” afectează mai multe regiuni
-ucrainene / Crimeea și sudul Rusiei, lovite de „furtuna secolului”
-
->>>>>>> 944c2674022f1729249ae961601c15774e14fabc
    Banca Transilvania
 
-Ce urmări va avea marea schismă AI, faza pe banii ChatGPT
+​Granturi IMM 4.1.1/4.1.1Bis: 1669 proiecte realizate sub 5% NU se mai
+reziliază prematur. Miză de sute de milioane EUR
 
-Elon Musk s-a răzgândit în privința uneia dintre modificările majore pe care
-le-a decis la „X”
+ANPC a început controale la furnizori de legume şi fructe/ Au fost date
+amenzi de 140.000 de lei şi au fost oprite temporar de la comercializare două
+tone de fructe
 
-Joburi part-time și full-time la Târgurile de Crăciun din România. Ce salarii
-oferă organizatorii și comercianții în 2023
+Șeful Microsoft dă asigurări că la OpenAI nu există nicio inteligență
+artificială super-inteligentă
 
-Cazul Binance: Investitorii au retras aproape 956 milioane dolari de pe
-platforma crypto după demisia CEO-ului Changpeng Zhao
+​Fonduri UE: ADR Nord-Vest a schimbat selecția proiectelor pe granturi IMM
+131B de 200.000-1,5 milioane EUR și alte finanțări
 
-Rezultate Digitalizare IMM: Primele 1020 de firme admise la fondurile de max.
-100.000 EUR din PNRR. MIPE le-a evaluat cu roboții software ai startup-ului
-românesc Tailent
+VIDEO Musk le transmite publicitarilor care au părăsit X „să se ducă la
+dracu'”
 
    contributors_logo
    contributors_author
+   Silviu Cerna
+
+Milton Friedman – un apărător al libertății
+
+   contributors_author
+   Cosmin Gabriel Pacuraru
+
+Democratizarea producției de energie – pentru o autonomie energetică locală
+și regională
+
+   contributors_author
+   Catalin Dragostin
+
+Reactoarele modulare mici, între optimism exaltat si pesimism defensiv
+
+   contributors_author
+   Marius Bența
+
+Celebrarea națiunii este sau nu idolatrie?
+
+   contributors_author
    Mircea Morariu
 
-Spectacole bucureștene (II)
-
-   contributors_author
-   Constantin Crânganu
-
-Criza climatismului – Un interviu cu profesorul Mike Hulme, Universitatea
-Cambridge
-
-   contributors_author
-   Mihai Maci
-
-Dezastrul învățământului românesc
-
-   contributors_author
-   Mircea Morariu
-
-S-a întâmplat într-o noapte
-
-   contributors_author
-   Mircea Morariu
-
-Virgil Ierunca- MÂNTUIREA ROMÂNEASCĂ
+Controversat, chiar prea hulit. Să fie oare numai atât?
 
    sigla_partener
 
-Un antreprenor român, numit în Consiliul de Administrație al Revolut
+Acţiunile producătorului româno-american de roboți software UiPath au urcat
+cu 20%, vineri, susţinute de rezultatele peste aşteptări
 
-Startup-uri românești din domeniul sănătății, premiate de Uniunea Europeană
-la Milano
+Român ales vicepreședinte al SMEunited, organizație europeană a firmelor mici
+și mijlocii (IMM)
 
-IMM-urile din județele Gorj, Hunedoara, Dolj, Galați, Prahova și Mureș pot
-accesa maxim 8 milioane euro nerambursabili prin Programul Tranziție Justă
+Google și Apple au desemnat cele mai bune aplicații independente pe anul
+2023, pe telefoanele cu Android și pe iPhone
 
-Miliardarul Jack Ma (ex-Alibaba) vrea să se extindă pe zona de mâncare și
-produse agricole
+1 Decembrie 2023. LISTĂ: Startup-uri cu ADN românesc care ne fac mândri
 
-Cum a arătat Black Friday 2023 la nivel mondial: vânzări record
+UE a lansat fonduri de 4,8 miliarde EUR pentru tehnologii inovatoare de
+decarbonizare și hidrogen
 
    sigla_partener
 
-Romsilva scoate la vânzare aproape 25.000 de pomi de Crăciun
+Iohannis: Responsabilitatea noastră - să rămânem vigilenți în fața curentelor
+extremiste
 
-De ce vor să se întâlnească liderii din Japonia, Coreea de Sud și China „cât
-de curând posibil”
+Scriitorul Roberto Saviano: Italia e o țară devorată de corupție
 
-Vizita în Galați a comisarului european pentru coeziune și reforme, anulată
-din cauza vremii
+Geert Wilders se luptă cu refuzul unei alianțe din partea unui potențial
+partener
 
-În ultimii 3 ani, românii au cumpărat titluri de stat de peste 4,5 miliarde
-euro
+Curtea Supremă a Rusiei interzice mișcarea LGBT, considerând-o "extremistă".
+ONU protestează
 
-Noul record de migrație din Marea Britanie înfurie aripa dură a Partidului
-Conservator
+China a decis să-și salveze sectorul imobiliar, crucial pentru economia țării
 
    hotnews_logo
 
@@ -2114,12 +1959,27 @@ Conservator
    Folosind HotNews.ro, sunteți de acord cu termenii și condițiile de
    utilizare ale siteului nostru.
    Despre noi
-   Site Contact Redacție Publicitate
+   Site
+   Contact
+   Redacție
+   Publicitate
    Agenții
-   Agerpres France Presse News.ro Reuters Profimedia Images Inquam Photos
+   Agerpres
+   France Presse
+   News.ro
+   Reuters
+   Profimedia Images
+   Inquam Photos
    Dreamstime
    Parteneri Media
-   Contributors Deutsche Welle Euractiv Rise Project StartupCafe
+   Contributors
+   Deutsche Welle
+   Euractiv
+   Rise Project
+   StartupCafe
    Parteneri
-   Esri Romania GTS Medlife Tremend
+   Esri Romania
+   GTS
+   Medlife
+   Tremend
    © Copyright HotNews.ro 2006-2023

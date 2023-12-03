@@ -37,15 +37,15 @@ Urmărește-ne
 
    Toate site-urile REL/RL
    [ ]
-   Caută ____________________ (BUTTON)
+   Caută_____________________ (BUTTON)
    site logo site logo
    Newsletter
-   Caută ____________________ (BUTTON)
+   Caută_____________________ (BUTTON)
    site logo site logo
    Precedent Următorul
    [ ] Ultima oră
 
-   Război în Israel
+   Israel vs Hamas
 
 300.000 de soldați israelieni, mobilizați. Beniamin Netanyahu: Nicio piatră
 nu va rămâne neîntoarsă! Vom schimba Orientul Mijlociu
@@ -353,7 +353,7 @@ a conflictului
    ____________________
      __________________________________________________________________
 
-   width 640_________________ px Înălțime 360_________________ px
+   width 640_________________ px Înălți360____________________ px
 
      * Trimite pe Facebook
      * Trimite pe Twitter
