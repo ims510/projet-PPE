@@ -110,3 +110,37 @@ Nous avons essayé de remplacer les pipes par d'autres caractères. Nous avons �
 - Ajouter les liens vers pages anglaises, roumaines et russes dans l'index html. 
 - Trouver un thème général pour la présentation de nos pages. 
 - Finaliser et affiner nos listes d'URL. 
+
+## Itrameur : 
+
+Nous avons fait le script pour introduire les balises qui lui permettront d'être chargé sur Itrameur.
+
+```
+cat ../dumps-text/dump_${URL_LANG}_$N.txt | sed "s|&|&amp;|g" | sed "s|<|&lt;|g" | sed "s|>|&gt;|g" >> $FOLDER/dump-$URL_LANG.txt
+cat ../contexte/contexte_${URL_LANG}_$N.txt | sed "s|&|&amp;|g" | sed "s|<|&lt;|g" | sed "s|>|&gt;|g" >> $FOLDER/contexte-$URL_LANG.txt
+```
+
+L'écriture de ce script s'est avéré assez simple car il nous a suffit de ré-utiliser des concepts appris auparavant. De plus, comme nous donnons le code de la langue en argument (ro, ru ou en), nous n'avons pas eu besoin de faire 3 scripts différents.
+
+## Programmes Python Autonomous Lafon specificity Scripts (PALS) :
+
+Nous avons eu beaucoup plus de mal avec cette partie du travail car elle n'était pas clairement expliquée sur la fiche d'exercices. Nous ne savions par exemple pas si elle était reservée aux groupes avec certaines langues ou non.
+
+Nous avons initialement essayé d'uiliser le programme coocurrences avec les fichiers obtenus grâce au script Itrameur mais les résultats nous ont paru étranges. Nous avons donc relu la documentation plus attentivement et nous nous sommes rendues compte que les scripts python peuvent analyser des fichiers textes seulement s'ils sont déjà tockénisés et s'il y a au moins une ligne vide entre chaque phrase. 
+Pour cela, nous avons écrit un script à partir d'une commande qui semblait fonctionner dans le terminal :
+
+```
+	cat ../dumps-text/dump_ro_1.txt | tr -cs "[:alpha:]." "\n" | sed "s/\./\n/g"
+```
+
+Notre script fonctionnait parfaitement pour l'anglais mais ne semblait pas fonctionner pour le roumain. Le fichier obtenu remplaçait les caractères diacrités par des sauts de ligne malgré l'encodage du fichier en UTF-8 (vu sur l'éditeur de texte et confirmé par les commandes `chardet` et `uchardet`).
+
+Après de longues recherches, il s'est avéré que le problème résidait dans le nom que nous avions attribué à l'une de nos variables. En effet, nous avions appelé la variable qui correspondait à la langue du nom de notre fichier "LANG". Ce nom se confondait alors avec les paramètres de notre locale. Nous avons donc fini par la renommer "URL_LANG".
+
+Nous avons ensuite lancé le programme coocurences avec le fichier obtenu. Il est compliqué de savoir si nos résultats sont bons car les données ne s'affichent pas correctement et que nous avons du mal à comprendre ce à quoi correspond chaque valeur et colonne.
+
+Nous n'avons également pas énormement compris ce que l'on devait faire avec nos résultats I-trameur. Nous avons attentivement regardé les projets de l'année dernière et beaucoup avaient utilisés des captures d'écran mais il n'était précisé nulle-part dans la fiche que nous devions faire de même ou même ajouter des pages HTML ou écrire des analyses de nos résultats.
+
+Nous ne sommes enfin pas sûre de comprendre s'il faut obtenir un seul fichier avec les contextes concaténés de chaque langue ou bien garder un fichier par langue.
+
+Pour ce qui est de l'interface graphique, nous sommes inquiètes de ne pas avoir le temps de créer notre page. Nous ne savons pas s'il faut suivre les thèmes graphiques des années précédentes ou bien faire complétement autre chose.
