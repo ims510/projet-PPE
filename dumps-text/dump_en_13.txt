@@ -1,33 +1,25 @@
-   #alternate alternate
-
+   Link: canonical
+   Link: alternate uk
+   Link: alternate en
    Skip to main content
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WBDQQ5
-
    Ukraine Ukraine
-   (BUTTON) Toggle navigation
-
+   Toggle navigation
      * Українська
      * English
 
 Global Links
 
      * Visit UNICEF Global
-
      * High contrast
-
    Ukraine Ukraine
-
-     *
-          + EXPLORE UNICEF
-               o About UNICEF
-               o Our history
-               o What we do
-               o Work with us
-               o Partnership with UNICEF
-               o Contact us
+     *    * EXPLORE UNICEF
+               * About UNICEF
+               * Our history
+               * What we do
+               * Work with us
+               * Partnership with UNICEF
+               * Contact us
      * Press centre
-
    Donate
 
 Main navigation
@@ -36,38 +28,32 @@ Main navigation
      * Research and reports
      * Stories
      * Take action
-
    Search area has closed.
    Search area has opened.
    SearchClose
 
-Search UNICEF
+  Search UNICEF
 
-   Fulltext search ______________________________
-   ______________________________
-   Max ______________________________
-   Apply
-
+   Fulltext search _______________________________
+   _______________________________
+   Max _______________________________
+   [ Apply ]
    Article
 
-Childhood in the war
+                              Childhood in the war
 
-500 days of fear, shelling, and endless hope
+  500 days of fear, shelling, and endless hope
 
    UNICEF
    Image
    Image
    UNICEF
-
-     Home
-
-     Stories
-
-     Childhood in the war
+   * Home
+   * Stories
+   * Childhood in the war
      * Available in:
      * Українська
      * English
-
    07 July 2023
 
    The war in Ukraine has been lasting for 500 days. Five hundred days of
@@ -75,38 +61,39 @@ Childhood in the war
    children have been left without homes, school, healthcare, and even
    drinking water. Shelters became their playrooms, benches in the metro
    stations replaced their beds, and instead of school bells, they have
-   become accustomed to hearing air alarms. This is how hostilities
-   deprive Ukrainian children of their childhood.
+   become accustomed to hearing air alarms. This is how hostilities deprive
+   Ukrainian children of their childhood.
 
-   The United Nations Children’s Fund (UNICEF) insists that children
-   should not live in an atmosphere of constant fear and anxiety. The war
-   must end so that every child can have the peaceful and happy childhood
-   they deserve.
+   The United Nations Children’s Fund (UNICEF) insists that children should
+   not live in an atmosphere of constant fear and anxiety. The war must end
+   so that every child can have the peaceful and happy childhood they
+   deserve.  
 
-A homeless childhood
+  A homeless childhood
 
    The war in Ukraine that started on February 24 has led to a devastating
    humanitarian crisis, forcing massive migration throughout Ukraine and
-   abroad. Almost two-thirds of children in Ukraine have been forced to
-   leave their homes.
-   Yuliia is a mother of two, and she is one of those parents who were
-   forced to flee Kharkiv, while being accompanied by sounds of
-   explosions. The family decided to go to Germany and spent almost a week
-   on the road. During the journey, Yulia, her 1-year-old daughter, and
-   9-year-old son slept on the floor of an industrial building, on a small
-   bed in a kindergarten, on a wooden bench, and in the car: “but it’s
-   still better than under fire,” Yuliia says.
+   abroad. Almost two-thirds of children in Ukraine have been forced to leave
+   their homes.
+   Yuliia is a mother of two, and she is one of those parents who were forced
+   to flee Kharkiv, while being accompanied by sounds of explosions. The
+   family decided to go to Germany and spent almost a week on the road.
+   During the journey, Yulia, her 1-year-old daughter, and 9-year-old son
+   slept on the floor of an industrial building, on a small bed in a
+   kindergarten, on a wooden bench, and in the car: “but it’s still better
+   than under fire,” Yuliia says.
+
    Yulia with her 1-year-old daughter and 9-year-old son
    Yulia with her 1-year-old daughter and 9-year-old son
    UNICEF Yulia with her 1-year-old daughter and 9-year-old son
 
    Nobody dreams of being a refugee. Neither had Yuliia, but she had been
-   dreaming of her own apartment and of travelling with her children to
-   the sea. The war crushed their plans. They only want the war to be
-   over, so that they would be able to come back to Ukraine.
+   dreaming of her own apartment and of travelling with her children to the
+   sea. The war crushed their plans. They only want the war to be over, so
+   that they would be able to come back to Ukraine.
 
-     “I decided to leave my home and our entire life with only one goal:
-     to save my children. And to survive!” says the mother of two.
+     “I decided to leave my home and our entire life with only one goal: to
+     save my children. And to survive!” says the mother of two.
 
    84-year-old Valentyn has three grandchildren. Like Yuliia, he spent a
    couple of restless days trying to rescue his family. The retired man
@@ -115,11 +102,10 @@ A homeless childhood
    front line to the West of Ukraine.
 
    The family was bent on taking this desperate road after over a month of
-   hiding from bombardments in a basement in Zaporizhzhia. They were
-   living without any electricity, network connection and on just a small
-   amount of food. As soon as the food supplies were depleted, the family
-   decided to flee. The man recalls the most horrifying days for his
-   family:
+   hiding from bombardments in a basement in Zaporizhzhia. They were living
+   without any electricity, network connection and on just a small amount of
+   food. As soon as the food supplies were depleted, the family decided to
+   flee. The man recalls the most horrifying days for his family:
 
      “Seeing the hungry eyes of your children is worse than death”
 
@@ -127,40 +113,44 @@ A homeless childhood
    84-year-old Valentyn with his grandchildren
    UNICEF 84-year-old Valentyn with his grandchildren
 
-   Valentyn’s childhood was spent on the remainders of debris and rubble,
-   a legacy of World War II, and he doesn’t want his grandchildren to have
-   the same fate. “I used to play with bullets when I was a kid, and I
-   don’t want my grandchildren to have the same childhood,” says the
-   grandfather, holding his granddaughter in his arms.
+   Valentyn’s childhood was spent on the remainders of debris and rubble, a
+   legacy of World War II, and he doesn’t want his grandchildren to have the
+   same fate. “I used to play with bullets when I was a kid, and I don’t want
+   my grandchildren to have the same childhood,” says the grandfather,
+   holding his granddaughter in his arms.
+
    Arthur, 2,5
    Arthur, 2,5
    UNICEF Arthur, 2,5
 
-A childhood without school and education
+  A childhood without school and education
 
-   UNICEF warns that the war has threatened education and thus the future
-   of children in Ukraine. Around 5.3 million of them face barriers to
+   UNICEF warns that the war has threatened education and thus the future of
+   children in Ukraine. Around 5.3 million of them face barriers to
    education, including around 3.6 million directly affected by school
    closures. In addition, 2 out of 3 refugee children from Ukraine remain
    excluded from the national education systems of their host countries.
 
-   As a result, children in Ukraine are at risk of losing critical years
-   of education and social development. According to the Ministry of
-   Education and Science, more than 2,600 schools have been damaged and
-   more than 400 destroyed since the beginning of the full-scale war.
-   Bohdan, 10 Bohdan, 10 UNICEF Bohdan, 10
+   As a result, children in Ukraine are at risk of losing critical years of
+   education and social development. According to the Ministry of Education
+   and Science, more than 2,600 schools have been damaged and more than 400
+   destroyed since the beginning of the full-scale war.
+
+   Bohdan, 10
+   Bohdan, 10
+   UNICEF Bohdan, 10
 
    Little Vika was in her first year of school in Avdiivka when the
    full-scale war started.
 
-     “I loved to study in my school. But the war deprived it of me,” the
-     girl says.
+     “I loved to study in my school. But the war deprived it of me,” the girl
+     says.
 
    She is only 8 years old, but she has already experienced war conditions
-   twice: first when she was born in the middle of hostilities in the East
-   of Ukraine and then again while packing her schoolbag with explosions
-   in the background. She lost her home, and she has no opportunity to
-   study.
+   twice: first when she was born in the middle of hostilities in the East of
+   Ukraine and then again while packing her schoolbag with explosions in the
+   background. She lost her home, and she has no opportunity to study. 
+
    Vika, 8
    Vika, 8
    UNICEF Vika, 8
@@ -171,151 +161,151 @@ A childhood without school and education
    haven’t been reopened yet. 7-year-old Myroslava speaks of her dream to
    visit her first graduation, which was shattered by the war:
 
-     “This is the dress that I wanted to wear to my kindergarten
-     graduation. But it didn’t happen, because the war started”
+     “This is the dress that I wanted to wear to my kindergarten graduation.
+     But it didn’t happen, because the war started”
 
    Myroslava, 7
    Myroslava, 7
    UNICEF Myroslava, 7
 
-A childhood spent in shelters
+  A childhood spent in shelters
 
-   Families with children were forced to seek shelter because of
-   continuous artillery attacks and air bombardments. They were hiding in
-   basements, metro stations, underground parking. Cold and dark premises
-   unsuitable for living have become home to many Ukrainian children. For
-   over a year now, they have been living underground, sometimes without
-   access to hot meals, medicine, or education. Many of them started
-   dreaming about just seeing sunlight.
+   Families with children were forced to seek shelter because of continuous
+   artillery attacks and air bombardments. They were hiding in basements,
+   metro stations, underground parking. Cold and dark premises unsuitable for
+   living have become home to many Ukrainian children. For over a year now,
+   they have been living underground, sometimes without access to hot meals,
+   medicine, or education. Many of them started dreaming about just seeing
+   sunlight.
 
    After the outbreak of the war on February 24, the metro in Kharkiv has
    been serving as a shelter for thousands of people who were fleeing
    shelling and bombing outside. 10-year-old Sonya and her mom are among
-   them. After the start of the war, they were living in the metro
-   carriages for a couple of months.
+   them. After the start of the war, they were living in the metro carriages
+   for a couple of months.
 
-     “Today, my mom and I went home to take a shower and take some stuff.
-     It was terrifying.”
+     “Today, my mom and I went home to take a shower and take some stuff. It
+     was terrifying.”
 
    Sonya, 10
    Sonya, 10
    UNICEF Sonya, 10
 
-   Danylo was only 4 years old when the full-scale war started in
-   Mariupol. The boy, his brother, and his parents spent a month in a
-   basement hiding from countless bombardments, having no electricity,
-   water, or hope for rescue.
+   Danylo was only 4 years old when the full-scale war started in Mariupol.
+   The boy, his brother, and his parents spent a month in a basement hiding
+   from countless bombardments, having no electricity, water, or hope for
+   rescue.
 
-     “There were other children, but I still felt bad in there.
-     ​​Everything there was stony and ugly. We had a bed on the floor and
-     stones. We had almost no food, nothing. My mom would share a small
-     piece of cheese with me”
+     “There were other children, but I still felt bad in there. ​​Everything
+     there was stony and ugly. We had a bed on the floor and stones. We had
+     almost no food, nothing. My mom would share a small piece of cheese with
+     me”
 
-   Danylo recalls his life in the basement, recalling that his parents
-   used to heat his food with candles. Fortunately, the family managed to
-   escape from destroyed Mariupol. But the boy is still afraid of the dark
-   and loud noises.
+   Danylo recalls his life in the basement, recalling that his parents used
+   to heat his food with candles. Fortunately, the family managed to escape
+   from destroyed Mariupol. But the boy is still afraid of the dark and loud
+   noises.
+
    Danylo, 4
    Danylo, 4
    UNICEF Danylo, 4
 
-Childhood under shelling
+  Childhood under shelling
 
-   The war in Ukraine deprives Ukrainian children of the most precious
-   part of their lives — it takes away their family members. For already
-   500 days, children in Ukraine have been under enemy fire. And some of
-   them have witnessed the worst — their relatives’ deaths.
+   The war in Ukraine deprives Ukrainian children of the most precious part
+   of their lives — it takes away their family members. For already 500 days,
+   children in Ukraine have been under enemy fire. And some of them have
+   witnessed the worst — their relatives’ deaths.
 
-     “I took a photo of my mother at the Kramatorsk railway station, and
-     this picture became the last photo of her life,” reflects
-     13-year-old Katia.
+     “I took a photo of my mother at the Kramatorsk railway station, and this
+     picture became the last photo of her life,” reflects 13-year-old Katia.
 
-   Along with her sister, mother, and aunt, the girl was under the
-   shelling of the Kramatorsk railway station.
+   Along with her sister, mother, and aunt, the girl was under the shelling
+   of the Kramatorsk railway station.
 
    That day, the family was going to move to Vinnytsia because it was too
    dangerous to stay at their home. But her mother died under the shelling
-   having not left the town. “These days, I am attending a psychologist
-   and other doctors, who help me recover and get through all the awful
-   things that have happened. It is still emotionally extremely difficult
-   for me,” the girl admits.
+   having not left the town. “These days, I am attending a psychologist and
+   other doctors, who help me recover and get through all the awful things
+   that have happened. It is still emotionally extremely difficult for me,”
+   the girl admits.
+
    Katia, 13
    Katia, 13
    UNICEF Katia, 13
 
-   16-year-old Mykyta has survived a deadly shelling of Bakhmut. “A piece
-   of shrapnel stopped a millimeter from my heart,” 16-year-old Mykyta is
-   using his fingers to show the actual size of the metal shrapnel, which
-   was removed from his chest by medics. About 3 centimeters of iron could
-   take his life.
+   16-year-old Mykyta has survived a deadly shelling of Bakhmut. “A piece of
+   shrapnel stopped a millimeter from my heart,” 16-year-old Mykyta is using
+   his fingers to show the actual size of the metal shrapnel, which was
+   removed from his chest by medics. About 3 centimeters of iron could take
+   his life.
 
-   But having survived the shelling in Bakhmut, he has lost his relatives
-   and native home.
+   But having survived the shelling in Bakhmut, he has lost his relatives and
+   native home.
 
      “When you lose your loved one or have your house destroyed, you feel
-     such a pain inside that you cannot find a word to describe it,”
-     Mykyta wipes his tears away.
+     such a pain inside that you cannot find a word to describe it,” Mykyta
+     wipes his tears away.
 
-   The doctors say he will recover from the shelling. But his mental
-   injuries are much more devastating than the physical ones.
+   The doctors say he will recover from the shelling. But his mental injuries
+   are much more devastating than the physical ones. 
+
    Mykyta, 16
    Mykyta, 16
    UNICEF Mykyta, 16
 
-Childhood surrounded by mines
+  Childhood surrounded by mines
 
-   Since the beginning of the full-scale war, Ukrainian children have
-   faced the danger of mines and other unexploded ordnance. Child
-   casualties usually occur when children pick up explosive devices such
-   as hand grenades and fuses, thinking they are toys. 8-year-old
-   Vladyslav from Lyman is one of such children.
+   Since the beginning of the full-scale war, Ukrainian children have faced
+   the danger of mines and other unexploded ordnance. Child casualties
+   usually occur when children pick up explosive devices such as hand
+   grenades and fuses, thinking they are toys. 8-year-old Vladyslav from
+   Lyman is one of such children.
 
-   He found a bullet near a burnt-out tank abandoned at a railroad
-   crossing in Lyman and picked it up.
+   He found a bullet near a burnt-out tank abandoned at a railroad crossing
+   in Lyman and picked it up.
 
-     “The explosion was massive. I started to bleed and couldn’t feel my
-     arm. In the hospital, doctors tried to remove the shrapnel, but they
-     didn’t succeed. It is still inside”
+     “The explosion was massive. I started to bleed and couldn’t feel my arm.
+     In the hospital, doctors tried to remove the shrapnel, but they didn’t
+     succeed. It is still inside”
 
-   The boy touches the scar located above his right shoulder blade.
-   Recently, he can freely move his arm, and he feels no pain anymore. But
-   the fear of unexploded ordnance is still gnawing at him.
-   Vladyslav, 8 Vladyslav, 8 UNICEF Vladyslav, 8
+   The boy touches the scar located above his right shoulder blade. Recently,
+   he can freely move his arm, and he feels no pain anymore. But the fear of
+   unexploded ordnance is still gnawing at him.
+
+   Vladyslav, 8
+   Vladyslav, 8
+   UNICEF Vladyslav, 8
 
    After more than 9 years of hostilities in East Ukraine and a year since
    the beginning of the full-scale war on February 24th, Ukraine is one of
-   the countries most affected by mines. About 30% of the country’s
-   territory is potentially contaminated with unexploded ordnance and
-   mines. Mines and other explosive remnants of the war cause the deaths
-   and injuries of many children in Ukraine. Furthermore, many Ukrainian
-   children have to live with different physiological disabilities for the
-   rest of their lives.
+   the countries most affected by mines. About 30% of the country’s territory
+   is potentially contaminated with unexploded ordnance and mines. Mines and
+   other explosive remnants of the war cause the deaths and injuries of many
+   children in Ukraine. Furthermore, many Ukrainian children have to live
+   with different physiological disabilities for the rest of their lives.
 
-   UNICEF continues to respond to the urgent humanitarian needs of
-   children and ensure access to medical care, immunization, nutrition,
-   education, water, and sanitation and contributes to the provision of
-   psychosocial and mental health support. In refugee-hosting countries,
-   UNICEF continues to work with governments, municipalities and local
-   partners to strengthen national systems that support refugee children
-   with quality education, health services and protection.
+   UNICEF continues to respond to the urgent humanitarian needs of children
+   and ensure access to medical care, immunization, nutrition, education,
+   water, and sanitation and contributes to the provision of psychosocial and
+   mental health support. In refugee-hosting countries, UNICEF continues to
+   work with governments, municipalities and local partners to strengthen
+   national systems that support refugee children with quality education,
+   health services and protection.
 
-   In Ukraine, UNICEF has expanded its efforts to support the government
-   in inclusive, child-centered, and sustainable recovery by strengthening
-   child protection, education, and health. Thanks to UNICEF programs,
-   more than 1.8 million children have access to formal and non-formal
-   education, including early learning; more than 3.4 million children and
-   their caregivers have access to psychological and psychosocial support;
-   more than 5.5 million people have access to clean drinking water;
-   6,790,642 children and women receive primary health care in
-   UNICEF-supported facilities and through UNICEF mobile teams.
+   In Ukraine, UNICEF has expanded its efforts to support the government in
+   inclusive, child-centered, and sustainable recovery by strengthening child
+   protection, education, and health. Thanks to UNICEF programs, more than
+   1.8 million children have access to formal and non-formal education,
+   including early learning; more than 3.4 million children and their
+   caregivers have access to psychological and psychosocial support; more
+   than 5.5 million people have access to clean drinking water; 6,790,642
+   children and women receive primary health care in UNICEF-supported
+   facilities and through UNICEF mobile teams.
 
-   IFRAME:
-   https://www.youtube.com/embed/m34OziBVLk8?autoplay=0&start=0&rel=0&mode
-   stbranding=0&mute=0&loop=0&controls=1
-
+   IFrame
    UNICEF
-
-   IFRAME: unicef_iframe
+   IFrame: unicef_iframe
    You must have a browser that supports iFrames
 
 Related topics
@@ -325,37 +315,37 @@ Related topics
 
 More to explore
 
-   [O_F_06.12.23_%20_30_0.jpg?itok=ZyCOz682]
-
+   [IMG]
    Press release
-   Created with sketchtool. 08 December 2023
+   Created with sketchtool.    08 December 2023
 
    UNICEF ramps up efforts with the Government of Ukraine and local
    authorities to support children and families during winter
-   Visit the page
-   [DSC05445.jpg?itok=yuj9X9KS]
 
+   Visit the page
+   [IMG]
    Article
 
-Teenager who survived mine explosion stresses safety rules
+      Teenager who survived mine explosion stresses safety rules
 
    As UNICEF and partners continue to stress the importance of mine safety
-   training in Ukraine, one teenager who survived a mine explosion shares
-   his story
-   Read the story
-   [C_100081.jpg?itok=ErJuVmwP]
+   training in Ukraine, one teenager who survived a mine explosion shares his
+   story
 
+   Read the story
+   [IMG]
    Press release
-   Created with sketchtool. 04 December 2023
+   Created with sketchtool.    04 December 2023
 
    UNICEF launches festive letter-writing campaign in Ukraine
-   Visit the page
-   [cover%20for%20UNICEF%20website.JPG?itok=cYttSLSZ]
 
+   Visit the page
+   [IMG]
    Press release
-   Created with sketchtool. 28 November 2023
+   Created with sketchtool.    28 November 2023
 
    UNICEF, SES and MIA teach teenagers about safe behaviour
+
    Visit the page
 
 Footer
@@ -364,7 +354,6 @@ Footer
      * Support of parents and children in times of war
      * Research and reports
      * Stories
-
    About UNICEF
      * Press centre
      * What we do
@@ -372,25 +361,16 @@ Footer
      * Протидія сексуальній експлуатації та нарузі
      * Ukraine situation reports
      * Protection and Safeguarding of Children
-
    Become a part of UNICEF
      * Tenders
      * Partner with UNICEF
      * Careers at UNICEF
      * Donate to UNICEF
-
    Become a donor
 
 Social
 
-     *
-     *
-     *
-     *
-     *
-     *
-
-Footer Secondary
+     * *  *  *  *  *  Footer Secondary
 
      * Legal
      * Contact us

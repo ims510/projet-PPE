@@ -1,176 +1,167 @@
-   #alternate alternate alternate alternate alternate
-
+   Link: canonical
+   Link: alternate en
+   Link: alternate fr
+   Link: alternate es
+   Link: alternate ar
+   Link: alternate zh-hans
    Skip to main content
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WBDQQ5
-
    Children in Gaza need life-saving support
      * Read more
-
-   (BUTTON) Toggle navigation
-
+   [IMG]
+   Toggle navigation
      * English
      * Français
      * Español
      * العربية
      * 中文
-
      * High contrast
-
+   [IMG]
      * Press Centre
-
    Donate
 
 Meganav - EN
 
      * What we do
-          + Focus areas
-               o All areas
-               o Adolescent development
-               o Child protection
-               o Child rights
-               o Children with disabilities
-               o Climate change and environment
-               o COVID-19 response
-               o Early childhood development
-               o Education
-          +
-               o Gender
-               o Health
-               o Humanitarian emergencies
-               o Immunization
-               o Migrant and refugee children
-               o Nutrition
-               o Social and behaviour change
-               o Social policy
-               o Water, sanitation and hygiene
-          + How we do it
-               o Partnerships
-               o Innovation
-               o Supply and logistics
-               o Young people
-               o Humanitarian Action for Children
-               o Evaluation
-          + Global advocacy
-               o Action on the climate crisis
-               o Better mental health: #OnMyMind
-               o Child health and survival
-               o Children under attack
-               o Tackling the learning crisis
+          * Focus areas
+               * All areas 
+               * Adolescent development 
+               * Child protection 
+               * Child rights 
+               * Children with disabilities 
+               * Climate change and environment 
+               * COVID-19 response 
+               * Early childhood development 
+               * Education
+          *    * Gender 
+               * Health 
+               * Humanitarian emergencies 
+               * Immunization 
+               * Migrant and refugee children 
+               * Nutrition 
+               * Social and behaviour change 
+               * Social policy 
+               * Water, sanitation and hygiene
+          * How we do it
+               * Partnerships 
+               * Innovation 
+               * Supply and logistics 
+               * Young people 
+               * Humanitarian Action for Children 
+               * Evaluation
+          * Global advocacy
+               * Action on the climate crisis 
+               * Better mental health: #OnMyMind 
+               * Child health and survival 
+               * Children under attack 
+               * Tackling the learning crisis
      * RESEARCH AND REPORTS
-          + Publications
-               o The State of the World’s Children
-               o Annual Report
-               o Humanitarian Action for Children
-               o Publications by topic
-          + Data
-               o Data by topic and country
-               o Multiple Indicator Cluster Surveys (MICs)
-          + Policy and research
-               o Insight and Policy
-               o Research - Innocenti
-          + Child rights and global goals
-               o Convention on the Rights of the Child
-               o Core Commitments for Children
-               o Sustainable Development Goals
+          * Publications
+               * The State of the World’s Children 
+               * Annual Report 
+               * Humanitarian Action for Children 
+               * Publications by topic
+          * Data
+               * Data by topic and country 
+               * Multiple Indicator Cluster Surveys (MICs)
+          * Policy and research
+               * Insight and Policy 
+               * Research - Innocenti
+          * Child rights and global goals
+               * Convention on the Rights of the Child 
+               * Core Commitments for Children 
+               * Sustainable Development Goals
      * STORIES
-          + Stories and explainers
-               o Stories of impact
-               o Issue explainers
-               o Photography
-          + Emergencies spotlight
-               o All emergencies
-               o Afghanistan
-               o Horn of Africa
-               o Rohingya refugees
-               o Sudan
-               o Syria
-               o Ukraine
-               o Yemen
-          + Voices
-               o UNICEF Blog
-               o Voices of Youth
-               o Evidence for Action blog
-               o Data Blog
+          * Stories and explainers
+               * Stories of impact 
+               * Issue explainers 
+               * Photography
+          * Emergencies spotlight
+               * All emergencies 
+               * Afghanistan 
+               * Horn of Africa 
+               * Rohingya refugees 
+               * Sudan 
+               * Syria 
+               * Ukraine 
+               * Yemen
+          * Voices
+               * UNICEF Blog 
+               * Voices of Youth 
+               * Evidence for Action blog 
+               * Data Blog
      * About UNICEF
-          + About us
-               o Who we are
-               o History
-               o Results
-               o Strategic Plan
-               o Transparency and accountability
-               o Audit and Investigation
-               o Work with us
-          + Our people
-               o Executive leadership
-               o Executive Board
-               o Goodwill Ambassadors
-          + Where we work
-               o All locations
-               o East Asia and Pacific
-               o Eastern and Southern Africa
-               o Europe and Central Asia
-               o Latin America and the Caribbean
-               o Middle East and North Africa
-               o South Asia
-               o West and Central Africa
-          + Child rights and global goals
-               o Convention on the Rights of the Child
-                 Convention on the Rights of the Child
-               o Sustainable Development Goals
+          * About us
+               * Who we are 
+               * History 
+               * Results 
+               * Strategic Plan 
+               * Transparency and accountability 
+               * Audit and Investigation 
+               * Work with us
+          * Our people
+               * Executive leadership 
+               * Executive Board 
+               * Goodwill Ambassadors
+          * Where we work
+               * All locations 
+               * East Asia and Pacific 
+               * Eastern and Southern Africa 
+               * Europe and Central Asia 
+               * Latin America and the Caribbean 
+               * Middle East and North Africa 
+               * South Asia 
+               * West and Central Africa
+          * Child rights and global goals
+               * Convention on the Rights of the Child
+                 Convention on the Rights of the Child 
+               * Sustainable Development Goals
                  Sustainable Development Goals
      * TAKE ACTION
-          + Get involved
-               o Work with us
-               o Partner with us
-               o Donate
-               o Volunteer
-          + Spotlight
-               o World Children's Day
-               o Action on the climate crisis
-               o Better mental health: #OnMyMind
-               o Tackling the learning crisis
-               o Child health and survival
-          + Communities
-               o UNICEF Parenting
-                 UNICEF Parenting
-               o Voices of Youth
-                 Voices of Youth
-               o U-Report
+          * Get involved
+               * Work with us 
+               * Partner with us 
+               * Donate 
+               * Volunteer
+          * Spotlight
+               * World Children's Day 
+               * Action on the climate crisis 
+               * Better mental health: #OnMyMind 
+               * Tackling the learning crisis 
+               * Child health and survival
+          * Communities
+               * UNICEF Parenting
+                 UNICEF Parenting 
+               * Voices of Youth
+                 Voices of Youth 
+               * U-Report
                  U-Report
-
    Search area has closed.
    Search area has opened.
    SearchClose
 
-Search UNICEF
+  Search UNICEF
 
-   Fulltext search ______________________________
-   ______________________________
-   Max ______________________________
-   Apply
-
+   Fulltext search _______________________________
+   _______________________________
+   Max _______________________________
+   [ Apply ]
    Page
 
-Children Under Attack
+                             Children Under Attack
 
-Children are coming under attack in conflicts across the world. We can’t
-accept this as a ‘new normal.’
+  Children are coming under attack in conflicts across the world. We can’t
+  accept this as a ‘new normal.’
 
    Niger. A young girl sits with her mother.
    Niger. A young girl sits with her mother.
    UNICEF/UN0535821/Dejongh
-
-     Home
+   * Home
 
 Programme Menu
 
-     *
-          +
-               o Children Under Attack
-                    # UNICEF's Change Agenda
-                    # Education under attack
-
+       *    *    * Children Under Attack 
+                      * UNICEF's Change Agenda
+                      * Education under attack
      * Available in:
      * English
      * Français
@@ -179,252 +170,246 @@ Programme Menu
      * 中文
 
    Around the world, attacks on children continue unabated. The number of
-   countries experiencing violent conflict is the highest it has been in
-   the last 30 years. The result is that more than 30 million children
-   have been displaced by conflict. Many of them are being enslaved,
-   trafficked, abused and exploited. Many more are living in limbo,
-   without official immigration status or access to education and health
-   care. From Afghanistan to Mali, to South Sudan, Yemen and beyond,
-   warring parties are flouting one of the most basic rules of war: the
-   protection of children.
+   countries experiencing violent conflict is the highest it has been in the
+   last 30 years. The result is that more than 30 million children have been
+   displaced by conflict. Many of them are being enslaved, trafficked, abused
+   and exploited. Many more are living in limbo, without official immigration
+   status or access to education and health care. From Afghanistan to Mali,
+   to South Sudan, Yemen and beyond, warring parties are flouting one of the
+   most basic rules of war: the protection of children.
 
-     Children have become frontline targets. This is a moral crisis of
-     our age: We must never accept this as the ‘new normal.’
+     Children have become frontline targets. This is a moral crisis of our
+     age: We must never accept this as the ‘new normal.’
 
-   To better monitor, prevent, and end attacks against children, the
-   United Nations Security Council has identified and condemned six grave
-   violations against children in times of war: Killing and maiming of
-   children; recruitment or use of children in armed forces and armed
-   groups; attacks on schools or hospitals; rape or other grave sexual
-   violence; abduction of children; and denial of humanitarian access for
-   children. 
+   To better monitor, prevent, and end attacks against children, the United
+   Nations Security Council has identified and condemned six grave violations
+   against children in times of war: Killing and maiming of children;
+   recruitment or use of children in armed forces and armed groups; attacks
+   on schools or hospitals; rape or other grave sexual violence; abduction of
+   children; and denial of humanitarian access for children.  
 
    Between 2005 and 2022, more than 315,000 grave violations were verified
    against children, committed by parties to conflict in more than 30
    conflict situations across Africa, Asia, the Middle East, and Latin
-   America. The actual number is undoubtedly far higher. 
+   America. The actual number is undoubtedly far higher.  
 
 Stop attacks on children
 
-   Ultimately children need peace to thrive. It is critical for children
-   that efforts to end today’s seemingly endless armed conflicts are
-   redoubled. But children cannot wait for protection – while wars
-   continue, we must never accept attacks against children.
+   Ultimately children need peace to thrive. It is critical for children that
+   efforts to end today’s seemingly endless armed conflicts are redoubled.
+   But children cannot wait for protection – while wars continue, we must
+   never accept attacks against children.
 
-   More than 30 years since the adoption of the Convention on the Rights
-   of the Child, and more than 70 years since the four Geneva Conventions
-   – the international legal bedrock to protect civilians in war – it is
-   time to say “Enough! Stop attacks on children.”
+   More than 30 years since the adoption of the Convention on the Rights of
+   the Child, and more than 70 years since the four Geneva Conventions – the
+   international legal bedrock to protect civilians in war – it is time to
+   say “Enough! Stop attacks on children.”
+
    Read the change agenda
 
 What we can all do to make change happen
 
-   Citizens everywhere can begin by not averting their gaze from
-   children’s suffering, because it seems too distant or the politics of
-   conflict too complex.
+   Citizens everywhere can begin by not averting their gaze from children’s
+   suffering, because it seems too distant or the politics of conflict too
+   complex.
 
-   We must insist to national and international leaders that protecting
-   children during armed conflict is the cornerstone of our shared
-   humanity.
+   We must insist to national and international leaders that protecting
+   children during armed conflict is the cornerstone of our shared humanity.
 
-   We must demand leadership which is prepared to act to prevent attacks
-   and violence against children trapped in war zones.
+   We must demand leadership which is prepared to act to prevent attacks and
+   violence against children trapped in war zones.
 
-   Governments and all warring parties where conflicts rage must act to
+   Governments and all warring parties where conflicts rage must act to
    fulfil their obligations to protect children and enable access to
    specialized response services for children affected by violence.
 
-   Communities in conflict-affected areas must be supported to create
+   Communities in conflict-affected areas must be supported to create
    protective environments for girls and boys.
 
-   Governments who support or who have influence over warring parties must
-   use all their influence to insist children are protected according to
-   the requirements of international law.
+   Governments who support or who have influence over warring parties must
+   use all their influence to insist children are protected according to the
+   requirements of international law.
 
-   International peace and security institutions such as the United
-   Nations Security Council and regional organizations can do more to
-   prioritize the safety and well-being of children trapped in armed
-   conflicts.
+   International peace and security institutions such as the United Nations
+   Security Council and regional organizations can do more to prioritize the
+   safety and well-being of children trapped in armed conflicts.
 
-   The international community can do more to support programmes which
-   work to protect children from violence, abuse, and exploitation, and
-   deliver the services needed to help children come through conflict with
-   hope for a better future.
+   The international community can do more to support programmes which work
+   to protect children from violence, abuse, and exploitation, and deliver
+   the services needed to help children come through conflict with hope for a
+   better future.
 
-   By protecting children from attacks in armed conflict, we keep hope
-   alive, we begin to prepare children to shape peaceful futures for
-   themselves and their countries. Acting together, we can turn back this
-   deadly ‘new normal’ of attacks against children and preserve humanity.
+   By protecting children from attacks in armed conflict, we keep hope alive,
+   we begin to prepare children to shape peaceful futures for themselves and
+   their countries. Acting together, we can turn back this deadly ‘new
+   normal’ of attacks against children and preserve humanity.
 
    Children cannot wait. We must act now.
 
 Protecting children from explosive weapons in populated areas
 
-   Iraq. Two children walk to school past damaged buildings in the old
-   city area of Mosul, Iraq.
-   Iraq. Two children walk to school past damaged buildings in the old
-   city area of Mosul, Iraq.
+   Iraq. Two children walk to school past damaged buildings in the old city
+   area of Mosul, Iraq.
+   Iraq. Two children walk to school past damaged buildings in the old city
+   area of Mosul, Iraq.
    UNICEF/UN0613845/Ibarra Sánchez Two children walk to school in the old
    city area of Mosul, Iraq.
 
    In conflicts around the world, civilians continue to endure the
-   devastating consequences of the use of explosive weapons in populated
+   devastating consequences of the use of explosive weapons in populated
    areas (EWIPA). When used in cities, towns and villages, these weapons
-   often have effects well beyond their targets. They claim countless
-   lives and limbs, cause widespread destruction, and deprive people of
-   essential civilian services, such as water and sanitation, electricity,
-   health care and education.
+   often have effects well beyond their targets. They claim countless lives
+   and limbs, cause widespread destruction, and deprive people of essential
+   civilian services, such as water and sanitation, electricity, health care
+   and education.
 
-   On 18 November 2022, a new political declaration was launched:
+   On 18 November 2022, a new political declaration was launched:
    “Strengthening the Protection of Civilians from the Humanitarian
    Consequences Arising from the Use of Explosive Weapons in Populated
-   Areas.” The declaration, which had been signed by 80 states by 19
-   November 2022, sends a strong signal worldwide that harming civilians
-   and damaging cities is not a reality we should accept by committing
-   signatory States to restrict or refrain from the use of explosive
-   weapons in populated areas.
+   Areas.” The declaration, which had been signed by 80 states by 19 November
+   2022, sends a strong signal worldwide that harming civilians and damaging
+   cities is not a reality we should accept by committing signatory States to
+   restrict or refrain from the use of explosive weapons in populated areas. 
 
 Recent news and features
 
-   [UNI463720.jpg?itok=BEvZCBf8]
-
+   [IMG]
    Statement
-   Created with sketchtool. 01 December 2023
+   Created with sketchtool.    01 December 2023
 
-   Statement by UNICEF Executive Director Catherine Russell on the
-   resumption of fighting in Gaza
+   Statement by UNICEF Executive Director Catherine Russell on the resumption
+   of fighting in Gaza
+
    Read now
-   [Screenshot%202023-11-22%20at%2010.23.17%E2%80%AFAM%20copy.jpg?itok=XQp
-   Llwzx]
-
+   [IMG]
    Remarks
-   Created with sketchtool. 22 November 2023
+   Created with sketchtool.    22 November 2023
 
-   UNICEF Executive Director Catherine Russell’s remarks at the UN
-   Security Council briefing on the protection of children in Gaza
+   UNICEF Executive Director Catherine Russell’s remarks at the UN Security
+   Council briefing on the protection of children in Gaza
+
    Read now
-   [UNICEF_EN_logo_bakcup_image.png?itok=ZezJtt0B]
-
+   [IMG]
    Remarks
-   Created with sketchtool. 24 November 2023
+   Created with sketchtool.    24 November 2023
 
    UNHCR and UNICEF express grave concern over the humanitarian toll on
    civilians in eastern DR Congo
+
    Read now
-   [UNI464216_2.jpg?itok=19dbZOJL]
-
+   [IMG]
    Press release
-   Created with sketchtool. 20 November 2023
+   Created with sketchtool.    20 November 2023
 
-   At least 5 million children at the brink in Darfur as unchecked
-   conflict worsens
+   At least 5 million children at the brink in Darfur as unchecked conflict
+   worsens
+
    Visit the page
 
-Emergency funding appeal for children
+  Emergency funding appeal for children
 
-   Today, there are more children in need of humanitarian assistance than
-   at any other time since the Second World War. Across the globe,
-   children are facing a historic confluence of crises – from conflict and
-   displacement to infectious disease outbreaks and soaring rates of
-   malnutrition.
+   Today, there are more children in need of humanitarian assistance than at
+   any other time since the Second World War. Across the globe, children are
+   facing a historic confluence of crises – from conflict and displacement to
+   infectious disease outbreaks and soaring rates of malnutrition.
 
-   More than 400 million children live in areas under conflict; an
-   estimated 1 billion children – nearly half the world’s children – live
-   in countries at extreme vulnerability to the impacts of climate change;
-   at least 36.5 million children have been displaced from their homes;
-   and 8 million children under age 5 across 15 crisis-hit countries are
-   at risk of death from severe wasting.
+   More than 400 million children live in areas under conflict; an estimated
+   1 billion children – nearly half the world’s children – live in countries
+   at extreme vulnerability to the impacts of climate change; at least 36.5
+   million children have been displaced from their homes; and 8 million
+   children under age 5 across 15 crisis-hit countries are at risk of death
+   from severe wasting.
 
-   But the situation is far from hopeless. We know how to reach children
-   at greatest risk and in greatest need. Decisive and timely humanitarian
+   But the situation is far from hopeless. We know how to reach children at
+   greatest risk and in greatest need. Decisive and timely humanitarian
    action can save children’s lives, while also sowing the seeds of future
    development.
-     __________________________________________________________________
+
+     ----------------------------------------------------------------------
 
    Through the Humanitarian Action for Children appeal 2023, UNICEF is
-   appealing for US$10.3 billion to reach more than 110 million children
-   with humanitarian assistance.
-     __________________________________________________________________
+   appealing for US$10.3 billion to reach more than 110 million children with
+   humanitarian assistance.
 
+     ----------------------------------------------------------------------
+
+    
 
    2023 appeal overview
    More about UNICEF's appeals
    Donate now
 
-Humanitarian action for children: Goals for 2023
+  Humanitarian action for children: Goals for 2023
 
    In 2023, UNICEF and its partners will continue to provide a principled,
    timely, predictable and efficient humanitarian response in line with
-   international norms and standards. UNICEF is also working on
-   strengthening the resilience of communities and health infrastructure
-   to withstand climate hazards, with the aim of better linking its
-   humanitarian response to longer-term community resilience and climate
-   adaptation.
+   international norms and standards. UNICEF is also working on strengthening
+   the resilience of communities and health infrastructure to withstand
+   climate hazards, with the aim of better linking its humanitarian response
+   to longer-term community resilience and climate adaptation.
 
-   Gender equality and inclusive programming: In 2023, UNICEF will
-   continue to prioritize gender equity in humanitarian action – from
-   preparedness to response and recovery.
+   Gender equality and inclusive programming: In 2023, UNICEF will continue
+   to prioritize gender equity in humanitarian action – from preparedness to
+   response and recovery.
 
    Climate in humanitarian action: While much of the global focus is on
    mitigating climate change risk, investment in adaptation measures is
-   required immediately to build resilience in a drastically – and rapidly
-   – changing environment. UNICEF’s interventions focus on: (1) scaling up
-   climate change adaptation models in global operations; (2) advocating
-   and engaging in policy development; and (3) prioritizing
-   climate-adaptive preparedness efforts as key elements to ensure timely,
-   effective and cost-efficient actions to save lives and build
-   resilience.
+   required immediately to build resilience in a drastically – and rapidly –
+   changing environment. UNICEF’s interventions focus on: (1) scaling up
+   climate change adaptation models in global operations; (2) advocating and
+   engaging in policy development; and (3) prioritizing climate-adaptive
+   preparedness efforts as key elements to ensure timely, effective and
+   cost-efficient actions to save lives and build resilience. 
 
-   Global food and nutrition crises: UNICEF’s goal is to protect and
-   promote diets, services and practices that prevent, detect and treat
-   child wasting. UNICEF aims to ensure that no child dies from wasting.
-   UNICEF will accelerate progress on two interrelated fronts
-   simultaneously: (1) reduce the number of children suffering from the
-   more severe forms of wasting; (2) increase the number of children with
-   severe forms of wasting who access treatment. 👉🏼 Learn more about
-   severe wasting
+   Global food and nutrition crises: UNICEF’s goal is to protect and promote
+   diets, services and practices that prevent, detect and treat child
+   wasting. UNICEF aims to ensure that no child dies from wasting. UNICEF
+   will accelerate progress on two interrelated fronts simultaneously: (1)
+   reduce the number of children suffering from the more severe forms of
+   wasting; (2) increase the number of children with severe forms of wasting
+   who access treatment. 👉🏼 Learn more about severe wasting
 
-   Public health emergencies: The annual number of outbreaks reported to
-   the World Health Organization has increased more than threefold since
-   1980. UNICEF is committed to addressing public health emergencies not
-   only through emergency coordination and leadership, responding to the
-   health threat, but also by working to ensure the continuity of
-   essential services.
+   Public health emergencies: The annual number of outbreaks reported to the
+   World Health Organization has increased more than threefold since 1980.
+   UNICEF is committed to addressing public health emergencies not only
+   through emergency coordination and leadership, responding to the health
+   threat, but also by working to ensure the continuity of essential
+   services.
 
 Learn more
 
-   [UN0590799.jpg?itok=IJ20JSFL]
-
+   [IMG]
    Programme
 
-UNICEF in emergencies
+      UNICEF in emergencies
 
    Humanitarian action is central to UNICEF’s mandate and realizing the
    rights of every child.
-   Explore our work
-   [UN0311775.JPG?itok=9Mm5ujZB]
 
+   Explore our work
+   [IMG]
    Page
 
-Education under attack
+      Education under attack
 
    Attacks on schools are attacks on children’s futures
-   Visit the page
-   [UN0144160.jpg?itok=7os3DssH]
 
+   Visit the page
+   [IMG]
    Page
 
-Change agenda to protect children in conflict
+      Change agenda to protect children in conflict
 
    UNICEF calls for action to protect children in war
-   Visit the page
-   [UN073959%20%281%29_0.jpg?itok=86vl16HJ]
 
+   Visit the page
+   [IMG]
    Article
 
-Six grave violations against children
+      Six grave violations against children
 
    How children have become frontline targets in armed conflicts.
+
    Read the story
 
 Footer
@@ -436,7 +421,6 @@ Footer
      * Where we work
      * Press centre
      * Take action
-
    About us
      * Work for UNICEF
      * Partner with UNICEF
@@ -447,7 +431,6 @@ Footer
      * Transparency and accountability
      * Sustainable Development Goals
      * Frequently asked questions (FAQ)
-
    Related UNICEF sites
      * UNICEF Blog
      * UNICEF Data
@@ -456,19 +439,11 @@ Footer
      * Global Shared Services Centre
      * Support UNICEF
      * ЮНИСЕФ на Русском
-
    Become a donor
 
 Social
 
-     *
-     *
-     *
-     *
-     *
-     *
-
-Footer Secondary
+     * *  *  *  *  *  Footer Secondary
 
      * Contact us
      * Legal

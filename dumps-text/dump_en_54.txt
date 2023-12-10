@@ -1,6 +1,6 @@
-   #alternate
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MJWQ5L2
+   Link: canonical
+   Link: amphtml
+   Link: image_src
 
 Skip links
 
@@ -8,39 +8,36 @@ Skip links
 
 Live
 
-   (BUTTON) Show navigation menu
-
 Navigation menu
 
-     * News (BUTTON) Show more news sections
-          + Middle East
-          + Africa
-          + Asia
-          + US & Canada
-          + Latin America
-          + Europe
-          + Asia Pacific
+     * NewsShow more news sections
+          * Middle East
+          * Africa
+          * Asia
+          * US & Canada
+          * Latin America
+          * Europe
+          * Asia Pacific
      * Israel-Gaza war
      * Features
      * Economy
      * Opinion
      * Video
-     * (BUTTON) More (BUTTON) Show more sections
-          + Ukraine war
-          + Coronavirus
-          + Climate Crisis
-          + Investigations
-          + Interactives
-          + In Pictures
-          + Science & Technology
-          + Sport
-          + Podcasts
+     * MoreShow more sections
+          * Ukraine war
+          * Coronavirus
+          * Climate Crisis
+          * Investigations
+          * Interactives
+          * In Pictures
+          * Science & Technology
+          * Sport
+          * Podcasts
 
 Live
 
-   (BUTTON) Click here to searchsearch
-
-   Navigation menu (BUTTON) caret-left
+   Click here to search
+   Navigation menu
      * Israel-Palestine conflict
      * Live updates
      * Did tech dependence cause intel failure?
@@ -53,61 +50,55 @@ Live
      * Live tracker
      * Has the war divided the world?
      * A simple guide
-
-   (BUTTON) caret-right
-
    OPINIONOPINION,
    Opinions|Israel-Palestine conflict
 
-A roadmap for the future of Palestine
+                     A roadmap for the future of Palestine
 
    At this critical juncture, Palestine’s leaders should come together to
    craft a clear strategy for reunifying the Palestinian people
+
      * Tamer Qarmout
        Tamer Qarmout
        Assistant Professor in Public Policy at the Doha Institute for
        Graduate Studies
-
    Published On 23 Nov 202323 Nov 2023
    Palestine flag AP Photo
    [AP Photo/Bernat Armangue]
 
    As Israel continues its war on Gaza, which is causing loss of life and
-   displacement at a scale that has led to it being labeled a “genocide”
-   by various experts, the Palestinian liberation struggle is at a
-   critical juncture.
+   displacement at a scale that has led to it being labeled a “genocide” by
+   various experts, the Palestinian liberation struggle is at a critical
+   juncture.
 
    Despite undoubtedly recognising the importance of the current moment,
-   however, Palestinian political factions, including Hamas and Fatah
-   among others, appear unable to come together and lay out a coherent and
-   realistic vision for the future of Palestine. It’s imperative for them
-   to set aside their differences, acknowledge their moral
-   responsibilities to the nation, and come together to craft a clear
-   strategy for reunifying the Palestinian people. Such a strategy must
-   not only thwart Israel’s well-defined and openly discussed plan to
-   ethnically cleanse Gaza and detach it from the Palestinian homeland,
-   but also respond to Israeli efforts to displace Palestinians in the
-   West Bank and Israel itself.
+   however, Palestinian political factions, including Hamas and Fatah among
+   others, appear unable to come together and lay out a coherent and
+   realistic vision for the future of Palestine. It’s imperative for them to
+   set aside their differences, acknowledge their moral responsibilities to
+   the nation, and come together to craft a clear strategy for reunifying the
+   Palestinian people. Such a strategy must not only thwart Israel’s
+   well-defined and openly discussed plan to ethnically cleanse Gaza and
+   detach it from the Palestinian homeland, but also respond to Israeli
+   efforts to displace Palestinians in the West Bank and Israel itself.
 
 Keep reading
 
-   list of 4 items
+   list of 4 itemslist 1 of 4
 
-   list 1 of 4
-
-Israel cannot carry out ‘collective punishment’ of people in Gaza: Lavrov
+  Israel cannot carry out ‘collective punishment’ of people in Gaza: Lavrov
 
    list 2 of 4
 
-How international law is used to cover up Israeli settler-colonialism
+  How international law is used to cover up Israeli settler-colonialism
 
    list 3 of 4
 
-Sirens blare in Spanish civil war town of Guernica in solidarity with Gaza
+  Sirens blare in Spanish civil war town of Guernica in solidarity with Gaza
 
    list 4 of 4
 
-Calls to reform UN Security Council after US vetoes Gaza ceasefire
+  Calls to reform UN Security Council after US vetoes Gaza ceasefire
 
    end of list
 
@@ -117,138 +108,131 @@ Calls to reform UN Security Council after US vetoes Gaza ceasefire
    end the occupation. There are 10 clear steps that could and should be
    taken, starting with Palestinian leaders, to achieve this and put our
    nation on a direct path towards justice, peace and statehood:
+
     1. First and foremost, all Palestinian factions should commit to the
-       fulfilment and eventual expansion of the Qatar-brokered agreement
-       to exchange Israeli captives in Gaza for Palestinian prisoners in
-       Israeli jails.
+       fulfilment and eventual expansion of the Qatar-brokered agreement to
+       exchange Israeli captives in Gaza for Palestinian prisoners in Israeli
+       jails.
     2. Hamas should declare its acceptance of and commitment to the Fatah
-       reconciliation agreement it signed in Cairo in 2017. It should call
-       on the Palestinian Authority to assume its responsibilities in Gaza
-       and also reassert the commitment of resistance factions in Gaza to
-       all agreements signed by the Palestine Liberation Organisation
-       (PLO). To counter Israel’s destructive post-war plans for Gaza,
-       Palestinian leaders should establish an interim governing council
-       for the Strip comprising technocrats from the region. All past
-       Palestinian Authority personnel from Gaza, including the police,
-       should be called upon to return to their duties. This plan should
-       also include retaining civilian Hamas employees, including the
-       police. The reintegration of Hamas fighters and weaponry into the
-       Palestinian Authority forces after the end of the war should also
-       remain under consideration.
+       reconciliation agreement it signed in Cairo in 2017. It should call on
+       the Palestinian Authority to assume its responsibilities in Gaza and
+       also reassert the commitment of resistance factions in Gaza to all
+       agreements signed by the Palestine Liberation Organisation (PLO). To
+       counter Israel’s destructive post-war plans for Gaza, Palestinian
+       leaders should establish an interim governing council for the Strip
+       comprising technocrats from the region. All past Palestinian Authority
+       personnel from Gaza, including the police, should be called upon to
+       return to their duties. This plan should also include retaining
+       civilian Hamas employees, including the police. The reintegration of
+       Hamas fighters and weaponry into the Palestinian Authority forces
+       after the end of the war should also remain under consideration.
     3. Hamas should publicly acknowledge the Peace Accords signed between
        Israel and the Palestine Liberation Organization (PLO) as the
        foundation for a peace process, and agree to the scheduling of
        elections for the entire Palestinian territory within one year. In
-       return, Israel should be pressured to recognise a reformed Hamas as
-       a mainstream Palestinian political faction and a party to future
+       return, Israel should be pressured to recognise a reformed Hamas as a
+       mainstream Palestinian political faction and a party to future
        negotiations.
-    4. The PLO should be reactivated and reformed in a way that would
-       ensure the representation of all Palestinian parties and components
-       within its structures. Particular emphasis should be placed on
-       empowering young Palestinians, both men and women, taking on
-       consequential roles within the organisation and have a say in the
-       future of Palestine. The reformed PLO should include not only
-       Fatah, Hamas and other PLO factions, but also representatives from
-       the Palestinian diaspora, as well as independent representatives
-       from across the nation. Members of the organisation should be
-       reelected every four years in free and fair elections, and it
-       should be agreed that the organisation will have the final say in
-       all critical issues concerning the Palestinian people until an
-       independent Palestinian state is established.
+    4. The PLO should be reactivated and reformed in a way that would ensure
+       the representation of all Palestinian parties and components within
+       its structures. Particular emphasis should be placed on empowering
+       young Palestinians, both men and women, taking on consequential roles
+       within the organisation and have a say in the future of Palestine. The
+       reformed PLO should include not only Fatah, Hamas and other PLO
+       factions, but also representatives from the Palestinian diaspora, as
+       well as independent representatives from across the nation. Members of
+       the organisation should be reelected every four years in free and fair
+       elections, and it should be agreed that the organisation will have the
+       final say in all critical issues concerning the Palestinian people
+       until an independent Palestinian state is established.
     5. The reconstruction of Gaza should start immediately under
-       international and Arab supervision. While the international
-       community should contribute to funding the project, the brunt of
-       the financial burden should be put on Israel as the occupying power
-       responsible for causing the destruction. The reconstruction effort
-       should be used to put Gaza on the path to achieving sustainable
-       economic growth. It should also aim to address the rapid depletion
-       of the Strip’s environmental resources as a result of the
-       occupation, including issues relating to water and electricity
-       shortages, shrinking fishing areas, and destruction of agricultural
-       land among others.
-    6. Israel should be made to set up a compensation fund for the
-       families – both Israeli and Palestinian – victimised by its wars,
-       aggressions and occupation. Western countries adopted the idea that
-       Russia would be compelled to pay for its war in Ukraine, and
-       Ukraine would be rebuilt using frozen Russian assets. The
-       Palestinian leadership should insist that the same responsibility
-       is imposed on Israel.
-    7. International observers should be deployed along Israel’s borders
-       to prevent confrontations. Turkiye [Turkey], which is accepted as
-       an honest broker by the Palestinians and has strong relations with
-       the West and Israel as a NATO member, could be asked to take on
-       this important responsibility.
+       international and Arab supervision. While the international community
+       should contribute to funding the project, the brunt of the financial
+       burden should be put on Israel as the occupying power responsible for
+       causing the destruction. The reconstruction effort should be used to
+       put Gaza on the path to achieving sustainable economic growth. It
+       should also aim to address the rapid depletion of the Strip’s
+       environmental resources as a result of the occupation, including
+       issues relating to water and electricity shortages, shrinking fishing
+       areas, and destruction of agricultural land among others.
+    6. Israel should be made to set up a compensation fund for the families –
+       both Israeli and Palestinian – victimised by its wars, aggressions and
+       occupation. Western countries adopted the idea that Russia would be
+       compelled to pay for its war in Ukraine, and Ukraine would be rebuilt
+       using frozen Russian assets. The Palestinian leadership should insist
+       that the same responsibility is imposed on Israel.
+    7. International observers should be deployed along Israel’s borders to
+       prevent confrontations. Turkiye [Turkey], which is accepted as an
+       honest broker by the Palestinians and has strong relations with the
+       West and Israel as a NATO member, could be asked to take on this
+       important responsibility.
     8. The siege on Gaza should be lifted, fully and unconditionally, with
        its border crossings, airports and ports reopened and its residents
-       given full freedom of movement. A permanent and secure passage
-       between Gaza and the West Bank should also be established. Turkiye
-       can also play a crucial role in opening Gaza up to the world, by
-       establishing maritime and aerial bridges for reconstruction and
-       development.
-    9. Israel should be pressured to immediately and unconditionally halt
-       all its settlement activities and initiate comprehensive
-       negotiations for bringing an end to its occupation under UN
-       auspices, based on the 1967 borders, and within a pre-set timeframe
-       of no more than three years. The Arab League should continue to
-       push for its 2002 Arab Peace Initiative which called for all Arab
-       states to recognise and normalise relations with Israel in exchange
-       for the establishment of a Palestinian state on the 1967 borders,
-       with East Jerusalem as its capital. Any further attempts at
-       normalisation should be frozen until this is achieved.
+       given full freedom of movement. A permanent and secure passage between
+       Gaza and the West Bank should also be established. Turkiye can also
+       play a crucial role in opening Gaza up to the world, by establishing
+       maritime and aerial bridges for reconstruction and development.
+    9. Israel should be pressured to immediately and unconditionally halt all
+       its settlement activities and initiate comprehensive negotiations for
+       bringing an end to its occupation under UN auspices, based on the 1967
+       borders, and within a pre-set timeframe of no more than three years.
+       The Arab League should continue to push for its 2002 Arab Peace
+       Initiative which called for all Arab states to recognise and normalise
+       relations with Israel in exchange for the establishment of a
+       Palestinian state on the 1967 borders, with East Jerusalem as its
+       capital. Any further attempts at normalisation should be frozen until
+       this is achieved.
    10. Finally, if this political track towards sustainable peace and
        dignified co-existence fails or faces a significant roadblock, a
-       reformed PLO that is kept in check by the Palestinian people
-       through regular elections should be accepted as the sole entity
-       that could decide on the future direction and nature of the
-       Palestinian struggle for liberation.
+       reformed PLO that is kept in check by the Palestinian people through
+       regular elections should be accepted as the sole entity that could
+       decide on the future direction and nature of the Palestinian struggle
+       for liberation.
 
    The views expressed in this article are the author’s own and do not
    necessarily reflect Al Jazeera’s editorial stance.
-     __________________________________________________________________
-     __________________________________________________________________
 
-     * (BUTTON) About (BUTTON) Show more
-          + About Us
-          + Code of Ethics
-          + Terms and Conditions
-          + EU/EEA Regulatory Notice
-          + Privacy Policy
-          + Cookie Policy
-          + Cookie Preferences
-          + Sitemap
-          + Work for us
-          + HR Quality
-     * (BUTTON) Connect (BUTTON) Show more
-          + Contact Us
-          + Advertise with us
-          + Apps
-          + Newsletters
-          + Channel Finder
-          + TV Schedule
-          + Podcasts
-          + Submit a Tip
-     * (BUTTON) Our Channels (BUTTON) Show more
-          + Al Jazeera Arabic
-          + Al Jazeera English
-          + Al Jazeera Investigative Unit
-          + Al Jazeera Mubasher
-          + Al Jazeera Documentary
-          + Al Jazeera Balkans
-          + AJ+
-     * (BUTTON) Our Network (BUTTON) Show more
-          + Al Jazeera Centre for Studies
-          + Al Jazeera Media Institute
-          + Learn Arabic
-          + Al Jazeera Centre for Public Liberties & Human Rights
-          + Al Jazeera Forum
-          + Al Jazeera Hotel Partners
+     ----------------------------------------------------------------------
+
+     ----------------------------------------------------------------------
+
+     * AboutShow more
+          * About Us
+          * Code of Ethics
+          * Terms and Conditions
+          * EU/EEA Regulatory Notice
+          * Privacy Policy
+          * Cookie Policy
+          * Cookie Preferences
+          * Sitemap
+          * Work for us
+          * HR Quality
+     * ConnectShow more
+          * Contact Us
+          * Advertise with us
+          * Apps
+          * Newsletters
+          * Channel Finder
+          * TV Schedule
+          * Podcasts
+          * Submit a Tip
+     * Our ChannelsShow more
+          * Al Jazeera Arabic
+          * Al Jazeera English
+          * Al Jazeera Investigative Unit
+          * Al Jazeera Mubasher
+          * Al Jazeera Documentary
+          * Al Jazeera Balkans
+          * AJ+
+     * Our NetworkShow more
+          * Al Jazeera Centre for Studies
+          * Al Jazeera Media Institute
+          * Learn Arabic
+          * Al Jazeera Centre for Public Liberties & Human Rights
+          * Al Jazeera Forum
+          * Al Jazeera Hotel Partners
 
    Follow Al Jazeera English:
-     *
-     *
-     *
-     *
-     *
 
-   Al Jazeera Media Network logo
+     * * * * * Al Jazeera Media Network logo
    © 2023 Al Jazeera Media Network

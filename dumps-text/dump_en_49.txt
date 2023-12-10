@@ -1,145 +1,112 @@
+   Link: canonical
    Skip to main content
-   [CTVNews_horizontal_logo_f.svg]
-   Live CTV.ca
+   [IMG]
+   CTV.ca
    OTTAWA
-   (BUTTON)
-     * Search CTVNews.ca ____________________ (BUTTON) Search
-       (BUTTON) News
-          +
+   [ Submit ]
+     * Search CTVNews.ca _____________________ Search
+       News
+          * Latest
 
-Latest
-               o
-               o News
-               o Weather
-               o Gas Prices
-               o Contests
-               o Real Estate
-               o
-               o
-               o Photo Galleries
-               o Recipes
-               o Traffic
-               o Pop Quiz
-               o Community Calendar
-               o
-               o
-               o Weekenders
-          +
+               * * News
+               * Weather
+               * Gas Prices
+               * Contests
+               * Real Estate
+               * * * Photo Galleries
+               * Recipes
+               * Traffic
+               * Pop Quiz
+               * Community Calendar
+               * * * Weekenders
+          * Featured
 
-Featured
-               o
-               o Toy Mountain
-               o COVID-19 in Ottawa
-               o Freedom Convoy
-               o Fields to Forks
-               o Natalie MacLean's Wines of the Week
-          +
+               * * Toy Mountain
+               * COVID-19 in Ottawa
+               * Freedom Convoy
+               * Fields to Forks
+               * Natalie MacLean's Wines of the Week
+          * Around the Region
 
-Around the Region
-               o
-               o Kingston News
-               o Brockville News
-               o Pembroke News
-     * (BUTTON) Video
-          +
+               * * Kingston News
+               * Brockville News
+               * Pembroke News
+     * Video
+          * Watch
 
-Watch
-               o
-               o All
-               o Latest
-               o CTV News Live
-               o CTV News App
-               o Video Help
-     * (BUTTON) Shows
-          +
+               * * All
+               * Latest
+               * CTV News Live
+               * CTV News App
+               * Video Help
+     * Shows
+          * News Programs
 
-News Programs
-               o
-               o CTV Morning Live
-               o CTV News at Noon
-               o CTV News at Five
-               o CTV News at Six
-               o CTV News at 11:30
-     * (BUTTON) About
-          +
+               * * CTV Morning Live
+               * CTV News at Noon
+               * CTV News at Five
+               * CTV News at Six
+               * CTV News at 11:30
+     * About
+          * Who We Are
 
-Who We Are
-               o
-               o About Us
-               o Contact Us
-               o Advertise with Us
-               o Personalities
-               o Newsletters
-               o
-               o
-               o CTV News App
-               o Submit a news tip
-          +
+               * * About Us
+               * Contact Us
+               * Advertise with Us
+               * Personalities
+               * Newsletters
+               * * * CTV News App
+               * Submit a news tip
+          * Social
 
-Social
-               o
-               o Facebook
-               o X
-               o Instagram
-               o TikTok
-     * (BUTTON) Across Canada
-          +
+               * * Facebook
+               * X
+               * Instagram
+               * TikTok
+     * Across Canada
+          * Other Cities
 
-Other Cities
-               o
-               o Atlantic
-               o Barrie
-               o Calgary
-               o Edmonton
-               o Guelph
-               o
-               o
-               o Kingston
-               o Kitchener
-               o Lethbridge
-               o London
-               o Montreal
-               o
-               o
-               o Nanaimo
-               o Newfoundland and Labrador
-               o Northern Ontario
-               o Ottawa
-               o Pembroke
-               o
-               o
-               o Prince Albert
-               o Red Deer
-               o Regina
-               o Saskatoon
-               o Sault Ste. Marie
-               o
-               o
-               o Toronto
-               o Vancouver
-               o Vancouver Island
-               o Windsor
-               o Winnipeg
-
-   Search CTVNews.ca ____________________ (BUTTON) Search
+               * * Atlantic
+               * Barrie
+               * Calgary
+               * Edmonton
+               * Guelph
+               * * * Kingston
+               * Kitchener
+               * Lethbridge
+               * London
+               * Montreal
+               * * * Nanaimo
+               * Newfoundland and Labrador
+               * Northern Ontario
+               * Ottawa
+               * Pembroke
+               * * * Prince Albert
+               * Red Deer
+               * Regina
+               * Saskatoon
+               * Sault Ste. Marie
+               * * * Toronto
+               * Vancouver
+               * Vancouver Island
+               * Windsor
+               * Winnipeg
+   Search CTVNews.ca _____________________ Search
    Ottawa
+    * Protesters from across Ontario travel to Ottawa for largest pro-Palestine
+                                   rally yet
 
-
-
-Protesters from across Ontario travel to Ottawa for largest pro-Palestine
-rally yet
-
-   Thousands of people gathered on Parliament Hill in Ottawa Saturday for
-   a rally calling for a permanent ceasefire in Gaza on the second-day of
-   a four-day pause in the fighting.
+   Thousands of people gathered on Parliament Hill in Ottawa Saturday for a
+   rally calling for a permanent ceasefire in Gaza on the second-day of a
+   four-day pause in the fighting.
 
    There have been protests in Ottawa every week since the Oct. 7 Hamas
    attack, which have grown in size and scope.
+
      * Complete coverage of the Israel-Hamas war
 
-   Several groups, including the Palestinian Youth Movement and Jews Say
-   No to Genocide, and their supporters gathered in Ottawa Saturday
-   afternoon.
+   Several groups, including the Palestinian Youth Movement and Jews Say No
+   to Genocide, and their supporters gathered in Ottawa Saturday afternoon.
 
    The Palestinian Youth Movement said on social media it is demanding "an
    end to Canadian complicity in the ongoing genocide in Gaza and
@@ -147,88 +114,87 @@ rally yet
    permanent ceasefire in the region. It is also demanding Canada cease
    selling weapons to Israel.
 
-   "We call on Palestinians, Arabs, and people of conscience from all
-   across Canada to make plans to travel to Ottawa on this day for what is
-   sure to be a historic march: together, a people's chorus becomes
-   impossible for the Canadian government to ignore," the group said.
+   "We call on Palestinians, Arabs, and people of conscience from all across
+   Canada to make plans to travel to Ottawa on this day for what is sure to
+   be a historic march: together, a people's chorus becomes impossible for
+   the Canadian government to ignore," the group said.
 
    "We are here to call for a genuine ceasefire. Not a pause but a genuine
-   ceasefire," said the Palestinian Youth Movement's Yara Shoufani. "We
-   are here today in a historic march in support of the Palestinian
-   people."
+   ceasefire," said the Palestinian Youth Movement's Yara Shoufani. "We are
+   here today in a historic march in support of the Palestinian people."
 
-   The Jews Say No to Genocide group said in a news release on Friday that
-   it is also calling for a permanent ceasefire, a halt to all military
-   aid and arms sales to Israel and for the government to demand an end to
-   the occupation of Gaza and the West Bank.
+   The Jews Say No to Genocide group said in a news release on Friday that it
+   is also calling for a permanent ceasefire, a halt to all military aid and
+   arms sales to Israel and for the government to demand an end to the
+   occupation of Gaza and the West Bank.
 
    "The continued escalation we are witnessing of the Israeli
    state-sanctioned brutality, human rights violations and crimes against
    humanity across Gaza and the West Bank must end now," the group said.
 
-   "Canadian Jews add their voices to this global chorus calling for
-   justice for the Palestinian people. As Jews, we cannot and will not
-   stand idly by as the State of Israel - with the full support of the
-   Canadian government - continues to commit atrocities day-in, day-out
-   that go against the very core of our faith."
+   "Canadian Jews add their voices to this global chorus calling for justice
+   for the Palestinian people. As Jews, we cannot and will not stand idly by
+   as the State of Israel - with the full support of the Canadian government
+   - continues to commit atrocities day-in, day-out that go against the very
+   core of our faith."
 
    According to federal government figures, Canada exported more than $21
    million worth of military goods and technology to Israel in 2022.
 
-   Parliament Hill at around 2:15 p.m. ET Nov. 25, 2023. Thousands of
-   people are gathered to call on the Canadian government to demand a
-   permanent ceasefire in the Israel-Hamas war. (Hill Cam/PSPC)
+   Parliament Hill at around 2:15 p.m. ET Nov. 25, 2023. Thousands of people
+   are gathered to call on the Canadian government to demand a permanent
+   ceasefire in the Israel-Hamas war. (Hill Cam/PSPC)
 
    Organizers say people were bussed in to Ottawa from across Ontario,
    including Toronto, Mississauga, and Kitchener-Waterloo.
 
    Among the crowd was Ontario MPP Sara Jama, who was ejected from the
-   provincial NDP caucus over a social media post two days after the Oct.
-   7 attack in which she expressed support for the Palestinian people and
+   provincial NDP caucus over a social media post two days after the Oct. 7
+   attack in which she expressed support for the Palestinian people and
    called for an end to the "occupation of Palestinian land." She was
    criticized for not mentioning Hamas or the attack. She later apologized
-   and condemned Hamas, but the Progressive Conservative government
-   censured her in the legislature.
+   and condemned Hamas, but the Progressive Conservative government censured
+   her in the legislature.
 
-   "I'm here today in support of the many Palestinians that are organizing
-   to continue to put pressure on this government for a ceasefire," Jama
-   said Saturday. "We know that a four-day pause is not enough."
+   "I'm here today in support of the many Palestinians that are organizing to
+   continue to put pressure on this government for a ceasefire," Jama said
+   Saturday. "We know that a four-day pause is not enough."
 
-   Ottawa Centre NDP MPP Joel Harden was also at the rally.
+   Ottawa Centre NDP MPP Joel Harden was also at the rally. 
 
    "Release all hostages. End the seige, end the occupation. It’s time for
    peace with justice," he wrote on X.
 
-   Also in attendance was Dr. Tarek Loubani, from London, Ont., who is
-   facing a mischief charge after an MP's office was vandalized with
-   ketchup following a demonstration in October. Loubani expressed concern
-   about the lack of medical supplies in Gaza.
+   Also in attendance was Dr. Tarek Loubani, from London, Ont., who is facing
+   a mischief charge after an MP's office was vandalized with ketchup
+   following a demonstration in October. Loubani expressed concern about the
+   lack of medical supplies in Gaza.
 
-   "They don't have the basic composites of medical care, like water,
-   soap, anesthetic," he said. "With these things absent, they aren't able
-   to do their job appropriately."
+   "They don't have the basic composites of medical care, like water, soap,
+   anesthetic," he said. "With these things absent, they aren't able to do
+   their job appropriately."
 
-   Loubani made international headlines when he was detained in Egypt
-   while on his way to Gaza for a medical mission in 2013.
+   Loubani made international headlines when he was detained in Egypt while
+   on his way to Gaza for a medical mission in 2013.
 
-   In 2018, he was shot in the legs while helping wounded protesters in
-   Gaza.
+   In 2018, he was shot in the legs while helping wounded protesters in Gaza.
 
    After leaving Parliament Hill, demonstrators marched through downtown
    Ottawa streets.
 
-   Protesters march from Parliament Hill through downtown Ottawa calling
-   for a permanent ceasefire in the Israel-Hamas war. Nov. 25, 2023. (City
-   of Ottawa traffic camera, Rideau and Sussex)
+   Protesters march from Parliament Hill through downtown Ottawa calling for
+   a permanent ceasefire in the Israel-Hamas war. Nov. 25, 2023. (City of
+   Ottawa traffic camera, Rideau and Sussex)
 
-   A four-day ceasefire in Gaza began Friday as part of an agreement
-   brokered by Qatar, to free hostages and prisoners. Twenty-four Hamas
-   hostages were freed Friday, including 13 Israeli citizens, 10 Thai
-   nationals and one Filipino person. Israel released 39 Palestinian
-   prisoners. Israeli Prime Minister Benjamin Netanyahu has said the war
-   effort will continue after the ceasefire expires.
-     * The information you need to know, sent directly to you: Download
-       the CTV News App
+   A four-day ceasefire in Gaza began Friday as part of an agreement brokered
+   by Qatar, to free hostages and prisoners. Twenty-four Hamas hostages were
+   freed Friday, including 13 Israeli citizens, 10 Thai nationals and one
+   Filipino person. Israel released 39 Palestinian prisoners. Israeli Prime
+   Minister Benjamin Netanyahu has said the war effort will continue after
+   the ceasefire expires.
+
+     * The information you need to know, sent directly to you: Download the
+       CTV News App
      * Sign up now for our nightly CTV News Ottawa newsletter
 
    Over the four days, Hamas is supposed to release at least 50 Israeli
@@ -237,8 +203,8 @@ rally yet
 
    The continued release of hostages from Gaza was delayed Saturday when
    Hamas alleged Israel violated the terms of the truce; however, it was
-   later agreed that Hamas would release 13 Israelis and seven other
-   foreign nationals in exchange for 39 Palestinians.
+   later agreed that Hamas would release 13 Israelis and seven other foreign
+   nationals in exchange for 39 Palestinians. 
 
    Since the war began, around 1,200 people in Israel have been killed,
    largely from Hamas's incursion on Oct. 7, while more than 13,000
@@ -251,415 +217,381 @@ rally yet
 
 Shopping Trends
 
-   The Shopping Trends team is independent of the journalists at CTV News.
-   We may earn a commission when you use our links to shop. Read about us.
-     * [rideau-and-sussex-nov-25-2023-345-pm-1-6660881-1700945386562.png]
+   The Shopping Trends team is independent of the journalists at CTV News. We
+   may earn a commission when you use our links to shop. Read about us.
 
-Gifts
+     * [IMG]
 
-23 Brilliant Gifts For The Person Who Already Seems To Have Everything
-     *
+  Gifts
 
-26 Stocking Stuffers From Amazon Canada They'll Genuinely Love
-     *
+  23 Brilliant Gifts For The Person Who Already Seems To Have Everything
 
-12 Gift Ideas For New Parents (Or Anyone With A Baby)
+     * 26 Stocking Stuffers From Amazon Canada They'll Genuinely Love
 
-     * [rideau-and-sussex-nov-25-2023-345-pm-1-6660881-1700945386562.png]
+     * 12 Gift Ideas For New Parents (Or Anyone With A Baby)
 
-Editor's Picks
+     * [IMG]
 
-10 Highly-Reviewed Fitness Products That You'll Want To Treat Yourself To
-     *
+  Editor's Picks
 
-Our Guide to the Best Snowshoes in Canada in 2023 (And Where to Get Them)
-     *
+  10 Highly-Reviewed Fitness Products That You'll Want To Treat Yourself To
 
-12 Wellness Products For Anyone Who Could Use Some Self-Care
+     * Our Guide to the Best Snowshoes in Canada in 2023 (And Where to Get Them)
 
-     * [rideau-and-sussex-nov-25-2023-345-pm-1-6660881-1700945386562.png]
+     * 12 Wellness Products For Anyone Who Could Use Some Self-Care
 
-Home
+     * [IMG]
 
-Our Guide to the Best Humidifiers in Canada in 2023 (And Where to Get Them)
-     *
+  Home
 
-We Tested Out the Best Cordless Vacuums, and Here Are Our Honest Opinions
-     *
+  Our Guide to the Best Humidifiers in Canada in 2023 (And Where to Get Them)
 
-12 Life-Changing Cleaning Products That'll Keep Mess To A Minimum
+     * We Tested Out the Best Cordless Vacuums, and Here Are Our Honest Opinions
 
-     * [rideau-and-sussex-nov-25-2023-345-pm-1-6660881-1700945386562.png]
+     * 12 Life-Changing Cleaning Products That'll Keep Mess To A Minimum
 
-Deals
+     * [IMG]
 
-Here Are All The Best Deals You'll Find On Amazon Canada This Week
-     *
+  Deals
 
-Black Friday And Cyber Monday May Be Over, But You Can Still Take Advantage
-Of These Amazing Deals
-     *
+  Here Are All The Best Deals You'll Find On Amazon Canada This Week
 
-This Vancouver-Based Modular Furniture Company Is Having A Major Cyber Week
-Sale
+     * Black Friday And Cyber Monday May Be Over, But You Can Still Take
+  Advantage Of These Amazing Deals
+
+     * This Vancouver-Based Modular Furniture Company Is Having A Major Cyber
+  Week Sale
 
 Ottawa Top Stories
 
-     *
+     * Police search for white Audi sedan that left Queensway crash scene
 
-The 10 busiest photo radar cameras in Ottawa so far in 2023
-     *
+     * The 10 busiest photo radar cameras in Ottawa so far in 2023
 
-OPP seek driver in reported hit-and-run on Hwy. 417
-     *
+     * 'People are confused': Survey suggests Canadians need education on
+  Charter rights
 
-Christmas markets abuzz as Ottawa gets in the festive spirit
-     *
+     * OPP lay charges in 'major assault' that hospitalized 2 people
 
-'People are confused': Survey suggests Canadians need education on Charter
-rights
-     *
+     * Senators tip Red Wings 5-1, Larkin injured on hit from behind
 
-Senators tip Red Wings 5-1, Larkin injured on hit from behind
-     *
+     * Christmas markets abuzz as Ottawa gets in the festive spirit
 
-Pro-Palestine supporters gather in Ottawa to call for permanent ceasefire as
-bombing in Gaza continues
-     *
+     * Pro-Palestine supporters gather in Ottawa to call for permanent ceasefire
+  as bombing in Gaza continues
 
-OPP lay charges in 'major assault' that hospitalized 2 people
-     *
-
-Mideast ministers in Ottawa to discuss Israel-Hamas war with Joly, Trudeau
+     * Mideast ministers in Ottawa to discuss Israel-Hamas war with Joly,
+  Trudeau
 
 CTVNews.ca Top Stories
 
-'No one else has done this on the planet': Guilbeault insists emissions cap
-delay is due to novelty
+  'No one else has done this on the planet': Guilbeault insists emissions cap
+  delay is due to novelty
 
-   Environment and Climate Change Minister Steven Guilbeault says the
-   delay in announcing details of his government’s proposed oil and gas
-   sector emissions cap is due to its uniqueness and to wanting to get it
-   right.
+   Environment and Climate Change Minister Steven Guilbeault says the delay
+   in announcing details of his government’s proposed oil and gas sector
+   emissions cap is due to its uniqueness and to wanting to get it right.
 
-Canada has a secretive history of adoption, and some want it brought to light
+  Buckingham Palace releases this year’s Christmas card
 
-   In a theatre in St. John's, N.L., a murmur spreads through the audience
-   as people timidly raise their hands. They have been asked if they saw
-   their own stories reflected in the film they just watched -- 'A Quiet
-   Girl.'
+   Buckingham Palace released an image of the Christmas card that King
+   Charles III and Queen Camilla will be sending out this year.
 
-Minnesota grocery store clerk dies after customer impales him with a golf
-club, police say
+  Canada has a secretive history of adoption, and some want it brought to light
 
-   A Minneapolis store clerk died after a customer beat him and impaled
-   him with a golf club, police said. The 66-year-old clerk was attacked
-   Friday at the Oak Grove Grocery, a small neighborhood store in a
-   residential area near downtown Minneapolis. A 44-year-old suspect is
-   jailed on suspicion of murder.
+   In a theatre in St. John's, N.L., a murmur spreads through the audience as
+   people timidly raise their hands. They have been asked if they saw their
+   own stories reflected in the film they just watched -- 'A Quiet Girl.'
 
-Tennessee residents clean up after severe weekend storms killed 6 people and
-damaged neighbourhoods
+  Trump dismisses warnings that his victory would threaten democracy and says
+  Biden is the real threat
 
-   Central Tennessee residents and emergency workers cleaned up Sunday
-   from severe weekend storms and tornadoes that killed six people and
-   sent more to the hospital while damaging buildings, turning over
-   vehicles and knocking out power to tens of thousands.
+   Former President Donald Trump on Saturday characterized warnings that his
+   victory in 2024 would represent a threat to democracy as a 'hoax' and
+   'Democrat misinformation.'
 
-A gigantic new ICBM will take U.S. nuclear missiles out of the Cold War-era
-but add 21st-century risks
+  In inaugural speech, Argentina's Javier Milei prepares nation for painful
+  shock adjustment
 
-   The $96 billion Sentinel overhaul involves 450 silos across five
-   states, their control centres, three nuclear missile bases and several
-   other testing facilities. The project is so ambitious it has raised
-   questions as to whether the Air Force can get it all done at once.
+   It wasn't the most uplifting of inaugural addresses. Rather, Argentina's
+   newly empowered President Javier Milei presented figures to lay bare the
+   scope of the nation's economic 'emergency,' and sought to prepare the
+   public for a shock adjustment with drastic public spending cuts.
 
-'People are confused': Survey suggests Canadians need education on Charter
-rights
+  'People are confused': Survey suggests Canadians need education on Charter
+  rights
 
-   While one-third of Canadians say they have read the Charter of Rights
-   and Freedoms, many fail to distinguish between its text and that of the
-   U.S. Declaration of Independence, a new survey suggests.
+   While one-third of Canadians say they have read the Charter of Rights and
+   Freedoms, many fail to distinguish between its text and that of the U.S.
+   Declaration of Independence, a new survey suggests.
 
-Elon Musk restores X account of conspiracy theorist Alex Jones
+  Elon Musk restores X account of conspiracy theorist Alex Jones
 
    Elon Musk has restored the X account of conspiracy theorist Alex Jones,
-   pointing to a poll on the social media platform formerly known as
-   Twitter that came out in favour of the Infowars host who repeatedly
-   called the 2012 Sandy Hook school shooting a hoax.
+   pointing to a poll on the social media platform formerly known as Twitter
+   that came out in favour of the Infowars host who repeatedly called the
+   2012 Sandy Hook school shooting a hoax.
 
-Marathon Conservative carbon tax filibuster ends after nearly 30 consecutive
-hours of House votes
+  A gigantic new ICBM will take U.S. nuclear missiles out of the Cold War-era
+  but add 21st-century risks
 
-   The Conservative-prompted filibuster in the House of Commons ended
-   Friday night, after MPs spent nearly 30 hours voting non-stop on the
-   government's spending plans.
+   The $96 billion Sentinel overhaul involves 450 silos across five states,
+   their control centres, three nuclear missile bases and several other
+   testing facilities. The project is so ambitious it has raised questions as
+   to whether the Air Force can get it all done at once.
 
-Woman charged with manslaughter after 2 sets of young twins killed in 2021
-U.K. fire
+  Tennessee residents clean up after severe weekend storms killed 6 people and
+  damaged neighbourhoods
 
-   A woman has been charged with four counts of manslaughter after two
-   sets of young twins were killed in a fire that ripped through a London
-   home in 2021.
+   Central Tennessee residents and emergency workers cleaned up Sunday from
+   severe weekend storms and tornadoes that killed six people and sent more
+   to the hospital while damaging buildings, turning over vehicles and
+   knocking out power to tens of thousands.
 
 Atlantic
 
-     *
+     * Tent fire at Grand Parade leaves volunteers calling the situation
+  emergency
 
-Tent fire at Grand Parade leaves volunteers calling the situation emergency
        An early morning fire has shaken the homeless encampment at Grand
        Parade in downtown Halifax.
-     *
 
-3 dead, 3 injured after collision in P.E.I.
-       The Queens District RCMP has arrested a 20-year-old man after a
-       fatal collision in P.E.I. left three people dead and three others
-       seriously injured.
-     *
+     * 3 dead, 3 injured after collision in P.E.I.
 
-'The whole house shakes': Moncton residents fed up with noise, odour from AIM
-facility
-       The New Brunswick government has given the American Iron and Metal
-       Company (AIM) a deadline of December 22 to offer a response to the
-       release of a task force review into a massive scrapyard fire that
-       happened in Saint John this September.
+       The Queens District RCMP has arrested a 20-year-old man after a fatal
+       collision in P.E.I. left three people dead and three others seriously
+       injured.
+
+     * 'I’ve never seen anything like this': Homeless farm community almost
+  ready
+
+       At the end of a long country driveway a new beginning awaits for 21
+       individuals who need a fresh start in life.
 
 Toronto
 
      * NEW
 
-NEW | Illegal right turns frustrate residents as construction plagues midtown
-Toronto intersection
+  NEW | Here's what Ontarians drank the most this year, according to the LCBO
+
+       When it came to what Ontarians brought home during their liquor runs
+       at the LCBO, the company said customers went for options that gave
+       them more bang for their buck.
+
+     * Trees cut down at Ontario Place as province’s development plans get
+  underway
+
+       Tree removal has begun at Ontario Place as the provincial government
+       develops the waterfront landmark that’s been at the centre of
+       criticism for years.
+
+     * Illegal right turns frustrate residents as construction plagues midtown
+  Toronto intersection
+
        Frustration with Toronto drivers is mounting on a small residential
        street south of Eglinton Avenue West, sandwiched between the on and
        off-ramps to Allen Road.
-     *
-
-Pedestrian fatally struck by driver on Highway 401 near Kennedy Road
-       Police are looking for witnesses and information after a pedestrian
-       was fatally struck by a driver early Sunday morning on Highway 401
-       in Scarborough.
-     *
-
-Man critically injured after stabbing at early morning bar fight in
-Scarborough
-       A man was rushed to a trauma centre via emergency run after being
-       stabbed early Sunday morning in Scarborough, paramedics say.
 
 Montreal
 
-     *
+     * West Island clients seek refund from snow plow company that didn't show
+  up
 
-West Island clients seek refund from snow plow company that didn't show up
-       Dozens of families in the West Island are demanding their money
-       back because the man they paid to do their snow removal never
-       showed up to clear their driveways after the first snowstorm of the
-       season.
-     *
+       Dozens of families in the West Island are demanding their money back
+       because the man they paid to do their snow removal never showed up to
+       clear their driveways after the first snowstorm of the season.
 
-Expect lots of rain in the Montreal area Sunday and Monday
-       Montreal, Laval and the South Shore can expect 10 – 20 millimetres
-       of rain and about five centimetres of snow Sunday into Monday.
-     *
+     * Expect lots of rain in the Montreal area Sunday and Monday
 
-Off-island residents fed up as work on Ile-aux-Tourtes continues
-       Ongoing construction work on the Ile-aux-Tourtes Bridge off
-       Montreal is causing frustration for some people who live
-       off-island.
+       Montreal, Laval and the South Shore can expect 10 – 20 millimetres of
+       rain and about five centimetres of snow Sunday into Monday.
+
+     * Off-island residents fed up as work on Ile-aux-Tourtes continues
+
+       Ongoing construction work on the Ile-aux-Tourtes Bridge off Montreal
+       is causing frustration for some people who live off-island.
 
 Northern Ontario
 
-     *
+     * Another driver charged with stunt driving on Hwy. 11
 
-Another driver charged with stunt driving on Hwy. 11
        A driver is accused of travelling more than 70km/h over the speed
        limit on Highway 11 on Friday, provincial police say.
-     *
 
-Shohei Ohtani agrees to record $700 million, 10-year contract with Dodgers
-       Shohei Ohtani has opted to stay in southern California, and the
-       Toronto Blue Jays have missed out on landing a generational talent.
-     *
+     * 'People are confused': Survey suggests Canadians need education on
+  Charter rights
 
-Commercial vehicle driver from Quebec driving impaired on Hwy. 11, police say
+       While one-third of Canadians say they have read the Charter of Rights
+       and Freedoms, many fail to distinguish between its text and that of
+       the U.S. Declaration of Independence, a new survey suggests.
+
+     * Commercial vehicle driver from Quebec driving impaired on Hwy. 11, police
+  say
+
        A 65-year-old driver from L'Île-Cadieux, Que. is facing multiple
        charges following an incident on Highway 11 Wednesday evening.
 
 London
 
-     *
+     * 'People are confused': Survey suggests Canadians need education on
+  Charter rights
 
-'People are confused': Survey suggests Canadians need education on Charter
-rights
-       While one-third of Canadians say they have read the Charter of
-       Rights and Freedoms, many fail to distinguish between its text and
-       that of the U.S. Declaration of Independence, a new survey
-       suggests.
-     *
+       While one-third of Canadians say they have read the Charter of Rights
+       and Freedoms, many fail to distinguish between its text and that of
+       the U.S. Declaration of Independence, a new survey suggests.
 
-Two people injured in hit-and-run, suspect arrested
+     * Two people injured in hit-and-run, suspect arrested
+
        A London, Ont. man is facing charges in relation to a hit-and-run
        investigation.
-     *
 
-Mild conditions Sunday ahead of flurries and snow squalls Monday
-       Sunday will be mainly cloudy with a chance of showers, but there is
-       a risk of snow squalls Monday morning.
+     * Mild conditions Sunday ahead of flurries and snow squalls Monday
+
+       Sunday will be mainly cloudy with a chance of showers, but there is a
+       risk of snow squalls Monday morning.
 
 Winnipeg
 
-     *
+     * 'Where there's a will': Peg City Kindness Crew strives to fulfill
+  overwhelming hamper demand
 
-‘We really need to support those people’: Market makers ask Winnipeggers to
-shop local
+       A newly-created non-profit group is attempting to give out three times
+       more holiday hampers this year, as the high cost of living leaves many
+       Manitobans struggling this holiday season.
+
+     * Wheelchair curling 'funspiel' returns for 2nd year
+
+       A sporting event putting a twist on one of Manitoba's favourite games
+       has returned for its second year, raising both money and awareness for
+       a good cause.
+
+     * ‘We really need to support those people’: Market makers ask Winnipeggers
+  to shop local
+
        With inflation still high and the cost of living skyrocketing, some
-       vendors at craft and Christmas bazaars are struggling to market
-       their markets. This is prompting many small businesses in Manitoba
-       to make a plea to purchase locally.
-     *
-
-'Where there's a will': Peg City Kindness Crew strives to fulfill
-overwhelming hamper demand
-       A newly-created non-profit group is attempting to give out three
-       times more holiday hampers this year, as the high cost of living
-       leaves many Manitobans struggling this holiday season.
-     *
-
-Minnesota grocery store clerk dies after customer impales him with a golf
-club, police say
-       A Minneapolis store clerk died after a customer beat him and
-       impaled him with a golf club, police said. The 66-year-old clerk
-       was attacked Friday at the Oak Grove Grocery, a small neighborhood
-       store in a residential area near downtown Minneapolis. A
-       44-year-old suspect is jailed on suspicion of murder.
+       vendors at craft and Christmas bazaars are struggling to market their
+       markets. This is prompting many small businesses in Manitoba to make a
+       plea to purchase locally.
 
 Kitchener
 
-     *
+     * Police release new photos after multiple shots fired into Kitchener crowd
 
-Police release new photos after multiple shots fired into Kitchener crowd
-       Police are investigating a shooting in a Kitchener neighbourhood
-       that sent one person to hospital.
-     *
+       Police are investigating a shooting in a Kitchener neighbourhood that
+       sent one person to hospital.
 
-Hate-motivated graffiti discovered in Waterloo neighbourhood
-       Police are investigating after hate-motivated graffiti was
-       discovered in a Waterloo neighbourhood.
-     *
+     * Hate-motivated graffiti discovered in Waterloo neighbourhood
 
-Truck hits LRT train in Waterloo
-       A truck hit an ION train on Saturday morning, shutting down a
-       Waterloo street.
+       Police are investigating after hate-motivated graffiti was discovered
+       in a Waterloo neighbourhood.
+
+     * Police looking for man who followed two girls in Cambridge
+
+       Two girls say they were followed by a stranger in Cambridge on Friday.
 
 Calgary
 
-     *
+     * New mural celebrates connection between Tsuut'ina people and the buffalo
 
-Hischier scores twice as visiting New Jersey Devils top Calgary Flames 4-2
+       The Tsuut'ina Nation celebrated the unveiling of a new mural Saturday.
+
+     * Okotoks RCMP seek public assistance identifying suspect in armed robbery
+
+       Okotoks RCMP are asking for public assistance identifying a suspect in
+       relation to an armed robbery that took place at the Saskatoon Farm
+       Saturday afternoon.
+
+     * Hischier scores twice as visiting New Jersey Devils top Calgary Flames
+  4-2
+
        New Jersey's improved play since Nico Hischier's return from injury
        continued on Saturday.
-     *
-
-Calgary Jewish and Palestinian leaders encouraging peace over holidays
-       On the second day of Hanukkah, Temple B’Nai Tikvah marked it by
-       going green, lighting a menorah using its array of solar panels.
-     *
-
-The Dodgers gave Shohei Ohtani US$700 million to hit and pitch - but also
-because he can sell
-       Shohei Ohtani's jaw-dropping US$700 million, 10-year deal with the
-       Los Angeles Dodgers has some similarities to other contracts for
-       the world's biggest sports stars, including soccer icons Lionel
-       Messi and Cristiano Ronaldo, along with NFL quarterback Patrick
-       Mahomes.
 
 Saskatoon
 
-     *
+     * Saskatoon man in custody following domestic violence assault, collision
+  with police cruiser
 
-Saskatoon man in custody following domestic violence assault, collision with
-police cruiser
        A Saskatoon man is in custody following a domestic violence assault
        and collision with a police cruiser in the early hours of Saturday.
-     *
 
-Saskatoon youth use lived experience to help design new group home
-       A young woman has used her lived experience to help design
-       Saskatoon’s second mental health group home.
-     *
+     * Sask. Plains Cree artisan says her wearable art tells a story
 
-Saskatoon projects $13M in surpluses, could the money go to taxpayers?
-       After lengthy budget talks last week, where city councillors spent
-       nearly 30 hours searching for savings, there's a new twist.
+       For Plains Cree artist Honey Constant-Inglis, beadwork is about more
+       than just making an accessory — it’s a storytelling medium.
+
+     * eHealth Saskatchewan under increased risk of security breaches,
+  provincial auditor finds
+
+       The Crown corporation responsible for safeguarding the digital health
+       records of Saskatchewan residents is under an increased risk of
+       security breaches and system failure – due to the lack of a finalized
+       IT agreement with the SHA.
 
 Edmonton
 
-     *
+     * Snowboard sensations put on a Big Air show
 
-Snowboard sensations put on a Big Air show
-       No Canadians made it to the podium at Saturday night’s FIS World
-       Cup Big Air Snowboard event at Commonwealth Stadium. But the night
-       saw some snowboarding history being made.
-     *
+       No Canadians made it to the podium at Saturday night’s FIS World Cup
+       Big Air Snowboard event at Commonwealth Stadium. But the night saw
+       some snowboarding history being made.
 
-At COP28, sticking points remain on fossil fuels and adapting to climate as
-talks near crunch time
-       Negotiators have been urged to narrow down their options so they
-       can agree on how to save Earth from disastrous levels of warming
-       and help vulnerable societies adapt to weather extremes as the
-       clock runs down on United Nations climate talks.
-     *
+     * At COP28, sticking points remain on fossil fuels and adapting to climate
+  as talks near crunch time
 
-Hischier scores twice as visiting New Jersey Devils top Calgary Flames 4-2
-       New Jersey's improved play since Nico Hischier's return from injury
-       continued on Saturday.
+       Negotiators have been urged to narrow down their options so they can
+       agree on how to save Earth from disastrous levels of warming and help
+       vulnerable societies adapt to weather extremes as the clock runs down
+       on United Nations climate talks.
+
+     * New mural celebrates connection between Tsuut'ina people and the buffalo
+
+       The Tsuut'ina Nation celebrated the unveiling of a new mural Saturday.
 
 Vancouver
 
-     *
+     * Law Society of B.C. disbars former lawyer after sexual assault conviction
 
-Law Society of B.C. disbars former lawyer after sexual assault conviction
-       A former Nanaimo lawyer has been disbarred for sexual misconduct
-       that occurred when he was practising in Abbotsford in 2018.
-     *
+       A former Nanaimo lawyer has been disbarred for sexual misconduct that
+       occurred when he was practising in Abbotsford in 2018.
 
-B.C. storm brings wind, snow and rain to much of the province
-       A winter storm brought a wind warning to B.C.'s capital and
-       snowfall warnings for parts of its largest metro area Saturday.
-     *
+     * B.C. storm brings wind, snow and rain to much of the province
 
-Union Gospel Mission annual Christmas meal serves 2,000 plates
-       The Union Gospel Mission served around 3,000 plates of turkey at
-       its annual Christmas meal on Vancouver's Downtown Eastside
-       Saturday.
+       A winter storm brought a wind warning to B.C.'s capital and snowfall
+       warnings for parts of its largest metro area Saturday.
+
+     * Union Gospel Mission annual Christmas meal serves 2,000 plates
+
+       The Union Gospel Mission served around 3,000 plates of turkey at its
+       annual Christmas meal on Vancouver's Downtown Eastside Saturday.
 
 Regina
 
-     *
+     * eHealth Saskatchewan under increased risk of security breaches,
+  provincial auditor finds
 
-Two people dead following house fire in Regina, crews investigating
+       The Crown corporation responsible for safeguarding the digital health
+       records of Saskatchewan residents is under an increased risk of
+       security breaches and system failure – due to the lack of a finalized
+       IT agreement with the SHA.
+
+     * Two people dead following house fire in Regina, crews investigating
+
        The Regina Police Service (RPS), along with Regina Fire and the
-       Saskatchewan Coroners Service are investigating after two people
-       died in a house fire in Regina.
-     *
+       Saskatchewan Coroners Service are investigating after two people died
+       in a house fire in Regina.
 
-Fire crews in Kamsack battle late night fire
+     * Fire crews in Kamsack battle late night fire
+
        Fire crews in Kamsack battled a fire late Friday night at a local
        hotel and liquor store.
-     *
-
-5 heated highlights from Saskatchewan's fall legislative sesson
-       Sparring over ideological differences is a key fixture of any
-       parliamentary democracy. However, some moments in the fall session
-       seemed especially tense in Saskatchewan’s legislative chambers.
 
 Stay Connected
 
-   [ctv-news-newsletter-promo.png]
-   [ctv-news--voice-promo.png]
-   [ctv-news-app-promo.png]
+   [IMG]
+   [IMG]
+   [IMG]
    Follow CTV News
-
      * Search CTV News
      * Advertise on CTVNews.ca
      * Political Ads Registry
@@ -669,20 +601,21 @@ Stay Connected
      * Editorial Standards & Policies
      * Contact Us
      * CTV News App Video Help Accessibility Shopping Trends
-     *
-         ______________________________________________________________
+     * ----------------------------------------------------------------------
 
        Stay up to date on the latest, breaking news
        Subscribe to newsletter
 
-    CTV News Programs
+CTV News Programs
+
      * CTV National News
      * Power Play
      * W5
      * CTV Question Period
      * CTV News Channel
 
-    Local News
+Local News
+
      * Atlantic
      * Barrie
      * Calgary

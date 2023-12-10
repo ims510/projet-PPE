@@ -14,8 +14,9 @@ N=1
 TABLE=""
 while read -r line;
 do
+	echo "Manipulation lien ${N} ${line}"
 	ASPIRATION=$(curl -s -L ${line} > ../aspirations/url_en_$N.html)
-	DUMP=$(lynx -dump -nolist --display_charset=utf-8 ../aspirations/url_en_$N.html > ../dumps-text/dump_en_$N.txt)
+	DUMP=$(links -dump ../aspirations/url_en_$N.html > ../dumps-text/dump_en_$N.txt)
 	WORDCOUNT=$(cat ../dumps-text/dump_en_$N.txt | egrep -o "(wars?)|(WARS?)|(Wars?)"| wc -w)
 	cat ../dumps-text/dump_en_$N.txt | sed '/^$/d'| egrep -C 1 "(wars?)|(WARS?)|(Wars?)" > ../contexte/contexte_en_$N.txt
 	./concordancier_anglais.sh ../dumps-text/dump_en_$N.txt ../tableaux/concordances_anglais_$N.html
@@ -23,7 +24,16 @@ do
 	CURL=$(curl -s -I -L ${line} | tr -d "\r" ) #obtenir les headers
 	HTTPCODE=$(echo "$CURL" | grep "^HTTP" | egrep -o "[[:digit:]]{3}" | tail -n 1)
 	ENCODING=$(echo "$CURL" | grep "^content-type:" | egrep -o "charset=[^;]*" | cut -f 2 -d =)
-	TABLEROW="<tr><td>$N</td><td>$HTTPCODE</td><td><a href=${line}>${line}</a></td><td>$ENCODING</td><td><a href="../aspirations/url_en_$N.html">aspiration</a></td><td><a href="../dumps-text/dump_en_$N.txt">dump</a></td><td>$WORDCOUNT</td><td><a href="../contexte/contexte_en_$N.txt">contexte</a></td><td><a href="../tableaux/concordances_anglais_$N.html">concordances</a></td></tr>\n"
+	TABLEROW="<tr><td>$N</td>\n"
+	TABLEROW+="<td>$HTTPCODE</td>\n"
+	TABLEROW+="<td><a href=${line}>${line}</a></td>\n"
+	TABLEROW+="<td>$ENCODING</td>\n"
+	TABLEROW+="<td><a href="../aspirations/url_en_$N.html">aspiration</a></td>\n"
+	TABLEROW+="<td><a href="../dumps-text/dump_en_$N.txt">dump</a></td>\n"
+	TABLEROW+="<td>$WORDCOUNT</td>\n"
+	TABLEROW+="<td><a href="../contexte/contexte_en_$N.txt">contexte</a></td>\n"
+	TABLEROW+="<td><a href="../tableaux/concordances_anglais_$N.html">concordances</a></td>\n"
+	TABLEROW+="</tr>"
 	TABLE+="$TABLEROW\n"
 	N=$(expr $N + 1)
 done < "$FILE_PATH_IN"
