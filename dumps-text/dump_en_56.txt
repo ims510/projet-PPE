@@ -43,16 +43,16 @@ Live
    Navigation menu (BUTTON) caret-left
      * Israel-Palestine conflict
      * Live updates
-     * A brief history
-     * Will the truce be extended?
-     * Reporter's notebook
-     * Key events
+     * Did tech dependence cause intel failure?
      * Photos
-     * The truce deal explained
+     * What role is AI playing?
+     * 'We are dying here'
+     * Does Israel's 'kill-rate' claim add up?
+     * A brief history
+     * Will Netanyahu risk a tunnel conflict?
      * Live tracker
-     * What Palestinian symbols mean
+     * Has the war divided the world?
      * A simple guide
-     * If Gaza was your city
 
    (BUTTON) caret-right
 
@@ -255,7 +255,6 @@ A path to ending the war?
           + Cookie Policy
           + Cookie Preferences
           + Sitemap
-          + Community Guidelines
           + Work for us
           + HR Quality
      * (BUTTON) Connect (BUTTON) Show more

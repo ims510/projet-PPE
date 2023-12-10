@@ -2,6 +2,10 @@
           + 1.4Legality and declaration of war
      * 2History
 --
+          + 2.1Russian annexation of Crimea (2014)
+          + 2.2War in the Donbas (2014–2015)
+               o 2.2.1Pro-Russia unrest
+--
           + 4.2Gas disputes
           + 4.3Hybrid warfare
           + 4.4Russian propaganda and disinformation campaigns
@@ -10,11 +14,16 @@
           + 5.2Reactions to the war in Donbas
                o 5.2.1Ukrainian public opinion
 --
+   [ ] Toggle the table of contents
+Russo-Ukrainian War
+   [ ] 95 languages
+--
    Armed conflict between Russia and Ukraine since 2014
    This article is about the war ongoing since 2014. For the escalation
    since 2022, see Russian invasion of Ukraine. For other wars between the
    two nations, see List of wars between Russia and Ukraine.
    Russo-Ukrainian War
+   Part of the post-Soviet conflicts
 --
    Russian-installed officials in Moscow ratifying the annexation of four
    Ukrainian regions; Russian-backed forces during the Donbas war; Russian
@@ -24,15 +33,35 @@
    Combatants of the war in Donbas (2014–2022)
    Order of battle for the Russian invasion of Ukraine
 --
+   Reports vary widely, but tens of thousands at a minimum.^[2]^[3] See
+   Casualties of the Russo-Ukrainian War for details.
+     * v
+--
+     * e
+   Russo-Ukrainian War (outline)
+     * Background
+--
      * 2018 Moscow–Constantinople schism
      * Information war
           + cyberwarfare
           + ransomware
           + cyberattacks
 --
+     __________________________________________________________________
+     * War in Donbas (2014–2022)
+     * Timeline
+--
+          + Protests in occupied Ukraine
+          + War crimes
+          + Government and intergovernmental reactions
+--
           + ICJ case
           + Arrest warrants
    Related
+--
+               o Wagner Group rebellion
+   The Russo-Ukrainian War^[c] is an ongoing international conflict
+   between Russia and Ukraine, which began in February 2014.^[d] Following
 --
    supported pro-Russian separatists fighting the Ukrainian military in
    the Donbas war. The first eight years of conflict also included naval
@@ -50,6 +79,11 @@
    in the Donbas, and in spring 2023 dug into positions ahead of another
    Ukrainian counteroffensive. The war has resulted in a refugee crisis
    and tens of thousands of deaths.
+--
+   to regional security threats involving Russia such as the 1993 Russian
+   constitutional crisis, the War in Abkhazia (1992–1993) and the First
+   Chechen War (1994–1996). Putin claimed Western powers broke promises
+   not to let any Eastern European countries join.^[9]^[10]
 --
    stay to 2042 with an option to renew.^[39]
   Legality and declaration of war
@@ -69,6 +103,7 @@
    leading to an influx of Russian troops and military hardware into the
    peninsula.^[69] In the following days, all remaining Ukrainian military
 --
+   providing training for the Ukrainian army.^[75]
   War in the Donbas (2014–2015)
    For a chronological guide, see Timeline of the war in Donbas (2014).
    See also: Combatants of the war in Donbas (2014–2022) and List of
@@ -77,11 +112,15 @@
    targeted at Ukrainian troops on their own soil, from mid-July
    onwards.^[103]
     August 2014 Russian invasion
+   See also: Battle of Ilovaisk
+   [220px-War_in_donbass.svg.png] June–August 2014 progression map
+   After a series of military defeats and setbacks for the separatists,
 --
    difficulties amongst the local population, had caused the setbacks. He
    stated, "Losing this war on the territory that President Vladimir Putin
    personally named New Russia would threaten the Kremlin's power and,
 --
+   pieces.^[116] The same day, Ukrainian President Petro Poroshenko
    referred to the operation as Ukraine's "Patriotic War of 2014" and a
    war against external aggression.^[117]^[118] On 25 August, a column of
    Russian military vehicles was reported to have crossed into Ukraine
@@ -154,6 +193,10 @@
    step towards genocide".^[193]^[194] Putin's claims were dismissed by
    the international community,^[195] and Russian claims of genocide were
 --
+   dominated by neo-Nazism, invoking the history of collaboration in
+   German-occupied Ukraine during World War II,^[202]^[203] and echoing an
+   antisemitic conspiracy theory that cast Russian Christians, rather than
+--
    Fighting in Donbas escalated significantly from 17 February 2022
    onwards.^[214] The Ukrainians and the pro-Russian separatists each
    accused the other of attacks.^[215]^[216] There was a sharp increase in
@@ -170,11 +213,19 @@
    works.^[253]^[254] Russian forces continued to bomb both military and
    civilian targets far from the frontline.^[255]^[256] The war caused the
    largest refugee and humanitarian crisis within Europe since the
+   Yugoslav Wars in the 1990s;^[257]^[258] the UN described it as the
+   fastest-growing such crisis since World War II.^[259] In the first week
+   of the invasion, the UN reported over a million refugees had fled
+--
+   [220px-thumbnail.jpg] Ukrainian soldiers killed in the Russo-Ukrainian
+   War in 2022
+   Ukrainian forces launched counteroffensives in the south in August, and
 --
    River.^[citation needed]
    The invasion was internationally condemned as a war of
    aggression.^[266]^[267] A United Nations General Assembly resolution
 --
+Human rights violations
    See also: Casualties of the Russo-Ukrainian War, Humanitarian situation
    during the war in Donbas, and Russian war crimes § Ukraine
    Violations of human rights and atrocity crimes have both occurred
@@ -196,11 +247,14 @@
   Spillover
    Further information: 2014 Vrbětice ammunition warehouse explosions,
    2022 missile explosion in Poland, War in Sudan (2023), and Nuclear
+   threats during the Russian invasion of Ukraine
 --
    involvement of Ukraine in the conflict in Sudan,^[293] but said that
    Ukraine would punish Russian war criminals anywhere in the world.^[294]
   Gas disputes
 --
+   which bypasses Ukraine, gas transit volumes steadily decreased.^[295]
+   Following the start of the Russo-Ukrainian War in February 2014, severe
    tensions extended to the gas sector.^[296]^[297] The subsequent
    outbreak of war in the Donbas region forced the suspension of a project
    to develop Ukraine's own shale gas reserves at the Yuzivska gas field,
@@ -239,6 +293,8 @@
    Jewish.^[344]^[345]^[336] According to journalist Natalia Antonova,
    "Russia's present-day war of aggression is refashioned by propaganda
    into a direct continuation of the legacy of the millions of Russian
+   soldiers who died to stop" Nazi Germany in World War II.^[346]
+   Ukraine's rejection of the adoption of Russia-initiated General
 --
    was a threat to Russia.^[351] Russian Foreign Minister Sergey Lavrov
    characterized the conflict as a proxy war started by NATO.^[352] He
@@ -249,6 +305,15 @@
    Leon Panetta told the ABC that the U.S. is 'without question' involved
    in a proxy war with Russia.^[355]
    Russian military aircraft flying over the Baltic and Black Seas often
+--
+   Further information: International sanctions during the Russo-Ukrainian
+   War and List of military aid to Ukraine during the Russo-Ukrainian War
+   See also: Second Cold War
+  Reactions to the Russian annexation of Crimea
+--
+   building and other government offices on the Crimean peninsula. He
+   compared Russia's military actions to the 2008 Russo-Georgian War, when
+   Russian troops occupied parts of the Republic of Georgia and the
 --
    "preserve its territory" and "defend its independence".^[358] On 1
    March, he warned, "Military intervention would be the beginning of war
@@ -261,6 +326,7 @@
    Russian bonds
    Inverted yield curves to tame inflation during their wars
    (Russo-Georgian War, Russo-Ukrainian War, 2022 Russian invasion of
+   Ukraine)
 --
    sanctions.^[378]
   Reactions to the war in Donbas
@@ -293,6 +359,10 @@
    weapons delivered to the Ukrainian war front suggest a closer combat
    scenario with more casualties.^[403] The United States looks to build
 --
+     * Current events portal
+     * Outline of the Russo-Ukrainian War
+     * List of conflicts in Europe
+--
      * List of ongoing armed conflicts
      * List of wars involving Russia
      * List of wars involving Ukraine
@@ -303,6 +373,10 @@
     4. ^ Many countries have provided various levels of support to Ukraine
        short of becoming belligerents in the war, while Belarus has
        provided Russian forces territorial access for the 2022 invasion.
+--
+       Euractiv. 14 February 2023.
+    3. ^ Hussain, Murtaza (9 March 2023). "The War in Ukraine Is Just
+       Getting Started". The Intercept.
 --
        original on 1 June 2014. Retrieved 21 July 2015.
     9. ^ Wiegrefe, Klaus (15 February 2022). "NATO's Eastward Expansion:
@@ -334,9 +408,78 @@
    47. ^ Hannum, Hurst. "International law says Putin's war against
        Ukraine is illegal. Does that matter?". The Conversation. Archived
 --
+   59. ^ Cathcart, Will (25 April 2014). "Putin's Crimean Medal of Honor,
+       Forged Before the War Even Began". The Daily Beast. Retrieved 3
+       February 2022.
+--
+       2021.
+   70. ^ Jen Weedon, FireEye (2015). "Beyond 'Cyber War': Russia's Use of
+       Strategic Cyber Espionage and Information Operations in Ukraine".
+       In Geers, Kenneth (ed.). Cyber War in Perspective: Russian
+       Aggression against Ukraine. Tallinn: NATO CCD COE Publications.
+--
+   78. ^ Wilson, Andrew (20 April 2016). "The Donbas in 2014: Explaining
+       Civil Conflict Perhaps, but not Civil War". Europe-Asia Studies. 68
+       (4): 631–652. doi:10.1080/09668136.2016.1176994. ISSN 0966-8136.
+--
+   79. ^ Karber, Phillip A. (29 September 2015). "Lessons Learned" from
+       the Russo-Ukrainian War (Report). The Potomac Foundation.
+   80. ^ Freedman, Lawrence (2 November 2014). "Ukraine and the Art of
+       Limited War". Survival. 56 (6): 13.
+       doi:10.1080/00396338.2014.985432. ISSN 0039-6338. S2CID 154981360.
+--
+       east Ukraine". Reuters. 27 July 2014. Retrieved 27 July 2014.
+   86. ^ Matsuzato, Kimitaka (22 March 2017). "The Donbass War: Outbreak
+       and Deadlock". Demokratizatsiya. Princeton: Princeton University
+--
+   87. ^ Wilson, Andrew (20 April 2016). "The Donbas in 2014: Explaining
+       Civil Conflict Perhaps, but not Civil War". Europe-Asia Studies. 68
+       (4): 647–648. doi:10.1080/09668136.2016.1176994. ISSN 0966-8136.
+--
+   91. ^ Holcomb, Franklin (2017). The Kremlin's Irregular Army (PDF).
+       Institute for the Study of War.
+   92. ^ "Ukraine reinstates conscription as crisis deepens". BBC News. 2
+--
+   95. ^ Karber, Phillip A. (29 September 2015). "Lessons Learned" from
+       the Russo-Ukrainian War (Report). The Potomac Foundation. p. 34.
+   96. ^ Kofman, Michael; Migacheva, Katya; Nichiporuk, Brian; Radin,
+--
+   107. ^ Dolgov, Anna (21 November 2014). "Russia's Igor Strelkov: I Am
+       Responsible for War in Eastern Ukraine". The Moscow Times.
+       Retrieved 11 April 2015.
+--
+   109. ^ Nemtsova, Anna (25 July 2014). "Putin's Number One Gunman in
+       Ukraine Warns Him of Possible Defeat". The Daily Beast. Retrieved 2
+       August 2014.
+--
+   113. ^ Freedman, Lawrence (2 November 2014). "Ukraine and the Art of
+       Limited War". Survival. 56 (6): 35.
+       doi:10.1080/00396338.2014.985432. ISSN 0039-6338. S2CID 154981360.
+   114. ^ Wilson, Andrew (20 April 2016). "The Donbas in 2014: Explaining
+       Civil Conflict Perhaps, but not Civil War". Europe-Asia Studies. 68
+       (4): 649. doi:10.1080/09668136.2016.1176994. ISSN 0966-8136.
+--
+       Russian). 24 August 2014. Retrieved 20 October 2015.
+   117. ^ "Poroshenko: ATO Is Ukraine's Patriotic War". Archived from the
+       original on 27 August 2014. Retrieved 11 April 2015. "President
        Petro Poroshenko considers the government's anti-terrorist
        operation (ATO) against separatists as Ukraine's patriotic war."
    118. ^ Gearin, Mary (24 August 2014). "Ukrainian POWs marched at
+--
+       Huffington Post. Retrieved 6 September 2014.
+   133. ^ Warketin, Alexander (29 August 2014). "Disowned and forgotten:
+       Russian soldiers in Ukraine". Deutsche Welle. Archived from the
+--
+   148. ^ Miller, Michael Weiss (26 January 2015). "Putin Is Winning the
+       Ukraine War on Three Fronts". The Daily Beast. Retrieved 11 April
+       2015.
+   149. ^ Lacqua, Francine (21 January 2015). "Ukraine Talks Start as
+       Poroshenko Warns of an Escalation". Bloomberg News. Retrieved 11
+       April 2015.
+--
+   156. ^ Whitmore, Brian (26 July 2016). "The Daily Vertical: Ukraine's
+       Forgotten War (Transcript)". Radio Free Europe/Radio Liberty.
+       Retrieved 9 September 2016.
 --
    167. ^ "Head of Sverdlovsk special forces veterans union: 'I help to
        send volunteers to war in Ukraine'". Kyiv Post. 26 December 2014.
@@ -382,6 +525,14 @@
        Ukraine's war-weary east, intensifying shelling and battered homes
        signal attempts at provocation by Russia". Washington Post.
 --
+       2022. Retrieved 23 February 2022.
+   221. ^ Smith, Alexander (18 February 2022). "Warning siren sounds in
+       rebel-held capital in east Ukraine -Reuters witness". MSN News.
+--
+   224. ^ ^a ^b Gilbert, David (21 February 2022). "Russia's 'Idiotic'
+       Disinformation Campaign Could Still Lead to War in Ukraine". Vice
+       Media. Archived from the original on 21 February 2022. Retrieved 22
+--
        (25 February 2022). "Fact check: Do Vladimir Putin's justifications
        for going to war against Ukraine add up?". Deutsche Welle.
        Retrieved 7 March 2022.
@@ -390,6 +541,8 @@
    254. ^ Sommerville, Quentin (11 May 2022). "Ukraine war: Russia pushed
        back from Kharkiv – report from front line". BBC. Archived from the
 --
+   258. ^ "IntelBrief: China Seeks to Balance Its Interests as Russia's
+       War on Ukraine Intensifies". The Soufan Center. 4 March 2022.
        Retrieved 29 March 2022. "Over a week into the Russian invasion of
        Ukraine, the war has raged on, spurring the most serious
        humanitarian crisis in Europe since the wars in the Balkans in the
@@ -404,6 +557,10 @@
    263. ^ "Ukraine war latest: Putin declares four areas of Ukraine as
        Russian". BBC News.
 --
+   267. ^ Scheffer, David J. (17 March 2022). "Can Russia Be Held
+       Accountable for War Crimes in Ukraine?". Council on Foreign
+       Relations. Retrieved 18 March 2022. "Russia's invasion of Ukraine
+--
    277. ^ "Ukraine 2021". Amnesty International. Retrieved 1 April 2022.
    278. ^ "Chernihiv: Are these Russia's weapons of war?". BBC News. 9
        April 2022. Retrieved 3 May 2022.
@@ -412,13 +569,18 @@
        war crimes have been committed in Ukraine". The New York Times.
        Archived from the original on 24 September 2022.
 --
+       2022. Retrieved 1 April 2022.
+   289. ^ "War in Ukraine: Street in Bucha found strewn with dead bodies".
        BBC News. 2 April 2022. Retrieved 3 April 2022.
    290. ^ "UN-backed inquiry accuses Russia of war crimes in Ukraine". AP
        News. 16 March 2023. Retrieved 13 April 2023.
+   291. ^ "War crimes, indiscriminate attacks on infrastructure,
+       systematic and widespread torture show disregard for civilians,
 --
        2023.
    293. ^ Altman, Howard (22 September 2023). "Exclusive Interview With
        Ukraine's Spy Boss From His D.C. Hotel Room". The War Zone.
+       Retrieved 24 September 2023. "TWZ: (...) Were you guys involved
 --
    296. ^ "Russia's gas fight with Ukraine". BBC News. 31 October 2014.
    297. ^ "Russia, Ukraine escalate 'gas war' as Europe draws 'map of
@@ -426,9 +588,25 @@
    298. ^ Gent, Stephen E. (2021). Market power politics : war,
        institutions, and strategic delays in world politics. New York, NY:
 --
+       pipeline move". Axios. 6 June 2021.
+   312. ^ Woodruff, Betsy Swan; Ward, Alexander; Desiderio, Andrew (20
+       July 2021). "U.S. urges Ukraine to stay quiet on Russian pipeline".
+--
+       Ukrainian). Retrieved 7 April 2021.
+   327. ^ "Ukraine War: Russia Is Running an Orwellian Propaganda
+       Campaign". Haaretz. 27 February 2022.
+--
        Retrieved 19 February 2022.
    332. ^ Williams, Carol J. (18 June 2014). "U.N. warns pro-Russia
        separatists leading Ukrainians down 'dead end'". Los Angeles Times.
+--
+   336. ^ ^a ^b Fisher, Max (19 February 2022). "Putin's Baseless Claims
+       of Genocide Hint at More Than War". The New York Times. Retrieved
+       19 February 2022.
+--
+       March 2022.
+   338. ^ "Use Only Official Sources About Ukraine War, Russian Media
+       Watchdog Tells Journalists". The Moscow Times. 24 February 2022.
 --
        February 2022.
    339. ^ "Do not call Ukraine invasion a 'war', Russia tells media,
@@ -440,6 +618,8 @@
    342. ^ "Channelling Goebbels: The obscenity of Russian state TV news,
        as it conceals war crimes for Putin". inews.co.uk. 6 April 2022.
    343. ^ "Navalny Calls for Sanctions Against Russian State Media
+       'Warmongers'". The Moscow Times. 6 March 2022.
+   344. ^ "Attacking Ukraine, Putin calls for 'denazification' of country
 --
    346. ^ Antonova, Natalia (1 June 2022). "The 'Death Cult' Keeping
        Russia in Ukraine". The Bulwark.
@@ -479,9 +659,14 @@
    394. ^ "Russians in the dark about true state of war amid country's
        Orwellian media coverage". CNN. 3 April 2022.
 --
+   396. ^ Yaffa, Joshua (29 March 2022). "Why Do So Many Russians Say They
+       Support the War in Ukraine?". The New Yorker.
+   397. ^ "Russian Public Accepts Putin's Spin on Ukraine Conflict".
        Chicago Council on Global Affairs. 12 April 2022.
    398. ^ Isajiw C. (April 6, 2023). "Anti-war Russians struggle to be
        heard" Atlantic Council.org. Accessed 12 April 2023.
+   399. ^ "War in Ukraine: U.S. dramatically upgrades its aid package to
+       Kyiv". Le Monde. 29 April 2022.
 --
        Retrieved 14 November 2022.
    409. ^ "Ukraine war: What support is China giving Russia?". BBC News. 4
@@ -489,13 +674,38 @@
    410. ^ Kerr, Simeon; Foy, Henry; Politi, James; Fleming, Sam; Schwartz,
        Felicia (1 March 2023). "West presses UAE to clamp down on
 --
+       use of military power in Ukraine". In Black, J.L.; Johns, Michael
+       (eds.). The Return of the Cold War: Ukraine, the West and Russia.
+       London. pp. 99–129. doi:10.4324/9781315684567-5.
+--
+   Press. ISBN 978-0-231-51217-6.
+     Marples, David R. ed. The War in Ukraine's Donbas: Origins, Contexts,
+   and the Future (2022) excerpt
+External links
+   Wikimedia Commons has media related to Russo-Ukrainian War
+     * Russia-Ukraine War at the Encyclopædia Britannica
+     * International armed conflict in Ukraine at the Rule of Law in Armed
+--
+     * Conflict in Ukraine at the Council on Foreign Relations
+     * Russo-Ukrainian War at Google News
      * War in Ukraine at BBC News Online
      * Ukraine interactive map at the Live Universal Awareness Map
      * v
 --
+     * e
+   Russo-Ukrainian War
+   Background
+--
+     * 2014 Odesa clashes
+     * War in Donbas (2014–2022)
+          + timeline
+--
      * ATO
      * International reactions to the war in Donbas
      * Casualties of the Russo-Ukrainian War
+          + journalists killed
+     * Foreign fighters in the Russo-Ukrainian War
+     * 2014 Crimean status referendum
 --
      * Russian spies
      * ICC arrest warrant for Vladimir Putin
@@ -512,6 +722,16 @@
      * 2014 anti-war protests in Russia
      * Ruscism
 --
+     * Control of cities
+     * Aircraft losses during the Russo-Ukrainian War
+     * Ship losses during the Russo-Ukrainian War
+     * Moldova and the Russo-Ukrainian War
+     * Forced transfer of Ukrainian children to Russia
+--
+   Russian invasion of Ukraine
+   Part of the Russo-Ukrainian War
+   Overview
+--
           + (September 2023 – present)
      * Aerial warfare
      * Defense lines
@@ -519,6 +739,10 @@
      * Information war
      * Naval warfare
      * Legality
+--
+          + reactions
+     * War in Donbas
+          + 2022 timeline
 --
           + enlargement of NATO
           + eastward expansion controversy in Russia
@@ -531,6 +755,14 @@
      * Rail war in Belarus
           + Busly liaciać
 --
+     * Coup d'état attempt in Ukraine
+     * Bridges in the Russo-Ukrainian War
+     * Missile explosion in Poland
+--
+     * Wagner Group rebellion
+   War crimes
+   General
+--
      * Sexual violence
      * Mistreatment of prisoners of war
    Attacks on
@@ -542,25 +774,175 @@
           + Arrest warrants
      * ICJ court case
 --
+     * Brave1
+     * Coordination Headquarters for the Treatment of Prisoners of War
+     * Delta
+--
+          + Turan Battalion
+     * International Sponsors of War
+     * Forced confiscation law of Russian property [ru; uk]
+--
+     * Media Center Ukraine
+     * National Council for the Recovery of Ukraine from the War [uk]
+     * National Multi-Subject Test [uk]
+--
      * Wagner Group–Ministry of Defense conflict
-     * Russian Orthodox clergymen appeal against war [ru]
+     * Russian Orthodox clergymen appeal against war
      * Salvation Committee for Peace and Order
+--
+     * "What Russia Should Do with Ukraine"
+     * War censorship laws
+     * We Are Together. Sports
+   United States
+     * 2022 Joe Biden speech in Warsaw
+     * 2022 State of the Union Address
+--
+               o Club of Angry Patriots
+          + Anti-War Committee
+          + Suspicious deaths of Russian businesspeople
+--
+          + Council of Mothers and Wives
+          + Feminist Anti-War Resistance
+          + Flower protests
 --
      * Open-source intelligence
      * peacenotwar
      * Russian Asset Tracker
 --
+     Spies
+     * Diplomatic expulsions during the Russo-Ukrainian War
+     * Russian spies in the Russo-Ukrainian War
+   Other
+--
+     * Ruslan Shostak Charitable Foundation
+     * Russia's War Crimes House
+     * Saving Ukrainian Cultural Heritage Online
+--
+     * Education
+     * End of the Whisky War
+     * Environmental impact
+--
      * "Russia is here forever [ru; uk]"
      * "Russian warship, go fuck yourself"
      * "Slava Ukraini!"
+--
+     * Babylon'13
+     * Back to the Cold War
+     * Borodianka cat [uk]
+--
+     * Foreign leaders that have visited during the invasion
+     * Institute for the Study of War
+     * Irkutsk military aircraft crash
+--
+          + Timeline
+     * War in Donbas (2014–2022)
+          + Timeline
+--
+   Annexation of Crimea by the Russian Federation
+   Part of the Russo-Ukrainian War
+   Main topics
 --
           + List of companies that applied sanctions
      * 2014 anti-war protests in Russia
      * Reaction of Russian intelligentsia
 --
+     * e
+   War in Donbas (2014–2022)
+     * Part of the Russo-Ukrainian War
+     * Followed by the Russian invasion of Ukraine
+--
+     * Genoese Crimea
+     * Genoese–Mongol Wars
+     * Crimean campaigns of 1687 and 1689
+--
+     * 1783 annexation by Russia
+     * Crimean War
+     * Soviet period
+          + Crimea in World War II
+          + 1944 Crimean Tatar deportation
+--
+     * Galicia
+     * Revolution and War of Independence
+          + Ukrainian People's Republic
+--
+     * Holodomor
+     * Eastern Front (World War II)
+     * Volhynia massacre
+--
+          + Revolution of Dignity
+     * Russo-Ukrainian War
+          + Outline
+--
+          + Annexation of Crimea by Russia
+          + War in Donbas
+          + 2022 Russian invasion
+--
+     * 2013–14 Euromaidan / Revolution of Dignity
+     * Russo-Ukrainian War
+          + Outline
+--
+          + 2014 pro-Russian unrest
+          + War in Donbas (2014–2022)
+          + 2022 Russian invasion
+--
+     * e
+   Post–Cold War conflicts in Europe
+   Eastern Europe
+--
+     * Transnistria conflict (1990–present)
+          + Transnistria War (1990–1992)
+     * Georgian Civil War (1991–1993)
+     * South Ossetia War (1991–92)
+     * War in Abkhazia (1992–1993)
+     * East Prigorodny conflict (1992)
+     * Russian constitutional crisis (1993)
+     * First Chechen War (1994–1996)
+     * War in Abkhazia (1998)
+     * Second Chechen War (1999–2009)
+     * Tuzla Island conflict (2003)
+     * Russo-Georgian War (2008)
+     * Maidan Uprising (2013)
+     * Revolution of Dignity (2014)
+     * Russo-Ukrainian War (2014–present)
+          + Russian annexation of Crimea (2014)
+          + War in Donbas
+          + Russian invasion of Ukraine
+--
+   Southern Europe
+     * Slovenian War of Independence (1991)
+     * Croatian War of Independence (1991–1995)
+     * Bosnian War (1992–1995)
+          + Croat–Bosniak War (1992–1994)
+     * Albanian Civil War (1997)
+     * Kosovo War (1998–1999)
+     * Insurgency in the Preševo Valley (1999–2001)
+--
      * List of ongoing armed conflicts
      * List of proxy wars
      * List of frozen conflicts
+     * War on terror
+     * War on drugs
+     * v
+--
+     * Anglophone Crisis
+     * Cabinda War
+     * Central African Republic Civil War
+     * Insurgency in Northern Chad
+--
+          + Oromo conflict
+          + War in Amhara
+     * Ethnic violence in South Sudan
+     * Insurgency in Mozambique
+     * Somali Civil War
+          + Operation Atalanta
+--
+          + Ethnic violence in South Sudan
+     * War in Darfur
+     * Western Sahara conflict
+--
+     * Insurgency in Southeastern Nigeria
+     * Mali War
+          + Internal conflict in Azawad
 --
      * Jamaican political conflict
      * Mexican drug war
@@ -585,14 +967,21 @@
      * Syrian civil war
           + Daraa insurgency
 --
+     * Islamic State insurgency in the North Caucasus
+     * Russo-Ukrainian War
+          + Russian invasion of Ukraine
+--
    Related
      * Early modern warfare
      * Military history of Russia
 --
+   Lists by opponent
+     * Rus'–Byzantine Wars
+     * Muscovite–Lithuanian Wars
      * Russo-Crimean Wars
      * Soviet-Finnish wars
      * Russo-Kazan Wars
---
+     * Russo-Persian Wars
      * Russo-Polish Wars
      * Russo-Swedish wars
      * Russo-Turkish wars
@@ -602,14 +991,151 @@
           + List of wars involving the Soviet Union
      * List of battles involving the Russian Federation
 --
+     * Decembrist revolt
+     * Russian Civil War
+     * August Uprising
+--
+     * 1993 Russian constitutional crisis
+     * First Chechen War
+     * War of Dagestan
+     * Second Chechen War
+     * Insurgency in the North Caucasus
+--
+   Russia
+     * Russo-Crimean Wars
+     * Russo-Kazan Wars
+     * Russo-Swedish War (1554–1557)
+     * Livonian War
+     * Russian Conquest of Siberia (1580–1747)
+     * Russo-Turkish War (1568–1570)
+     * Russo-Swedish War (1590–1595)
+     * Polish–Muscovite War (1605–1618) and the Time of Troubles
+     * Ingrian War
+     * Smolensk War
+     * Russo-Persian War (1651–1653)
+     * Sino-Russian border conflicts (1652–1689)
+     * Russo-Polish War (1654–1667)
+     * Deluge
+     * Second Northern War
+     * Russo-Turkish War (1676–1681)
+     * Russo-Turkish War (1686–1700)
+   18th–19th
+   century
+     * Great Northern War
+     * Russo-Turkish War (1710–1711)
+     * Russo-Persian War (1722–1723)
+     * War of the Polish Succession (1733–1738)
+     * Austro-Russian–Turkish War (1735–1739)
+     * War of the Austrian Succession (1740–1748)
+     * Russo-Swedish War (1741–1743)
+     * Seven Years' War
+     * Russo-Turkish War (1768–1774)
+     * Bar Confederation
+     * Russo-Turkish War (1787–1792)
+     * Russo-Swedish War (1788–1790)
+     * Russo-Polish War (1792)
+     * Russian colonization of North America
+     * Kościuszko Uprising
+     * Russo-Persian War (1796)
+     * War of the Second Coalition
+     * War of the Third Coalition
+     * Russo-Persian War (1804–1813)
+     * War of the Fourth Coalition
+     * Russo-Turkish War (1806–1812)
+     * Anglo-Russian War
+     * Finnish War
+     * War of the Fifth Coalition
+     * French invasion of Russia
+     * War of the Sixth Coalition
+     * War of the Seventh Coalition
+     * Russian conquest of the Caucasus
+     * Caucasian War
+          + Russo-Circassian War
+          + Murid War
+     * Russo-Persian War (1826–1828)
+     * Russo-Turkish War (1828–1829)
+     * November Uprising
+     * Hungarian Revolution of 1848
+     * Crimean War
+          + Åland War
+     * Amur Annexation
+--
+          + Khivan campaign of 1873
+     * Russo-Turkish War (1877–1878)
+     * Boxer Rebellion
+--
+   century
+     * Russo-Japanese War
+     * Russian occupation of Tabriz
+     * World War I
+     * Russian Civil War
+          + Ukrainian–Soviet War
+               o 1919 Soviet invasion of Ukraine
+          + Kazakhstan Campaign
+          + Finnish Civil War
+          + Sochi conflict
           + Heimosodat
           + Soviet westward offensive of 1918–1919
                o Estonian War of Independence
+               o Latvian War of Independence
+               o Lithuanian–Soviet War
+          + Georgian–Ossetian conflict (1918–1920)
+          + Polish–Soviet War
+          + Red Army invasion of Azerbaijan
 --
+     * Soviet invasion of Xinjiang
+     * Xinjiang War (1937)
+     * World War II
+          + Soviet invasion of Poland
+          + Winter War
+          + Soviet occupation of the Baltic states (1940)
+--
+          + Soviet occupation of Bessarabia and Northern Bukovina
+          + Continuation War
+          + Eastern Front (World War II)
+          + Soviet re-occupation of the Baltic states (1944)
+--
+          + Anglo-Soviet invasion of Iran
           + Soviet–Japanese War
      * Guerrilla war in the Baltic states
      * Guerilla war in Ukraine
      * Anti-communist resistance in Poland (1944–1953)
+     * Ili Rebellion
+     * First Indochina War
+     * Korean War
+     * East German uprising of 1953
+     * Hungarian Revolution of 1956
+     * Vietnam War
+     * Vlora incident
+     * Warsaw Pact invasion of Czechoslovakia
+     * Sino-Soviet border conflict
+     * War of Attrition
+     * Eritrean War of Independence
+     * Angolan Civil War
+     * Ogaden War
+     * South African Border War
+     * Soviet–Afghan War
+     * Gulf War
+     * Soviet OMON assaults on Lithuanian border posts
+     * First Nagorno-Karabakh War
+     * Transnistria War
+     * Georgian Civil War
+     * Tajikistani Civil War
+     * First Chechen War
+     * War of Dagestan
+   21st
+   century
+     * Second Chechen War
+     * Russo-Georgian War
+     * Russo-Ukrainian War
+          + Outline
+          + Annexation of Crimea
+          + War in Donbas (2014–2022)
+          + 2022 invasion
+--
+     * Russian Revolution
+     * Cold War
+     * Sphere of influence
 --
           + 2021 election protests
           + 2022 anti-war protests in Russia
@@ -621,15 +1147,50 @@
      * 2008 Russo-Georgian war
      * North Korea summits
 --
+     * Strategic Offensive Reductions Treaty
+     * Russo-Ukrainian War
+          + 2014 annexation of Crimea
+          + War in Donbas (2014–2022)
+          + Prelude to the Russian invasion of Ukraine
+--
           + 2023 Xi Jinping visit to Russia
      * Syrian civil war
           + military intervention
+--
+          + Putin. Corruption
+          + Putin. War
+          + Putinland
+--
+     * 17 December 2013 Russian–Ukrainian action plan
+   Russo-Ukrainian War
+     * Outline
+--
+          + Russian-occupied territories
+     * War in Donbas (2014–2022)
+     * Putin. War
+     * Trilateral Contact Group on Ukraine
 --
      * Russian embargo of Ukrainian goods
      * Russian information war against Ukraine
           + Russian–Ukrainian cyberwarfare
           + Ukraine v. Russian Federation (2022)
 --
+          + Luhansk People's Republic–Russia relations
+     * Wars between Russia and Ukraine
+   Category:Russia–Ukraine relations
+--
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Russo-Ukrainian_War&oldid=1
+   187593402"
+   Categories:
+     * Russo-Ukrainian War
+     * 2010s conflicts
+--
+     * Invasions of Ukraine
+     * Wars involving Chechnya
+     * Wars involving Russia
+     * Wars involving Ukraine
+     * Conflicts in territory of the former Soviet Union
      * Russia–Ukraine military relations
      * Russian–Ukrainian wars
      * Russian irredentism

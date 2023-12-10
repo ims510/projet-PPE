@@ -13,22 +13,35 @@
      * (BUTTON) The control of war
           + Diplomacy
 --
+   Images & Videos
    Korean War atomic bombing of Hiroshima
    Weird war facts in history
    Battle of Waterloo Cloth Hall; Battle of Ypres M65 atomic cannon Carl
 --
-   [default3.png?v=3.107.10]
+   [default3.png?v=3.109.1]
    war summary
    Quizzes
+--
+   the Crusades. (Unknown location.)
+   World Wars
+   Union Soldiers. Bottom half of the memorial honoring American Civil War
+   General and U.S. President Ulysses S. Grant at the base of Capitol
+   Hill, Washington, DC. Photo: 2010 Memorial Day
+   History of Warfare
+   A soldier standing guard in a Washington, D.C. street with the ruins of
 --
    operate and maintain M1A1 Abrams Main Battle Tanks at Besmaya Combat
    Training Center, Baghdad, Iraq, 2011. Military training. Iraq war. U.S.
    Army
+   8 Deadliest Wars of the 21st Century
+   Battle of the Alamo from "Texas: An Epitome of Texas History from the
 --
-   11 Fascinating Nile River Plants and Animals
-   Common, or southern, cassowary (Casuarius casuarius).
-   8 Birds That Can’t Fly
+   Texas history.
+   6 Wars of Independence
+   Discover
 --
+   (BUTTON)
+   Home World History Wars, Battles & Armed Conflicts
    History & Society
 war
    (BUTTON) Actions
@@ -36,6 +49,16 @@ war
    URL
    https://www.britannica.com/topic/war
    (BUTTON) Give Feedback
+--
+   External Websites
+     * World History Encyclopedia - Warfare
+     * Internet Encyclopedia of Philosophy - The Philosophy of War
+     * McClintock and Strong Biblical Cyclopedia - War
+     * History World - History of Warfare - Land
+     * Stanford Encyclopedia of Philosophy - War
+     * Social Sci LibreTexts - War
+     * World History Encyclopedia - War in Ancient Times
+   Britannica Websites
 --
    students.
      * war - Children's Encyclopedia (Ages 8-11)
@@ -46,16 +69,43 @@ war
    https://www.britannica.com/topic/war
    (BUTTON) Feedback (BUTTON)
 --
+   External Websites
+     * World History Encyclopedia - Warfare
+     * Internet Encyclopedia of Philosophy - The Philosophy of War
+     * McClintock and Strong Biblical Cyclopedia - War
+     * History World - History of Warfare - Land
+     * Stanford Encyclopedia of Philosophy - War
+     * Social Sci LibreTexts - War
+     * World History Encyclopedia - War in Ancient Times
+   Britannica Websites
+--
    students.
      * war - Children's Encyclopedia (Ages 8-11)
      * warfare - Student Encyclopedia (Ages 11 and up)
    Also known as: warfare
    Written by
 --
+   (BUTTON) Table of Contents
+   Korean War (BUTTON)
+   Korean War
+   (BUTTON) (BUTTON)
+--
           strategy
           law of war
           guerrilla warfare
    (BUTTON) (Show more)
+--
+   Dec. 1, 2023, 8:24 AM ET (New York Times)
+   A Tense Climate Summit Begins Against a Backdrop of War ...
+   Nov. 24, 2023, 5:42 AM ET (Yahoo News)
+--
+   Nov. 23, 2023, 7:23 AM ET (Daily Star)
+   War rages on in Gaza as truce delayed till today
+   Nov. 22, 2023, 12:36 AM ET (Yahoo News)
+--
+   Nov. 18, 2023, 4:32 AM ET (The Telegraph)
+   Mission accomplished: War veteran paints portraits of all 457 ...
+   (BUTTON)
 --
    Show Less
    war, in the popular sense, a conflict between political groups
@@ -72,7 +122,7 @@ war
    immediately killing more than 70,000 people. (BUTTON) (more)
    In all ages war has been an important topic of analysis. In the latter
    part of the 20th century, in the aftermath of two World Wars and in the
---
+   shadow of nuclear, biological, and chemical holocaust, more was written
    on the subject than ever before. Endeavours to understand the nature of
    war, to formulate some theory of its causes, conduct, and prevention,
    are of great importance, for theory shapes human expectations and
@@ -110,6 +160,13 @@ Evolution of theories of war
    conscription. In the relative order of post-Napoleonic Europe, the
    mainstream of theory returned to the idea of war as a rational, limited
    instrument of national policy. This approach was best articulated by
+   the Prussian military theorist Carl von Clausewitz in his famous
+   classic On War (1832–37).
+   A soldier standing guard in a Washington, D.C. street with the ruins of
+--
+   Belgium, September 29, 1918. (BUTTON) (more)
+   World War I, which was “total” in character because it resulted in the
+   mobilization of entire populations and economies for a prolonged period
 --
    conflict, and it led to a renewal of other theories. These no longer
    regarded war as a rational instrument of state policy. The theorists
@@ -124,13 +181,17 @@ Evolution of theories of war
    Some theoreticians have gone even further, denying war any rational
    character whatsoever. To them war is a calamity and a social disaster,
    whether it is afflicted by one nation upon another or conceived of as
---
+   afflicting humanity as a whole. The idea is not new—in the aftermath of
+   the Napoleonic Wars it was articulated, for example, by Tolstoy in the
+   concluding chapter of War and Peace (1865–69). In the second half of
+   the 20th century it gained new currency in peace research, a
    contemporary form of theorizing that combines analysis of the origins
    of warfare with a strong normative element aiming at its prevention.
    Peace research concentrates on two areas: the analysis of the
    international system and the empirical study of the phenomenon of war.
-   [ThistleCroppedWhiteonBlue.png]
+   Get a Britannica Premium subscription and gain access to exclusive
 --
+   Upshot-Knothole at the Nevada Test Site, May 25, 1953. (BUTTON) (more)
    World War II and the subsequent evolution of weapons of mass
    destruction made the task of understanding the nature of war even more
    urgent. On the one hand, war had become an intractable social
@@ -138,7 +199,7 @@ Evolution of theories of war
    precondition for the survival of mankind. On the other hand, the use of
    war as an instrument of policy was calculated in an unprecedented
    manner by the nuclear superpowers, the United States and the Soviet
---
+   Union. War also remained a stark but rational instrumentality in
    certain more limited conflicts, such as those between Israel and the
    Arab nations. Thinking about war, consequently, became increasingly
    more differentiated because it had to answer questions related to very

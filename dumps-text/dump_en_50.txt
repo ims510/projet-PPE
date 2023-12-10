@@ -86,13 +86,12 @@
    PRO
      * Pro News
      * Pro Live
-     * Stock ScreenerNEW!
+     * Stock Screener
      * Market Forecast
      * Options Investing
      * Subscribe
      * Sign In
 
-   NEW!
    (BUTTON) Menu
      * Make It
      * (BUTTON) select
@@ -225,14 +224,14 @@
    Watchlist
    Investing Club
    PRO
-   NEW!
    (BUTTON) Menu
 
    World Politics
 
 International Red Cross concludes release of 17 Gaza-held hostages
 
-   Published Sat, Nov 25 20237:23 AM ESTUpdated 31 Min Ago
+   Published Sat, Nov 25 20237:23 AM ESTUpdated Sat, Nov 25 20235:53 PM
+   EST
    WATCH LIVE
    International Red Cross vehicles, carrying Israeli prisoners released
    from Gaza, are on their way to Rafah crossing under the 4 day deal in
@@ -380,6 +379,7 @@ Dancing for joy
    Sawsan Bkeer. "We are still afraid to feel happy," she said.
    logo
      * Subscribe to CNBC PRO
+     * Subscribe to Investing Club
      * Licensing & Reprints
      * CNBC Councils
      * Supply Chain Values

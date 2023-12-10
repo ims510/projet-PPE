@@ -6,6 +6,10 @@
           + Ukraine war
           + Coronavirus
 --
+     * Live tracker
+     * Has the war divided the world?
+     * A simple guide
+--
    [AP Photo/Bernat Armangue]
    As Israel continues its war on Gaza, which is causing loss of life and
    displacement at a scale that has led to it being labeled a “genocide”
@@ -13,6 +17,10 @@
    strategy for reunifying the Palestinian people. Such a strategy must
    not only thwart Israel’s well-defined and openly discussed plan to
    ethnically cleanse Gaza and detach it from the Palestinian homeland,
+--
+   list 3 of 4
+Sirens blare in Spanish civil war town of Guernica in solidarity with Gaza
+   list 4 of 4
 --
    As a Palestinian from Gaza, I believe at this point in the conflict,
    opportunities are ripe for putting an end to the ongoing war in Gaza,

@@ -55,7 +55,45 @@
      * (BUTTON) Countries & Areas
           + (BUTTON) Back
           + Countries & Areas
-            Search for country or area [A_______________________________]
+            Search for country or area
+            Select an Option
+            Search for country or area ____________________
+            AAfghanistanAlbaniaAlgeriaAndorraAngolaAntigua and
+            BarbudaArgentinaArmeniaAustraliaAustriaAzerbaijanBBahamas,
+            TheBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBhutanBol
+            iviaBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina
+            FasoBurmaBurundiCCabo VerdeCambodiaCameroonCanadaCentral
+            African RepublicChadChileChinaColombiaComorosCook IslandsCosta
+            RicaCroatiaCubaCyprusCzechiaCôte d’IvoireDDemocratic Republic
+            of the CongoDenmarkDjiboutiDominicaDominican
+            RepublicEEcuadorEgyptEl SalvadorEquatorial
+            GuineaEritreaEstoniaEswatiniEthiopiaFFijiFinlandFranceGGabonGa
+            mbia,
+            TheGeorgiaGermanyGhanaGreeceGrenadaGuatemalaGuineaGuinea-Bissa
+            uGuyanaHHaitiHoly
+            SeeHondurasHungaryIIcelandIndiaIndonesiaIranIraqIrelandIsraelI
+            talyJJamaicaJapanJordanKKazakhstanKenyaKiribatiKosovoKuwaitKyr
+            gyzstanLLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithu
+            aniaLuxembourgMMadagascarMalawiMalaysiaMaldivesMaliMaltaMarsha
+            ll
+            IslandsMauritaniaMauritiusMexicoMicronesiaMoldovaMonacoMongoli
+            aMontenegroMoroccoMozambiqueNNamibiaNauruNepalNetherlandsNew
+            ZealandNicaraguaNigerNigeriaNiueNorth KoreaNorth
+            MacedoniaNorwayOOmanPPakistanPalauPalestinian
+            TerritoriesPanamaPapua New
+            GuineaParaguayPeruPhilippinesPolandPortugalQQatarRRepublic of
+            the CongoRomaniaRussiaRwandaSSaint Kitts and NevisSaint
+            LuciaSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome
+            and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra
+            LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth
+            AfricaSouth KoreaSouth SudanSpainSri
+            LankaSudanSurinameSwedenSwitzerlandSyriaTTaiwanTajikistanTanza
+            niaThailandTimor-LesteTogoTongaTrinidad and
+            TobagoTunisiaTurkey
+            (Türkiye)TurkmenistanTuvaluUUgandaUkraineUnited Arab
+            EmiratesUnited
+            KingdomUruguayUzbekistanVVanuatuVenezuelaVietnamYYemenZZambiaZ
+            imbabwe
      * (BUTTON) Bureaus & Offices
           + (BUTTON) Back
           + Bureaus & Offices
@@ -217,6 +255,11 @@
             Country Offices Directory
             Key Officers of Foreign Service Posts
             Diplomats in Residence
+
+   Search: ____________________
+   (BUTTON) Search
+
+   (BUTTON) Close
 
    HomeOffice of the SpokespersonPress Releases...Russia’s Strategic
    Failure and Ukraine’s Secure Future
@@ -917,11 +960,6 @@ Russia’s Strategic Failure and Ukraine’s Secure Future
      * Copyright Information
      * FOIA
      * No FEAR Act
-
-   Search: ____________________
-   (BUTTON) Search
-
-   (BUTTON) Close
 
 U.S. Department of State
 

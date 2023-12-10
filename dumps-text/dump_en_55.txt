@@ -19,13 +19,7 @@
    script=document.createElement("script");
    script.src=`https://stag-core.tfla.xyz/pre_onetag?pub_id=34&domain=${do
    main}&rand=${rand}&min_ugl=0${params_totm}`;
-   document.head.append(script); window.googletag = window.googletag ||
-   {cmd: []}; googletag.cmd.push(function() { var slot =
-   googletag.defineOutOfPageSlot( '/6943/Desktop_Interstitial',
-   googletag.enums.OutOfPageFormat.INTERSTITIAL); if (slot)
-   slot.addService(googletag.pubads()); googletag.enableServices(); //
-   NOTE! Consider delaying until first div on page
-   googletag.display(slot); });
+   document.head.append(script);
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-T4BJGTM
 
@@ -230,35 +224,33 @@ close ties with Iran and Syria and has backed Hamas and Hezbollah.
 
    Jpost editorial logo
 
-  What is up with Ireland? - editorial
+  Gaza war reveal sacrifices only Israel ever makes - editorial
 
    By JPOST EDITORIAL
 
-   Amotz Asa-El
+   Andrea Samuels
 
-  Israel-Hamas war: Israel's finance minister can't handle a wartime economy -
-  opinion
+  Why don't women's orgs call to free Israeli women held hostage in Gaza?
 
-   By AMOTZ ASA-EL
+   By ANDREA SAMUELS
 
-   JJ Sussman
+   Yuval Cherlow
 
-  When this is all over, we must find new ways to stay unified - opinion
+  Fertility ethics in wartime - opinion
 
-   By JJ SUSSMAN
+   By YUVAL CHERLOW
 
    Zalman Shoval
 
-  Israel-Hamas war: Global perspectives on the Gaza operation - opinion
+  What happens after the Gaza war? - opinion
 
    By ZALMAN SHOVAL
 
-   Uri Pilichowski
+   Josh Hasten
 
-  Israel-Hamas war: Palestinians who attack Jews are unjustifiably evil -
-  opinion
+  In search of 'settler violence' - opinion
 
-   By URI PILICHOWSKI
+   By JOSH HASTEN
 
    Advertisement
 
@@ -268,42 +260,42 @@ close ties with Iran and Syria and has backed Hamas and Hezbollah.
 
    1
 
-   Israel-Hamas war: What happened on day 47?
+   Israel raises threat level against travel to 80 countries due to Gaza
+   war
 
-   Families of Israelis held hostage by Hamas militants in Gaza set a
-   symbolic shabbat table with more than 200 empty seats for the hostages,
-   at "Hostage Square", outside the Art Museum of Tel Aviv, October 20,
-   2023.
+   A map detailing the threat level for traveling Israelis across the
+   globe
 
    2
 
-   Israeli cabinet approves partial Gaza hostage deal in late night vote
+   ‘Israeli female soldiers shot in crotch, vagina, breasts on October 7’
 
-   An artist sprays a graffiti for the release of Israelis held hostage by
-   Hamas terrorists in Gaza, in the Jezreel Valley, on October 30, 2023
+   Blood in houses when Hamas terrorists infiltrated Kibbutz Be'eri, and
+   30 other nearby communities in Southern Israel on October 7, killing
+   more than 1400 people, and taking more than 200 hostages into Gaza,
+   near the Israeli-Gaza border.
 
    3
 
-   Israel accepts clause of Hamas's Sinwar: No drone intel gathering in
-   Gaza
+   Iran seizes two fuel tankers carrying 4.5 million liters of fuel in
+   Persian Gulf
 
-   Hamas Gaza Chief Yahya Al-Sinwar gestures during an anti-Israel rally
-   in Gaza City, May 24, 2021
+   IRGC Naval forces.
 
    4
 
-   Hamas morale suffers as Israel gains ground in Gaza, fleeing from IDF
+   Images circulate of dozens of Hamas terrorists surrendering in Gaza
 
-   Activity of Unit 36 forces in the Zeitoun neighborhood. November 20,
-   2023
+   Israeli soldiers walk past Israeli tanks near Israel's border with the
+   Gaza Strip, in southern Israel October 15, 2023.
 
    5
 
-   Israel-Hamas war: Shin Bet interrogations break open Hamas strategy
+   Red Cross reprimands Israeli hostage families: 'Think about the
+   Palestinians'
 
-   Israeli soldier around the destruction caused by Hamas terrorists in
-   Kibbutz Nir Oz on October 7, 2023, near the Israeli-Gaza border, in
-   southern Israel, October 30, 2023.
+   A Hamas terrorist interacts with members of the International Committee
+   of the Red Cross.
 
    Advertisement
 
@@ -352,6 +344,8 @@ close ties with Iran and Syria and has backed Hamas and Hezbollah.
 
    World News
 
+   Iran News
+
    IvritTalk- Free trial lesson
 
    The Jerusalem Report
@@ -362,15 +356,13 @@ close ties with Iran and Syria and has backed Hamas and Hezbollah.
 
    חדשות מעריב
 
-   לוח חגים ומועדים 2023
-
-   זמני כניסת שבת
-
    Real Estate Listings
 
    Hype
 
    Special Content
+
+   Advisor
 
    Insights
 
@@ -398,6 +390,10 @@ close ties with Iran and Syria and has backed Hamas and Hezbollah.
 
    Law
 
+   לוח חגים ומועדים 2023
+
+   זמני כניסת שבת
+
    Sites Of Interest
 
    Poalim Online
@@ -405,36 +401,6 @@ close ties with Iran and Syria and has backed Hamas and Hezbollah.
    JNF-USA
 
    Who is Hamas
-
-   Advisor
-
-   Home & Kitchen
-
-   Appliances
-
-   Electronics
-
-   Health & Fitness
-
-   Beauty
-
-   Patio Lawn & Garden
-
-   Tools & Home Improvement
-
-   Sports & Outdoors
-
-   Office
-
-   Toys & Games
-
-   Deals
-
-   Gifts
-
-   Gadgets
-
-   Money
 
    The Jerusalem Post Customer Service Center can be contacted with any
    questions or requests:

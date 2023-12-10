@@ -1,6 +1,16 @@
+            (BUTTON)
+               o Israel-Hamas War
+               o Russia-Ukraine War
+               o Latin America
+--
+       (BUTTON)
+          + Israel-Hamas War
+          + Russia-Ukraine War
+          + Latin America
+--
      * Copyright 2023 The Associated Press. All Rights Reserved.
    Israel-Hamas war
-   North Carolina shooting
+   Tennessee tornado
 --
 Susan Sarandon, Melissa Barrera dropped from Hollywood companies after
 comments on Israel-Hamas war

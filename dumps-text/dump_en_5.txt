@@ -71,9 +71,9 @@ Contents
                o 4.4.1War in the Balkans
                o 4.4.2Ottoman Empire
                o 4.4.3Italian Front
-               o 4.4.4Romanian participation
           + 4.5Eastern Front
                o 4.5.1Initial actions
+               o 4.5.2Romanian participation
           + 4.6Central Powers peace overtures
           + 4.7Final years of the war
                o 4.7.1Russian Revolution and withdrawal
@@ -394,7 +394,7 @@ World War I
 
    World War I
    From top to bottom, left to right:
-     * British Cheshire Regiment at the Battle of the Somme, 1916 when
+     * British Cheshire Regiment at the Battle of the Somme, 1916
      * Ottoman Arab camel corps leaving for the Middle Eastern front, 1916
      * SMS Grosser Kurfürst during Operation Albion, 1917
      * German soldiers at the Battle of Verdun, 1916
@@ -456,6 +456,7 @@ World War I
      *  United Kingdom
 
     and its territories:
+     * Sultanate of Egypt
      * Canada Canada
      *  Australia
      *  India
@@ -469,7 +470,6 @@ World War I
      *  Italy (from 1915)
      *  United States
        (from 1917)
-     *  Greece (from 1917)
 
    and others ...
    Central Powers:
@@ -493,7 +493,6 @@ World War I
      * Kingdom of Italy Vittorio Orlando
      * United States Woodrow Wilson
      * Empire of Japan Yoshihito
-     * Kingdom of Greece Eleftherios Venizelos
 
    Main Central leaders:
 
@@ -567,8 +566,8 @@ World War I
      * Atlantic
      * Mediterranean
 
-   World War I (WWI or WW1), also known as the First World War or the
-   Great War in historical contexts, was a global conflict from 1914 to
+   World War I (WWI or WW1), also known as the First World War, or in
+   historical contexts, the Great War, was a global conflict from 1914 to
    1918. It was fought between two coalitions: the Allied Powers and the
    Central Powers. Fighting took place throughout Europe, the Middle East,
    Africa, the Pacific, and parts of Asia. One of the deadliest wars in
@@ -640,46 +639,6 @@ Names
 Background
 
    Main article: Causes of World War I
-
-   Events leading to World War I
-   Sarajevo
-     *
-          + Unification of Germany 1866–1871
-          + Franco-Prussian War 1870–1871
-          + Second Concert of Europe 1871
-          + Great Eastern Crisis 1875–1878
-          + Campaign in Bosnia 1878
-          + Dual Alliance 1879
-          + Boer Wars 1880–1902
-          + Austro–Serbian Alliance 1881–1903
-          + Triple Alliance 1882
-          + Berlin Conference 1884
-          + Bulgarian Crisis 1885–1888
-          + Reinsurance Treaty 1887–1890
-          + Franco-Russian Alliance 1894
-          + First Sino-Japanese War 1894–1895
-          + Fashoda Incident 1898
-          + Anglo-German naval arms race 1898–1912
-          + Tripartite Convention 1899
-          + Anglo-Japanese Alliance 1902
-          + Venezuelan crisis of 1902–1903
-          + Russo-Japanese War 1904–1905
-          + Entente Cordiale 1904
-          + First Moroccan Crisis 1905–1906
-          + Pig War 1906–1908
-          + Anglo-Russian Convention 1907
-          + Young Turk Revolution 1908
-          + Bosnian Crisis 1908–1909
-          + Racconigi Bargain 1909
-          + Second Moroccan Crisis 1911
-          + Italo-Turkish War 1911–1912
-          + Balkan Wars 1912–1913
-          + Assassination of Franz Ferdinand 1914
-          + July Crisis 1914
-
-     * v
-     * t
-     * e
 
   Political and military alliances
 
@@ -855,15 +814,22 @@ Prelude
    now believed by historians to depict an innocent bystander, Ferdinand
    Behr^[29]^[30]
 
-   On 28 June 1914, Archduke Franz Ferdinand of Austria, heir presumptive
-   to Emperor Franz Joseph, visited Sarajevo, capital of the recently
-   annexed provinces of Bosnia and Herzegovina. Six assassins^[k] from the
-   movement known as Young Bosnia, or Mlada Bosna, took up positions along
-   the route taken by the Archduke's motorcade, with the intention of
-   assassinating him. Supplied with arms by extremists within the Serbian
-   Black Hand intelligence organisation, they hoped his death would free
-   Bosnia from Austrian rule, although there was little agreement on what
-   would replace it.^[32]
+   Summer 1914 the sovereigns of Europe were woven together by treaties,
+   alliances, as well as secret agreements. The Triple Alliance (1882)
+   encompassed the German Empire, Austria, and Italy.^[31]
+
+   On 28 June 1914 Archduke Franz Ferdinand of Austria, heir presumptive
+   to Emperor Franz Joseph I of Austria, visited Sarajevo, capital of the
+   recently annexed provinces of Bosnia and Herzegovina. The assassins
+   Cvjetko Popović, Gavrilo Princip, Nedeljko Čabrinović, Trifko Grabež,
+   and Vaso Čubrilović were Bosnian Serbs, while Muhamed Mehmedbašić was
+   from the Bosniaks community^[32] from the movement known as Young
+   Bosnia, or Mlada Bosna, took up positions along the route taken by the
+   Archduke's motorcade, with the intention of assassinating him. Supplied
+   with arms by extremists within the Serbian Black Hand intelligence
+   organisation, they hoped his death would free Bosnia from Austrian
+   rule, although there was little agreement on what would replace
+   it.^[33]
 
    Nedeljko Čabrinović threw a grenade at the Archduke's car and injured
    two of his aides, who were taken to hospital while the convoy carried
@@ -871,20 +837,20 @@ Prelude
    Ferdinand was returning from visiting the injured officers, his car
    took a wrong turn into a street where Gavrilo Princip was standing. He
    stepped forward and fired two pistol shots, fatally wounding Ferdinand
-   and his wife Sophie, who both died shortly thereafter.^[33] Although
+   and his wife Sophie, who both died shortly thereafter.^[34] Although
    Emperor Franz Joseph was shocked by the incident, political and
    personal differences meant the two men were not close; allegedly, his
    first reported comment was "A higher power has re-established the order
-   which I, alas, could not preserve".^[34]
+   which I, alas, could not preserve".^[35]
 
    According to historian Zbyněk Zeman, his reaction was reflected more
    broadly in Vienna, where "the event almost failed to make any
    impression whatsoever. On 28 and 29 June, the crowds listened to music
-   and drank wine, as if nothing had happened."^[35] Nevertheless, the
+   and drank wine, as if nothing had happened."^[36] Nevertheless, the
    impact of the murder of the heir to the throne was significant, and has
    been described by historian Christopher Clark as a "9/11 effect, a
    terrorist event charged with historic meaning, transforming the
-   political chemistry in Vienna".^[36]
+   political chemistry in Vienna".^[37]
 
   Expansion of violence in Bosnia and Herzegovina
 
@@ -894,7 +860,7 @@ Prelude
 
    The Austro-Hungarian authorities encouraged the subsequent anti-Serb
    riots in Sarajevo, in which Bosnian Croats and Bosniaks killed two
-   Bosnian Serbs and damaged numerous Serb-owned buildings.^[37]^[38]
+   Bosnian Serbs and damaged numerous Serb-owned buildings.^[38]^[39]
    Violent actions against ethnic Serbs were also organised outside
    Sarajevo, in other cities in Austro-Hungarian-controlled Bosnia and
    Herzegovina, Croatia and Slovenia. Austro-Hungarian authorities in
@@ -902,7 +868,7 @@ Prelude
    prominent Serbs, 700 to 2,200 of whom died in prison. A further 460
    Serbs were sentenced to death. A predominantly Bosniak special militia
    known as the Schutzkorps was established and carried out the
-   persecution of Serbs.^[39]^[40]^[41]^[42]
+   persecution of Serbs.^[40]^[41]^[42]^[43]
 
   July Crisis
 
@@ -915,35 +881,35 @@ Prelude
    Britain. Believing Serbian intelligence helped organise Franz
    Ferdinand's murder, Austrian officials wanted to use the opportunity to
    end their interference in Bosnia and saw war as the best way of
-   achieving this.^[43] However, the Foreign Ministry had no solid proof
-   of Serbian involvement and a dossier used to make its case was riddled
-   with errors.^[44] On 23 July, Austria delivered an ultimatum to Serbia,
-   listing ten demands made intentionally unacceptable to provide an
-   excuse for starting hostilities.^[45]
+   achieving this.^[44] However, the Foreign Ministry had no solid proof
+   of Serbian involvement and a dossier used to make its case contained
+   multiple errors.^[45] On 23 July, Austria delivered an ultimatum to
+   Serbia, listing ten demands made intentionally unacceptable to provide
+   an excuse for starting hostilities.^[46]
    [310px-Austria_Hungary_ethnic.svg.png] Ethno-linguistic map of
    Austria-Hungary, 1910. Bosnia-Herzegovina was annexed in 1908.
 
    Serbia ordered general mobilisation on 25 July, but accepted all the
    terms, except for those empowering Austrian representatives to suppress
    "subversive elements" inside Serbia, and take part in the investigation
-   and trial of Serbians linked to the assassination.^[46]^[47] Claiming
+   and trial of Serbians linked to the assassination.^[47]^[48] Claiming
    this amounted to rejection, Austria broke off diplomatic relations and
    ordered partial mobilisation the next day; on 28 July, they declared
    war on Serbia and began shelling Belgrade. Having initiated war
    preparations on 25 July, Russia now ordered general mobilisation in
-   support of Serbia on 30th.^[48]
+   support of Serbia on 30th.^[49]
 
    Anxious to ensure backing from the SPD political opposition by
    presenting Russia as the aggressor, German Chancellor Bethmann Hollweg
-   delayed commencement of war preparations until 31 July.^[49] That
+   delayed commencement of war preparations until 31 July.^[50] That
    afternoon the Russian government were handed a note requiring them to
    "cease all war measures against Germany and Austria-Hungary" within 12
-   hours.^[50] A further German demand for neutrality was refused by the
-   French who ordered general mobilisation but delayed declaring war.^[51]
+   hours.^[51] A further German demand for neutrality was refused by the
+   French who ordered general mobilisation but delayed declaring war.^[52]
    The German General Staff had long assumed they faced a war on two
    fronts; the Schlieffen Plan envisaged using 80% of the army to defeat
    France in the west, then switch to Russia. Since this required them to
-   move quickly, mobilisation orders were issued that afternoon.^[52]
+   move quickly, mobilisation orders were issued that afternoon.^[53]
    [220px-The_War_of_the_Nations_WW1_337.jpg] Cheering crowds in London
    and Paris on the day war was declared.
 
@@ -953,21 +919,19 @@ Prelude
    largely driven by Prime Minister Asquith's desire to maintain unity; he
    and his senior Cabinet ministers were already committed to support
    France, the Royal Navy had been mobilised and public opinion was
-   strongly in favour of intervention.^[53] On 31 July, Britain sent notes
+   strongly in favour of intervention.^[54] On 31 July, Britain sent notes
    to Germany and France, asking them to respect Belgian neutrality;
-   France pledged to do so, Germany did not reply.^[54]
+   France pledged to do so, Germany did not reply.^[55]
 
    Once the German ultimatum to Russia expired on the morning of 1 August,
    the two countries were at war. Later the same day, Wilhelm was informed
    by his ambassador in London, Prince Lichnowsky, that Britain would
    remain neutral if France was not attacked, and might not intervene at
-   all given the ongoing Home Rule Crisis in Ireland.^[55] Jubilant at
+   all given the ongoing Home Rule Crisis in Ireland.^[56] Jubilant at
    this news, he ordered General Moltke, the German chief of staff, to
    "march the whole of the ... army to the East". This allegedly brought
-   Moltke to the verge of a nervous breakdown, who protested that "it
-   cannot be done. The deployment of millions cannot be improvised."^[56]
-   Lichnowsky soon realised he was mistaken, although Wilhelm insisted on
-   waiting for a telegram from his cousin George V; once received it
+   Moltke to the verge of a nervous breakdown, before Lichnowsky realised
+   he was mistaken. Once Wilhelm received a telegram from George V, it
    confirmed there had been a misunderstanding, and he told Moltke, "Now
    do what you want."^[57]
 
@@ -1141,7 +1105,7 @@ Progress of the war
    largely because leaders from the Indian National Congress and other
    groups believed support for the British war effort would hasten Indian
    Home Rule, a promise allegedly made explicit in 1917 by Edwin Montagu,
-   then Secretary of State for India.^[82]
+   the Secretary of State for India.^[82]
 
    In 1914, the British Indian Army was larger than the British Army
    itself, and between 1914 and 1918 an estimated 1.3 million Indian
@@ -1227,39 +1191,31 @@ Progress of the war
 
    At the start of the war, German cruisers were scattered across the
    globe, some of which were subsequently used to attack Allied merchant
-   shipping. The British Royal Navy systematically hunted them down,
-   though not without some embarrassment from its inability to protect
-   Allied shipping. For example, the light cruiser SMS Emden, which was
-   part of the German East Asia Squadron stationed at Qingdao, seized or
-   sank 15 merchantmen, as well as a Russian cruiser and a French
-   destroyer. Most of the squadron was returning to Germany when it sank
-   two British armoured cruisers at the Battle of Coronel in November
-   1914, before being virtually destroyed at the Battle of the Falkland
-   Islands in December. The SMS Dresden escaped with a few auxiliaries,
-   but after the Battle of Más a Tierra, these too had either been
-   destroyed or interned.^[95]
+   shipping. These were systematically hunted down by the Royal Navy,
+   although not before causing considerable damage. One of the most
+   successful was the SMS Emden, part of the German East Asia Squadron
+   stationed at Qingdao, which seized or sank 15 merchantmen, as well as a
+   Russian cruiser and a French destroyer. Most of the squadron was
+   returning to Germany when it sank two British armoured cruisers at the
+   Battle of Coronel in November 1914, before being virtually destroyed at
+   the Battle of the Falkland Islands in December. The SMS Dresden escaped
+   with a few auxiliaries, but after the Battle of Más a Tierra, these too
+   were either destroyed or interned.^[95]
 
    Soon after the outbreak of hostilities, Britain began a naval blockade
-   of Germany. The strategy proved effective, cutting off vital military
-   and civilian supplies, although this blockade violated accepted
-   international law codified by several international agreements of the
-   past two centuries.^[96] Britain mined international waters to prevent
-   any ships from entering entire sections of ocean, causing danger to
-   even neutral ships.^[97] Since there was limited response to this
-   tactic of the British, Germany expected a similar response to its
-   unrestricted submarine warfare.^[98]
+   of Germany. This proved effective in cutting off vital military and
+   civilian supplies, although it violated accepted international law
+   codified by several international agreements of the past two
+   centuries.^[96] Britain also mined international waters which closed
+   off entire sections of ocean, even to neutral ships.^[97] Since there
+   was limited response to this tactic of the British, Germany expected a
+   similar response to its unrestricted submarine warfare.^[98]
 
-   The Battle of Jutland (German: Skagerrakschlacht, or "Battle of the
-   Skagerrak") in May/June 1916 developed into the largest naval battle of
-   the war. It was the only full-scale clash of battleships during the
-   war, and one of the largest in history. The Kaiserliche Marine's High
-   Seas Fleet, commanded by Vice Admiral Reinhard Scheer, fought the Royal
-   Navy's Grand Fleet, led by Admiral Sir John Jellicoe. The engagement
-   was a stand off, as the Germans were outmanoeuvred by the larger
-   British fleet, but managed to escape and inflicted more damage to the
-   British fleet than they received. Strategically, however, the British
-   asserted their control of the sea, and the bulk of the German surface
-   fleet remained confined to port for the duration of the war.^[99]
+   The Battle of Jutland ^[k] in May/June 1916 was the only full-scale
+   clash of battleships during the war, and one of the largest in history.
+   The clash was indecisive, although the Germans inflicted more damage
+   than they received, since thereafter the bulk of the German High Seas
+   Fleet was confined to port for the duration of the war.^[99]
    [220px-NationaalArchief_uboat155London.jpg] U-155 exhibited near Tower
    Bridge in London, after the 1918 Armistice
 
@@ -1518,6 +1474,47 @@ Progress of the war
    Austria-Hungary and Italy which occupied Trieste and areas along the
    Adriatic Sea awarded to it in 1915.^[143]
 
+  Eastern Front
+
+   Main article: Eastern Front (World War I)
+
+    Initial actions
+
+   [220px-Mikolaj_II_w_Twierdzy_Przemysl.jpg] Emperor Nicholas II and
+   Grand Duke Nikolaevich following the Russian capture of Przemyśl, the
+   longest siege of the war.
+
+   As previously agreed with France, Russian plans at the start of the war
+   were to simultaneously advance into Austrian Galicia and East Prussia
+   as soon as possible. Although their attack on Galicia was largely
+   successful, and the invasions achieved their aim of forcing Germany to
+   divert troops from the Western Front, the speed of mobilisation meant
+   they did so without much of their heavy equipment and support
+   functions. These weaknesses contributed to Russian defeats at
+   Tannenberg and the Masurian Lakes in August and September 1914, forcing
+   them to withdraw from East Prussia with heavy losses.^[144]^[145] By
+   spring 1915, they had also retreated from Galicia, and the May 1915
+   Gorlice–Tarnów offensive then allowed the Central Powers to invade
+   Russian-occupied Poland.^[146]
+
+   Despite the successful June 1916 Brusilov offensive against the
+   Austrians in eastern Galicia,^[147] shortages of supplies, heavy losses
+   and command failures prevented the Russians from fully exploiting their
+   victory. However, it was one of the most significant and impactful
+   offensives of the war, diverting German resources from Verdun,
+   relieving Austro-Hungarian pressure on the Italians, and convincing
+   Romania to enter the war on the side of the Allies on 27 August. It
+   also fatally weakened both the Austrian and Russian armies, whose
+   offensive capabilities were badly affected by their losses and
+   increased the disillusionment with the war that ultimately led to the
+   Russian revolutions.^[148]
+
+   Meanwhile, unrest grew in Russia as the Tsar remained at the front,
+   with the home front controlled by Empress Alexandra. Her increasingly
+   incompetent rule and food shortages in urban areas led to widespread
+   protests and the murder of her favourite, Grigori Rasputin, at the end
+   of 1916.^[149]
+
     Romanian participation
 
    Main article: Romania in World War I
@@ -1548,78 +1545,37 @@ Progress of the war
    Romania increasingly found itself at odds with the Central Powers over
    their support for Bulgaria in the 1912 to 1913 Balkan Wars and the
    status of ethnic Romanian communities in Hungarian-controlled
-   Transylvania,^[144] which comprised an estimated 2.8 million of the 5.0
-   million population.^[145] With the ruling elite split into pro-German
+   Transylvania,^[150] which comprised an estimated 2.8 million of the 5.0
+   million population.^[151] With the ruling elite split into pro-German
    and pro-Entente factions, Romania remained neutral in 1914, arguing
    like Italy that because Austria-Hungary had declared war on Serbia, it
-   was under no obligation to join them.^[146] They maintained this
+   was under no obligation to join them.^[152] They maintained this
    position for the next two years, while allowing Germany and Austria to
    transport military supplies and advisors across Romanian
-   territory.^[147]
+   territory.^[153]
 
    In September 1914, Russia had acknowledged Romanian rights to
    Austro-Hungarian territories including Transylvania and Banat, whose
-   acquisition had widespread popular support, ^[145] and Russian success
+   acquisition had widespread popular support, ^[151] and Russian success
    against Austria led Romania to join the Entente in the August 1916
-   Treaty of Bucharest.^[147] Under the strategic plan known as Hypothesis
+   Treaty of Bucharest.^[153] Under the strategic plan known as Hypothesis
    Z, the Romanian army planned an offensive into Transylvania, while
    defending Southern Dobruja and Giurgiu against a possible Bulgarian
-   counterattack.^[148] On 27 August 1916, they attacked Transylvania and
+   counterattack.^[154] On 27 August 1916, they attacked Transylvania and
    occupied substantial parts of the province before being driven back by
    the recently formed German 9th Army, led by former Chief of Staff
-   Falkenhayn.^[149] A combined German-Bulgarian-Turkish offensive
+   Falkenhayn.^[155] A combined German-Bulgarian-Turkish offensive
    captured Dobruja and Giurgiu, although the bulk of the Romanian army
    managed to escape encirclement and retreated to Bucharest, which
-   surrendered to the Central Powers on 6 December 1916.^[150]
+   surrendered to the Central Powers on 6 December 1916.^[156]
 
    On 7 May 1918 Romania signed the Treaty of Bucharest with the Central
    Powers, which recognised Romanian sovereignty over Bessarabia in return
    for ceding control of passes in the Carpathian Mountains to
-   Austria-Hungary and granting oil concessions to Germany.^[151] Romania
+   Austria-Hungary and granting oil concessions to Germany.^[157] Romania
    re-entered the war on 10 November 1918 on the side of the Allies and
    the Treaty of Bucharest was formally annulled by the Armistice of 11
-   November 1918.^[152]^[l]
-
-  Eastern Front
-
-   Main article: Eastern Front (World War I)
-
-    Initial actions
-
-   [220px-Mikolaj_II_w_Twierdzy_Przemysl.jpg] Emperor Nicholas II and
-   Grand Duke Nikolaevich following the Russian capture of Przemyśl, the
-   longest siege of the war.
-
-   As previously agreed with France, Russian plans at the start of the war
-   were to simultaneously advance into Austrian Galicia and East Prussia
-   as soon as possible. Although their attack on Galicia was largely
-   successful, and the invasions achieved their aim of forcing Germany to
-   divert troops from the Western Front, the speed of mobilisation meant
-   they did so without much of their heavy equipment and support
-   functions. These weaknesses contributed to Russian defeats at
-   Tannenberg and the Masurian Lakes in August and September 1914, forcing
-   them to withdraw from East Prussia with heavy losses.^[154]^[155] By
-   spring 1915, they had also retreated from Galicia, and the May 1915
-   Gorlice–Tarnów offensive then allowed the Central Powers to invade
-   Russian-occupied Poland.^[156]
-
-   Despite the successful June 1916 Brusilov offensive against the
-   Austrians in eastern Galicia,^[157] shortages of supplies, heavy losses
-   and command failures prevented the Russians from fully exploiting their
-   victory. However, it was one of the most significant and impactful
-   offensives of the war, diverting German resources from Verdun,
-   relieving Austro-Hungarian pressure on the Italians, and convincing
-   Romania to enter the war on the side of the Allies on 27 August. It
-   also fatally weakened both the Austrian and Russian armies, whose
-   offensive capabilities were badly affected by their losses and
-   increased the disillusionment with the war that ultimately led to the
-   Russian revolutions.^[158]
-
-   Meanwhile, unrest grew in Russia as the Tsar remained at the front,
-   with the home front controlled by Empress Alexandra. Her increasingly
-   incompetent rule and food shortages in urban areas led to widespread
-   protests and the murder of her favourite, Grigori Rasputin, at the end
-   of 1916.^[159]
+   November 1918.^[158]^[l]
 
   Central Powers peace overtures
 
@@ -2683,12 +2639,10 @@ Footnotes
        agreed to the Treaty of Lausanne.
    10. ^ Only the Triple Alliance was a formal "alliance"; the others
        listed were informal patterns of support.
-   11. ^ Cvjetko Popović, Gavrilo Princip, Nedeljko Čabrinović, Trifko
-       Grabež, and Vaso Čubrilović were Bosnian Serbs, while Muhamed
-       Mehmedbašić was from the Bosniak Muslim community^[31]
+   11. ^ German: Skagerrakschlacht, or "Battle of the Skagerrak"
    12. ^ Bessarabia remained part of Romania until 1940, when it was
        annexed by Joseph Stalin as the Moldavian Soviet Socialist
-       Republic;^[153] following the dissolution of the USSR in 1991, it
+       Republic;^[159] following the dissolution of the USSR in 1991, it
        became the independent Republic of Moldova
    13. ^ Unlike the others, the successor state to the Russian Empire, the
        Union of Soviet Socialist Republics, retained similar external
@@ -2738,50 +2692,50 @@ References
    27. ^ Clark 2013, p. 288.
    28. ^ Keegan 1998, pp. 48–49.
    29. ^ Finestone & Massie 1981, p. 247.
-   30. ^ Smith 2010, p. ?.
-   31. ^ Butcher 2014, p. 103.
-   32. ^ Butcher 2014, pp. 188–189.
-   33. ^ Gilbert 1994, p. 16.
-   34. ^ Gilbert 1994, p. 17.
-   35. ^ Willmott 2003, p. 26.
-   36. ^ Clark, Christopher (25 June 2014). Month of Madness. BBC Radio 4.
-   37. ^ Djordjević, Dimitrije; Spence, Richard B. (1992). Scholar,
+   30. ^ Smith 2010.
+   31. ^ Roger L. Ransom (2018). Gambling on War: Confidence, Fear, and
+       the Tragedy of the First World War. Cambridge University Press.
+       p. 51. ISBN 9781108485029.
+   32. ^ Butcher 2014, p. 103.
+   33. ^ Butcher 2014, pp. 188–189.
+   34. ^ Gilbert 1994, p. 16.
+   35. ^ Gilbert 1994, p. 17.
+   36. ^ Willmott 2003, p. 26.
+   37. ^ Clark, Christopher (25 June 2014). Month of Madness. BBC Radio 4.
+   38. ^ Djordjević, Dimitrije; Spence, Richard B. (1992). Scholar,
        patriot, mentor: historical essays in honor of Dimitrije
        Djordjević. East European Monographs. p. 313.
        ISBN 978-0-88033-217-0. "Following the assassination of Franz
        Ferdinand in June 1914, Croats and Muslims in Sarajevo joined
        forces in an anti-Serb pogrom."
-   38. ^ Reports Service: Southeast Europe series. American Universities
+   39. ^ Reports Service: Southeast Europe series. American Universities
        Field Staff. 1964. p. 44. Retrieved 7 December 2013. "... the
        assassination was followed by officially encouraged anti-Serb riots
        in Sarajevo ..."
-   39. ^ Kröll, Herbert (2008). Austrian-Greek encounters over the
+   40. ^ Kröll, Herbert (2008). Austrian-Greek encounters over the
        centuries: history, diplomacy, politics, arts, economics.
        Studienverlag. p. 55. ISBN 978-3-7065-4526-6. Retrieved 1 September
        2013. "... arrested and interned some 5.500 prominent Serbs and
        sentenced to death some 460 persons, a new Schutzkorps, an
        auxiliary militia, widened the anti-Serb repression."
-   40. ^ Tomasevich 2001, p. 485.
-   41. ^ Schindler, John R. (2007). Unholy Terror: Bosnia, Al-Qa'ida, and
+   41. ^ Tomasevich 2001, p. 485.
+   42. ^ Schindler, John R. (2007). Unholy Terror: Bosnia, Al-Qa'ida, and
        the Rise of Global Jihad. Zenith Imprint. p. 29.
        ISBN 978-1-61673-964-5.
-   42. ^ Velikonja 2003, p. 141.
-   43. ^ Stevenson 1996, p. 12.
-   44. ^ MacMillan 2013, p. 532.
-   45. ^ Willmott 2003, p. 27.
-   46. ^ Fromkin 2004, pp. 196–197.
-   47. ^ MacMillan 2013, p. 536.
-   48. ^ Lieven 2016, p. 326.
-   49. ^ Clark 2013, pp. 526–527.
-   50. ^ Martel 2014, p. 335.
-   51. ^ Gilbert 1994, p. 27.
-   52. ^ Clayton 2003, p. 45.
-   53. ^ Clark 2013, pp. 539–541.
-   54. ^ Gilbert 1994, p. 29.
-   55. ^ Coogan 2009, p. 48.
-   56. ^ Tsouras, Peter (19 July 2017). "The Kaiser's Question, 1914".
-       HistoryNet. Archived from the original on 26 December 2021.
-       Retrieved 26 December 2021.
+   43. ^ Velikonja 2003, p. 141.
+   44. ^ Stevenson 1996, p. 12.
+   45. ^ MacMillan 2013, p. 532.
+   46. ^ Willmott 2003, p. 27.
+   47. ^ Fromkin 2004, pp. 196–197.
+   48. ^ MacMillan 2013, p. 536.
+   49. ^ Lieven 2016, p. 326.
+   50. ^ Clark 2013, pp. 526–527.
+   51. ^ Martel 2014, p. 335.
+   52. ^ Gilbert 1994, p. 27.
+   53. ^ Clayton 2003, p. 45.
+   54. ^ Clark 2013, pp. 539–541.
+   55. ^ Gilbert 1994, p. 29.
+   56. ^ Coogan 2009, p. 48.
    57. ^ McMeekin 2014, pp. 342, 349.
    58. ^ MacMillan 2013, pp. 579–580, 585.
    59. ^ Crowe 2001, pp. 4–5.
@@ -2907,23 +2861,23 @@ References
    141. ^ Gilbert 1994, p. 484.
    142. ^ Thompson 2009, p. 364.
    143. ^ Gilbert 1994, p. 491.
-   144. ^ Jelavich 1992, pp. 441–442.
-   145. ^ ^a ^b Dumitru 2012, p. 171.
-   146. ^ Dumitru 2012, p. 170.
-   147. ^ ^a ^b Gilbert 1994, p. 282.
-   148. ^ Torrie 1978, pp. 7–8.
-   149. ^ Barrett 2013, pp. 96–98.
-   150. ^ România în anii primului război mondial, vol.2, p. 831
-   151. ^ Crampton 1994, pp. 24–25.
-   152. ^ Béla 1998, p. 429.
-   153. ^ Rothschild 1975, p. 314.
-   154. ^ Tucker & Roberts 2005, p. 715.
-   155. ^ Meyer 2006, pp. 152–154, 161, 163, 175, 182.
-   156. ^ Smele
-   157. ^ Schindler 2003, p. ?.
-   158. ^ Tucker 2002, p. 119.
-   159. ^ Lawrence Goodrich (2011). Cultural Studies. Jones & Bartlett
+   144. ^ Tucker & Roberts 2005, p. 715.
+   145. ^ Meyer 2006, pp. 152–154, 161, 163, 175, 182.
+   146. ^ Smele
+   147. ^ Schindler 2003, p. ?.
+   148. ^ Tucker 2002, p. 119.
+   149. ^ Lawrence Goodrich (2011). Cultural Studies. Jones & Bartlett
        Learning. p. 376. ISBN 9781449637286.
+   150. ^ Jelavich 1992, pp. 441–442.
+   151. ^ ^a ^b Dumitru 2012, p. 171.
+   152. ^ Dumitru 2012, p. 170.
+   153. ^ ^a ^b Gilbert 1994, p. 282.
+   154. ^ Torrie 1978, pp. 7–8.
+   155. ^ Barrett 2013, pp. 96–98.
+   156. ^ România în anii primului război mondial, vol.2, p. 831
+   157. ^ Crampton 1994, pp. 24–25.
+   158. ^ Béla 1998, p. 429.
+   159. ^ Rothschild 1975, p. 314.
    160. ^ ^a ^b Alexander Lanoszka; Michael A. Hunzeker (11 November
        2018). "Why the First War lasted so long". The Washington Post.
        Archived from the original on 12 April 2022. Retrieved 11 November
@@ -3935,6 +3889,7 @@ External links
      * Battle of the Frontiers
      * Battle of Cer
      * Battle of Galicia
+     * Russian invasion of East Prussia
      * Battle of Tannenberg
      * Siege of Tsingtao
      * First Battle of the Masurian Lakes
@@ -4255,7 +4210,7 @@ External links
      * Italy
      * Luxembourg
      * Netherlands
-     * Norway [no]
+     * Norway
      * Ottoman Empire
      * Poland
      * Portugal
@@ -4784,8 +4739,8 @@ External links
      * İslâm Ansiklopedisi
 
    Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=World_War_I&oldid=118669141
-   2"
+   "https://en.wikipedia.org/w/index.php?title=World_War_I&oldid=118874856
+   7"
 
    Categories:
      * World War I
@@ -4868,6 +4823,7 @@ External links
      * Spoken articles
      * Pages using Sister project links with hidden wikidata
      * Pages using Sister project links with default search
+     * Interlanguage link template existing link
      * Articles with BNE identifiers
      * Articles with BNF identifiers
      * Articles with BNFdata identifiers
@@ -4883,7 +4839,7 @@ External links
      * Articles with TDVİA identifiers
      * Articles containing video clips
 
-     * This page was last edited on 24 November 2023, at 22:04 (UTC).
+     * This page was last edited on 7 December 2023, at 12:49 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        License 4.0; additional terms may apply. By using this site, you
        agree to the Terms of Use and Privacy Policy. Wikipedia® is a

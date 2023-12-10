@@ -86,13 +86,12 @@
    PRO
      * Pro News
      * Pro Live
-     * Stock ScreenerNEW!
+     * Stock Screener
      * Market Forecast
      * Options Investing
      * Subscribe
      * Sign In
 
-   NEW!
    (BUTTON) Menu
      * Make It
      * (BUTTON) select
@@ -225,7 +224,6 @@
    Watchlist
    Investing Club
    PRO
-   NEW!
    (BUTTON) Menu
 
    Updated Thu, Nov 16 202311:54 AM EST
@@ -779,6 +777,7 @@ Read CNBC's previous live coverage here:
    the Dnieper River into occupied territory
    logo
      * Subscribe to CNBC PRO
+     * Subscribe to Investing Club
      * Licensing & Reprints
      * CNBC Councils
      * Supply Chain Values

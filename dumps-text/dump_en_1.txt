@@ -780,7 +780,7 @@ Types of warfare
        development, and may involve active conflicts by indirect means,
        such as economic warfare, political warfare, covert operations,
        espionage, cyberwarfare, or proxy wars.
-     * Conventional warfare is declared war between states in which
+     * Conventional warfare is a form of warfare between states in which
        nuclear, biological, or chemical weapons are not used or see
        limited deployment.
      * Cyberwarfare involves the actions by a nation-state or
@@ -2689,7 +2689,9 @@ External links
      * Alliance
           + Entente
           + Coalition
+          + Military
      * Appeasement
+     * Co-belligerence
      * Collective security
      * Colonialism
      * Grey-zone
@@ -2698,6 +2700,7 @@ External links
      * International community
      * Internationalism
      * Liberal institutionalism
+     * Neutral country
      * Non-state actor
      * Imperialism
      * Peace
@@ -2710,16 +2713,23 @@ External links
    Theory
 
      * Constructivism
+     * English school
+     * Feminism
      * Liberalism
-     * Marxist international relations theory
-     * Peace theories
+     * Marxism
+     * Postcolonialism
      * Realism
 
-   Related fields
+   Related fields and subfields
 
+     * Comparative politics
      * Diplomacy
+     * Foreign policy analysis
      * Geopolitics
      * International law
+     * International political economy
+     * International political sociology
+     * Security studies
 
    Authority control databases Edit this at Wikidata
    International
@@ -2743,7 +2753,7 @@ External links
      * İslâm Ansiklopedisi
 
    Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=War&oldid=1180971521"
+   "https://en.wikipedia.org/w/index.php?title=War&oldid=1188367003"
 
    Categories:
      * War
@@ -2796,7 +2806,7 @@ External links
      * Articles with NARA identifiers
      * Articles with TDVİA identifiers
 
-     * This page was last edited on 20 October 2023, at 00:46 (UTC).
+     * This page was last edited on 4 December 2023, at 23:45 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        License 4.0; additional terms may apply. By using this site, you
        agree to the Terms of Use and Privacy Policy. Wikipedia® is a

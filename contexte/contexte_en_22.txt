@@ -14,6 +14,9 @@
    This was CNBC's live blog tracking developments on the war in Ukraine.
    Fierce fighting has erupted between Russian forces and Ukrainian units
 --
+   Alex Babenko | AP
+   Analysts at the Institute for the Study of War painted a picture of
+   mixed fortunes for Ukrainian forces in the area, citing Ukrainian
    officials, Russian military bloggers closely following developments in
    the war and open-source evidence.
    In other news, Russian President Vladimir Putin said on Wednesday that
@@ -57,7 +60,7 @@ Russian court jails artist for seven years over anti-war protest
    Russian forces are now reported to be pounding those positions. A
    Russian official warned Wednesday that "hell fire" would be rained down
    upon Ukrainian forces who had crossed the river.
---
+   Analysts at the Institute for the Study of War painted a picture of
    mixed fortunes in the area, citing Ukrainian officials, Russian
    military bloggers closely following developments in the war and
    open-source evidence.
@@ -83,3 +86,7 @@ West the biggest obstacle to peace in Ukraine, global survey finds
    the eastern bank of the river. The announcement could herald the start
    of an advance toward Russian-occupied Crimea, with Ukraine saying on
    Wednesday that it was starting to push back Russian forces.
+--
+   Alex Babenko | AP
+   Analysts at the Institute for the Study of War noted Tuesday that
+   "Ukrainian forces are continuing their own offensive operations and

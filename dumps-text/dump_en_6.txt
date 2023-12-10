@@ -534,7 +534,7 @@ World War II
 
    Millions died due to genocides, including the Holocaust, as well as
    starvation, massacres, and disease. In the wake of Axis defeat,
-   Germany, Austria and Japan were occupied, and war crimes tribunals were
+   Germany, Austria, and Japan were occupied, and war crime tribunals were
    conducted against German and Japanese leaders.
 
    The causes of the war are debated; contributing factors included the
@@ -545,17 +545,17 @@ World War II
    invaded Poland. The United Kingdom and France declared war on Germany
    on 3 September. Under the Molotov–Ribbentrop Pact of August 1939,
    Germany and the Soviet Union had partitioned Poland and marked out
-   their "spheres of influence" across Finland, Estonia, Latvia, Lithuania
-   and Romania. From late 1939 to early 1941, in a series of campaigns and
-   treaties, Germany conquered or controlled much of continental Europe,
-   in a military alliance, called the Axis, with Italy, Japan, and other
-   countries. Following the onset of campaigns in North Africa and East
-   Africa, and the fall of France in mid-1940, the war continued primarily
-   between the European Axis powers and the British Empire, with the war
-   in the Balkans, the aerial Battle of Britain, the Blitz of the UK, and
-   the Battle of the Atlantic. In June 1941, Germany led the European Axis
-   powers in an invasion of the Soviet Union, opening the Eastern Front,
-   the largest land theatre of war in history.
+   their "spheres of influence" across Finland, Estonia, Latvia,
+   Lithuania, and Romania. From late 1939 to early 1941, in a series of
+   campaigns and treaties, Germany conquered or controlled much of
+   continental Europe in a military alliance called the Axis with Italy,
+   Japan, and other countries. Following the onset of campaigns in North
+   and East Africa, and the fall of France in mid-1940, the war continued
+   primarily between the European Axis powers and the British Empire, with
+   the war in the Balkans, the aerial Battle of Britain, the Blitz of the
+   UK, and the Battle of the Atlantic. In June 1941, Germany led the
+   European Axis powers in an invasion of the Soviet Union, opening the
+   Eastern Front, the largest land theatre of war in history.
 
    Japan aimed to dominate Asia and the Pacific, and by 1937 was at war
    with the Republic of China. In December 1941, Japan attacked American
@@ -683,8 +683,8 @@ History
    power in Russia, which led to the founding of the Soviet Union.
    Meanwhile, the victorious Allies of World War I, such as France,
    Belgium, Italy, Romania, and Greece, gained territory, and new
-   nation-states were created out of the collapse of Austria-Hungary and
-   the Ottoman and Russian Empires.^[citation needed]
+   nation-states were created out of the dissolution of the
+   Austria-Hungary, Ottoman and Russian empires.
 
    To prevent a future world war, the League of Nations was established in
    1920 by the Paris Peace Conference. The organisation's primary goals
@@ -833,24 +833,23 @@ History
    Soviets quickly signed a non-aggression pact with China to lend
    materiel support, effectively ending China's prior cooperation with
    Germany. From September to November, the Japanese attacked Taiyuan,
-   engaged the Kuomintang Army around Xinkou,^[39]^[unreliable source?]
-   and fought Communist forces in Pingxingguan.^[40]^[41] Generalissimo
-   Chiang Kai-shek deployed his best army to defend Shanghai, but after
-   three months of fighting, Shanghai fell. The Japanese continued to push
-   Chinese forces back, capturing the capital Nanking in December 1937.
-   After the fall of Nanking, tens or hundreds of thousands of Chinese
-   civilians and disarmed combatants were murdered by the
-   Japanese.^[42]^[43]
+   engaged the Kuomintang Army around Xinkou,^[39] and fought Communist
+   forces in Pingxingguan.^[40]^[41] Generalissimo Chiang Kai-shek
+   deployed his best army to defend Shanghai, but after three months of
+   fighting, Shanghai fell. The Japanese continued to push Chinese forces
+   back, capturing the capital Nanking in December 1937. After the fall of
+   Nanking, tens or hundreds of thousands of Chinese civilians and
+   disarmed combatants were murdered by the Japanese.^[42]^[43]
 
    In March 1938, Nationalist Chinese forces won their first major victory
    at Taierzhuang, but then the city of Xuzhou was taken by the Japanese
-   in May.^[44]^[unreliable source?] In June 1938, Chinese forces stalled
-   the Japanese advance by flooding the Yellow River; this manoeuvre
-   bought time for the Chinese to prepare their defences at Wuhan, but the
-   city was taken by October.^[45] Japanese military victories did not
-   bring about the collapse of Chinese resistance that Japan had hoped to
-   achieve; instead, the Chinese government relocated inland to Chongqing
-   and continued the war.^[46]^[47]
+   in May.^[44] In June 1938, Chinese forces stalled the Japanese advance
+   by flooding the Yellow River; this manoeuvre bought time for the
+   Chinese to prepare their defences at Wuhan, but the city was taken by
+   October.^[45] Japanese military victories did not bring about the
+   collapse of Chinese resistance that Japan had hoped to achieve;
+   instead, the Chinese government relocated inland to Chongqing and
+   continued the war.^[46]^[47]
 
     Soviet–Japanese border conflicts
 
@@ -990,9 +989,9 @@ History
    the Soviet Union. The proposal was rejected^[64] and Hitler ordered an
    immediate offensive against France,^[75] which was postponed until the
    spring of 1940 due to bad weather.^[76]^[77]^[78]
-   [220px-A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpg]
-   Finnish machine gun nest aimed at Soviet Red Army positions during the
-   Winter War, February 1940
+   [220px-The_War_in_Finland%2C_1940_HU55566.jpg] Finnish soldiers taking
+   up defensive positions against Soviet troops during the Winter War,
+   January 1940
 
    After the outbreak of war in Poland, Stalin threatened Estonia, Latvia,
    and Lithuania with military invasion, forcing the three Baltic
@@ -1274,9 +1273,9 @@ History
    nationalist forces culminated in armed clashes in January 1941,
    effectively ending their co-operation.^[162] In March, the Japanese
    11th army attacked the headquarters of the Chinese 19th army but was
-   repulsed during Battle of Shanggao.^[163]^[unreliable source?] In
-   September, Japan attempted to take the city of Changsha again and
-   clashed with Chinese nationalist forces.^[164]^[unreliable source?]
+   repulsed during Battle of Shanggao.^[163] In September, Japan attempted
+   to take the city of Changsha again and clashed with Chinese nationalist
+   forces.^[164]
 
    German successes in Europe prompted Japan to increase pressure on
    European governments in Southeast Asia. The Dutch government agreed to
@@ -1588,9 +1587,9 @@ History
 
    From November 1943, during the seven-week Battle of Changde, the
    Chinese awaited allied relief as they forced Japan to fight a costly
-   war of attrition.^[257]^[258]^[259]^[unreliable source?] In January
-   1944, the Allies launched a series of attacks in Italy against the line
-   at Monte Cassino and tried to outflank it with landings at Anzio.^[260]
+   war of attrition.^[257]^[258]^[259] In January 1944, the Allies
+   launched a series of attacks in Italy against the line at Monte Cassino
+   and tried to outflank it with landings at Anzio.^[260]
 
    On 27 January 1944, Soviet troops launched a major offensive that
    expelled German forces from the Leningrad region, thereby ending the
@@ -2111,7 +2110,8 @@ Impact
    Main articles: Military production during World War II and Home front
    during World War II
 
-   Graphs are unavailable due to technical issues.
+   Graphs are unavailable due to technical issues. There is more info on
+   Phabricator and on MediaWiki wiki.
    Allies to Axis GDP ratio between 1938 and 1945
 
    In Europe, before the outbreak of the war, the Allies had significant
@@ -2132,17 +2132,16 @@ Impact
    initial rapid blitzkrieg attacks of Germany and Japan, they became the
    decisive factor by 1942, after the United States and Soviet Union
    joined the Allies and the war evolved into one of attrition.^[423]
-   While the Allies' ability to out-produce the Axis is often
-   attributed^[by whom?] to the Allies having more access to natural
-   resources, other factors, such as Germany and Japan's reluctance to
-   employ women in the labour force,^[424] Allied strategic bombing,^[425]
-   and Germany's late shift to a war economy^[426] contributed
-   significantly. Additionally, neither Germany nor Japan planned to fight
-   a protracted war, and had not equipped themselves to do so.^[427] To
-   improve their production, Germany and Japan used millions of slave
-   labourers;^[428] Germany used about 12 million people, mostly from
-   Eastern Europe,^[402] while Japan used more than 18 million people in
-   Far East Asia.^[410]^[411]
+   While the Allies' ability to out-produce the Axis was partly due to
+   more access to natural resources, other factors, such as Germany and
+   Japan's reluctance to employ women in the labour force,^[424] Allied
+   strategic bombing,^[425] and Germany's late shift to a war
+   economy^[426] contributed significantly. Additionally, neither Germany
+   nor Japan planned to fight a protracted war, and had not equipped
+   themselves to do so.^[427] To improve their production, Germany and
+   Japan used millions of slave labourers;^[428] Germany used about
+   12 million people, mostly from Eastern Europe,^[402] while Japan used
+   more than 18 million people in Far East Asia.^[410]^[411]
 
   Advances in technology and its application
 
@@ -2333,8 +2332,8 @@ Citations
    30. ^ Busky 2002, p. 10.
    31. ^ Andrea L. Stanton; Edward Ramsamy; Peter J. Seybolt (2012).
        Cultural Sociology of the Middle East, Asia, and Africa: An
-       Encyclopedia. p. 308. ISBN 978-1-4129-8176-7. Retrieved 6 April
-       2014.
+       Encyclopedia. p. 308. ISBN 978-1-4129-8176-7. Archived from the
+       original on 7 March 2023. Retrieved 6 April 2014.
    32. ^ Barker 1971, pp. 131–132.
    33. ^ Shirer 1990, p. 289.
    34. ^ Kitson 2001, p. 231.
@@ -2346,8 +2345,8 @@ Citations
    40. ^ Tucker, Spencer C. (2009). A Global Chronology of Conflict: From
        the Ancient World to the Modern Middle East [6 volumes]: From the
        Ancient World to the Modern Middle East. ABC-CLIO.
-       ISBN 978-1-85109-672-5. Retrieved 27 August 2017 – via Google
-       Books.
+       ISBN 978-1-85109-672-5. Archived from the original on 7 March 2023.
+       Retrieved 27 August 2017 – via Google Books.
    41. ^ Yang Kuisong, "On the reconstruction of the facts of the Battle
        of Pingxingguan"
    42. ^ Levene, Mark and Roberts, Penny. The Massacre in History. 1999,
@@ -2387,10 +2386,11 @@ Citations
        9 May 2013.
    65. ^ Evans 2008, pp. 1–2.
    66. ^ David T. Zabecki (2015). World War II in Europe: An Encyclopedia.
-       Routledge. p. 1663. ISBN 978-1-135-81242-3. Retrieved 17 June 2019.
-       "The earliest fighting started at 0445 hours when marines from the
-       battleship Schleswig-Holstein attempted to storm a small Polish
-       fort in Danzig, the Westerplate"
+       Routledge. p. 1663. ISBN 978-1-135-81242-3. Archived from the
+       original on 7 March 2023. Retrieved 17 June 2019. "The earliest
+       fighting started at 0445 hours when marines from the battleship
+       Schleswig-Holstein attempted to storm a small Polish fort in
+       Danzig, the Westerplate"
    67. ^ The UK declared war on Germany at 11 am. France followed 6 hours
        later at 5 pm.
    68. ^ Keegan 1997, p. 35.
@@ -2433,8 +2433,8 @@ Citations
    85. ^ Hanhimäki 1997, p. 12.
    86. ^ Dear & Foot 2001, pp. 745, 975.
    87. ^ Haynes, Rebecca (2000). Romanian policy towards Germany, 1936–40.
-       Palgrave Macmillan. p. 205. ISBN 978-0-312-23260-3. Retrieved 3
-       February 2022.
+       Palgrave Macmillan. p. 205. ISBN 978-0-312-23260-3. Archived from
+       the original on 7 March 2023. Retrieved 3 February 2022.
    88. ^ Deletant, pp. 48–51, 66; Griffin (1993), p. 126; Ornea, pp.
        325–327
    89. ^ Ferguson 2006, pp. 367, 376, 379, 417.
@@ -2807,8 +2807,8 @@ Citations
    322. ^ Kennedy-Pipe 1995.
    323. ^ Wettig 2008, pp. 20–21.
    324. ^ Senn 2007, p. ?.
-   325. ^ "Italy since 1945". Encyclopedia Britannica. Retrieved 2 October
-       2023.
+   325. ^ "Italy since 1945". Encyclopedia Britannica. Archived from the
+       original on 5 October 2023. Retrieved 2 October 2023.
    326. ^ Yoder 1997, p. 39.
    327. ^ "History of the UN". United Nations. Archived from the original
        on 15 December 2021. Retrieved 17 January 2022.
@@ -2825,6 +2825,7 @@ Citations
    334. ^ Naimark 2010.
    335. ^ Swain 1992.
    336. ^ "Greek Civil War". Encyclopedia Britannica. 28 May 2023.
+       Archived from the original on 24 March 2023. Retrieved 15 May 2023.
    337. ^ Borstelmann 2005, p. 318.
    338. ^ Leffler & Westad 2010.
    339. ^ Weinberg 2005, p. 911.
@@ -2888,7 +2889,8 @@ Citations
    374. ^ Evans 2008, pp. 158–160, 234–236.
    375. ^ Redžić, Enver (2005). Bosnia and Herzegovina in the Second World
        War. New York: Tylor and Francis. p. 155. ISBN 978-0-7146-5625-0.
-       Retrieved 18 August 2021.
+       Archived from the original on 7 March 2023. Retrieved 18 August
+       2021.
    376. ^ Geiger, Vladimir (2012). "Human Losses of the Croats in World
        War II and the Immediate Post-War Period Caused by the Chetniks
        (Yugoslav Army in the Fatherand) and the Partisans (People's
@@ -2931,14 +2933,13 @@ Citations
    393. ^ Bird, Nicky (October 2002). "Berlin: The Downfall 1945 by Antony
        Beevor". International Affairs. Royal Institute of International
        Affairs. 78 (4): 914–916.
-   394. ^ Norman M., Naimark, Norman M. (1995). The Russians in Germany: A
-       History of the Soviet Zone of Occupation, 1945–1949. Cambridge:
-       Belknap Press. p. 70.{{cite book}}: CS1 maint: multiple names:
-       authors list (link)
+   394. ^ Naimark, Norman (1995). The Russians in Germany: A History of
+       the Soviet Zone of Occupation, 1945–1949. Cambridge: Belknap Press.
+       p. 70.
    395. ^ Zur Debatte um die Ausstellung Vernichtungskrieg. Verbrechen der
        Wehrmacht 1941–1944 im Kieler Landeshaus (Debate on the War of
-       Extermination. Crimes of the Wehrmacht, 1941–1944) (PDF). Kiel.
-       1999.
+       Extermination. Crimes of the Wehrmacht, 1941–1944) Archived 18 July
+       2011 at the Wayback Machine (PDF). Kiel. 1999.
    396. ^ Pascale R . Bos, "Feminists Interpreting the Politics of Wartime
        Rape: Berlin, 1945"; Yugoslavia, 1992–1993 Journal of Women in
        Culture and Society, 2006, vol. 31, no. 4, pp. 996–1025
@@ -2958,9 +2959,9 @@ Citations
        Welle. Archived from the original on 2 May 2006. Retrieved 19
        January 2010.
    403. ^ Pearson, Alexander (19 March 2018). "Color photo of girl at
-       Auschwitz strikes chord". Deutsche Welle. Retrieved 12 July 2023.
-       "Kwoka was murdered with a phenol injection to the heart a few
-       weeks later."
+       Auschwitz strikes chord". Deutsche Welle. Archived from the
+       original on 19 March 2018. Retrieved 12 July 2023. "Kwoka was
+       murdered with a phenol injection to the heart a few weeks later."
    404. ^ J. Arch Getty, Gábor T. Rittersporn and Viktor N. Zemskov.
        Victims of the Soviet Penal System in the Pre-War Years: A First
        Approach on the Basisof Archival Evidence. The American Historical
@@ -3000,12 +3001,13 @@ Citations
    422. ^ Compare: Wilson, Mark R. (2016). Destructive Creation: American
        Business and the Winning of World War II. American Business,
        Politics, and Society (reprint ed.). Philadelphia: University of
-       Pennsylvania Press. p. 2. ISBN 978-0-8122-9354-8. Retrieved 19
-       December 2019. "By producing nearly two thirds of the munitions
-       used by Allied forces – including huge numbers of aircraft, ships,
-       tanks, trucks, rifles, artillery shells, and bombs – American
-       industry became what President Franklin D. Roosevelt once called
-       'the arsenal of democracy' [...]."
+       Pennsylvania Press. p. 2. ISBN 978-0-8122-9354-8. Archived from the
+       original on 7 March 2023. Retrieved 19 December 2019. "By producing
+       nearly two thirds of the munitions used by Allied forces –
+       including huge numbers of aircraft, ships, tanks, trucks, rifles,
+       artillery shells, and bombs – American industry became what
+       President Franklin D. Roosevelt once called 'the arsenal of
+       democracy' [...]."
    423. ^ Harrison 1998, p. 2.
    424. ^ Bernstein 1991, p. 267.
    425. ^ Griffith, Charles (1999). The Quest: Haywood Hansell and
@@ -3101,8 +3103,8 @@ References
    University Press. ISBN 978-0-8135-0449-0.
 
      Barber, John; Harrison, Mark (2006). "Patriotic War, 1941–1945". In
-   Ronald Grigor Suny (ed.). The Cambridge History of Russia. Vol. III:
-   The Twentieth Century. Cambridge: Cambridge University Press.
+   Ronald Grigor Suny (ed.). The Cambridge History of Russia - The
+   Twentieth Century. Vol. III. Cambridge: Cambridge University Press.
    pp. 217–242. ISBN 978-0-521-81144-6.
 
      Barker, A.J. (1971). The Rape of Ethiopia 1936. New York: Ballantine
@@ -3293,8 +3295,8 @@ References
 
      Eastman, Lloyd E. (1986). "Nationalist China during the Sino-Japanese
    War 1937–1945". In John K. Fairbank; Denis Twitchett (eds.). The
-   Cambridge History of China. Vol. 13: Republican China 1912–1949, Part
-   2. Cambridge: Cambridge University Press. ISBN 978-0-521-24338-4.
+   Cambridge History of China - Republican China 1912–1949, Part 2.
+   Vol. 13. Cambridge: Cambridge University Press. ISBN 978-0-521-24338-4.
 
      Ellman, Michael (2002). "Soviet Repression Statistics: Some Comments"
    (PDF). Europe-Asia Studies. 54 (7): 1151–1172.
@@ -3342,8 +3344,8 @@ References
 
      Förster, Jürgen (1998). "Hitler's Decision in Favour of War". In
    Horst Boog; Jürgen Förster; Joachim Hoffmann; Ernst Klink; Rolf-Dieter
-   Muller; Gerd R. Ueberschar (eds.). Germany and the Second World War.
-   Vol. IV: The Attack on the Soviet Union. Oxford: Clarendon Press.
+   Muller; Gerd R. Ueberschar (eds.). Germany and the Second World War -
+   The Attack on the Soviet Union. Vol. IV. Oxford: Clarendon Press.
    pp. 13–52. ISBN 978-0-19-822886-8.
 
      Förster, Stig; Gessler, Myriam (2005). "The Ultimate Horror:
@@ -3651,7 +3653,7 @@ References
 
      Naimark, Norman (2010). "The Sovietization of Eastern Europe,
    1944–1953". In Melvyn P. Leffler; Odd Arne Westad (eds.). The Cambridge
-   History of the Cold War. Vol. I: Origins. Cambridge: Cambridge
+   History of the Cold War - Origins. Vol. I. Cambridge: Cambridge
    University Press. pp. 175–197. ISBN 978-0-521-83719-4.
 
      Neary, Ian (1992). "Japan". In Martin Harrop (ed.). Power and Policy
@@ -3732,7 +3734,7 @@ References
 
      Rahn, Werner (2001). "The War in the Pacific". In Horst Boog; Werner
    Rahn; Reinhard Stumpf; Bernd Wegner (eds.). Germany and the Second
-   World War. Vol. VI: The Global War. Oxford: Clarendon Press.
+   World War - The Global War. Vol. VI. Oxford: Clarendon Press.
    pp. 191–298. ISBN 978-0-19-822888-2.
 
      Ratcliff, R.A. (2006). Delusions of Intelligence: Enigma, Ultra, and
@@ -3879,8 +3881,8 @@ References
    JSTOR 260931. S2CID 159943895.
 
      Stueck, William (2010). "The Korean War". In Melvyn P. Leffler; Odd
-   Arne Westad (eds.). The Cambridge History of the Cold War. Vol. I:
-   Origins. Cambridge: Cambridge University Press. pp. 266–287.
+   Arne Westad (eds.). The Cambridge History of the Cold War - Origins.
+   Vol. I. Cambridge: Cambridge University Press. pp. 266–287.
    ISBN 978-0-521-83719-4.
 
      Sumner, Ian; Baker, Alix (2001). The Royal Navy 1939–45. Oxford:
@@ -3923,8 +3925,8 @@ References
    ISBN 978-1-57607-999-7.
 
      Umbreit, Hans (1991). "The Battle for Hegemony in Western Europe". In
-   P. S. Falla (ed.). Germany and the Second World War. Vol. 2: Germany's
-   Initial Conquests in Europe. Oxford: Oxford University Press.
+   P. S. Falla (ed.). Germany and the Second World War - Germany's Initial
+   Conquests in Europe. Vol. 2. Oxford: Oxford University Press.
    pp. 227–326. ISBN 978-0-19-822885-1.
 
      United States Army (1986) [1953]. The German Campaigns in the Balkans
@@ -4292,8 +4294,8 @@ External links
      * West Africa
      * British Somaliland
      * Hundred Regiments Offensive
-     * Baltic States
-     * Moldova
+     * Baltic states
+     * Eastern Romania
      * Indochina
      * Greece
      * Compass
@@ -4370,7 +4372,7 @@ External links
    1944
      * Monte Cassino / Anzio
      * Narva
-     * Korsun–Cherkasy
+     * Korsun–Cherkassy
      * Tempest
      * Ichi-Go
      * Overlord
@@ -4815,8 +4817,8 @@ External links
      * İslâm Ansiklopedisi
 
    Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=World_War_II&oldid=11869719
-   81"
+   "https://en.wikipedia.org/w/index.php?title=World_War_II&oldid=11889848
+   75"
 
    Categories:
      * World War II
@@ -4916,7 +4918,6 @@ External links
      * CS1 Chinese-language sources (zh)
      * Pages with missing ISBNs
      * CS1 Polish-language sources (pl)
-     * CS1 maint: multiple names: authors list
      * Articles with short description
      * Short description matches Wikidata
      * Wikipedia indefinitely semi-protected pages
@@ -4924,17 +4925,12 @@ External links
      * Use British English from December 2019
      * Use dmy dates from April 2023
      * Pages using multiple image with auto scaled images
-     * All articles with unsourced statements
-     * Articles with unsourced statements from October 2023
-     * All articles lacking reliable references
-     * Articles lacking reliable references from November 2021
      * Wikipedia articles needing page number citations from October 2023
      * Wikipedia articles needing page number citations from July 2016
+     * All articles lacking reliable references
      * Articles lacking reliable references from July 2023
-     * Articles with specifically marked weasel-worded phrases from
-       December 2019
      * Articles lacking reliable references from July 2020
-     * CS1: long volume value
+     * Articles lacking reliable references from November 2021
      * Pages using Sister project links with hidden wikidata
      * Pages using Sister project links with default search
      * Articles with BNE identifiers
@@ -4955,7 +4951,7 @@ External links
      * Articles with NARA identifiers
      * Articles with TDVİA identifiers
 
-     * This page was last edited on 26 November 2023, at 17:17 (UTC).
+     * This page was last edited on 8 December 2023, at 23:19 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        License 4.0; additional terms may apply. By using this site, you
        agree to the Terms of Use and Privacy Policy. Wikipedia® is a

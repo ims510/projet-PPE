@@ -1,7 +1,16 @@
+       (BUTTON) Toggle History subsection
+          + 2.1American Civil War
+          + 2.2The Spanish–American War
+          + 2.3First World War
+          + 2.4Finnish Civil War
+          + 2.5Spanish Civil War
+          + 2.6Korean War
+          + 2.7Algerian War
           + 2.8Vietnam War
           + 2.9Later wars
      * 3Second World War
---
+       (BUTTON) Toggle Second World War subsection
+          + 3.1Made by Western Allies
           + 3.2Made by Axis powers
           + 3.3Postwar
           + 3.4Military–film industry relations
@@ -13,9 +22,24 @@
           + 5.7Anti-war
           + 5.8Mixed genres
 --
+   [ ] Toggle the table of contents
+War film
+   [ ] 45 languages
+--
    From Wikipedia, the free encyclopedia
    Film genre depicting wars
    This article is about the genre of film. For films named "War", see War
+   (disambiguation).
+   [330px-Hawai_Mare_oki_kaisen_poster.jpg] Japanese film poster for
+   Kajiro Yamamoto's The War at Sea from Hawaii to Malaya (Hawai Mare oki
+   kaisen), featuring acclaimed special effects by Eiji Tsuburaya
+   Part of a series on
+           War
+   History
+--
+     * Naval units:
+     * Warships
+     * Submarines
 --
      * Close air support
      * Electronic-warfare
@@ -42,13 +66,23 @@
      * Forward operating base
      * Outpost
 --
+     * Martial law
+     * War crime
+   Theory
+--
+     * Overmatch
+     * Unrestricted Warfare
    Related
      * Outline of war
      * Just war theory
      * Principles of war
      * Philosophy of war
      * War film
+     * Military science fiction
+     * War game
+     * Lanchester's laws
 --
+     * Mercenary
      * War novel
      * Women in war
      * War resister
@@ -56,6 +90,12 @@
      * Anti-war movement
      * Horses in warfare
      * Wartime sexual violence
+     * Fifth column
+--
+     * Sieges
+     * War crimes
+     * Wars
+     * Weapons
 --
      * e
    War film is a film genre concerned with warfare, typically about naval,
@@ -75,7 +115,7 @@ Genre[edit]
    Further information: List of war films
    The war film genre is not necessarily tightly defined: the American
    Film Institute, for example, speaks of "films to grapple with the Great
---
+   War" without attempting to classify these.^[3] However, some directors
    and critics have offered at least tentative definitions. The director
    Sam Fuller defined the genre by saying that "a war film's objective, no
    matter how personal or emotional, is to make a viewer feel war."^[4]
@@ -102,6 +142,7 @@ Genre[edit]
    war film genre and the Western. Both genres use opposing concepts like
    war and peace, civilization and savagery. War films usually frame World
    War II as a conflict between "good" and "evil" as represented by the
+   Allied forces and Nazi Germany whereas the Western portrays the
 --
    peoples.^[8] James Clarke notes the similarity between a Western like
    Sam Peckinpah's The Wild Bunch and "war-movie escapades" like The Dirty
@@ -109,6 +150,15 @@ Genre[edit]
    The film historian Jeanine Basinger states that she began with a
    preconception of what the war film genre would be, namely that:
      What I knew in advance was what presumably every member of our
+     culture would know about World War II combat films—that they
+     contained a hero, a group of mixed types [of people], and a military
+     objective of some sort. They take place in the actual combat zones
+     of World War II, against the established enemies, on the ground, the
+     sea, or in the air. They contain many repeated events, such as mail
+--
+   Further, Basinger considers Bataan to provide a definition-by-example
+   of "the World War II combat film", in which a diverse and apparently
+   unsuited group of "hastily assembled volunteers" hold off a much larger
 --
    argues that the combat film is not a subgenre but the only genuine kind
    of war film. Since she notes that there were in fact only five true
@@ -140,11 +190,11 @@ Genre[edit]
    days in his Berlin bunker,^[17] and he considers the 1965 French film
    The 317th Platoon, set in Vietnam, "the greatest war movie ever made".
    The 1966 film The Battle of Algiers is, he argues, a close second.^[17]
---
+History[edit]
 American Civil War[edit]
    The costliest war in U.S. history in terms of American life, this war
    has been the subject of, or the backdrop to, numerous films,
---
+   documentaries and mini-series. One of the earliest films using the
    Civil War as its subject was D.W. Griffith's 1910 silent picture, The
    Fugitive.^[18] Films that have the war as its main subject, or about a
    certain aspect of the war, include the 1989 film Glory, about the first
@@ -158,11 +208,18 @@ American Civil War[edit]
    of the war, such as The Red Badge of Courage (1951),^[23] or Shenandoah
    (1965), on the tragedy that the war inflicted on the civilian
    population.^[24] Ken Burns's The Civil War is the most-watched
+   documentary in the history of PBS.^[25]
 --
+   Hindenburg in the background
 The Spanish–American War[edit]
    The first war films come from the Spanish–American War of 1898. Short
    "actualities"—documentary film-clips—included Burial of the Maine
 --
+   Spanish, staged in the United States.^[26]
+First World War[edit]
+   Further information: Fiction based on World War I, History of the
+   United Kingdom during the First World War § Media, United States home
+   front during World War I § Motion pictures, and Home front during World
    War I
    During the First World War, many films were made about life in the war.
    Topics included prisoners of war, covert operations, and military
@@ -196,9 +253,22 @@ The Spanish–American War[edit]
    Spielberg's 2011 war drama War Horse was based on Michael Morpurgo's
    children's novel of the same name.^[38]
 --
+   authenticity.^[39]
+Finnish Civil War[edit]
+   Although the 1918 Finnish Civil War between Whites and Reds remained a
+   controversial topic a century later in Finland,^[40]^[41] many Finnish
+--
+   Aku Louhimies's 2008 Tears of April, based on Leena Lander's
+   novel.^[45] Perhaps the most famous film about the Finnish Civil War is
+   Edvin Laine's 1968 Here, Beneath the North Star, based on the first two
    books of Väinö Linna's Under the North Star trilogy; it describing the
    civil war from the losing side, Finland's Red Guards.^[46]
 Spanish Civil War[edit]
+   Further information: List of Spanish Civil War films
+   [180px-SovietSpainCivilWarPoster.jpg] Soviet poster for an exhibition
+   about the Spanish Civil War, 1936
+   The Spanish Civil War has attracted directors from different countries.
+   Sam Wood's For Whom the Bell Tolls (1943), based on Ernest Hemingway's
 --
    played by Gary Cooper and a partisan played by Ingrid Bergman against
    the backdrop of the civil war. The epic 168-minute film with its
@@ -211,7 +281,10 @@ Spanish Civil War[edit]
    Freedom (Tierra y Libertad, 1995), loosely based on George Orwell's
    Homage to Catalonia, follows a British communist through the war to
    reveal the painful contradictions within the anti-fascist Republican
---
+   side.^[47]
+  Korean War[edit]
+   See also: Category:Korean War films
+   Samuel Fuller's The Steel Helmet (1951) was made during the Korean War
    (1950–1953). The critic Guy Westwell notes that it questioned the
    conduct of the war, as did later films like The Bridges at Toko-Ri
    (1954) and Pork Chop Hill (1959).^[50] Fuller agreed that all his films
@@ -224,10 +297,27 @@ Spanish Civil War[edit]
    gave Grand Bell Awards to films with the strongest anti-communist
    message. The Taebaek Mountains (1994) dealt with leftists from the
 --
+   Sung without help from the Americans. Similarly, the country's films
+   about the Korean War show victory without help from the Chinese. The
+   film scholar Johannes Schönherr concludes that the purpose of these
+--
+   they would do so again.^[53]
+  Algerian War[edit]
+   Gillo Pontecorvo's dramatic The Battle of Algiers ((Italian: La
+   battaglia di Algeri; Arabic: معركة الجزائر; French: La Bataille
+   d'Alger), 1966) portrayed events in the Algerian War (1954–1956). It
+   was shot on location as an Italo-Algerian co-production. It had the
    black and white newsreel style of Italian neorealism, and even-handedly
    depicts violence on both sides. It won various awards including Golden
    Lion at the Venice Film Festival.^[54] It was attacked by French
 --
+   Algerian (1958).^[55]
+  Vietnam War[edit]
+   Further information: Vietnam War in film
+   Few films before the late 1970s about the Vietnam War actually depicted
+   combat;^[56] exceptions include The Green Berets (1968).^[56] Critics
+   such as Basinger explain that Hollywood avoided the subject because of
+   opposition to United States involvement in the Vietnam War, making the
    subject divisive; in addition, the film industry was in crisis, and the
    army did not wish to assist in making anti-war films.^[56]^[57]
    From the late 1970s, independently financed and produced films showed
@@ -235,10 +325,25 @@ Spanish Civil War[edit]
    different portrayals of the war in which America had been defeated
    included Michael Cimino's The Deer Hunter (1978), and Francis Ford
 --
+   compelling .. subjective-camera-eye-view" of life under helicopter fire
+   in the Mekong Delta during the Vietnam War. The film cuts to an
+   (American) "helicopter-eye view", contrasting painfully with the human
    tenderness seen earlier.^[58]
   Later wars[edit]
    Dino Mustafić's Remake (2003), written by Zlatko Topčić, tells the
+   parallel coming-of-age stories of a father living in Sarajevo during
+   World War II and his son living through the Siege of Sarajevo during
+   the Bosnian War. According to Topčić, the story is based on incidents
+   from his own life.^[59]^[60]
+   The Iraq War served as the background story of U.S. movies, like The
+   Hurt Locker from 2008, Green Zone from 2010,^[61] and American Sniper
+   from 2014.
+   The War in Afghanistan since 2001 was depicted in various movies, among
+   them Restrepo in 2010 and Lone Survivor from 2013.^[61]
+Second World War[edit]
+   [220px-HMS_Tribune_fiming_1943_IWM_D_13211.jpg] Filming aboard the
 --
+  Made by Western Allies[edit]
    Further information: List of Allied propaganda films of World War II
    The first popular Allied war films made during the Second World War
    came from Britain and combined the functions of documentary and
@@ -248,6 +353,10 @@ Spanish Civil War[edit]
    Lean's In Which We Serve (1942)—"the most successful British film of
    the war years"^[62]—Millions Like Us (1943), and The Way Ahead
    (1944).^[63]
+--
+   Marshall commissioned the Why We Fight propaganda series from Frank
+   Capra; the War Department's Information-Education Division started out
+   making training films for the U.S. Air Force and U.S. Navy; the Army
 --
    (1943) showed Norwegian resistance fighters,^[66] and The North Star
    (1943) showed the Soviet Union and its Communist Party.^[67] Towards
@@ -268,6 +377,14 @@ Spanish Civil War[edit]
    been. The wartime audience was, she points out, well aware of friends
    and relatives who had been killed or who had come home wounded.^[74]
 --
+   Further information: Nazi propaganda and Japanese propaganda during
+   World War II
+   [220px-Bundesarchiv_Bild_183-1990-1002-500%2C_Besuch_von_Hitler_und_Goe
+--
+   (1935) and Kolberg (1945).
+   The Axis powers similarly made films during the Second World War, for
+   propaganda and other purposes. In Germany, the army high command
+--
    salt to simulate snow, it was the most costly German film made during
    the war. The actual siege ended with the surrender of the town; in the
    film, the French generals abandon the siege.^[77]
@@ -277,7 +394,7 @@ Spanish Civil War[edit]
    as a family man, and even enemy Chinese soldiers are presented as
    individuals, sometimes fighting bravely.^[78] Once war with the United
    States was declared, the Japanese conflict became known as the Pacific
---
+   War. Japanese film critics worried that even with Western film
    techniques, their film output failed to represent native Japanese
    values.^[79] The historian John Dower found that Japanese wartime films
    had been largely forgotten, as "losers do not get reruns", yet they
@@ -292,15 +409,17 @@ Spanish Civil War[edit]
    others."^[81]
   Postwar[edit]
    Further information: List of World War II films
+   [220px-Shooting_of_a_scene_from_A_bridge_too_far.jpg] Shooting a scene
 --
    According to Andrew Pulver of The Guardian, the public fascination with
    war films became an "obsession", with over 200 war films produced in
    each decade of the 1950s and 1960s.^[82] War film production in the
+   United Kingdom and United States reached its zenith in the mid-1950s.
 --
    "exclusively British [victory]", it failed in the American market.^[88]
    A large number of war films were made in the 1955–1958 period in
    particular. In 1957 alone, Bitter Victory, Count Five and Die, The
---
+   Enemy Below, Ill Met by Moonlight, Men in War, The One That Got Away,
    and Seven Thunders, and the highly successful, critically acclaimed
    pictures The Bridge on the River Kwai (which won the Academy Award for
    Best Picture that year^[89]) and Paths of Glory were released.^[90]
@@ -338,6 +457,7 @@ Spanish Civil War[edit]
    on the editing of the film Tunisian Victory in February 1944
    Many war films have been produced with the cooperation of a nation's
    military forces. Since the Second World War, the United States Navy has
+   provided ships and technical guidance for films such as Top Gun. The
 --
   Chinese[edit]
    The first Chinese war films were newsreels like Battle of Wuhan (1911)
@@ -345,15 +465,35 @@ Spanish Civil War[edit]
    Exploits (1925), war featured mainly as background. Only with the
    Second Sino–Japanese War from 1937 onwards did war film become a
    serious genre in China, with nationalistic films such as Shi Dongshan's
+   Protect Our Land (1938). The Chinese Civil War, too, attracted films
+   such as Cheng Yin's From Victory to Victory (1952). A more humanistic
+--
+   Massacre, and the "contrived Sino–Japanese romance" Don't Cry,
+   Nanking.^[109] Zhang Yimou's epic Chinese film Flowers of War (2011),
+   based on Geling Yan's novel, portrays the violent events through the
+--
+   Many Indonesian films deal with the occupation of the archipelago by
+   the Japanese during the Second World War. Teguh Karya's Doea Tanda Mata
+   (Mementos, literally "Two Eye Marks", 1985) covers the limited
 --
    Yogyakarta, 1951) and Serangan Fajar (Attack at Dawn, 1983) covers the
    Indonesian war of independence (1945–1949). Two other films about the
    same period portray the Indonesian equivalent of the Chinese Long
 --
+   Karya's November 1828 (1979) looks at Indonesia's struggle for
+   independence through historical drama about the Java or Diponegoro War
+   (1825–1830), though the colonial enemy was the same, the Dutch. Deanne
+--
+   (left) directing the filming of Stalingrad, 1987
    War has been the Soviet Union's cinema's major genre, becoming known
    indeed as the "cinema front", and its war films ranged from grim
    portrayals of atrocities to sentimental and even quietly subversive
---
+   accounts.^[115] Leonid Lukov's popular and "beautiful"^[116] Two
+   Warriors (1943) depicted two stereotypical Soviet soldiers, a quiet
+   Russian and an extrovert southerner from Odessa, singing in his
+   dugout.^[117]
+   The many Soviet films about the Second World War include both
+   large-scale epics such as Yury Ozerov's Battle of Moscow (1985) and
    Mikhail Kalatozov's more psychological The Cranes are Flying (1957) on
    the cruel effects of war; it won the 1958 Palme d'Or at Cannes.^[118]
   Japanese[edit]
@@ -363,7 +503,7 @@ Spanish Civil War[edit]
    (1967) from a Japanese perspective.^[119] These "generally fail to
    explain the cause of the war".^[120] In the decades immediately after
    the Second World War, Japanese films often focused on human tragedy
---
+   rather than combat, such as The Burmese Harp (1956) and Fires on the
    Plain (1959).^[120] From the late 1990s, films started to take a
    positive view of the war and of Japanese actions. These nationalistic
    films, including Pride (1998), Merdeka 17805 (2001), and The Truth
@@ -383,6 +523,13 @@ Spanish Civil War[edit]
    Similarly, commercially produced films often combined information,
    support for the war effort, and a degree of propaganda.^[63]^[64]
    Newsreels, ostensibly simply for information, were made in both Allied
+   and Axis countries, and were often dramatised.^[126]^[127]^[128] More
+   recently, in the Iran–Iraq War, Morteza Avini's Ravayat-e Fath
+   (Chronicles of Victory) television series combined front-line footage
+--
+  Propaganda[edit]
+   Further information: Propaganda film and World War I film propaganda
+   [220px-Nevsky2.jpg] Teutonic Order (German) monks prepare the hanging
 --
    been seen by 23,000,000 people.^[131] In 1941 the director and three
    others were awarded the Stalin Prize for their contributions. The film
@@ -394,6 +541,9 @@ Spanish Civil War[edit]
    motion pictures.^[135]
    [220px-Transmitlies.jpeg] Screenshot from Frank Capra's wartime Why We
    Fight series,^[136] depicting lies being broadcast by the Nazi
+   propaganda machine
+   During the Second World War, film propaganda was widely used. Kenneth
+   Clark advised the British government that "If we renounced interest in
 --
    getting across our propaganda"; he suggested using documentaries about
    the war and the war effort; celebrations of Britishness; and films
@@ -406,6 +556,8 @@ Spanish Civil War[edit]
    them.^[138] Frank Capra's Why We Fight series (1942–1945) won the 1942
    Academy Award for best documentary, though it was designed to
    "influence opinion in the U.S. military".^[64]^[139]
+   During the Cold War, "propaganda played as much of a role in the United
+   States' struggle with the Soviet Union as did the billions of dollars
 --
    Submarine films have their own particular meanings and conventions,
    concerned specifically with giving the effect of submarine warfare. A
@@ -435,11 +587,18 @@ Spanish Civil War[edit]
    Charlie Chaplin's Shoulder Arms (1918) set a style for war films to
    come, and was the first comedy about war in film history.^[147]^[148]
    British cinema in the Second World War marked the evacuation of
+   children from London with social comedies such as Those Kids from Town
 --
    concentration camps.^[150] Abbott and Costello's Buck Privates (1941)
    was successful in America,^[151] leading to many further wartime
    comedies.^[152]
 --
+   Winsor McCay's The Sinking of the Lusitania (1918) was a silent First
+   World War film. At 12 minutes long, it was the longest animated film
+   made at that time. It was probably the first animated propaganda film
+   to be made; it remains the earliest serious animated drama that has
+   survived.^[153]^[154]^[155] Through World War II, animated propaganda
+   shorts remained influential in American cinema. The Walt Disney
    Company, working with the American armed forces, produced 400,000 feet
    of war propaganda films between 1942 and 1945,^[156] including Der
    Fuehrer's Face (1943) and Education for Death (1943).^[157]
@@ -449,6 +608,7 @@ Spanish Civil War[edit]
    Fireflies (1988) is elegiac on the effect of war on
    children.^[158]^[159] Barefoot Gen (1983) portrays the bombing of
 --
+   "stomach-churning detail" bizarrely paired with crude artwork, giving
    it the look of a "Saturday morning Warner Brothers cartoon".^[161]
   Anti-war[edit]
    Further information: List of anti-war films
@@ -489,25 +649,89 @@ Spanish Civil War[edit]
    Comedy gave scope for satire, and post-war film-makers merged comedy
    and anti-war sentiment in films as varied as Stalag 17 (1953) and Dr
    Strangelove (1964).^[167] Black comedies like Mike Nichols's Catch-22
---
+   (1970), based on Joseph Heller's satirical novel about the Second World
+   War, and Robert Altman's MASH (1970), set in Korea, reflected the
+   attitudes of an increasingly sceptical public during the Vietnam
+   War.^[168]
+   Other genres were combined in Franklin J. Schaffner's Patton (1970),
    about real life General George S. Patton, where combat scenes were
    interleaved with commentary about how he waged war, showing good and
    bad sides to a command. It and MASH became the two most profitable
    war/anti-war films made up to that time,^[169] and Patton won seven
    Academy Awards.^[170]
 Notes[edit]
+    1. ^ Clarke's list of "notable Civil War films" is Shenandoah (1965),
+       Gods and Generals (2003), Andersonville (1966), The Beguiled
 --
+       ISBN 978-0-8386-3186-7.
+    3. ^ "Cinema and the Great War". AFI. Retrieved 23 June 2015.
     4. ^ Macnab, Geoffrey (20 October 2014). "Fury, film review: Brad Pitt
        stars as an unsympathetic hero in muted war movie". The
        Independent. Retrieved 5 March 2015.
 --
+    7. ^ Kane, 1982.
+    8. ^ Kane, Kathryn. "The World War II Combat Film". In: Wes D. Gehring
+       (ed.) Handbook of American Film Genres. New York: Greenwood Press,
+--
+   16. ^ ^a ^b Williams 2018, Chapter 2 Movie Types and Supergenres
    17. ^ ^a ^b ^c ^d ^e Beevor, Antony (29 May 2018). "War films: Antony
        Beevor: the greatest war movie ever – and the ones I can't bear".
        The Guardian.
 --
+   26. ^ Eberwein 2010, p. 5.
+   27. ^ "World War I: Siege Of Przemysl". YouTube. Archived from the
+       original on 2021-11-10. Retrieved 6 March 2015.
+--
+   30. ^ Smither, R.B.N. (2008). The Battle of the Somme (DVD viewing
+       guide) (PDF) (2nd rev. ed.). Imperial War Museum.
+       ISBN 978-0-901627-94-0. Archived from the original (PDF) on
+--
+   31. ^ Stock, Francine. "Why was the Battle of the Somme film bigger
+       than Star Wars?". BBC. Retrieved 29 June 2016.
+   32. ^ Suid 2002, pp. 24–26.
+--
        Air Power History. 38 (1): 55–58.
    34. ^ "The 1st Academy Awards : 1929". Oscars.org. Retrieved 23 June
        2015.
+--
+       British Film Institute. Retrieved 9 March 2015.
+   37. ^ "Oh! What a Lovely War (1969)". British Film Institute. Archived
+       from the original on 12 July 2012. Retrieved 9 March 2015.
+   38. ^ "War Horse (2011)". British Film Institute. Archived from the
+       original on 4 August 2012. Retrieved 9 March 2015.
+   39. ^ David H. Mould, and Charles M. Berg, "Fact and Fantasy in the
+       Films of World War One," Film & History (1984) 14#3 pp 50-60
+   40. ^ Haapala, Timo (2017-12-15). "Pääkirjoitus: Kansalaissota on arka
+--
+   47. ^ ^a ^b ^c "Franco, Fascists, and Freedom Fighters: The Spanish
+       Civil War on Film". Harvard Film Archive. 2015. Archived from the
+       original on 2015-03-07. Retrieved 11 March 2015.
+--
+   51. ^ West, Philip; Sŏ, Chi-mun (1 January 2001). Remembering the
+       "Forgotten War": The Korean War Through Literature and Art. M.E.
+       Sharpe. p. 127. ISBN 978-0-7656-0696-9.
+   52. ^ Paquet, Darcy. "South Korean Films About the Korean War
+       (1950–53): A Tool for Reference". Koreanfilm.org. Retrieved 6 March
+--
+   61. ^ ^a ^b Schwerdtfeger, Conner (19 January 2016). "The 10 Best Post
+       9/11 War Movies, Ranked". CinemaBlend. Retrieved 5 January 2021.
+   62. ^ Murphy 2005, p. 64.
+--
+       ISBN 0-14-024985-0.
+   74. ^ ^a ^b ^c Basinger, Jeanine (1998). "Translating War: The Combat
+       Film Genre and Saving Private Ryan". Perspectives on History.
+--
+       2015.
+   75. ^ Herzstein, Robert E (1979). The War that Hitler Won. Hamish
+       Hamilton. p. 281. ISBN 0-399-11845-4.
+--
+   78. ^ High, Peter B (2003). The Imperial Screen: Japanese Film Culture
+       in the Fifteen Years' War, 1931–1945. Madison: University of
+       Wisconsin Press. ISBN 0-299-18130-8. esp. Ch. 5 War Dramas in the
+       China Incident
+   79. ^ Calichman, Richard (2008). Overcoming Modernity: Cultural
+       Identity in Wartime Japan. Columbia University Press. p. 174.
+       ISBN 978-0-231-14396-7. "Even though Japanese film techniques were
 --
    82. ^ ^a ^b ^c Pulver, Andrew (17 July 2014). "Why are we so obsessed
        with films about the second world war?". The Guardian. Retrieved 7
@@ -516,45 +740,177 @@ Notes[edit]
        slender Zero. 25 of these bogus Zeroes were built"
    94. ^ "The Longest Day (1962) Awards". Turner Classic Movies, A Time
        Warner Company. Retrieved 7 March 2015.
+   95. ^ ^a ^b Suid 2002, pp. 188–189.
 --
+   100. ^ Dolan 1985, p. 87.
+   101. ^ Scott, A. O. (25 May 2001). "'Pearl Harbor': War Is Hell, but
+       Very Pretty". The New York Times. Retrieved 8 March 2015.
    102. ^ Bender 2013, p. ix.
    103. ^ Stein, Howard F. (2004). Beneath the Crust of Culture:
        Psychoanalytic Anthropology and the Cultural Unconscious in
 --
+       the cultural touchstone for the country's revived interest in World
+       War II.'"
+   104. ^ Holden, Stephen (24 May 1995). "Stalingrad (1992) Film Review;
+       In War's Horrors, Chaos May Rank With Carnage". New York Times.
+       Retrieved 8 March 2015.
+--
+       Cinema. Rowman & Littlefield. pp. 168–169. ISBN 978-0-8108-6779-6.
+   109. ^ Li, Peter. Japanese War Crimes: The Search for Justice.
        Transaction Publishers. pp. 204–223. ISBN 978-1-4128-2683-9.
    110. ^ "The story behind Chinese war epic The Flowers of War". BBC.
        Retrieved 10 March 2015.
 --
+   117. ^ Stites 1992, pp. 113–114.
+   118. ^ "See The War With Russian Eyes: Soviet And Russian Films About
+       World War 2". The Embassy of the Russian Federation to the United
+       Kingdom of Great Britain and Northern Ireland. The Ministry of
+--
+   120. ^ ^a ^b ^c USNI Staff (14 April 2014). "Through Japanese Eyes:
+       World War II in Japanese Cinema". United States Naval Institute.
+       Retrieved 8 March 2015.
+   121. ^ High, Peter B. (2003). The Imperial Screen: Japanese Film
+       Culture in the Fifteen Years' War, 1931–1945. Wisconsin Studies in
+       Film. Madison: University of Wisconsin Press. p. xxvi.
+--
+       Zero'". Variety. Retrieved 12 March 2015.
+   126. ^ "The Art of Wartime Newsreels – 1940 through 1946". 1940s.org.
+       Retrieved 8 March 2015.
+   127. ^ "German Wartime Newsreels (Die Deutsche Wochenschau)".
+       International Historic Films. Archived from the original on
+       2015-04-02. Retrieved 8 March 2015.
+   128. ^ "Wartime Newsreel British News Now Online". British Universities
+       Film & Video Council. Retrieved 8 March 2015.
+   129. ^ Rastegar, Kamran (2015). Surviving Images: Cinema, War, and
+       Cultural Memory in the Middle East. Oxford University Press.
+--
+   134. ^ Merritt, Russell (1994). "Recharging "Alexander Nevsky":
+       Tracking the Eisenstein-Prokofiev War Horse". Film Quarterly. 48
+       (2): 34–47. doi:10.1525/fq.1994.48.2.04a00050. JSTOR 1213094.
+--
+   137. ^ Murphy 2005, pp. 61–62.
+   138. ^ ^a ^b "World War II Movies – Propaganda and Patriotism".
+       Retrieved 8 March 2015.
+--
        New York Times. Retrieved 8 March 2015.
    144. ^ ^a ^b ^c ^d ^e Wigley, Samuel. "10 great prisoner-of-war films".
        British Film Institute. Retrieved 6 March 2015.
+   145. ^ O'Neill, Esther Margaret (October 2006). "British World War Two
+       Films 1945–65: Catharsis or National Regeneration?" (PDF).
+--
+   146. ^ MacKenzie, S. P. (2004). The Colditz Myth British and
+       Commonwealth Prisoners of War in Nazi Germany. Oxford University
+       Press. p. 20 and passim. ISBN 978-0-19-926210-6. "stung by
+--
+       ..."
+   147. ^ "Charlie Chaplin goes to War". RRCHNM. Archived from the
+       original on 2015-03-16. Retrieved 6 March 2015.
+   148. ^ ^a ^b ^c Thrift, Matthew (1 July 2014). "10 great First World
+       War films". British Film Institute. Retrieved 6 March 2015.
+   149. ^ Murphy 2005, pp. 34–35.
 --
        Press. p. 116. ISBN 978-1-903364-20-8.
    156. ^ Churchill, Edward (March 1945). "Walt Disney's Animated War".
        Flying. 36 (3): 50–51, 134–138.
+   157. ^ Shull, Michael S.; Wilt, David E. (2005). Doing Their Bit:
+       Wartime American Animated Short Films, 1939–1945 (2nd ed.).
+       Jefferson, North Carolina: McFarland and Company. p. 60.
+--
+   158. ^ Singleton, Jack (23 August 2011). "Japanese Animation, the
+       Pacific War and the Atomic Bomb". Impact, University of Nottingham.
+       Archived from the original on 7 September 2019. Retrieved 11 March
+--
+   163. ^ Smith, Jeff (2014). "Reading the Hollywood Reds". Film
+       Criticism, the Cold War, and the Blacklist. University of
+       California Press. ISBN 978-0-520-95851-7.
 --
    169. ^ Suid 2002, pp. 260–277.
    170. ^ "The 43rd Academy Awards (1971) Nominees and Winners". Retrieved
        8 March 2015.
+--
+     *
+   Basinger, Jeanine (1986). World War II Combat Film: The Anatomy of a
+   Genre. Columbia University Press. ISBN 978-0-231-05952-7.
+--
+   ISBN 978-0-07-004466-1.
+     Bender, Stuart (2013). Film Style and the World War II Combat Genre.
+   Cambridge Scholars Publishing. ISBN 978-1-4438-4336-2.
+     Clarke, James (2006). War Films. Virgin Books.
+   ISBN 978-0-7535-1094-0.
 --
    ISBN 978-1-60182-425-7.
      Dolan, Edward F. Jr. (1985). Hollywood Goes to War. Bison Books.
    ISBN 0-86124-229-7.
      Dower, John (1993). "Japanese cinema goes to war". In Dower, John
    (ed.). Japan in War and Peace: Selected Essays. NY: New Press.
+   pp. 33–54. ISBN 1-56584-067-4.
+     Eberwein, Robert T. (2005). The War Film. Rutgers University Press.
+   ISBN 0-8135-3496-8.
+     Eberwein, Robert T. (2010). The Hollywood War Film. Wiley-Blackwell.
+   ISBN 978-1-4051-7391-9.
 --
+   ISBN 978-0-399-51780-8.
+     Murphy, Robert (2005). British Cinema and the Second World War. A&C
+   Black. ISBN 978-0-8264-7897-9.
+     Napier, Susan (2005). "World War II as Trauma, Memory and Fantasy in
+   Japanese Animation". The Asia-Pacific Journal: Japan Focus (1972).
+     Neale, Stephen (2000). War Films. Psychology Press. pp. 117–124.
+   ISBN 978-0-415-02606-2. {{cite book}}: |work= ignored (help)
+     Orriss, Bruce (1984). When Hollywood Ruled the Skies: The Aviation
+   Film Classics of World War II. Aero Associates. ISBN 0-9613088-0-X.
+     Parish, James Robert (1990). The Great Combat Pictures:
+   Twentieth-Century Warfare on the Screen. Scarecrow Press.
+   ISBN 978-0-8108-2315-0.
+     Rayner, Jonathan (2007). The Naval War Film: Genre, History and
+   National Cinema. Manchester University Press. ISBN 978-0-7190-7098-3.
+--
+     Tam, King-fai; Tsu, Timothy Y.; Wilson, Sandra (2014). Chinese and
+   Japanese Films on the Second World War. Routledge.
+   ISBN 978-1-317-65046-1.
+     Westwell, Guy (2006). War Cinema: Hollywood on the Front Line.
+   Wallflower. ISBN 978-1-904764-54-0.
+--
+   Pedagogy, Theory. Routledge. ISBN 978-1-135-57661-5.
+     Youngblood, Denise J. (2010) [2006]. Russian War Films: On the Cinema
+   Front, 1914–2005. University Press of Kansas. ISBN 978-0-7006-1761-6.
+--
+   Castellan, James W.; van Dopperen, Ron; Graham, Cooper C. (2014).
+   American Cinematographers in the Great War, 1914–1918. New Barnet.
+   ISBN 978-0-86196-717-9.
+     DeBauche, Leslie Midkiff (1997). Reel Patriotism: the Movies and
+   World War I. University of Wisconsin Press. ISBN 0-299-15400-9.
+     Kane, Kathryn R. (1982). Visions of War: Hollywood Combat Films of
+   World War II. UMI Research. ISBN 0-8357-1286-9.
+     Lim, Song Hwee; Ward, Julian (2011). The Chinese Cinema Book.
    Palgrave Macmillan. ISBN 978-1-84457-580-0.
      Slater, Jay (2009). Under Fire: a century of war movies. Ian Allan
    Publishing. ISBN 978-0-7110-3385-6.
---
+     Stites, Richard (1995). Culture and Entertainment in Wartime Russia.
+   Indiana University Press. ISBN 0-253-35403-X.
+     Taylor, Mark (2003). The Vietnam War in History, Literature, and
+   Film. University of Alabama Press. ISBN 0-8173-1401-6.
+External links[edit]
+     * Imperial War Museum: First World War Film Collection Archived
+       2015-06-27 at the Wayback Machine
+     * "Mobilizing Movies! The U.S. Signal Corps Goes to War, 1917-1919".
+       Documentary on the U.S. film effort during the First World War
+       (2017)
+     * Archived 2015-06-27 at the Wayback Machine
      * Michael Wilmington & Dann Gire: World on War: A Film Discussion
      * British Film Institute: 10 great battleship and war-at-sea films
      * v
 --
+     * Vigilante
      * War
           + Anti-war
           + Euro War
+          + Submarine
 --
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=War_film&oldid=1180297492"
+   Categories:
+     * Film genres
+     * War films
      * Military fiction
      * Works about wars
      * Documentary films about war

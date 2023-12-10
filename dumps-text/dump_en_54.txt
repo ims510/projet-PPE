@@ -43,16 +43,16 @@ Live
    Navigation menu (BUTTON) caret-left
      * Israel-Palestine conflict
      * Live updates
-     * A brief history
-     * Will the truce be extended?
-     * Reporter's notebook
-     * Key events
+     * Did tech dependence cause intel failure?
      * Photos
-     * The truce deal explained
+     * What role is AI playing?
+     * 'We are dying here'
+     * Does Israel's 'kill-rate' claim add up?
+     * A brief history
+     * Will Netanyahu risk a tunnel conflict?
      * Live tracker
-     * What Palestinian symbols mean
+     * Has the war divided the world?
      * A simple guide
-     * If Gaza was your city
 
    (BUTTON) caret-right
 
@@ -95,19 +95,19 @@ Keep reading
 
    list 1 of 4
 
-Happily, Joe Biden is finished
+Israel cannot carry out ‘collective punishment’ of people in Gaza: Lavrov
 
    list 2 of 4
 
-Three Palestinian students aged 20 shot in Vermont, US: What to know
+How international law is used to cover up Israeli settler-colonialism
 
    list 3 of 4
 
-Vermont police arrest suspect in ‘hate-motivated’ shooting of Palestinians
+Sirens blare in Spanish civil war town of Guernica in solidarity with Gaza
 
    list 4 of 4
 
-History Illustrated: Israel, Hamas and the toil of the prisoner exchange
+Calls to reform UN Security Council after US vetoes Gaza ceasefire
 
    end of list
 
@@ -216,7 +216,6 @@ History Illustrated: Israel, Hamas and the toil of the prisoner exchange
           + Cookie Policy
           + Cookie Preferences
           + Sitemap
-          + Community Guidelines
           + Work for us
           + HR Quality
      * (BUTTON) Connect (BUTTON) Show more

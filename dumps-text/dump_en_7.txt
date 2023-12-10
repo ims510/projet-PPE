@@ -247,7 +247,7 @@ Russo-Ukrainian War
    bombing during the Siege of Mariupol; Russian soldiers during the
    invasion of Crimea; Civilians killed by Russian missile strikes on Kyiv
    Date 20 February 2014^[b] – present
-   (9 years, 9 months, 1 week and 1 day)
+   (9 years, 9 months and 3 weeks)
    Location
    Ukraine, Russia, and Black Sea (spillover into Poland, Moldova,
    Belarus)
@@ -3165,7 +3165,7 @@ References
        The Guardian. 18 October 2022. Retrieved 14 November 2022.
    405. ^ Nissenbaum, Dion; Faucon, Benoit (24 April 2023). "Iran Ships
        Ammunition to Russia by Caspian Sea to Aid Invasion of Ukraine".
-       Wall Street Journal. ISSN 0099-9660. Retrieved 13 July 2023.
+       The Wall Street Journal. ISSN 0099-9660. Retrieved 13 July 2023.
    406. ^ "British Defense Ministry: Russia loses 40 armored assault
        vehicles a day in Ukraine". Meduza. 3 November 2022. Retrieved 14
        November 2022.
@@ -3306,6 +3306,7 @@ External links
      * OSCE Special Monitoring Mission to Ukraine
      * Act of 2014
      * China and the Russian invasion of Ukraine
+     * Iran and the Russian invasion of Ukraine
      * United States and the Russian invasion of Ukraine
      * ICJ case
      * ORDLO
@@ -3441,6 +3442,7 @@ External links
      * Belarus–Ukraine
      * Belarus–Russia
      * Russia–United States
+     * Ukraine–United States
      * Russia–NATO
      * Ukraine–NATO
           + enlargement of NATO
@@ -3552,7 +3554,7 @@ External links
      * Dyagilevo and Engels air bases attacks
      * Makiivka military quarters shelling
      * Machulishchy air base attack
-     * Zarichne barracks airstrike [uk]
+     * Zarichne barracks airstrike
 
    Resistance
    Russian-occupied Ukraine
@@ -3803,7 +3805,7 @@ External links
      * Opinion polling [ru]
      * Orthodox Christmas truce proposal
      * Wagner Group–Ministry of Defense conflict
-     * Russian Orthodox clergymen appeal against war [ru]
+     * Russian Orthodox clergymen appeal against war
      * Salvation Committee for Peace and Order
      * Special Coordinating Council
      * Ukraine bioweapons conspiracy theory
@@ -3834,6 +3836,8 @@ External links
      * Croatia
      * Denmark
           + Danish European Union defence opt-out referendum
+     * Federated States of Micronesia
+          + Federated States of Micronesia–Russia relations [ru]
      * France
           + Mission Aigle
      * Georgia [ru]
@@ -3884,7 +3888,7 @@ External links
      * SWIFT ban against Russian banks
      * Ukraine Recovery Conference
      * Versailles declaration
-     * 2023 Vilnius Summit
+     * 2023 Vilnius summit
      * 15th BRICS summit
 
    Other
@@ -4033,7 +4037,7 @@ External links
      * Ukrainian cultural heritage
           + art theft and looting
           + damaged cultural sites
-     * Ukrainian syndrome
+     * Trauma
      * Urengoy–Pomary–Uzhhorod pipeline explosion
      * Women
 
@@ -4469,7 +4473,7 @@ External links
    Lead figures (Russia)
      * Vladimir Putin
      * Dmitry Medvedev
-     * Sergey Shoygu
+     * Sergey Shoigu
      * Vladislav Surkov
      * Sergey Lavrov
      * Valery Gerasimov
@@ -5138,6 +5142,10 @@ External links
      * Unrest in Kosovo (2004)
      * Macedonian inter-ethnic violence (2012)
 
+   Western Europe
+
+     * Dissident Irish republican campaign (1998–present)
+
    Related topics
 
      * List of Post-Soviet conflicts
@@ -5550,10 +5558,15 @@ External links
                o campaign
           + 2018
                o campaign
+          + 2024
+               o campaign
      * First Cabinet
      * Second Cabinet
      * United Russia
      * All-Russia People's Front
+
+   [140px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1
+   %82%D0%B8%D0%BD_%2818-06-2023%29_%28cropped%29.jpg]
 
    Presidency
 
@@ -5783,7 +5796,7 @@ External links
 
    Retrieved from
    "https://en.wikipedia.org/w/index.php?title=Russo-Ukrainian_War&oldid=1
-   186405447"
+   187593402"
 
    Categories:
      * Russo-Ukrainian War
@@ -5834,13 +5847,14 @@ External links
      * Wikipedia articles needing clarification from April 2022
      * Portal templates with redlinked portals
      * Articles with Encyclopædia Britannica links
+     * Interlanguage link template existing link
      * Articles with GND identifiers
      * Articles with J9U identifiers
      * Articles with LCCN identifiers
      * Articles with LNB identifiers
      * Articles containing video clips
 
-     * This page was last edited on 22 November 2023, at 22:37 (UTC).
+     * This page was last edited on 30 November 2023, at 05:44 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        License 4.0; additional terms may apply. By using this site, you
        agree to the Terms of Use and Privacy Policy. Wikipedia® is a

@@ -4,7 +4,7 @@
 INPUT_PATH=$1
 OUTPUT_PATH=$2
 
-WORD_REGEX="(wars?)|(WARS?)"
+WORD_REGEX="(wars?)|(WARS?)|(Wars?)"
 
 echo "<!DOCTYPE html>
 <html>
@@ -23,7 +23,8 @@ echo "<!DOCTYPE html>
       </thead>
       <tbody>" > "$OUTPUT_PATH"
 
-CONCORDANCE_TABLE=$(cat $INPUT_PATH | sed '/^$/d'| egrep $WORD_REGEX | sed -E "s~(.*)($WORD_REGEX)(.*)~<tr><td>\1</td><td>\2</td><td>\9</td></tr>~g")
+CONCORDANCE_TABLE=$(cat $INPUT_PATH | sed '/^$/d'| egrep $WORD_REGEX | sed -E "s~(.*)($WORD_REGEX)(.*)~<tr><td>\1</td><td>\2</td><td>\6</td></tr>~g")
+#1 = .*, 2 = WORD_REGEX (ici trois groupes), 5 = suite.
 
 echo "$CONCORDANCE_TABLE" >> "$OUTPUT_PATH"
 

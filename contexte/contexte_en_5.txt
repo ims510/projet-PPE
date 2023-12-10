@@ -8,6 +8,8 @@
                o 4.2.2Continuation of trench warfare
           + 4.3Naval war
           + 4.4Southern theatres
+               o 4.4.1War in the Balkans
+               o 4.4.2Ottoman Empire
 --
           + 4.6Central Powers peace overtures
           + 4.7Final years of the war
@@ -19,6 +21,7 @@
           + 5.1Formal end of the war
           + 5.2Peace treaties and national boundaries
 --
+       (BUTTON) Toggle Casualties subsection
           + 6.1War crimes
                o 6.1.1Chemical weapons in warfare
                o 6.1.2Genocides by the Ottoman Empire
@@ -32,6 +35,29 @@
        (BUTTON) Toggle Support and opposition for the war subsection
           + 9.1Support
 --
+   [ ] Toggle the table of contents
+World War I
+   [ ] 214 languages
+--
+   1914–1918 global conflict
+   Several terms redirect here. For other uses, see The First World War
+   (disambiguation), World War One (disambiguation), Great War
+   (disambiguation), and WWI (disambiguation).
+   World War I
+   From top to bottom, left to right:
+--
+   Result Allied Powers victory
+   See Aftermath of World War I
+   Territorial
+--
+     * e
+   Theaters of World War I
+   Europe
+--
+     * Mediterranean
+   World War I (WWI or WW1), also known as the First World War, or in
+   historical contexts, the Great War, was a global conflict from 1914 to
+   1918. It was fought between two coalitions: the Allied Powers and the
    Central Powers. Fighting took place throughout Europe, the Middle East,
    Africa, the Pacific, and parts of Asia. One of the deadliest wars in
    history, it resulted in an estimated 9 million soldiers dead and 23
@@ -54,49 +80,98 @@
    the creation of new independent states, including Poland, Finland,
    Czechoslovakia, and Yugoslavia. The inability to manage post-war
    instability contributed to the outbreak of World War II in September
---
+   1939.
 Names
    The term world war was first coined in September 1914 by German
    biologist and philosopher Ernst Haeckel. He claimed that "there is no
    doubt that the course and character of the feared 'European War' ...
    will become the first world war in the full sense of the word,"^[1] in
    The Indianapolis Star on 20 September 1914.
+   The term First World War had been used by Lt-Col. Charles à Court
+   Repington, as a title for his memoirs (published in 1920); he had noted
 --
+   University in his diary entry of 10 September 1918.^[2]^[3]
+   Prior to World War II, the events of 1914–1918 were generally known as
+   the Great War or simply the World War.^[4] In August 1914, the magazine
+   The Independent wrote "This is the Great War. It names itself".^[5] In
    October 1914, the Canadian magazine Maclean's similarly wrote, "Some
    wars name themselves. This is the Great War."^[6] Contemporary
    Europeans also referred to it as "the war to end war" and it was also
    described as "the war to end all wars" due to their perception of its
    unparalleled scale, devastation, and loss of life.^[7]
+Background
+   Main article: Causes of World War I
+  Political and military alliances
+--
+   decline of the Ottoman Empire, New Imperialism, and the rise of Prussia
+   under Otto von Bismarck. The 1866 Austro-Prussian War established
+   Prussian hegemony in German states, while victory in the 1870–1871
+   Franco-Prussian War allowed Bismarck to consolidate the German states
+   into a German Empire under Prussian leadership. Avenging the defeat of
 --
      Triple Alliance
    In order to isolate France and avoid a war on two fronts, Bismarck
    negotiated the League of the Three Emperors (German: Dreikaiserbund)
+   between Austria-Hungary, Russia and Germany. After Russian victory in
+   the 1877–1878 Russo-Turkish War, the League was dissolved due to
+   Austrian concerns over Russian influence in the Balkans, an area they
+--
+   German concern over Russia's quick recovery from its defeat in the
+   Russo-Japanese War and subsequent 1905 Russian Revolution that same
+   year. Economic reforms backed by funding from the French led to a
+--
+   ambitions in the region.^[22]
+   Tensions increased after the 1911–1912 Italo-Turkish War demonstrated
+   Ottoman weakness and led to the formation of the Balkan League, an
+--
+   quickly overran most of the Ottomans' territory in the Balkans during
+   the 1912–1913 First Balkan War, much to the surprise of outside
+   observers.^[24] The Serbian capture of ports on the Adriatic resulted
 --
    next day, the Russian government decided not to mobilise in response,
    unwilling to precipitate a war for which they were not as of yet
    prepared to handle.^[25]
 --
+   territories of Bulgaria, Serbia, Montenegro and Greece. However,
+   disputes between the victors sparked the 33-day Second Balkan War, when
+   Bulgaria attacked Serbia and Greece on 16 June 1913; it was defeated,
+--
+   Romania.^[26] The result was that even countries which benefited from
+   the Balkan Wars, such as Serbia and Greece, felt cheated of their
+   "rightful gains", while for Austria it demonstrated the apparent
+--
+Prelude
+   For a chronological guide, see Timeline of World War I.
+  Sarajevo assassination
+--
    took a wrong turn into a street where Gavrilo Princip was standing. He
    stepped forward and fired two pistol shots, fatally wounding Ferdinand
-   and his wife Sophie, who both died shortly thereafter.^[33] Although
+   and his wife Sophie, who both died shortly thereafter.^[34] Although
+--
+  July Crisis
+   Main articles: July Crisis, German entry into World War I,
+   Austro-Hungarian entry into World War I, and Russian entry into World
+   War I
+   The assassination initiated the July Crisis, a month of diplomatic
 --
    Ferdinand's murder, Austrian officials wanted to use the opportunity to
    end their interference in Bosnia and saw war as the best way of
-   achieving this.^[43] However, the Foreign Ministry had no solid proof
+   achieving this.^[44] However, the Foreign Ministry had no solid proof
 --
    ordered partial mobilisation the next day; on 28 July, they declared
    war on Serbia and began shelling Belgrade. Having initiated war
    preparations on 25 July, Russia now ordered general mobilisation in
 --
    presenting Russia as the aggressor, German Chancellor Bethmann Hollweg
-   delayed commencement of war preparations until 31 July.^[49] That
+   delayed commencement of war preparations until 31 July.^[50] That
    afternoon the Russian government were handed a note requiring them to
    "cease all war measures against Germany and Austria-Hungary" within 12
-   hours.^[50] A further German demand for neutrality was refused by the
-   French who ordered general mobilisation but delayed declaring war.^[51]
+   hours.^[51] A further German demand for neutrality was refused by the
+   French who ordered general mobilisation but delayed declaring war.^[52]
    The German General Staff had long assumed they faced a war on two
    fronts; the Schlieffen Plan envisaged using 80% of the army to defeat
 --
+   move quickly, mobilisation orders were issued that afternoon.^[53]
    [220px-The_War_of_the_Nations_WW1_337.jpg] Cheering crowds in London
    and Paris on the day war was declared.
    At a meeting on 29 July, the British cabinet had narrowly decided its
@@ -117,6 +192,7 @@ Names
    at war.^[61]
 Progress of the war
    Further information: Diplomatic history of World War I
+  Opening hostilities
 --
    repulsed with heavy losses, dashing their hopes of a swift victory and
    marking the first major Allied victories of the war. As a result,
@@ -136,6 +212,9 @@ Progress of the war
    defeat; shortly after the Marne, Crown Prince Wilhelm told an American
    reporter; "We have lost the war. It will go on for a long time but lost
    it is already."^[75]
+    Asia and the Pacific
+   Main article: Asian and Pacific theatre of World War I
+   [310px-World_1914_empires_colonies_territory.PNG] World empires and
 --
    sank the Russian cruiser Zhemchug in the Battle of Penang. Japan
    declared war on Germany prior to seizing territories in the Pacific
@@ -145,6 +224,7 @@ Progress of the war
    Japan declared war on Austria-Hungary as well, and the ship was sunk at
    Tsingtao in November 1914.^[76] Within a few months, Allied forces had
 --
+    African campaigns
    Main article: African theatre of World War I
    Some of the first clashes of the war involved British, French, and
    German colonial forces in Africa. On 6–7 August, French and British
@@ -155,6 +235,10 @@ Progress of the war
    Lettow-Vorbeck, fought a guerrilla warfare campaign during World War I
    and only surrendered two weeks after the armistice took effect in
 --
+    Indian support for the Allies
+   Main article: Indian Army during World War I
+   Further information: Hindu–German Conspiracy, Niedermayer–Hentig
+   Expedition, and Third Anglo-Afghan War
    [220px-Indian_forces_on_their_way_to_the_Front_in_Flanders_-_first_worl
    d_war_2.jpg] British Indian Army infantry divisions in France; these
    troops were withdrawn in December 1915, and served in the Mesopotamian
@@ -173,6 +257,7 @@ Progress of the war
    The suffering engendered by the war, as well as the failure of the
    British government to grant self-government to India after the end of
 --
+  Western Front 1914 to 1916
    Main article: Western Front (World War I)
     Trench warfare begins
    [220px-Indian_infantry_digging_trenches_Fauquissart%2C_France_%28Photo_
@@ -197,16 +282,13 @@ Progress of the war
    At the start of the war, German cruisers were scattered across the
    globe, some of which were subsequently used to attack Allied merchant
 --
-   tactic of the British, Germany expected a similar response to its
-   unrestricted submarine warfare.^[98]
-   The Battle of Jutland (German: Skagerrakschlacht, or "Battle of the
-   Skagerrak") in May/June 1916 developed into the largest naval battle of
-   the war. It was the only full-scale clash of battleships during the
-   war, and one of the largest in history. The Kaiserliche Marine's High
-   Seas Fleet, commanded by Vice Admiral Reinhard Scheer, fought the Royal
---
-   asserted their control of the sea, and the bulk of the German surface
-   fleet remained confined to port for the duration of the war.^[99]
+   was limited response to this tactic of the British, Germany expected a
+   similar response to its unrestricted submarine warfare.^[98]
+   The Battle of Jutland ^[k] in May/June 1916 was the only full-scale
+   clash of battleships during the war, and one of the largest in history.
+   The clash was indecisive, although the Germans inflicted more damage
+   than they received, since thereafter the bulk of the German High Seas
+   Fleet was confined to port for the duration of the war.^[99]
    [220px-NationaalArchief_uboat155London.jpg] U-155 exhibited near Tower
 --
    German U-boats attempted to cut the supply lines between North America
@@ -220,6 +302,15 @@ Progress of the war
    Germany adopted a policy of unrestricted submarine warfare, realising
    the Americans would eventually enter the war.^[100]^[103] Germany
    sought to strangle Allied sea lanes before the United States could
+--
+   cost of 199 submarines.^[105]
+   World War I also saw the first use of aircraft carriers in combat, with
+   HMS Furious launching Sopwith Camels in a successful raid against the
+--
+  Southern theatres
+    War in the Balkans
+   Main articles: Balkans theatre, Bulgaria during World War I, Serbian
+   campaign, and Macedonian front
 --
    Montenegro allied itself with Serbia.^[108]
    Bulgaria declared war on Serbia on 14 October 1915 and joined in the
@@ -237,6 +328,11 @@ Progress of the war
    during the war, a quarter of its pre-war population.^[113]
    Serbian and French troops finally made a breakthrough in September 1918
 --
+    Ottoman Empire
+   Main article: Ottoman Empire in World War I
+   See also: Middle Eastern theatre of World War I
+   [220px-Scene_just_before_the_evacuation_at_Anzac._Australian_troops_cha
+--
    progressed, the Ottoman Empire took advantage of the European powers'
    preoccupation with the war and conducted large-scale ethnic cleansing
    of the indigenous Armenian, Greek, and Assyrian Christian populations,
@@ -252,6 +348,11 @@ Progress of the war
    The Senussi tribe, along the border of Italian Libya and British Egypt,
    incited and armed by the Turks, waged a small-scale guerrilla war
    against Allied troops. The British were forced to dispatch 12,000
+--
+    Italian Front
+   Main articles: Italian front (World War I), White War, and Military
+   history of Italy during World War I
+   [220px-Italian_Front_1915-1917.jpg] Isonzo Offensives 1915–1917
 --
    in the Triple Alliance.^[131]
    When the war began in 1914, Italy argued the Triple Alliance was
@@ -278,15 +379,9 @@ Progress of the war
 --
    Austria-Hungary and Italy which occupied Trieste and areas along the
    Adriatic Sea awarded to it in 1915.^[143]
-    Romanian participation
---
-   and pro-Entente factions, Romania remained neutral in 1914, arguing
-   like Italy that because Austria-Hungary had declared war on Serbia, it
-   was under no obligation to join them.^[146] They maintained this
---
-   Austria-Hungary and granting oil concessions to Germany.^[151] Romania
-   re-entered the war on 10 November 1918 on the side of the Allies and
-   the Treaty of Bucharest was formally annulled by the Armistice of 11
+  Eastern Front
+   Main article: Eastern Front (World War I)
+    Initial actions
 --
    Grand Duke Nikolaevich following the Russian capture of Przemyśl, the
    longest siege of the war.
@@ -300,11 +395,31 @@ Progress of the war
    also fatally weakened both the Austrian and Russian armies, whose
    offensive capabilities were badly affected by their losses and
    increased the disillusionment with the war that ultimately led to the
-   Russian revolutions.^[158]
+   Russian revolutions.^[148]
+--
+    Romanian participation
+   Main article: Romania in World War I
+   World War I is located in Romania
+   Bucharest
+--
+   Romania increasingly found itself at odds with the Central Powers over
+   their support for Bulgaria in the 1912 to 1913 Balkan Wars and the
+   status of ethnic Romanian communities in Hungarian-controlled
+--
+   and pro-Entente factions, Romania remained neutral in 1914, arguing
+   like Italy that because Austria-Hungary had declared war on Serbia, it
+   was under no obligation to join them.^[152] They maintained this
+--
+   Austria-Hungary and granting oil concessions to Germany.^[157] Romania
+   re-entered the war on 10 November 1918 on the side of the Allies and
+   the Treaty of Bucharest was formally annulled by the Armistice of 11
 --
    negotiate a peace with the Allies.^[160] However, this attempt was
    rejected out of hand as a "duplicitous war ruse".^[160]
    Soon after, US president Woodrow Wilson attempted to intervene as a
+   peacemaker, asking in a note for both sides to state their demands and
+   start negotiations. Lloyd George's War Cabinet considered the German
+   offer to be a ploy to create divisions amongst the Allies. After
 --
    separate effort, signalling that the United States was on the verge of
    entering the war against Germany following the "submarine outrages".
@@ -318,6 +433,7 @@ Progress of the war
    proposals.^[citation needed]
   Final years of the war
    Main article: Timeline of World War I (1917–1918)
+    Russian Revolution and withdrawal
 --
    forced Nicholas to abdicate and established the Russian Provisional
    Government, which confirmed Russia's willingness to continue the war.
@@ -366,6 +482,10 @@ Progress of the war
    Germans off the commanding heights, and closing towards the Belgian
    frontier.^[200] On 8 October the Hindenburg Line was pierced again by
 --
+   with relatively small casualties, and subsequently made a breakthrough
+   in the front, something which was rarely seen in World War I. After the
+   front was broken, Allied forces started to liberate Serbia and reached
+--
    Ferdinand I described the situation thus: "Disgraceful! 62,000 Serbs
    decided the war!".^[205]^[206] On the same day, the German Supreme Army
    Command informed Kaiser Wilhelm II and the Imperial Chancellor Count
@@ -381,6 +501,7 @@ Progress of the war
    last, large-scale operation in a war they believed to be as good as
    lost, initiating the uprising. The sailors' revolt, which then ensued
 --
+Aftermath
    Main article: Aftermath of World War I
    In the aftermath of the war, four empires disappeared: the German,
    Austro-Hungarian, Ottoman, and Russian.^[m] Numerous nations regained
@@ -402,6 +523,7 @@ Progress of the war
    2 July 1921 by President Warren G. Harding.^[220] For the United
    Kingdom and the British Empire, the state of war ceased under the
    provisions of the Termination of the Present War (Definition) Act 1918
+   with respect to:
 --
    minister Eleftherios Venizelos signing the Treaty of Sèvres
    Some war memorials date the end of the war as being when the Versailles
@@ -409,7 +531,7 @@ Progress of the war
    abroad finally returned home; by contrast, most commemorations of the
    war's end concentrate on the armistice of 11 November 1918.^[226]
   Peace treaties and national boundaries
---
+   [280px-Map_Europe_1923-en.svg.png] Map of territorial changes in Europe
    after World War I (as of 1923)
    After the war, there grew a certain amount of academic focus on the
    causes of war and on the elements that could make peace flourish. In
@@ -422,6 +544,8 @@ Progress of the war
    and damage to which the Allied and Associated Governments and their
    nationals have been subjected as a consequence of the war imposed upon
    them by" their aggression. In the Treaty of Versailles, this statement
+   was Article 231. This article became known as the War Guilt clause as
+   the majority of Germans felt humiliated and resentful.^[230] Overall
 --
    historian Laurence Van Ypersele emphasises the central role played by
    memory of the war and the Versailles Treaty in German politics in the
@@ -449,13 +573,23 @@ Progress of the war
    those nations' "Baptism of Fire". It was the first major war in which
    the newly established countries fought, and it was one of the first
 --
+   moment.^[242]^[243]
    In the aftermath of World War I, Greece fought against Turkish
    nationalists led by Mustafa Kemal, a war that eventually resulted in a
    massive population exchange between the two countries under the Treaty
 --
+Casualties
+   Main article: World War I casualties
+   Further information: Spanish flu and Gueules cassées
+--
    another 71,000 in the first half of 1919 when the blockade was still in
    effect.^[249] By the end of the war, starvation caused by famine had
    killed approximately 100,000 people in Lebanon.^[250] Between 5 and
+--
+   there were between 4.5 million and 7 million homeless children in
+   Russia as a result of nearly a decade of devastation from World War I,
+   the Russian Civil War, and the subsequent famine of 1920–1922.^[252]
+   Numerous anti-Soviet Russians fled the country after the Revolution; by
 --
    flu pandemic in Camp Funston, Kansas, 1918
    Diseases flourished in the chaotic wartime conditions. In 1914 alone,
@@ -465,9 +599,12 @@ Progress of the war
    malaria, a sharp increase from the pre-war years.^[256] Starting in
    early 1918, a major influenza epidemic known as Spanish flu spread
 --
+   world affecting nearly five million people.^[260]^[261]
+  War crimes
    Main article: War crimes in World War I
     Chemical weapons in warfare
    Main article: Chemical weapons in World War I
+   [lossy-page1-220px-French_soldiers_making_a_gas_and_flame_attack_on_Ger
 --
    conventional weapons.^[262] In time, chemical weapons were deployed by
    all major belligerents throughout the war, inflicting approximately
@@ -476,13 +613,20 @@ Progress of the war
    chemical weapons casualties during the war (80% of which were the
    result of exposure to the vesicant 'mustard gas', introduced to the
 --
+   by them. The Russian Army reportedly suffered roughly 500,000 chemical
    weapon casualties in World War I.^[263] The use of chemical weapons in
    warfare was in direct violation of the 1899 Hague Declaration
    Concerning Asphyxiating Gases and the 1907 Hague Convention on Land
+   Warfare, which prohibited their use.^[264]^[265]
+    Genocides by the Ottoman Empire
 --
    out organised and systematic massacres of the Armenian population at
    the beginning of the war and manipulated acts of Armenian resistance by
    portraying them as rebellions to justify further extermination.^[268]
+--
+   victims of inter-ethnic fighting, famine, or disease during World
+   War I; these claims are rejected by most historians.^[271]
+   Other ethnic groups were similarly attacked by the Ottoman Empire
 --
    Greeks were killed between 1915 and 1922.^[275]
   Prisoners of war
@@ -498,6 +642,12 @@ Progress of the war
    25,248,000.^[217]^[278] The British soldiers of the war were initially
    volunteers but increasingly were conscripted into service. Surviving
 --
+   Further information: Conscription Crisis of 1917, Conscription Crisis
+   of 1918, World War I conscription in Australia, Recruitment to the
+   British Army during World War I, and Conscription in the United
+   States#World War I
+   [141px-I_want_you_for_U.S._Army_3b48465u_edit.jpg] U.S. Army recruiting
+--
    manpower after only 73,000 volunteers enlisted out of the initial
    1 million target in the first six weeks of the war.^[287]
   Military attachés and war correspondents
@@ -507,6 +657,10 @@ Progress of the war
    the course of the war. Many were able to report on events from a
    perspective somewhat akin to modern "embedded" positions within the
 --
+Economic effects
+   Main articles: Economic history of World War I and Post–World War I
+   recession
+   Further information: Home front during World War I and Financial crisis
    of 1914
    Macro- and micro-economic consequences devolved from the war. Families
    were altered by the departure of many men. With the death or absence of
@@ -515,6 +669,8 @@ Progress of the war
    lost labourers sent to war. This aided the struggle for voting rights
    for women.^[288]
 --
+   repaid. Britain still owed the United States $4.4 billion^[o] of World
+   War I debt in 1934; the last installment was finally paid in
    2015.^[289]
    Britain turned to her colonies for help in obtaining essential war
    materials whose supply from traditional sources had become difficult.
@@ -534,6 +690,10 @@ Progress of the war
    Versailles—was credited towards the reparation figure as were other
    acts such as helping to restore the Library of Louvain.^[294] By 1929,
 --
+   void. The bonds, the agreement, still exist." Thus, following the
+   Second World War, at the London Conference in 1953, Germany agreed to
+   resume payment on the money borrowed. On 3 October 2010, Germany made
+--
    the tremendous sacrifices made by the British Empire and her Allies."
    Australia received £5,571,720 war reparations, but the direct cost of
    the war to Australia had been £376,993,052, and, by the mid-1930s,
@@ -548,7 +708,9 @@ Progress of the war
    contributed to the post-war popularity of the medium.^[302]
 Support and opposition for the war
   Support
---
+   Further information: Propaganda in World War I, British propaganda
+   during World War I, and Propaganda and censorship in Italy during the
+   First World War
    [180px-Affiche-guerre_Femmes-au-travail.jpg] Poster urging women to
    join the British war effort, published by the Young Women's Christian
    Association
@@ -563,6 +725,14 @@ Support and opposition for the war
    In East Africa, Iyasu V of Ethiopia was supporting the Dervish state
    who were at war with the British in the Somaliland campaign.^[306] Von
    Syburg, the German envoy in Addis Ababa, said, "now the time has come
+--
+   home, to restore the Empire to its ancient size." The Ethiopian Empire
+   was on the verge of entering World War I on the side of the Central
+   Powers before Iyasu's overthrow at the Battle of Segale due to Allied
+--
+   photo.^[310]
+   [220px-BVRC-Great-War-Contingent_1914.jpg] Bermuda Volunteer Rifle
+   Corps First Contingent in Bermuda, winter 1914–1915, before joining 1
 --
    two contingents suffered 75% casualties.
    A number of socialist parties initially supported the war when it began
@@ -598,6 +768,10 @@ Support and opposition for the war
    New Zealand.^[319] At the start of the next world war the New Zealand
    funds were reformed, having been criticised as overlapping, wasteful
 --
+  Opposition
+   Main articles: Opposition to World War I and 1917 French Army mutinies
+   Many countries jailed those who spoke out against the conflict. These
+--
    states that the nationalists were hostile to. Although the vast
    majority of Irish people consented to participate in the war in 1914
    and 1915, a minority of advanced Irish nationalists staunchly opposed
@@ -622,9 +796,21 @@ Support and opposition for the war
    calling for an end to the war, and managed to close down factories and
    stop public transportation.^[330] The Italian army was forced to enter
 --
+Technology
+   See also: Technology during World War I
+   [220px-Sopwith_F-1_Camel.jpg] Royal Air Force Sopwith Camel. In April
+--
+   Front was 93 flying hours.^[331]
+   World War I began as a clash of 20th-century technology and
+   19th-century tactics, with the inevitably large ensuing casualties. By
+--
    the Germans and British, though the former used Zeppelins as
    well.^[335] Towards the end of the conflict, aircraft carriers were
    used for the first time, with HMS Furious launching Sopwith Camels in a
+--
+Diplomacy
+   Main article: Diplomatic history of World War I
+   [220px-Cartoon_for_a_Telegram.jpg] 1917 political cartoon about the
 --
    nations were designed to build support for the cause or to undermine
    support for the enemy. For the most part, wartime diplomacy focused on
@@ -632,9 +818,31 @@ Support and opposition for the war
    goals, which became harsher as the war went on; luring neutral nations
    (Italy, Ottoman Empire, Bulgaria, Romania) into the coalition by
 --
+Legacy and memory
+   Main articles: List of last surviving World War I veterans,
+   Commonwealth War Graves Commission, and American Battle Monuments
+   Commission
+   Further information: World War I in popular culture
+  Memorials
+   Main article: World War I memorials
+   [220px-Sacrario_militare_di_Redipuglia_agosto_2014.JPG] The Italian
+   Redipuglia War Memorial, which contains the remains of 100,187 soldiers
+   Memorials were erected in thousands of villages and towns. Close to
+--
+   moved to formal graveyards under the care of organisations such as the
+   Commonwealth War Graves Commission, the American Battle Monuments
+   Commission, the German War Graves Commission, and Le Souvenir français.
+   Many of these graveyards also have central monuments to the missing or
+--
+   In 1915, John McCrae, a Canadian army doctor, wrote the poem In
+   Flanders Fields as a salute to those who perished in the Great War.
+   Published in Punch on 8 December 1915, it is still recited today,
    especially on Remembrance Day and Memorial Day.^[340]^[341]
    [220px-Pagny_le_Chateau_monument_morts_002b.jpg] A typical village war
    memorial to soldiers killed in World War I
+   National World War I Museum and Memorial in Kansas City, Missouri, is a
+   memorial dedicated to all Americans who served in World War I. The
+   Liberty Memorial was dedicated on 1 November 1921, when the supreme
 --
    The UK Government has budgeted substantial resources to the
    commemoration of the war during the period 2014 to 2018. The lead body
@@ -646,14 +854,19 @@ Support and opposition for the war
    war.^[344] During the Armistice centenary commemorations, French
    President Emmanuel Macron and German Chancellor Angela Merkel visited
 --
+  Historiography
+   Main article: Historiography of World War I
+   Further information: Historiography of the causes of World War I
+   ... "Strange, friend," I said, "Here is no cause to mourn."
+--
    The first tentative efforts to comprehend the meaning and consequences
    of modern warfare began during the initial phases of the war; this
    process continued throughout and after the end of hostilities, and is
---
+   still underway more than a century later. Teaching World War I has
    presented special challenges. When compared with World War II, the
    First World War is often thought to be "a wrong war fought for the
    wrong reasons"; it lacks the metanarrative of good versus evil that
---
+   characterizes retellings of the Second World War. Lacking recognizable
    heroes and villains, it is often taught thematically, invoking tropes
    like the wastefulness of war, the folly of generals and the innocence
    of soldiers. The complexity of the conflict is mostly obscured by these
@@ -670,6 +883,11 @@ Support and opposition for the war
    As late as 2007, signs warning visitors to keep off certain paths at
    battlefield sites like Verdun and Somme remained in place as unexploded
 --
+See also
+     * icon World War I portal
+     * World portal
+     * Lists of World War I topics
+     * List of military engagements of World War I
      * Outline of World War I
      * World war
 Footnotes
@@ -693,87 +911,534 @@ Footnotes
     9. ^ Although the Treaty of Sèvres was intended to end the war between
        the Allied Powers and the Ottoman Empire, the Allied Powers and the
 --
+   15. ^ 10^9 in this context – see Long and short scales
+   16. ^ World War I officially ended when Germany paid off the final
+       amount of reparations imposed on it by the
+--
+       on 15 April 2022. Retrieved 25 April 2022.
+    3. ^ "The First World War". Quite Interesting. Archived from the
+       original on 3 January 2014. Also aired on QI Series I Episode 2, 16
+--
+    4. ^ Braybon 2004, p. 8.
+    5. ^ "The Great War". The Independent. 17 August 1914. p. 228.
+       Retrieved 17 May 2022.
+--
        from the original on 14 May 2019. Retrieved 19 March 2012.
     7. ^ "The war to end all wars". BBC News. 10 November 1998. Archived
        from the original on 19 June 2015. Retrieved 15 December 2015.
 --
+   30. ^ Smith 2010.
+   31. ^ Roger L. Ransom (2018). Gambling on War: Confidence, Fear, and
+       the Tragedy of the First World War. Cambridge University Press.
+       p. 51. ISBN 9781108485029.
+--
+   82. ^ Kant, Vedica (24 September 2014). "India and WWI: Piecing
+       together the impact of the Great War on the subcontinent". LSE.
+       Retrieved 28 September 2022.
+   83. ^ "Participants from the Indian subcontinent in the First World
+       War". Memorial Gates Trust. Archived from the original on 1 July
+       2019. Retrieved 12 December 2008.
+--
+   88. ^ Goodspeed 1985, p. 199.
    89. ^ Duffy, Michael (22 August 2009). "Weapons of War: Poison Gas".
        Firstworldwar.com. Archived from the original on 21 August 2007.
        Retrieved 5 July 2012.
+--
+   100. ^ ^a ^b ^c ^d Sheffield, Garry. "The First Battle of the
+       Atlantic". World Wars in Depth. BBC. Archived from the original on
+       3 June 2019. Retrieved 11 November 2009.
 --
    105. ^ Chickering, Roger; Förster, Stig; Greiner, Bernd (2005). A world
        at total war: global conflict and the politics of destruction,
        1937–1945. Publications of the German Historical Institute.
 --
+       Pole 1918. Indiana University Press. p. 11. ISBN 978-0-253-35452-5.
+   113. ^ "The Balkan Wars and World War I". p. 28. Library of Congress
+       Country Studies.
+   114. ^ Tucker, Wood & Murphy 1999, pp. 150–152.
+   115. ^ Korsun, N. "The Balkan Front of the World War" (in Russian).
+       militera.lib.ru. Archived from the original on 9 August 2013.
+--
+       ISBN 978-1-4411-9478-7.
+   120. ^ Arthur J. Barker, The Neglected War: Mesopotamia, 1914–1918
+       (London: Faber, 1967)
+   121. ^ Crawford, John; McGibbon, Ian (2007). New Zealand's Great War:
+       New Zealand, the Allies and the First World War. Exisle Publishing.
+       pp. 219–220.
+--
+   160. ^ ^a ^b Alexander Lanoszka; Michael A. Hunzeker (11 November
+       2018). "Why the First War lasted so long". The Washington Post.
+       Archived from the original on 12 April 2022. Retrieved 11 November
+--
+   184. ^ Falls, Cyril (1930). Military Operations. Part I Egypt &
+       Palestine: Volume 2 From June 1917 to the End of the War. Official
+       History of the Great War Based on Official Documents by Direction
+       of the Historical Section of the Committee of Imperial Defence.
+--
+   186. ^ "Text of the Decree of the Surrender of Jerusalem into British
+       Control". First World War.com. Archived from the original on 14
+       June 2011. Retrieved 13 May 2015.
+   187. ^ Bruce, Anthony (2002). The Last Crusade: The Palestine Campaign
+       in the First World War. London: John Murray. p. 162.
+       ISBN 978-0-7195-5432-2.
+   188. ^ "Who's Who – Kress von Kressenstein". First World War.com.
+       Archived from the original on 20 November 2015. Retrieved 13 May
+       2015.
+   189. ^ "Who's Who – Otto Liman von Sanders". First World War.com.
+       Archived from the original on 27 December 2007. Retrieved 13 May
+--
+   196. ^ Schreiber, Shane B. (2004) [1977]. Shock Army of the British
+       Empire: The Canadian Corps in the Last 100 Days of the Great War.
+       St. Catharines, ON: Vanwell. p. 50. ISBN 978-1-55125-096-0.
+--
+       ISBN 978-0-495-90383-3.
+   220. ^ "Harding Ends War; Signs Peace Decree at Senator's Home. Thirty
+       Persons Witness Momentous Act in Frelinghuysen Living Room at
+--
    225. ^ "No. 32964". The London Gazette. 12 August 1924. pp. 6030–6031.
    226. ^ "Dates on war memorials" (PDF). War Memorials Trust. Archived
        (PDF) from the original on 12 January 2021. Retrieved 4 January
+--
+   229. ^ Northedge 1986, pp. 35–36.
+   230. ^ Morrow, John H. (2005). The Great War: An Imperial History.
+       London: Routledge. p. 290. ISBN 978-0-415-20440-8.
+--
+   232. ^ Ypersele, Laurence Van (2012). "Mourning and Memory, 1919–45".
+       In Horne, John (ed.). A Companion to World War I. Wiley. p. 584.
+   233. ^ "The Surrogate Hegemon in Polish Postcolonial Discourse Ewa
 --
    240. ^ Simpson, Matt (22 August 2009). "The Minor Powers During World
        War One – Serbia". firstworldwar.com. Archived from the original on
        27 April 2010. Retrieved 27 May 2010.
 --
+       from the original on 15 July 2016. Retrieved 25 July 2018.
+   243. ^ Australian War Memorial. "The ANZAC Day tradition". Australian
+       War Memorial. Archived from the original on 1 May 2008. Retrieved 2
+       May 2008.
+--
    248. ^ Sévillia, Jean, Histoire Passionnée de la France, 2013, p. 395
    249. ^ Howard 1993, p. 166.
    250. ^ Saadi 2009.
+--
+       663–670. doi:10.1093/jnen/60.7.663. PMID 11444794. S2CID 40754090.
+   262. ^ ^a ^b ^c ^d Fitzgerald, Gerard (April 2008). "Chemical Warfare
+       and Medical Response During World War I". American Journal of
+       Public Health. 98 (4): 611–625. doi:10.2105/AJPH.2007.11930.
+       PMC 2376985. PMID 18356568.
+   263. ^ Schneider, Barry R. (28 February 1999). Future War and
+       Counterproliferation: US Military Responses to NBC. Praeger. p. 84.
+--
+   273. ^ Gaunt, David (2006). Massacres, Resistance, Protectors:
+       Muslim-Christian Relations in Eastern Anatolia during World War I.
+       Piscataway, New Jersey: Gorgias Press.^[permanent dead link]
 --
    278. ^ Tucker & Roberts 2005, p. 2733.
    279. ^ "Search Results (+(war:"worldwari")): Veterans History Project".
        American Folklife Center, Library of Congress. Archived from the
 --
+   280. ^ Havighurst 1985, p. 131.
+   281. ^ Ward, Alan J. (1974). "Lloyd George and the 1918 Irish
+       conscription crisis". Historical Journal. 17 (1): 107–129.
+--
+       abstract Archived 7 July 2015 at archive.today
+   283. ^ "Commonwealth Parliament from 1901 to World War I". Parliament
+       of Australia. 4 May 2015. Archived from the original on 15 December
+--
        ISBN 978-0-02-905820-6.
    287. ^ Zinn, Howard (2003). A People's History of the United States.
        Harper Collins. p. 134.^[edition needed]
+   288. ^ Noakes, Lucy (2006). Women in the British Army: War and the
+       Gentle Sex, 1907–1948. Abingdon, England: Routledge. p. 48.
 --
+   289. ^ Cosgrave, Jenny (10 March 2015). "UK finally finishes paying for
+       World War I". CNBC. Retrieved 20 March 2023.
    290. ^ Green 1938, p. cxxvi.
    291. ^ Anton Kaes; Martin Jay; Edward Dimendberg, eds. (1994). "The
        Treaty of Versailles: The Reparations Clauses". The Weimar Republic
 --
+   294. ^ Marks 1978, pp. 223–234
+   295. ^ Stone, Norman (2008). World War One: A Short History. London:
+       Penguin. ISBN 978-0-14-103156-9.
+   296. ^ Marks 1978, p. 233
+   297. ^ Hall, Allan (28 September 2010). "First World War officially
+       ends". The Telegraph. Berlin. Archived from the original on 10
+       January 2022. Retrieved 15 March 2017.
+   298. ^ Suddath, Claire (4 October 2010). "Why Did World War I Just
+       End?". Time. Archived from the original on 5 October 2010.
+       Retrieved 1 July 2013.
+   299. ^ "World War I to finally end for Germany this weekend". CNN. 30
+       September 2010. Archived from the original on 16 March 2017.
+       Retrieved 15 March 2017.
+   300. ^ MacMillan, Margaret (25 December 2010). "Ending the War to End
+       All Wars". The New York Times. Archived from the original on 16
+       March 2017. Retrieved 15 March 2017.
+   301. ^ Souter 2000, p. 354.
+   302. ^ ^a ^b "From Wristwatches To Radio, How World War I Ushered in
+       the Modern World". NPR. Archived from the original on 30 April
+--
+   323. ^ Pennell, Catriona (2012). A Kingdom United: Popular Responses to
+       the Outbreak of the First World War in Britain and Ireland. Oxford:
+       Oxford University Press. ISBN 978-0-19-959058-2.
+--
+       Memoirs by Conscientious Objectors to Military Service from the
+       Great War to the Cold War, p. 14, Toronto: University of Toronto
+       Press, 2004, ISBN 978-0-8020-8707-2
+--
+   338. ^ Zeman, Z. A. B. (1971). Diplomatic History of the First World
+       War. London: Weidenfeld and Nicolson. ISBN 978-0-297-00300-7.
+   339. ^ See Carnegie Endowment for International Peace (1921). Scott,
+       James Brown (ed.). Official Statements of War Aims and Peace
+       Proposals: December 1916 to November 1918. Washington, D.C., The
+--
+       8 February 2014. Retrieved 28 February 2014.
+   344. ^ "French, German Presidents Mark World War I Anniversary". France
+       News.Net. Archived from the original on 3 April 2017. Retrieved 3
+       August 2014.
+   345. ^ "Armistice Day: Macron and Merkel mark end of World War One".
+       BBC News. 10 November 2018. Archived from the original on 10
+--
+   346. ^ Wilfred Owen: poems, 1917, (Faber and Faber, 2004)
+   347. ^ ^a ^b Neiberg, Michael (2007). The World War I Reader. p. 1.
+   348. ^ "The intro the outbreak of the First World War". Cambridge Blog.
+       2014. Retrieved 17 November 2022.
+   349. ^ Jones, Heather (2013). "As the centenary approaches: the
+       regeneration of First World War historiography". Historical
+       Journal. 56 (3): 857–878 [858]. doi:10.1017/S0018246X13000216.
+   350. ^ see Christoph Cornelissen, and Arndt Weinrich, eds. Writing the
+       Great War – The Historiography of World War I from 1918 to the
+       Present (2020) free download Archived 29 November 2020 at the
+--
+Bibliography
+   For a comprehensive bibliography, see Bibliography of World War I.
+     *
+   Axelrod, Alan (2018). How America Won World War I. Rowman &
+   Littlefield. ISBN 978-1-4930-3192-4.
+     Ayers, Leonard Porter (1919). The War with Germany: A Statistical
+   Summary. Government Printing Office.
+--
+   ISBN 978-0-253-00865-7.
+     Beckett, Ian (2007). The Great War. Longman. ISBN 978-1-4058-1252-8.
+     Béla, Köpeczi (1998). History of Transylvania. Akadémiai Kiadó.
+   ISBN 978-84-8371-020-3.
+     Braybon, Gail (2004). Evidence, History, and the Great War:
+   Historians and the Impact of 1914–18. Berghahn Books. p. 8.
+--
+     Butcher, Tim (2014). The Trigger: Hunting the Assassin Who Brought
+   the World to War (2015 ed.). Vintage. ISBN 978-0-09-958133-8.
+     Christie, Norm M (1997). The Canadians at Cambrai and the Canal du
+--
+   original on 8 October 2019. Retrieved 6 November 2008.
+     Clark, Christopher (2013). The Sleepwalkers: How Europe Went to War
+   in 1914. HarperCollins. ISBN 978-0-06-219922-5.
+--
+   Palgrave Macmillan. ISBN 978-0-333-16907-0.
+     Cross, Wilbur L. (1991). Zeppelins of World War I. New York: Paragon
+   Press. ISBN 978-1-55778-382-0. OCLC 22860189.
+     Crowe, David (2001). The Essentials of European History: 1914 to
+   1935, World War I and Europe in crisis. Research and Education
+   Association. ISBN 978-0-87891-710-5.
+--
+     Doughty, Robert A. (2005). Pyrrhic victory: French strategy and
+   operations in the Great War. Harvard University Press.
+   ISBN 978-0-674-01880-8.
+     Dumitru, Laurentiu-Cristian (2012). "Preliminaries of Romania's
+   entering the World War I". Bulletin of "Carol I" National Defence
+   University, Bucharest. 1. Archived from the original on 19 March 2022.
+--
    ISBN 978-0-06-270056-8.
      Erickson, Edward J. (2001). Ordered to Die: A History of the Ottoman
    Army in the First World War. Contributions in Military Studies.
+   Vol. 201. Westport, Connecticut: Greenwood Press.
+   ISBN 978-0-313-31516-9. OCLC 43481698.
+     Falls, Cyril Bentham (1960). The First World War. London: Longmans.
+   ISBN 978-1-84342-272-3. OCLC 460327352.
+     Farwell, Byron (1989). The Great War in Africa, 1914–1918. W.W.
+   Norton. ISBN 978-0-393-30564-7.
+     Fay, Sidney B (1930). The Origins of the World War; Volume I
+   (2nd ed.).
+     Ferguson, Niall (1999). The Pity of War. New York: Basic Books.
+   ISBN 978-0-465-05711-5. OCLC 41124439.
+     Ferguson, Niall (2006). The War of the World: Twentieth-Century
+   Conflict and the Descent of the West. New York: Penguin Press.
+--
+     Fornassin, Alessio (2017). "The Italian Army's Losses in the First
+   World War". Population. 72 (1): 39–62. doi:10.3917/popu.1701.0039.
+     Fromkin, David (1989). A Peace to End All Peace: The Fall of the
+--
+     Fromkin, David (2004). Europe's Last Summer: Who Started the Great
+   War in 1914?. Alfred A. Knopf. ISBN 978-0-375-41156-4. OCLC 53937943.
+     Gardner, Hall (2015). The Failure to Prevent World War I: The
+   Unexpected Armageddon. Routledge. ISBN 978-1-4724-3056-4.
+--
+     Gray, Randal; Argyle, Christopher (1990). Chronicle of the First
+   World War. New York: Facts on File. ISBN 978-0-8160-2595-4.
+   OCLC 19398100.
+     Gilbert, Martin (1994). First World War. Stoddart Publishing.
+   ISBN 978-0-7737-2848-6.
+     Goodspeed, Donald James (1985). The German Wars 1914–1945. New York:
+   Random House; Bonanza. ISBN 978-0-517-46790-9.
+--
+   Kitson". Geological Society Quarterly Journal. 94.
+     Grotelueschen, Mark Ethan (2006). The AEF Way of War: The American
+   Army and Combat in World War I. Cambridge University Press.
+   ISBN 978-0-521-86434-3.
+     Halpern, Paul G. (1995). A Naval History of World War I. New York:
+   Routledge. ISBN 978-1-85728-498-0. OCLC 60281302.
+     Hammond's Frontier Atlas of the World War. C. S. Hammond & Company.
+   1916.
+     Harris, J.P. (2008). Douglas Haig and the First World War (2009 ed.).
+   CUP. ISBN 978-0-521-89802-7.
+     Hartcup, Guy (1988). The War of Invention; Scientific Developments,
+   1914–18. Brassey's Defence Publishers. ISBN 978-0-08-033591-9.
+--
+   JSTOR 40107090.
+     Heyman, Neil M. (1997). World War I. Guides to historic events of the
+   twentieth century. Westport, Connecticut: Greenwood Press.
+--
+     Hinterhoff, Eugene (1984). "The Campaign in Armenia". In Young, Peter
+   (ed.). Marshall Cavendish Illustrated Encyclopedia of World War I.
+   Vol. ii. New York: Marshall Cavendish. ISBN 978-0-86307-181-2.
+     Holmes, T.M. (April 2014). "Absolute Numbers: The Schlieffen Plan as
+   a Critique of German Strategy in 1914". War in History. XXI (2): 194,
+   211. ISSN 1477-0385.
 --
    ISBN 978-0-14-017041-2.
      Howard, N.P. (1993). "The Social and Political Consequences of the
    Allied Food Blockade of Germany, 1918–19". German History. 11 (2):
 --
+   de Gaulle. Allen Lane. ISBN 978-1-84614-351-9.
+     Jelavich, Barbara (1992). "Romania in the First World War: The
+   Pre-War Crisis, 1912–1914". The International History Review. 14 (3):
    441–451. doi:10.1080/07075332.1992.9640619. JSTOR 40106597.
      Jones, Howard (2001). Crucible of Power: A History of US Foreign
    Relations Since 1897. Scholarly Resources Books.
+   ISBN 978-0-8420-2918-6. OCLC 46640675.
+     Karp, Walter (1979). The Politics of War. Harper & Row.
+   ISBN 978-0-06-012265-2. OCLC 4593327.
+     Keegan, John (1998). The First World War. Hutchinson.
+   ISBN 978-0-09-180178-6.
+     Keenan, George (1986). The Fateful Alliance: France, Russia and the
+   Coming of the First World War. Manchester University Press.
+   ISBN 978-0-7190-1707-0.
+     Keene, Jennifer D (2006). World War I. Daily Life Through History
+   Series. Westport, Connecticut: Greenwood Press. p. 5.
+--
+   S2CID 159979098.
+     Kitchen, Martin (2000) [1980]. Europe Between the Wars. New York:
+   Longman. ISBN 978-0-582-41869-1. OCLC 247285240.
 --
    Princeton University Press. ISBN 978-0-691-01232-2. OCLC 39727826.
      Lieven, Dominic (2016). Towards the Flame: Empire, War and the End of
    Tsarist Russia. Penguin. ISBN 978-0-14-139974-4.
 --
+   Retrieved 20 November 2009.
+     MacMillan, Margaret (2013). The War That Ended Peace: The Road to
+   1914. Profile Books. ISBN 978-0-8129-9470-4.
+--
+     Marshall, S. L. A.; Josephy, Alvin M. (1982). The American heritage
+   history of World War I. American Heritage Pub. Co. : Bonanza Books :
+   Distributed by Crown Publishers. ISBN 978-0-517-38555-5.
+   OCLC 1028047398.
+     McLellan, Edwin N. The United States Marine Corps in the World War.
+   Archived from the original on 16 September 2018. Retrieved 26 October
+   2009.
+     McMeekin, Sean (2014). July 1914: Countdown to War. Icon Books.
+   ISBN 978-1-84831-657-7.
+     McMeekin, Sean (2015). The Ottoman Endgame: War, Revolution and the
+   Making of the Modern Middle East, 1908–1923 (2016 ed.). Penguin.
+--
+   doi:10.2307/3678575. JSTOR 3678575. S2CID 154285570.
+     Meyer, Gerald J (2006). A World Undone: The Story of the Great War
+   1914 to 1918. Random House. ISBN 978-0-553-80354-9.
+--
+   S2CID 155405415.
+     Neiberg, Michael S. (2005). Fighting the Great War: A Global History.
+   Cambridge, Massachusetts: Harvard University Press.
+--
+     Phillimore, George Grenville; Bellot, Hugh H.L. (1919). "Treatment of
+   Prisoners of War". Transactions of the Grotius Society. 5: 47–64.
+   OCLC 43267276.
+--
+   developments, including the first dipping hydrophones
+     Raudzens, George (October 1990). "War-Winning Weapons: The
+   Measurement of Technological Determinism in Military History". The
+--
      Rickard, J. (27 August 2007). "The Ludendorff Offensives, 21 March–18
    July 1918". historyofwar.org. Archived from the original on 10 October
    2017. Retrieved 12 September 2018.
+     Rothschild, Joseph (1975). East-Central Europe between the Two World
+   Wars. University of Washington Press. ISBN 978-0-295-95350-2.
+     Saadi, Abdul-Ilah (12 February 2009). "Dreaming of Greater Syria". Al
 --
    2014.
      Sachar, Howard Morley (1970). The emergence of the Middle East,
    1914–1924. Allen Lane. ISBN 978-0-7139-0158-0. OCLC 153103197.
+     Schindler, J. (2003). "Steamrollered in Galicia: The Austro-Hungarian
+   Army and the Brusilov Offensive, 1916". War in History. 10 (1): 27–59.
+   doi:10.1191/0968344503wh260oa. S2CID 143618581.
+     Schindler, John R. (2002). "Disaster on the Drina: The
+   Austro-Hungarian Army in Serbia, 1914". War in History. 9 (2): 159–195.
+   doi:10.1191/0968344502wh250oa. S2CID 145488166.
+--
+   Melbourne: Text Publishing. OCLC 222801639.
+     Smele, Jonathan. "War and Revolution in Russia 1914–1921". World Wars
+   in-depth. BBC. Archived from the original on 23 October 2011. Retrieved
+--
+   (12): 2561–2567. doi:10.1093/aje/kwy191. PMC 7314216. PMID 30202996.
+     Stevenson, David (1988). The First World War and International
+   Politics. Oxford University Press. ISBN 978-0-19-873049-1.
+     Stevenson, David (1996). Armaments and the Coming of War: Europe,
+   1904–1914. New York: Oxford University Press. ISBN 978-0-19-820208-0.
+   OCLC 33079190.
+     Stevenson, David (2004). Cataclysm: The First World War as Political
+   Tragedy. New York: Basic Books. p. 560. ISBN 978-0-465-08184-4.
+--
+     Stevenson, David (2012). 1914–1918: The History of the First World
+   War. Penguin. ISBN 978-0-7181-9795-7.
+     Stevenson, David (2016). Mahnken, Thomas (ed.). Land armaments in
+--
+   ISBN 978-0-19-873526-7.
+     Strachan, Hew (2003). The First World War: Volume I: To Arms. New
+   York: Viking. ISBN 978-0-670-03295-2. OCLC 53075929.
+     Taliaferro, William Hay (1972) [1944]. Medicine and the War. Books
+   for Libraries Press. ISBN 978-0-8369-2629-3.
+--
+   Archived from the original on 14 August 2021. Retrieved 5 July 2021.
+     Thompson, Mark (2009). The White War: Life and Death on the Italian
+   Front, 1915–1919. Faber & Faber. ISBN 978-0-571-22333-6.
+     Tomasevich, Jozo (2001). War and Revolution in Yugoslavia: 1941–1945.
+   Stanford University Press. ISBN 978-0-8047-7924-1. Archived from the
+   original on 4 January 2014. Retrieved 4 December 2013.
+     Torrie, Glenn E. (1978). "Romania's Entry into the First World War:
+   The Problem of Strategy" (PDF). Emporia State Research Studies. Emporia
+   State University. 26 (4): 7–8.
+     Tschanz, David W. Typhus fever on the Eastern front in World War I.
+   Montana State University. Archived from the original on 11 June 2010.
+--
+     Tucker, Spencer C.; Roberts, Priscilla Mary (2005). Encyclopedia of
+   World War I. Santa Barbara: ABC-Clio. ISBN 978-1-85109-420-2.
+   OCLC 61247250.
+     Tucker, Spencer C.; Wood, Laura Matysek; Murphy, Justin D. (1999).
+   The European powers in the First World War: an encyclopedia. Taylor &
+   Francis. ISBN 978-0-8153-3351-7. Archived from the original on 1 August
+   2020. Retrieved 6 June 2020.
+     Tucker, Spencer (2002). The Great War, 1914–1918. Routledge.
+   ISBN 978-1-134-81750-4.
 --
    ISBN 978-1-58544-226-3.
      von der Porten, Edward P. (1969). German Navy in World War II. New
    York: T.Y. Crowell. ISBN 978-0-213-17961-8. OCLC 164543865.
+     Westwell, Ian (2004). World War I Day by Day. St. Paul, Minnesota:
+   MBI Publishing. pp. 192pp. ISBN 978-0-7603-1937-6. OCLC 57533366.
 --
+   Macmillan.
+     Willmott, H.P. (2003). World War I. Dorling Kindersley.
+   ISBN 978-0-7894-9627-0. OCLC 52541937.
+     Winter, Jay, ed. (2014). The Cambridge History of the First World War
+   (2016 ed.). Cambridge University Press. ISBN 978-1-316-60066-5.
+--
+   Taste, and Anxiety (1986 ed.). Clarendon Press. ISBN 978-0-19-822125-8.
+     Zieger, Robert H. (2001). America's Great War: World War I and the
+   American experience. Rowman & Littlefield. ISBN 978-0-8476-9645-1.
+--
+   (Audio help · More spoken articles)
+   World War I at Wikipedia's sister projects
+     * Definitions from Wiktionary
+--
+     * Links to other WWI Sites, worldwide links from Brigham Young U.
+     * The World War One Document Archive, from Brigham Young U.
+     * International Encyclopedia of the First World War
+     * Records on the outbreak of World War I from the UK Parliamentary
+       Collections
+     * The Heritage of the Great War / First World War. Graphic color
+       photos, pictures and music
+     * A multimedia history of World War I
      * European Newspapers from the start of the First World War and the
        end of the war
      * WWI Films on the European Film Gateway
 --
+       Wayback Machine
      * World War I British press photograph collection – A sampling of
        images distributed by the British government during the war to
        diplomats overseas, from the UBC Library Digital Collections
+     * Personal accounts of American World War I veterans, Veterans
+       History Project, Library of Congress.
+--
+     * California State Library, California History Room. Collection:
+       California. State Council of Defense. California War History
+       Committee. Records of Californians who served in World War I,
+       1918–1922.
+--
+     * e
+   World War I
+     * Outline
 --
      * German New Guinea
    Naval warfare
      * U-boat campaign
+--
+   Timeline
+   Pre-War conflicts
+     * Franco-Prussian War (1870–71)
+     * Scramble for Africa (1880–1914)
+     * Russo-Japanese War (1905)
+     * Tangier Crisis (1905–06)
+--
+     * Agadir Crisis (1911)
+     * Italo-Turkish War (1911–12)
+     * First Balkan War (1912–13)
+     * Second Balkan War (1913)
+   Prelude
+--
+     * Muscat rebellion (1913–1920)
+     * Zaian War (1914–1921)
+     * Kurdish rebellions (1914–1917)
+--
+     * Senussi campaign (1915–1916)
+     * Volta-Bani War (1915–1917)
+     * Arab Revolt (1916-1918)
+--
+     * Russian Revolution (1917)
+     * Finnish Civil War (1918)
+   Post-War conflicts
+     * Russian Civil War (1917–1921)
+     * Ukrainian–Soviet War (1917–1921)
+     * Armenian–Azerbaijani War (1918–1920)
+     * Armeno-Georgian War (1918)
+     * German Revolution (1918–19)
+     * Revolutions and interventions in Hungary (1918–1920)
+     * Hungarian–Romanian War (1918–19)
+     * Greater Poland Uprising (1918–19)
+     * Estonian War of Independence (1918–1920)
+     * Latvian War of Independence (1918–1920)
+     * Lithuanian Wars of Independence (1918–1920)
+     * Polish–Ukrainian War (1918–19)
+     * Third Anglo-Afghan War (1919)
+     * Egyptian Revolution (1919)
+     * Polish–Lithuanian War (1919–1920)
+     * Polish–Soviet War (1919–1921)
+     * Irish War of Independence (1919–1921)
+     * Turkish War of Independence
+          + Franco-Turkish War (1918–1921)
+          + Greco-Turkish War (1919–1922)
+          + Turkish–Armenian War (1920)
+     * Iraqi Revolt (1920)
+     * Vlora War (1920)
+     * Franco-Syrian War (1920)
+     * Soviet–Georgian War (1921)
+   Aspects
+   Warfare
+     * Aviation
 --
      * Logistics
      * Naval warfare
           + Convoy system
      * Trench warfare
    Conscription
+--
+          + United Kingdom
+   War crimes
+     * Allied blockades
 --
    Diplomacy
    Entry into the war
@@ -783,14 +1448,122 @@ Footnotes
    Declarations of war
      * Austria-Hungary against Serbia
 --
+     * They shall not pass
+     * icon  World War I portal
+     *  World portal
+--
+     * e
+   History of World War I by region and country
+   Africa
+--
+     * e
+   Balkan Wars
+   Background
+--
+     * Annexation of Eastern Rumelia
+     * Serbo-Bulgarian War
+     * Greco-Turkish War of 1897
+     * Cretan State
+--
+     * Goudi coup
+     * Italo-Turkish War
+     * Albanian revolt of 1912
+     * Balkan League
+   First Balkan War
+   Battles
+--
+     * Treaty of London
+   Second Balkan War
+   Battles
+--
+     * Greco-Turkish crisis of 1914
+     * Sarajevo Assassination and World War I
+     * Ottoman–Bulgarian alliance
+--
      * Second Industrial Revolution
           + Industrial warfare
    Treaties and
 --
+     * July Crisis
+   Wars
+     * Russo-Turkish
+--
+     * Spanish–American
+     * Banana Wars
+     * Philippine–American
+--
+     * Italo-Turkish
+     * Balkan Wars
+          + First
+--
+               o Third
+     * World War I
+     * v
+--
+          + Modernism
           + World War I
           + Interwar period
           + Universal suffrage
+          + World War II
+          + Cold War
+     * Post–Cold War era
+          + Information age
+          + War on terror
+     * Post-Western era
 --
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=World_War_I&oldid=118874856
+   7"
+   Categories:
+     * World War I
+     * World Wars
      * Global conflicts
      * Russo-Turkish wars
      * Wars involving Armenia
+     * Wars involving Australia
+     * Wars involving Azerbaijan
+     * Wars involving Belgium
+     * Wars involving Bolivia
+     * Wars involving Brazil
+     * Wars involving British India
+     * Wars involving Bulgaria
+     * Wars involving Canada
+     * Wars involving Costa Rica
+     * Wars involving Cuba
+     * Wars involving France
+     * Wars involving Germany
+     * Wars involving Greece
+     * Wars involving Guatemala
+     * Wars involving Haiti
+     * Wars involving Honduras
+     * Wars involving Ireland
+     * Wars involving Italy
+     * Wars involving Japan
+     * Wars involving Korea
+     * Wars involving Liberia
+     * Wars involving Malta
+     * Wars involving Montenegro
+     * Wars involving Nepal
+     * Wars involving New Zealand
+     * Wars involving Nicaragua
+     * Wars involving Panama
+     * Wars involving Portugal
+     * Wars involving Rhodesia
+     * Wars involving Romania
+     * Wars involving the Russian Empire
+     * Wars involving Soviet Russia (1917–1922)
+     * White movement
+     * Wars involving Serbia
+     * Wars involving South Africa
+     * Wars involving Sri Lanka
+     * Wars involving Sudan
+     * Wars involving Taiwan
+     * Wars involving Thailand
+     * Wars involving the Habsburg monarchy
+     * Wars involving the Ottoman Empire
+     * Wars involving the Republic of China
+     * Wars involving the states and peoples of Oceania
+     * Wars involving the United Kingdom
+     * Wars involving the United States
+     * Wars involving Slovenia
+   Hidden categories:

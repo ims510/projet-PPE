@@ -54,7 +54,7 @@ Contents
           + 2.6First Intifada (1987–1993)
           + 2.7Second Intifada (2000–2005)
           + 2.8Fatah–Hamas split (2006–2007)
-          + 2.9Israeli far-right government (2022)
+          + 2.9Israeli far-right government and 2023 war (2022–present)
      * 3Peace process
        (BUTTON) Toggle Peace process subsection
           + 3.1Oslo Accords (1993, 1995)
@@ -231,7 +231,7 @@ Israeli–Palestinian conflict
    Situation in the Israeli-occupied territories, as of
    December 2011^[update], per the United Nations OCHA^[1]
    Date 14 May 1948 – present
-   (75 years, 6 months, 1 week and 6 days)
+   (75 years, 6 months, 3 weeks and 5 days)
    Location
      * Israel
      * Palestinian territories (West Bank and Gaza Strip)
@@ -256,8 +256,8 @@ Israeli–Palestinian conflict
             Oslo II Accord (1995)
 
    Belligerents
-    Israel  State of Palestine
-     * All-Palestine Government (1948–1959)
+    Israel
+     * All-Palestine Protectorate (1948–1959)
      * Palestine Liberation Organization (1964–present)
      *  Palestinian National Authority (1994–present)
      __________________________________________________________________
@@ -270,7 +270,7 @@ Israeli–Palestinian conflict
 
    The Israeli–Palestinian conflict is an ongoing military and political
    conflict in the Levant. Beginning in the mid-20th century, it is one of
-   the world's longest continuing conflicts.^[3] Various attempts have
+   the world's longest-continuing conflicts.^[3] Various attempts have
    been made to resolve the conflict as part of the Israeli–Palestinian
    peace process, alongside other efforts to resolve the broader
    Arab–Israeli conflict.^[4]^[5]^[6]^[7] Public declarations of the
@@ -303,34 +303,33 @@ Israeli–Palestinian conflict
    years.^[16]^[17]^[18]
 
    Within Israeli and Palestinian society, the conflict generates a wide
-   variety of views and opinions, with some claiming that the violence
-   perpetrated by the Israelis against the Palestinians is part of a
-   genocide, while others claim Palestinians use worldwide terrorism to
-   promote their interests. Since its inception, the conflict's casualties
-   have not been restricted to combatants, with a large number of civilian
-   fatalities on both sides. A minority of Jewish Israelis (32 percent)
-   support a two-state solution with the Palestinians.^[19] Israeli Jews
-   are divided along ideological lines, and many favor maintaining the
-   status quo.^[17] Approximately 60 percent of Palestinians (77% in the
-   Gaza Strip and 46% in the West Bank), support armed attacks against
-   Israelis within Israel as a means of ending the occupation, while 70%
-   believe that a two-state solution is no longer practical or possible as
-   a result of the expansion of Israeli settlements.^[18] More than
-   two-thirds of Israeli Jews say that if the West Bank were annexed by
-   Israel, Palestinians resident there should not be permitted to
-   vote.^[20] Mutual distrust and significant disagreements are deep over
-   basic issues, as is the reciprocal skepticism about the other side's
-   commitment to upholding obligations in an eventual bilateral
-   agreement.^[21] Since 2006, the Palestinian side has been fractured by
-   conflict between Fatah, the traditionally dominant party, and its later
-   electoral challenger, Hamas,^[a] a militant Islamist group that gained
-   control of the Gaza Strip.^[22] Attempts to remedy this have been
-   repeated and continuing. Since 2019, the Israeli side has also been
-   experiencing political upheaval, with four inconclusive legislative
-   elections having been held over a span of two years.^[23]^[24] The
-   latest round of peace negotiations began in July 2013 but were
-   suspended in 2014. Since 2006, Hamas and Israel have fought five wars,
-   the most recent in 2023.^[22]
+   variety of views and opinions, including that the violence perpetrated
+   by the Israelis against the Palestinians is part of a genocide, and
+   that Palestinians use worldwide terrorism to promote their interests.
+   Since its inception, the conflict's casualties have not been restricted
+   to combatants, with a large number of civilian fatalities on both
+   sides. A minority of Jewish Israelis (32 percent) support a two-state
+   solution with the Palestinians.^[19] Israeli Jews are divided along
+   ideological lines, and many favor maintaining the status quo.^[17]
+   Approximately 60 percent of Palestinians (77% in the Gaza Strip and 46%
+   in the West Bank), support armed attacks against Israelis within Israel
+   as a means of ending the occupation, while 70% believe that a two-state
+   solution is no longer practical or possible as a result of the
+   expansion of Israeli settlements.^[18] More than two-thirds of Israeli
+   Jews say that if the West Bank were annexed by Israel, Palestinians
+   resident there should not be permitted to vote.^[20] Mutual distrust
+   and significant disagreements are deep over basic issues, as is the
+   reciprocal skepticism about the other side's commitment to upholding
+   obligations in an eventual bilateral agreement.^[21] Since 2006, the
+   Palestinian side has been fractured by conflict between Fatah, the
+   traditionally dominant party, and its later electoral challenger,
+   Hamas, a militant Islamist group that gained control of the Gaza
+   Strip.^[22] Attempts to remedy this have been repeated and continuing.
+   Since 2019, the Israeli side has also been experiencing political
+   upheaval, with four inconclusive legislative elections having been held
+   over a span of two years.^[23]^[24] The latest round of peace
+   negotiations began in July 2013 but were suspended in 2014. Since 2006,
+   Hamas and Israel have fought five wars, the most recent in 2023.^[22]
 
    The two parties that engage in direct negotiation are the Israeli
    government and the Palestine Liberation Organization (PLO). Official
@@ -386,7 +385,10 @@ Background
    evacuation of Jews from Hebron and Gaza.^[26]
    [220px-Palest_against_british.gif] The Arab revolt of 1936–1939 in
    Palestine, motivated by opposition to mass Jewish immigration allowed
-   by the British Mandate.
+   by the British
+   Mandate.[220px-Hagana_Ship_-_Jewish_State_at_Haifa_Port_%281947%29.jpg]
+   Haganah ship Jewish State carrying illegal Jewish immigrants from
+   Europe at the Haifa Port, Mandatory Palestine, 1947
 
    In the early 1930s, the Arab national struggle in Palestine had drawn
    many Arab nationalist militants from across the Middle East, such as
@@ -426,9 +428,6 @@ Background
    quotas were established by the British, while on the other hand illegal
    immigration and Zionist insurgency against the British was
    increasing.^[26]
-   [150px-Cia-is-map2.png] Land in the lighter shade represents territory
-   within the borders of Israel at the conclusion of the 1948 war. This
-   land is internationally recognized as belonging to Israel.
 
    On 29 November 1947, the General Assembly of the United Nations adopted
    Resolution 181(II)^[34] recommending the adoption and implementation of
@@ -446,6 +445,9 @@ Background
    forces were nearing a total collapse, while Yishuv forces gained more
    and more territory, creating a large scale refugee problem of
    Palestinian Arabs.^[26]
+   [150px-Cia-is-map2.png] Land in the lighter shade represents territory
+   within the borders of Israel at the conclusion of the 1948 war. This
+   land is internationally recognized as belonging to Israel.
 
 History
 
@@ -611,21 +613,21 @@ History
    place.^[42]^[43]^[44]^[45] In November 2012, the representation of
    Palestine in UN was upgraded to a non-member observer State, and its
    mission title was changed from "Palestine (represented by PLO)" to
-   "State of Palestine". In 2014, another war between Israel and Gaza
-   occurred resulting in over 70 Israeli casualties and over 2000
-   Palestinians casualties.
+   "State of Palestine". In 2014, another war broke out between Israel and
+   Gaza, resulting in over 70 Israeli and over 2,000 Palestinian
+   casualties.^[46]
 
-  Israeli far-right government (2022)
+  Israeli far-right government and 2023 war (2022–present)
 
    In November 2022, with the election of the 37th government of Israel, a
    coalition government led by Benjamin Netanyahu and notable for its
-   inclusion of far-right politicians,^[46] violence in the conflict
+   inclusion of far-right politicians,^[47] violence in the conflict
    increased, with events such as the January 2023 Jenin incursion, the
    June 2023 Jenin incursion, the July 2023 Jenin incursion, the 2023 Neve
    Yaakov shooting, the 2023 Al-Aqsa clashes, the May 2023 Gaza–Israel
    clashes, and the 2023 Israel–Hamas war, alongside Palestinian political
    violence has produced a death toll in 2023 that is the highest in the
-   conflict since 2005.^[47]
+   conflict since 2005.^[48]
 
 Peace process
 
@@ -656,9 +658,9 @@ Peace process
    the Israeli side yet left unanswered by Arafat: "the Palestinians'
    principal failing is that from the beginning of the Camp David summit
    onward they were unable either to say yes to the American ideas or to
-   present a cogent and specific counterproposal of their own".^[48]
+   present a cogent and specific counterproposal of their own".^[49]
    Consequently, there are different accounts of the proposals
-   considered.^[49]^[50]^[51]
+   considered.^[50]^[51]^[52]
 
   Camp David Summit (2000)
 
@@ -674,35 +676,35 @@ Peace process
    negotiation", via the US to the Palestinian President: a
    non-militarized Palestinian state split into 3–4 parts containing
    87–92%^[en 1] of the West Bank including only parts of East Jerusalem,
-   and the entire Gaza Strip,^[52]^[53] as well as a stipulation that 69
+   and the entire Gaza Strip,^[53]^[54] as well as a stipulation that 69
    Jewish settlements (which comprise 85% of the West Bank's Jewish
    settlers) would be ceded to Israel, no right of return to Israel, no
    sovereignty over the Temple Mount or any core East Jerusalem
    neighbourhoods, and continued Israel control over the Jordan
-   Valley.^[54]^[55]
+   Valley.^[55]^[56]
 
-   Arafat rejected this offer.^[52]^[56]^[57]^[58]^[59]^[60] According to
+   Arafat rejected this offer.^[53]^[57]^[58]^[59]^[60]^[61] According to
    the Palestinian negotiators the offer did not remove many of the
    elements of the Israeli occupation regarding land, security,
-   settlements, and Jerusalem.^[61] President Clinton reportedly requested
+   settlements, and Jerusalem.^[62] President Clinton reportedly requested
    that Arafat make a counter-offer, but he proposed none. Former Israeli
    Foreign Minister Shlomo Ben Ami who kept a diary of the negotiations
    said in an interview in 2001, when asked whether the Palestinians made
    a counterproposal: "No. And that is the heart of the matter. Never, in
    the negotiations between us and the Palestinians, was there a
-   Palestinian counterproposal."^[62] In a separate interview in 2006 Ben
+   Palestinian counterproposal."^[63] In a separate interview in 2006 Ben
    Ami stated that were he a Palestinian he would have rejected the Camp
-   David offer.^[63]
+   David offer.^[64]
 
    No tenable solution was crafted which would satisfy both Israeli and
    Palestinian demands, even under intense US pressure. Clinton has long
-   blamed Arafat for the collapse of the summit.^[64] In the months
+   blamed Arafat for the collapse of the summit.^[65] In the months
    following the summit, Clinton appointed former US Senator George J.
    Mitchell to lead a fact-finding committee aiming to identify strategies
    for restoring the peace process. The committee's findings were
    published in 2001 with the dismantlement of existing Israeli
    settlements and Palestinian crackdown on militant activity being one
-   strategy.^[65]
+   strategy.^[66]
 
   Developments following Camp David
 
@@ -716,7 +718,7 @@ Peace process
    try to bridge the gaps between their respective positions. The United
    States prepared its own plan to resolve the outstanding issues.
    Clinton's presentation of the US proposals was delayed by the advent of
-   the Second Intifada at the end of September.^[61]
+   the Second Intifada at the end of September.^[62]
 
    Clinton's plan, eventually presented on 23 December 2000, proposed the
    establishment of a sovereign Palestinian state in the Gaza strip and
@@ -731,9 +733,9 @@ Peace process
    Palestinian state, and Israeli acknowledgment of suffering caused to
    the Palestinians in 1948. Security proposals referred to a
    "non-militarized" Palestinian state, and an international force for
-   border security. Both sides accepted Clinton's plan^[61]^[66]^[67] and
+   border security. Both sides accepted Clinton's plan^[62]^[67]^[68] and
    it became the basis for the negotiations at the Taba Peace summit the
-   following January.^[61]
+   following January.^[62]
 
   Taba Summit (2001)
 
@@ -751,7 +753,7 @@ Peace process
    following month the Likud party candidate Ariel Sharon defeated Ehud
    Barak in the Israeli elections and was elected as Israeli prime
    minister on 7 February 2001. Sharon's new government chose not to
-   resume the high-level talks.^[61]
+   resume the high-level talks.^[62]
 
   Roadmap for Peace (2002–2003)
 
@@ -771,7 +773,7 @@ Peace process
    process. The proposal never made it beyond the first phase, whose goals
    called for a halt to both Israeli settlement construction and
    Israeli–Palestinian violence. Neither goal has been achieved as of
-   November 2015.^[68]^[69]^[70]
+   November 2015.^[69]^[70]^[71]
 
   Arab Peace Initiative (2002, 2007, 2017)
 
@@ -782,7 +784,7 @@ Peace process
    proposed by Crown Prince Abdullah of Saudi Arabia at the Beirut Summit
    (2002). The peace initiative is a proposed solution to the Arab–Israeli
    conflict as a whole, and the Israeli–Palestinian conflict in
-   particular.^[71] The initiative was initially published on 28 March
+   particular.^[72] The initiative was initially published on 28 March
    2002, at the Beirut Summit, and agreed upon again in 2007 in the Riyadh
    Summit. Unlike the Road Map for Peace, it spelled out "final-solution"
    borders based explicitly on the UN borders established before the 1967
@@ -791,25 +793,25 @@ Peace process
    territories, including the Golan Heights, to recognize "an independent
    Palestinian state with East Jerusalem as its capital" in the West Bank
    and Gaza Strip, as well as a "just solution" for the Palestinian
-   refugees.^[72]
+   refugees.^[73]
 
    The Palestinian Authority led by Yasser Arafat immediately embraced the
-   initiative.^[73] His successor Mahmoud Abbas also supported the plan
+   initiative.^[74] His successor Mahmoud Abbas also supported the plan
    and officially asked U.S. President Barack Obama to adopt it as part of
-   his Middle East policy.^[74] Islamist political party Hamas, the
-   elected government of the Gaza Strip, was deeply divided,^[75] with
-   most factions rejecting the plan.^[76] Palestinians have criticised the
+   his Middle East policy.^[75] Islamist political party Hamas, the
+   elected government of the Gaza Strip, was deeply divided,^[76] with
+   most factions rejecting the plan.^[77] Palestinians have criticised the
    Israel–United Arab Emirates normalization agreement and another with
    Bahrain signed in September 2020, fearing the moves weaken the Arab
-   Peace Initiative, regarding the UAE's move as "a betrayal."^[77]
+   Peace Initiative, regarding the UAE's move as "a betrayal."^[78]
 
    The Israeli government under Ariel Sharon rejected the initiative as a
-   "non-starter"^[78] because it required Israel to withdraw to pre-June
-   1967 borders.^[79] After the renewed Arab League endorsement in 2007,
+   "non-starter"^[79] because it required Israel to withdraw to pre-June
+   1967 borders.^[80] After the renewed Arab League endorsement in 2007,
    then-Prime Minister Ehud Olmert gave a cautious welcome to the
-   plan.^[80] In 2015, Israeli Prime Minister Benjamin Netanyahu expressed
-   tentative support for the Initiative,^[81] but in 2018, he rejected it
-   as a basis for future negotiations with the Palestinians.^[82]
+   plan.^[81] In 2015, Israeli Prime Minister Benjamin Netanyahu expressed
+   tentative support for the Initiative,^[82] but in 2018, he rejected it
+   as a basis for future negotiations with the Palestinians.^[83]
 
 Current status
 
@@ -818,20 +820,20 @@ Current status
 
    The peace process has been predicated on a "two-state solution" thus
    far, but questions have been raised towards both sides' resolve to end
-   the dispute.^[83] An article by S. Daniel Abraham, an American
+   the dispute.^[84] An article by S. Daniel Abraham, an American
    entrepreneur and founder of the Center for Middle East Peace in
    Washington, US, published on the website of the Atlantic magazine in
    March 2013, cited the following statistics: "Right now, the total
    number of Jews and Arabs living... in Israel, the West Bank, and Gaza
    is just under 12 million people. At the moment, a shade under 50
-   percent of the population is Jewish."^[84]
+   percent of the population is Jewish."^[85]
 
    In April 2021, Human Rights Watch released its report A Threshold
    Crossed, making accusations that the policies of Israel towards
    Palestinians living in Israel, the West Bank and Gaza constituted the
-   crime of apartheid.^[85] A further report titled Israel's Apartheid
+   crime of apartheid.^[86] A further report titled Israel's Apartheid
    Against Palestinians: Cruel System of Domination and Crime Against
-   Humanity was released by Amnesty International on 1 February 2022.^[86]
+   Humanity was released by Amnesty International on 1 February 2022.^[87]
 
   Israel's settlements policy
 
@@ -841,10 +843,10 @@ Current status
    territories harshly criticized by the European Union citing it as
    increasingly undermining the viability of the two-state solution and
    running in contrary to the Israeli-stated commitment to resume
-   negotiations.^[87]^[88] In December 2011, all the regional groupings on
+   negotiations.^[88]^[89] In December 2011, all the regional groupings on
    the UN Security Council named continued settlement construction and
    settler violence as disruptive to the resumption of talks, a call
-   viewed by Russia as a "historic step".^[89]^[90]^[91] In April 2012,
+   viewed by Russia as a "historic step".^[90]^[91]^[92] In April 2012,
    international outrage followed Israeli steps to further entrench the
    Jewish settlements in the West Bank, including East Jerusalem, which
    included the publishing of tenders for further settler homes and the
@@ -853,19 +855,19 @@ Current status
    settlement expansion in the land captured since 1967. The British
    Foreign Minister stated that the "Systematic, illegal Israeli
    settlement activity poses the most significant and live threat to the
-   viability of the two state solution".^[92] In May 2012 the 27 foreign
+   viability of the two state solution".^[93] In May 2012 the 27 foreign
    ministers of the European Union issued a statement which condemned
-   continued Israeli settler violence and incitement.^[93] In a similar
+   continued Israeli settler violence and incitement.^[94] In a similar
    move, the Quartet "expressed its concern over ongoing settler violence
    and incitement in the West Bank," calling on Israel "to take effective
    measures, including bringing the perpetrators of such acts to
-   justice."^[94] The Palestinian Ma'an News agency reported the PA
+   justice."^[95] The Palestinian Ma'an News agency reported the PA
    Cabinet's statement on the issue stated that the West, including East
    Jerusalem, were seeing "an escalation in incitement and settler
    violence against our people with a clear protection from the occupation
    military. The last of which was the thousands of settler march in East
    Jerusalem which included slogans inciting to kill, hate and supports
-   violence".^[95]
+   violence".^[96]
 
   Israeli Military Police
 
@@ -893,29 +895,29 @@ Current status
    The IDF answered the charges stating that its army held itself "to the
    highest of professional standards", adding that when there was
    suspicion of wrongdoing, it investigated and took action "where
-   appropriate".^[96]^[97]
+   appropriate".^[97]^[98]
 
   Incitement
 
    Following the Oslo Accords, which was to set up regulative bodies to
    rein in frictions, Palestinian incitement against Israel, Jews, and
    Zionism continued, parallel with Israel's pursuance of settlements in
-   the Palestinian territories,^[98] though under Abu Mazen it has
-   reportedly dwindled significantly.^[99] Charges of incitement have been
-   reciprocal,^[100]^[101] both sides interpreting media statements in the
-   Palestinian and Israeli press as constituting incitement.^[99]
+   the Palestinian territories,^[99] though under Abu Mazen it has
+   reportedly dwindled significantly.^[100] Charges of incitement have
+   been reciprocal,^[101]^[102] both sides interpreting media statements
+   in the Palestinian and Israeli press as constituting incitement.^[100]
    Schoolbooks published for both Israeli and Palestinian schools have
    been found to have encouraged one-sided narrative and even hatred of
-   the other side.^[102]^[103]^[104]^[105]^[106]^[107] Perpetrators of
+   the other side.^[103]^[104]^[105]^[106]^[107]^[108] Perpetrators of
    murderous attacks, whether against Israelis or Palestinians, often find
    strong vocal support from sections of their communities despite varying
-   levels of condemnation from politicians.^[108]^[109]^[110]
+   levels of condemnation from politicians.^[109]^[110]^[111]
 
    Both parties to the conflict have been criticized by third-parties for
    teaching incitement to their children by downplaying each side's
    historical ties to the area, teaching propagandist maps, or
    indoctrinate their children to one day join the armed
-   forces.^[111]^[112]
+   forces.^[112]^[113]
 
   United Nations and Palestinian statehood
 
@@ -932,16 +934,16 @@ Current status
 
    The PLO have campaigned for full member status for the state of
    Palestine at the UN and for recognition on the 1967 borders. The
-   campaign has received widespread support,^[113]^[114] although it has
+   campaign has received widespread support,^[114]^[115] although it has
    been criticised by the US and Israel for allegedly avoiding bilateral
-   negotiation.^[115]^[116] Netanyahu has criticized the Palestinians of
-   purportedly trying to bypass direct talks,^[117] whereas Abbas has
+   negotiation.^[116]^[117] Netanyahu has criticized the Palestinians of
+   purportedly trying to bypass direct talks,^[118] whereas Abbas has
    argued that the continued construction of Israeli-Jewish settlements is
-   "undermining the realistic potential" for the two-state solution.^[118]
+   "undermining the realistic potential" for the two-state solution.^[119]
    Although Palestine has been denied full member status by the UN
-   Security Council,^[119] in late 2012 the UN General Assembly
+   Security Council,^[120] in late 2012 the UN General Assembly
    overwhelmingly approved the de facto recognition of sovereign Palestine
-   by granting non-member state status.^[120]
+   by granting non-member state status.^[121]
 
   Public attitudes towards peace
 
@@ -956,7 +958,7 @@ Current status
    both populations supported an end to violence—63% of Palestinians and
    70% of Israelis expressing their support for an end to violence, an
    increase of 2% for Israelis and 5% for Palestinians from the previous
-   year.^[121]
+   year.^[122]
 
 Issues in dispute
 
@@ -973,12 +975,12 @@ Issues in dispute
    have fostered mutual embitterment and hostility and a loss of faith in
    the peace process. Support among Palestinians for Hamas is
    considerable, and as its members consistently call for the destruction
-   of Israel and violence remains a threat,^[122] security becomes a prime
+   of Israel and violence remains a threat,^[123] security becomes a prime
    concern for many Israelis. The expansion of Israeli settlements in the
    West Bank has led the majority of Palestinians to believe that Israel
    is not committed to reaching an agreement, but rather to a pursuit of
    establishing permanent control over this territory in order to provide
-   that security.^[123]
+   that security.^[124]
 
   Status of Jerusalem
 
@@ -1007,17 +1009,17 @@ Issues in dispute
    Jerusalem in the Six-Day War, it assumed complete administrative
    control of East Jerusalem. In 1980, Israel passed the Jerusalem Law
    declaring "Jerusalem, complete and united, is the capital of
-   Israel."^[124]^[better source needed]
+   Israel."^[125]^[better source needed]
 
    Many countries do not recognize Jerusalem as Israel's capital, with
-   exceptions being the United States,^[125] and Russia.^[126] The
+   exceptions being the United States,^[126] and Russia.^[127] The
    majority of UN member states and most international organisations do
    not recognise Israel's claims to East Jerusalem which occurred after
-   the 1967 Six-Day War, nor its 1980 Jerusalem Law proclamation.^[127]
+   the 1967 Six-Day War, nor its 1980 Jerusalem Law proclamation.^[128]
    The International Court of Justice in its 2004 Advisory opinion on the
    "Legal Consequences of the Construction of a Wall in the Occupied
    Palestinian Territory" described East Jerusalem as "occupied
-   Palestinian territory".^[128]
+   Palestinian territory".^[129]
 
    At the Camp David and Taba Summits in 2000–2001, the United States
    proposed a plan in which the Arab parts of Jerusalem would be given to
@@ -1025,7 +1027,7 @@ Issues in dispute
    given to Israel. All archaeological work under the Temple Mount would
    be jointly controlled by the Israeli and Palestinian governments. Both
    sides accepted the proposal in principle, but the summits ultimately
-   failed.^[129]
+   failed.^[130]
 
   Holy sites and Jerusalem's Temple Mount
 
@@ -1036,20 +1038,20 @@ Issues in dispute
    possible Palestinian control. When Jerusalem was under Jordanian
    control, no Jews were allowed to visit the Western Wall or other Jewish
    holy places, and the Jewish cemetery on the Mount of Olives was
-   desecrated.^[129] Since 1975, Israel has banned Muslims from worshiping
+   desecrated.^[130] Since 1975, Israel has banned Muslims from worshiping
    at Joseph's Tomb, a shrine considered sacred by both Jews and Muslims.
    Settlers established a yeshiva, installed a Torah scroll and covered
    the mihrab. During the Second Intifada the site was looted and
-   burned.^[130]^[131] Israeli security agencies routinely monitor and
+   burned.^[131]^[132] Israeli security agencies routinely monitor and
    arrest Jewish extremists that plan attacks, though many serious
-   incidents have still occurred.^[132] Israel has allowed almost complete
-   autonomy to the Muslim trust (Waqf) over the Temple Mount.^[129]
+   incidents have still occurred.^[133] Israel has allowed almost complete
+   autonomy to the Muslim trust (Waqf) over the Temple Mount.^[130]
 
    Palestinians have voiced concerns regarding the welfare of Christian
-   and Muslim holy places under Israeli control.^[133] Additionally, some
+   and Muslim holy places under Israeli control.^[134] Additionally, some
    Palestinian advocates have made statements alleging that the Western
    Wall Tunnel was re-opened with the intent of causing the mosque's
-   collapse.^[134]
+   collapse.^[135]
 
   Palestinian refugees
 
@@ -1059,21 +1061,21 @@ Issues in dispute
    [170px-Woman_nakba_dress_jug.jpg] Palestinian refugees, 1948
 
    Palestinian refugees are people who lost both their homes and means of
-   livelihood as a result of the 1948 Arab–Israeli conflict^[135] and the
-   1967 Six-Day War.^[136] The number of Palestinians who fled or were
+   livelihood as a result of the 1948 Arab–Israeli conflict^[136] and the
+   1967 Six-Day War.^[137] The number of Palestinians who fled or were
    expelled from Israel following its creation was estimated at 711,000 in
-   1949.^[137] Descendants of these original Palestinian Refugees are also
+   1949.^[138] Descendants of these original Palestinian Refugees are also
    eligible for registration and services provided by the United Nations
    Relief and Works Agency for Palestine Refugees in the Near East
-   (UNRWA), and as of 2010 number 4.7 million people.^[138] Between
+   (UNRWA), and as of 2010 number 4.7 million people.^[139] Between
    350,000 and 400,000 Palestinians were displaced during the 1967
-   Arab–Israeli war.^[136] A third of the refugees live in recognized
+   Arab–Israeli war.^[137] A third of the refugees live in recognized
    refugee camps in Jordan, Lebanon, Syria, the West Bank and the Gaza
    Strip. The remainder live in and around the cities and towns of these
-   host countries.^[135]
+   host countries.^[136]
 
    Most of these people were born outside Israel, but are descendants of
-   original Palestinian refugees.^[135] Palestinian negotiators, such as
+   original Palestinian refugees.^[136] Palestinian negotiators, such as
    Yasser Arafat, have so far publicly insisted that refugees have a right
    to return to the places where they lived before 1948 and 1967,
    including those within the 1949 Armistice lines, citing the Universal
@@ -1084,10 +1086,10 @@ Issues in dispute
    Abbas, the current Chairman of the Palestine Liberation Organization
    was reported to have said in private discussion that it is "illogical
    to ask Israel to take 5 million, or indeed 1 million. That would mean
-   the end of Israel."^[139] In a further interview Abbas stated that he
+   the end of Israel."^[140] In a further interview Abbas stated that he
    no longer had an automatic right to return to Safed in the northern
    Galilee where he was born in 1935. He later clarified that the remark
-   was his personal opinion and not official policy.^[140]
+   was his personal opinion and not official policy.^[141]
 
    This section is in list format but may read better as prose. You can
    help by converting this section, if appropriate. Editing help is
@@ -1095,13 +1097,13 @@ Issues in dispute
 
    Palestinian and international authors have justified the right of
    return of the Palestinian refugees on several
-   grounds:^[141]^[142]^[143] Several scholars included in the broader New
+   grounds:^[142]^[143]^[144] Several scholars included in the broader New
    Historians argue that the Palestinian refugees fled or were chased out
    or expelled by the actions of the Haganah, Lehi and Irgun, Zionist
-   paramilitary groups.^[144]^[145] A number have also characterized this
-   as an ethnic cleansing.^[146]^[147]^[148]^[149] The New Historians cite
+   paramilitary groups.^[145]^[146] A number have also characterized this
+   as an ethnic cleansing.^[147]^[148]^[149]^[150] The New Historians cite
    indications of Arab leaders' desire for the Palestinian Arab population
-   to stay put.^[150]
+   to stay put.^[151]
    [170px-Sumayya_and_her_cat_in_front_of_her_demolished_home_2002%2C_2nd_
    Intifada.jpg] Home in Balata refugee camp demolished during the second
    Intifada, 2002
@@ -1110,7 +1112,7 @@ Issues in dispute
    descent is viewed by critics as discriminatory against other ethnic
    groups, especially Palestinians that cannot apply for such citizenship
    under the law of return, to the territory which they were expelled from
-   or fled during the course of the 1948 war.^[151]^[152]^[153]
+   or fled during the course of the 1948 war.^[152]^[153]^[154]
 
    According to the UN Resolution 194, adopted in 1948, "the refugees
    wishing to return to their homes and live at peace with their
@@ -1118,14 +1120,14 @@ Issues in dispute
    date, and that compensation should be paid for the property of those
    choosing not to return and for loss of or damage to property which,
    under principles of international law or in equity, should be made good
-   by the Governments or authorities responsible."^[154] UN Resolution
+   by the Governments or authorities responsible."^[155] UN Resolution
    3236 "reaffirms also the inalienable right of the Palestinians to
    return to their homes and property from which they have been displaced
-   and uprooted, and calls for their return".^[155] Resolution 242 from
+   and uprooted, and calls for their return".^[156] Resolution 242 from
    the UN affirms the necessity for "achieving a just settlement of the
    refugee problem"; however, Resolution 242 does not specify that the
    "just settlement" must or should be in the form of a literal
-   Palestinian right of return.^[156]
+   Palestinian right of return.^[157]
 
    The most common arguments for opposition are:
     1. On the 18 August 1948, at the United Nations Security Council,
@@ -1137,13 +1139,13 @@ Issues in dispute
        accepted the next year the return of some of the refugees, notably
        through the annexation of the Gaza Strip or by absorbing 100.000 of
        them in exchange of a peace treaty. The Arab countries refused the
-       proposal, demanding a complete return.^[157]
+       proposal, demanding a complete return.^[158]
     2. The Palestinian refugee issue is handled by a separate authority
        from that handling other refugees, that is, by UNRWA and not the
        UNHCR. Most of the people recognizing themselves as Palestinian
        refugees would have otherwise been assimilated into their country
        of current residency, and would not maintain their refugee state if
-       not for the separate entities.^[158]
+       not for the separate entities.^[159]
     3. Concerning the origin of the Palestinian refugees, the Israeli
        government said that during the 1948 War the Arab Higher Committee
        and the Arab states encouraged Palestinians to flee in order to
@@ -1158,22 +1160,22 @@ Issues in dispute
    shortly after a successful Arab invasion. He documents instances in
    which Arab leaders advised the evacuation of entire communities as
    happened in Haifa. In his scholarly work, however, he does conclude
-   that there were expulsions which were carried out.^[159]^[160] Morris
+   that there were expulsions which were carried out.^[160]^[161] Morris
    considers the displacement the result of a national conflict initiated
-   by the Arabs themselves.^[160] In a 2004 interview with Haaretz, he
+   by the Arabs themselves.^[161] In a 2004 interview with Haaretz, he
    described the exodus as largely resulting from an atmosphere of
    transfer that was promoted by Ben-Gurion and understood by the military
    leadership. He also claimed that there "are circumstances in history
-   that justify ethnic cleansing".^[161] He has been criticized by
+   that justify ethnic cleansing".^[162] He has been criticized by
    political scientist Norman Finkelstein for having seemingly changed his
-   views for political, rather than historical, reasons.^[162]
+   views for political, rather than historical, reasons.^[163]
 
    Since Jewish people who fled or otherwise emigrated from the Arab world
    after the Israeli declaration of independence were never compensated or
    repatriated by their former countries of residence—to no objection on
    the part of Arab leaders—a precedent has been set whereby it is the
    responsibility of the nation which accepts the refugees to assimilate
-   them.^[163]^[164]^[165]
+   them.^[164]^[165]^[166]
    [220px-Shatila_-_street_view_%282%29.jpg] Shatila refugee camp on the
    outskirts of Beirut in May 2019
 
@@ -1181,7 +1183,7 @@ Issues in dispute
    into a new Palestinian state, Israel insists that the return of this
    population into the current state of Israel would be a great danger for
    the stability of the Jewish state; an influx of Palestinian refugees
-   would lead to the destruction of the state of Israel.^[166]
+   would lead to the destruction of the state of Israel.^[167]
 
    According to Efraim Karsh the Palestinians were themselves the
    aggressors in the 1948–1949 war who attempted to "cleanse" a
@@ -1198,7 +1200,7 @@ Issues in dispute
    expelled by their leadership to prevent them from becoming Israeli
    citizens and in Haifa and Tiberias, tens of thousands of Arabs were
    forcibly evacuated on the instructions of the Arab Higher
-   Committee.^[167]
+   Committee.^[168]
 
   Israeli security concerns
 
@@ -1212,23 +1214,23 @@ Issues in dispute
    40 were injured.
 
    Throughout the conflict, Palestinian violence has been a concern for
-   Israelis. Israel,^[168] along with the United
-   States^[169]^[better source needed] and the European Union, refer to
+   Israelis. Israel,^[169] along with the United
+   States^[170]^[better source needed] and the European Union, refer to
    the violence against Israeli civilians and military forces by
    Palestinian militants as terrorism. The motivations behind Palestinian
    violence against Israeli civilians are many, and not all violent
    Palestinian groups agree with each other on specifics. Nonetheless, a
    common motive is the desire to destroy Israel and replace it with a
-   Palestinian Arab state.^[170] The most prominent Islamist groups, such
+   Palestinian Arab state.^[171] The most prominent Islamist groups, such
    as Hamas and Palestinian Islamic Jihad, view the Israeli–Palestinian
-   conflict as a religious jihad.^[171]
+   conflict as a religious jihad.^[172]
 
    Suicide bombings have been used as a tactic among Palestinian
    organizations like Hamas, Islamic Jihad, and the Al-Aqsa Martyrs
    Brigade and certain suicide attacks have received support among
-   Palestinians as high as 84%.^[172]^[173] In Israel, Palestinian suicide
+   Palestinians as high as 84%.^[173]^[174] In Israel, Palestinian suicide
    bombers have targeted civilian buses, restaurants, shopping malls,
-   hotels and marketplaces.^[174] From 1993 to 2003, 303 Palestinian
+   hotels and marketplaces.^[175] From 1993 to 2003, 303 Palestinian
    suicide bombers attacked Israel.
 
    The Israeli government initiated the construction of a security barrier
@@ -1236,22 +1238,22 @@ Issues in dispute
    2003. Israel's coalition government approved the security barrier in
    the northern part of the green line between Israel and the West Bank.
    According to the IDF, since the erection of the fence, terrorist acts
-   have declined by approximately 90%.^[175]
+   have declined by approximately 90%.^[176]
 
    Since 2001, the threat of Qassam rockets fired from Palestinian
    territories into Israel continues to be of great concern for Israeli
-   defense officials.^[176] In 2006—the year following Israel's
+   defense officials.^[177] In 2006—the year following Israel's
    disengagement from the Gaza Strip—the Israeli government claimed to
    have recorded 1,726 such launches, more than four times the total
-   rockets fired in 2005.^[168]^[177] As of January 2009, over 8,600
-   rockets have been launched,^[178]^[179] causing widespread
-   psychological trauma and disruption of daily life.^[180] Over 500
+   rockets fired in 2005.^[169]^[178] As of January 2009, over 8,600
+   rockets have been launched,^[179]^[180] causing widespread
+   psychological trauma and disruption of daily life.^[181] Over 500
    rockets and mortars hit Israel in January–September 2010 and over 1,947
    rockets hit Israel in January–November 2012.
 
    According to a study conducted by University of Haifa, one in five
    Israelis have lost a relative or friend in a Palestinian terrorist
-   attack.^[181]
+   attack.^[182]
 
    There is significant debate within Israel about how to deal with the
    country's security concerns. Options have included military action
@@ -1266,24 +1268,24 @@ Issues in dispute
    concerns in the West Bank has been to cooperate with and permit United
    States-sponsored training, equipping, and funding of the Palestinian
    Authority's security forces, which with Israeli help have largely
-   succeeded in quelling West Bank supporters of Hamas.^[182]
+   succeeded in quelling West Bank supporters of Hamas.^[183]
 
   Palestinian violence outside of Israel
 
    Some Palestinians have committed violent acts over the globe on the
-   pretext of a struggle against Israel.^[183]^[184]
+   pretext of a struggle against Israel.^[184]^[185]
 
    During the late 1960s, the PLO became increasingly infamous for its use
    of international terror. In 1969 alone, the PLO was responsible for
    hijacking 82 planes. El Al Airlines became a regular hijacking
-   target.^[185]^[186] The hijacking of Air France Flight 139 by the
+   target.^[186]^[187] The hijacking of Air France Flight 139 by the
    Popular Front for the Liberation of Palestine culminated during a
    hostage-rescue mission, where Israeli special forces successfully
    rescued the majority of the hostages.
 
    However, one of the most well-known and notorious terrorist acts was
    the capture and eventual murder of 11 Israeli athletes during the 1972
-   Olympic Games.^[187]
+   Olympic Games.^[188]
 
   Palestinian-on-Palestinian violence
 
@@ -1299,7 +1301,7 @@ Issues in dispute
    During the Lebanese Civil War, Palestinian baathists broke from the
    Palestine Liberation Organization and allied with the Shia Amal
    Movement, fighting a bloody civil war that killed thousands of
-   Palestinians.^[188]^[189]
+   Palestinians.^[189]^[190]
 
    In the First Intifada, more than a thousand Palestinians were killed in
    a campaign initiated by the Palestine Liberation Organization to crack
@@ -1308,14 +1310,14 @@ Issues in dispute
    alleged collaborators, rights groups complaining that those labeled
    collaborators were denied fair trials. According to a report released
    by the Palestinian Human Rights Monitoring Group, less than 45 percent
-   of those killed were actually guilty of informing for Israel.^[190]
+   of those killed were actually guilty of informing for Israel.^[191]
 
    In the Gaza Strip, Hamas officials have tortured and killed thousands
    of Fatah members and other Palestinians who oppose their rule. During
    the Battle of Gaza, more than 150 Palestinians died over a four-day
-   period.^[191] The violence among Palestinians was described as a civil
+   period.^[192] The violence among Palestinians was described as a civil
    war by some commentators. By 2007, more than 600 Palestinian people had
-   died during the struggle between Hamas and Fatah.^[192]
+   died during the struggle between Hamas and Fatah.^[193]
 
   Overriding authority and international status
 
@@ -1368,7 +1370,7 @@ Issues in dispute
    most water from these areas, but it also supplies the West Bank with
    approximately 40 million cubic metres annually, contributing to 77% of
    Palestinians' water supply in the West Bank, which is to be shared for
-   a population of about 2.6 million.^[193]
+   a population of about 2.6 million.^[194]
    [220px-Water_supply_in_West_Bank_and_Gaza_February_2014_5water_photoblo
    g.jpg] Palestinian villagers purchase water from water trucks in
    Khirbet A-Duqaiqah in the Hebron Hills[220px-Ma%27ale_adumim_02.JPG] A
@@ -1380,7 +1382,7 @@ Issues in dispute
    Aquifer, and 82% of that produced by the Northeastern Aquifer. Although
    this water was drawn entirely on Israel's own side of the pre-1967
    border, the sources of the water are nevertheless from the shared
-   groundwater basins located under both West Bank and Israel.^[194]
+   groundwater basins located under both West Bank and Israel.^[195]
 
    In the Oslo II Accord, both sides agreed to maintain "existing
    quantities of utilization from the resources." In so doing, the
@@ -1389,10 +1391,10 @@ Issues in dispute
    Moreover, Israel obligated itself in this agreement to provide water to
    supplement Palestinian production, and further agreed to allow
    additional Palestinian drilling in the Eastern Aquifer, also subject to
-   the Joint Water Committee.^[195]^[196] The water that Israel receives
+   the Joint Water Committee.^[196]^[197] The water that Israel receives
    comes mainly from the Jordan River system, the Sea of Galilee and two
    underground sources. According to a 2003 BBC article the Palestinians
-   lack access to the Jordan River system.^[197]
+   lack access to the Jordan River system.^[198]
 
    According to a report of 2008 by the Food and Agriculture Organization
    of the United Nations, water resources were confiscated for the benefit
@@ -1402,7 +1404,7 @@ Issues in dispute
    system. Furthermore, the authorities did not allow any new irrigation
    wells to be drilled by Palestinian farmers, while it provided fresh
    water and allowed drilling wells for irrigation purposes at the Jewish
-   settlements in the West Bank and Gaza Strip.^[198]
+   settlements in the West Bank and Gaza Strip.^[199]
 
    A report was released by the UN in August 2012 and Max Gaylard, the UN
    Resident and Humanitarian Coordinator in the occupied Palestinian
@@ -1415,7 +1417,7 @@ Issues in dispute
    Agency for Palestinian Refugees in the Near East (UNRWA). The report
    projects that Gaza's population will increase from 1.6 million people
    to 2.1 million people in 2020, leading to a density of more than 5,800
-   people per square kilometre.^[199]
+   people per square kilometre.^[200]
 
     Future and financing
 
@@ -1424,7 +1426,7 @@ Issues in dispute
    authorities. It was estimated that a future investment of about
    US$1.1bn for the West Bank and $0.8bn for the Gaza Strip Southern
    Governorates was needed for the planning period from 2003 to
-   2015.^[200]
+   2015.^[201]
 
    In late 2012, a donation of $21.6 million was announced by the
    Government of the Netherlands—the Dutch government stated that the
@@ -1435,7 +1437,7 @@ Issues in dispute
    2012 Emergency Appeal for the occupied Palestinian territory, which
    will support programmes in the West Bank and Gaza aiming to mitigate
    the effects on refugees of the deteriorating situation they
-   face."^[199]
+   face."^[200]
 
   Israeli occupation of the West Bank
 
@@ -1448,9 +1450,9 @@ Issues in dispute
    Occupied Palestinian Territory is the term used by the United Nations
    to refer to the West Bank, including East Jerusalem, and the Gaza
    Strip—territories which were captured by Israel during the 1967 Six-Day
-   War, having formerly been controlled by Egypt and Jordan.^[201]
+   War, having formerly been controlled by Egypt and Jordan.^[202]
 
-   In 1980, Israel annexed East Jerusalem.^[202] Israel has never annexed
+   In 1980, Israel annexed East Jerusalem.^[203] Israel has never annexed
    the West Bank, apart from East Jerusalem, or Gaza Strip, and the United
    Nations has demanded the "[t]ermination of all claims or states of
    belligerency and respect for and acknowledgment of the sovereignty,
@@ -1472,32 +1474,32 @@ Issues in dispute
    after six to twenty-one years; autonomy, but not sovereignty for some
    of the Arab neighborhoods of East Jerusalem surrounded by Israeli
    territory; the entire Gaza Strip; and the dismantling of most
-   settlements.^[55] Arafat rejected the proposal without providing a
+   settlements.^[56] Arafat rejected the proposal without providing a
    counter-offer.
 
    A subsequent settlement proposed by President Clinton offered
    Palestinian sovereignty over 94 to 96 percent of the West Bank but was
-   similarly rejected with 52 objections.^[54]^[203]^[204]^[12] The Arab
+   similarly rejected with 52 objections.^[55]^[204]^[205]^[12] The Arab
    League has agreed to the principle of minor and mutually agreed
    land-swaps as part of a negotiated two state settlement based in June
-   1967 borders.^[205] Official U.S. policy also reflects the ideal of
+   1967 borders.^[206] Official U.S. policy also reflects the ideal of
    using the 1967 borders as a basis for an eventual peace
-   agreement.^[206]^[207]
+   agreement.^[207]^[208]
 
    Some Palestinians say they are entitled to all of the West Bank, Gaza
    Strip, and East Jerusalem. Israel says it is justified in not ceding
    all this land, because of security concerns, and also because the lack
    of any valid diplomatic agreement at the time means that ownership and
-   boundaries of this land is open for discussion.^[208] Palestinians
+   boundaries of this land is open for discussion.^[209] Palestinians
    claim any reduction of this claim is a severe deprivation of their
    rights. In negotiations, they claim that any moves to reduce the
    boundaries of this land is a hostile move against their key interests.
    Israel considers this land to be in dispute and feels the purpose of
    negotiations is to define what the final borders will be. In 2017 Hamas
    announced that it was ready to support a Palestinian state on the 1967
-   borders "without recognising Israel or ceding any rights".^[209] Hamas
+   borders "without recognising Israel or ceding any rights".^[210] Hamas
    has previously viewed the peace process "as religiously forbidden and
-   politically inconceivable".^[171]
+   politically inconceivable".^[172]
 
     Israeli settlements
 
@@ -1510,23 +1512,23 @@ Issues in dispute
    (DEMA), "In the years following the Six-Day War, and especially in the
    1990s during the peace process, Israel re-established communities
    destroyed in 1929 and 1948 as well as established numerous new
-   settlements in the West Bank."^[210] These settlements were, as of
-   2009, home to about 301,000 people.^[211] DEMA added, "Most of the
+   settlements in the West Bank."^[211] These settlements were, as of
+   2009, home to about 301,000 people.^[212] DEMA added, "Most of the
    settlements are in the western parts of the West Bank, while others are
    deep into Palestinian territory, overlooking Palestinian cities. These
-   settlements have been the site of much inter-communal conflict."^[210]
+   settlements have been the site of much inter-communal conflict."^[211]
    The issue of Israeli settlements in the West Bank and, until 2005, the
-   Gaza Strip, have been described by the UK^[212] and the WEU^[213] as an
+   Gaza Strip, have been described by the UK^[213] and the WEU^[214] as an
    obstacle to the peace process. The United Nations and the European
    Union have also called the settlements "illegal under international
-   law."^[214]^[215]
+   law."^[215]^[216]
 
-   However, Israel disputes this;^[216] several scholars and commentators
+   However, Israel disputes this;^[217] several scholars and commentators
    disagree with the assessment that settlements are illegal, citing in
-   2005 recent historical trends to back up their argument.^[217]^[218]
+   2005 recent historical trends to back up their argument.^[218]^[219]
    Those who justify the legality of the settlements use arguments based
    upon Articles 2 and 49 of the Fourth Geneva Convention, as well as UN
-   Security Council Resolution 242.^[219]^[better source needed] On a
+   Security Council Resolution 242.^[220]^[better source needed] On a
    practical level, some objections voiced by Palestinians are that
    settlements divert resources needed by Palestinian towns, such as
    arable land, water, and other resources; and, that settlements reduce
@@ -1535,7 +1537,7 @@ Issues in dispute
 
    Former US President George W. Bush has stated that he does not expect
    Israel to return entirely to the 1949 armistice lines because of "new
-   realities on the ground".^[220] One of the main compromise plans put
+   realities on the ground".^[221] One of the main compromise plans put
    forth by the Clinton Administration would have allowed Israel to keep
    some settlements in the West Bank, especially those which were in large
    blocs near the pre-1967 borders of Israel. In return, Palestinians
@@ -1544,22 +1546,22 @@ Issues in dispute
    freeze of construction in settlements on the West Bank as a critical
    step toward peace. In May and June 2009, President Barack Obama said,
    "The United States does not accept the legitimacy of continued Israeli
-   settlements",^[221] and the Secretary of State, Hillary Clinton, stated
+   settlements",^[222] and the Secretary of State, Hillary Clinton, stated
    that the President "wants to see a stop to settlements—not some
-   settlements, not outposts, not 'natural growth' exceptions."^[222]
+   settlements, not outposts, not 'natural growth' exceptions."^[223]
    However, Obama has since declared that the United States will no longer
    press Israel to stop West Bank settlement construction as a
    precondition for continued peace-process negotiations with the
-   Palestinian Authority.^[223]
+   Palestinian Authority.^[224]
 
    As of 2023, there were about 500,000 Israeli settlers living in the
    West Bank, with another 200,000 living in East
-   Jerusalem.^[224]^[225]^[226] In February 2023, Israel's Finance
+   Jerusalem.^[225]^[226]^[227] In February 2023, Israel's Finance
    Minister Bezalel Smotrich took charge of most of the Civil
    Administration, obtaining broad authority over civilian issues in the
-   West Bank.^[227]^[228] In the first six months of 2023, 13,000 housing
+   West Bank.^[228]^[229] In the first six months of 2023, 13,000 housing
    units were built in settlements, which is almost three times more than
-   in the whole of 2022.^[229]
+   in the whole of 2022.^[230]
 
   Blockade of the Gaza Strip
 
@@ -1572,10 +1574,10 @@ Issues in dispute
    impose a naval blockade is established under customary international
    law and Laws of armed conflict, and a United Nations commission has
    ruled that Israel's blockade is "both legal and
-   appropriate."^[230]^[231] The Israeli Government's continued land, sea
+   appropriate."^[231]^[232] The Israeli Government's continued land, sea
    and air blockage is tantamount to collective punishment of the
    population, according to the United Nations Office for the Coordination
-   of Humanitarian Affairs.^[232] The Military Advocate General of Israel
+   of Humanitarian Affairs.^[233] The Military Advocate General of Israel
    has provided numerous reasonings for the policy:
 
      The State of Israel has been engaged in an ongoing armed conflict
@@ -1583,16 +1585,16 @@ Issues in dispute
      conflict has intensified after Hamas violently took over Gaza, in
      June 2007, and turned the territory under its de facto control into
      a launching pad of mortar and rocket attacks against Israeli towns
-     and villages in southern Israel.^[233]
+     and villages in southern Israel.^[234]
 
    According to Oxfam, because of an import-export ban imposed on Gaza in
    2007, 95% of Gaza's industrial operations were suspended. Out of 35,000
    people employed by 3,900 factories in June 2005, only 1,750 people
-   remained employed by 195 factories in June 2007.^[234] By 2010, Gaza's
+   remained employed by 195 factories in June 2007.^[235] By 2010, Gaza's
    unemployment rate had risen to 40% with 80% of the population living on
-   less than 2 dollars a day.^[235]
+   less than 2 dollars a day.^[236]
    [450px-Rocket_Attacks_fired_at_Israel_from_the_Gaza_Strip_by_year.png]
-   Rocket attacks fired at Israel from the Gaza Strip, 2001-2021^[236]
+   Rocket attacks fired at Israel from the Gaza Strip, 2001-2021^[237]
 
    In January 2008, the Israeli government calculated how many calories
    per person were needed to prevent a humanitarian crisis in the Gaza
@@ -1601,7 +1603,7 @@ Issues in dispute
    following Israeli human rights organization Gisha's application to the
    high court. Israel's Coordinator of Government Activities in the
    Territories, who drafted the plan, stated that the scheme was never
-   formally adopted, this was not accepted by Gisha.^[237]^[238]^[239]
+   formally adopted, this was not accepted by Gisha.^[238]^[239]^[240]
 
    Starting in February 2008, the Israeli Government reduced the
    electricity it sells directly to Gaza. This follows the ruling of
@@ -1613,7 +1615,7 @@ Issues in dispute
    into the Gaza Strip. This fact also indicates that the amount is
    reasonable and sufficient to meet the vital humanitarian needs in the
    Gaza Strip." Palestinian militants killed two Israelis in the process
-   of delivering fuel to the Nahal Oz fuel depot.^[240]
+   of delivering fuel to the Nahal Oz fuel depot.^[241]
 
    With regard to Israel's plan, the Court stated that, "calls for a
    reduction of five percent of the power supply in three of the ten power
@@ -1635,9 +1637,12 @@ Issues in dispute
    designated for projects that have been approved by the Palestinian
    Authority, including schools, health institutions, water, sanitation
    and more – as well as (projects) that are under international
-   supervision."^[241] Despite the easing of the land blockade, Israel
+   supervision."^[242] Despite the easing of the land blockade, Israel
    will continue to inspect all goods bound for Gaza by sea at the port of
-   Ashdod.^[242]
+   Ashdod.^[243]
+   [220px-Fars_Photo_of_Destruction_in_Gaza_Strip_during_2023_War_01.jpg]
+   Palestinian protesters in the Gaza Strip during the 2023 Israel–Hamas
+   war
 
    Prior to a Gaza visit, scheduled for April 2013, Turkey's Prime
    Minister Recep Tayyip Erdogan explained to Turkish newspaper Hürriyet
@@ -1649,15 +1654,15 @@ Issues in dispute
    the Gaza blockade by Israel. The Turkish prime minister also explained
    in the Hürriyet interview, in relation to the April 2013 Gaza visit,
    "We will monitor the situation to see if the promises are kept or
-   not."^[243] At the same time, Netanyahu affirmed that Israel would only
+   not."^[244] At the same time, Netanyahu affirmed that Israel would only
    consider exploring the removal of the Gaza blockade if peace ("quiet")
-   is achieved in the area.^[244]
+   is achieved in the area.^[245]
 
    On 9 October 2023, Israel declared war on Hamas and imposed a "total
-   blockade" of the Gaza Strip.^[245] The blockade was announced by
+   blockade" of the Gaza Strip.^[246] The blockade was announced by
    Israeli Defense Minister Yoav Gallant, who declared: "There will be no
    electricity, no food, no fuel, everything is closed. We are fighting
-   human animals and we are acting accordingly."^[246]^[247]
+   human animals and we are acting accordingly."^[247]^[248]
 
   Agricultural rights
 
@@ -1665,30 +1670,30 @@ Issues in dispute
    relations
 
    Since the beginning of the Israeli–Palestinian conflict, the conflict
-   has been about land.^[248] When Israel became a state after the war in
+   has been about land.^[249] When Israel became a state after the war in
    1948, 77% of Palestine's land was used for the creation on the
-   state.^[249] The majority of those living in Palestine at the time
+   state.^[250] The majority of those living in Palestine at the time
    became refugees in other countries and this first land crisis became
-   the root of the Israeli–Palestinian conflict.^[250] Because the root of
+   the root of the Israeli–Palestinian conflict.^[251] Because the root of
    the conflict is with land, the disputes between Israel and Palestine
    are well-manifested in the agriculture of Palestine.
 
    In Palestine, agriculture is a mainstay in the economy. The production
    of agricultural goods supports the population's sustenance needs and
-   fuels Palestine's export economy.^[251] According to the Council for
+   fuels Palestine's export economy.^[252] According to the Council for
    European Palestinian Relations, the agricultural sector formally
    employs 13.4% of the population and informally employs 90% of the
-   population.^[251] Over the past 10 years^[when?], unemployment rates in
+   population.^[252] Over the past 10 years^[when?], unemployment rates in
    Palestine have increased and the agricultural sector became the most
    impoverished sector in Palestine. Unemployment rates peaked in 2008
-   when they reached 41% in Gaza.^[252]
+   when they reached 41% in Gaza.^[253]
 
    Palestinian agriculture suffers from numerous problems including
    Israeli military and civilian attacks on farms and farmers, blockades
    to exportation of produce and importation of necessary inputs,
    widespread confiscation of land for nature reserves as well as military
    and settler use, confiscation and destruction of wells, and physical
-   barriers within the West Bank.^[253]
+   barriers within the West Bank.^[254]
 
   Israel's West Bank barrier
 
@@ -1698,15 +1703,15 @@ Issues in dispute
    With the construction of the separation barrier, the Israeli state
    promised free movement across regions. However, border closures,
    curfews, and checkpoints has significantly restricted Palestinian
-   movement.^[254] In 2012, there were 99 fixed check points and 310
-   flying checkpoints.^[255] The border restrictions impacted the imports
+   movement.^[255] In 2012, there were 99 fixed check points and 310
+   flying checkpoints.^[256] The border restrictions impacted the imports
    and exports in Palestine and weakened the industrial and agricultural
    sectors because of the constant Israeli control in the West Bank and
-   Gaza.^[256] In order for the Palestinian economy to be prosperous, the
-   restrictions on Palestinian land must be removed.^[253] According to
+   Gaza.^[257] In order for the Palestinian economy to be prosperous, the
+   restrictions on Palestinian land must be removed.^[254] According to
    The Guardian and a report for World Bank, the Palestinian economy lost
    $3.4bn (%35 of the annual GDP) to Israeli restrictions in the West Bank
-   alone.^[257]
+   alone.^[258]
 
   Economic disputes and boycotts
 
@@ -1714,15 +1719,15 @@ Issues in dispute
    Divestment, and Sanctions
 
    In Gaza, the agricultural market suffers from economic boycotts and
-   border closures and restrictions placed by Israel.^[258] The PA's
+   border closures and restrictions placed by Israel.^[259] The PA's
    Minister of Agriculture estimates that around US$1.2 billion were lost
    in September 2006 because of these security measures. There has also
    been an economic embargo initiated by the west on Hamas-led Palestine,
    which has decreased the amount of imports and exports from
    Palestine.^[citation needed] This embargo was brought on by Hamas'
-   refusal to recognize Israel's right to statehood.^[citation needed] As
-   a result, the PA's 160,000 employees have not received their salaries
-   in over one year.^[259]
+   refusal to recognize Israel's right to statehood.^[citation needed] s a
+   result, the PA's 160,000 employees have not received their salaries in
+   over one year.^[260]
 
 Actions toward stabilizing the conflict
 
@@ -1731,11 +1736,11 @@ Actions toward stabilizing the conflict
    Authority, the Israeli military removed over 120 check points in 2010
    and planned on disengaging from major Palestinian population areas.
    According to the IDF, terrorist activity in the West Bank decreased by
-   97% compared to violence in 2002.^[260]
+   97% compared to violence in 2002.^[261]
 
    PA–Israel efforts in the West Bank have "significantly increased
    investor confidence", and the Palestinian economy grew 6.8% in
-   2009.^[261]^[262]^[263]^[264]
+   2009.^[262]^[263]^[264]^[265]
    [200px-Bank_Of_Palestine_-_Ramallah.jpg] Bank of Palestine
 
    Since the Second Intifada, Israel has banned Jewish Israelis from
@@ -1748,7 +1753,7 @@ Actions toward stabilizing the conflict
    Palestinian security officers while touring malls and soccer fields in
    the West Bank. Mizrahi gave permission to allow Israeli tour guides
    into Bethlehem, a move intended to "contribute to the Palestinian and
-   Israeli economies."^[265]
+   Israeli economies."^[266]
 
   Mutual recognition
 
@@ -1758,13 +1763,13 @@ Actions toward stabilizing the conflict
 
    Beginning in 1993 with the Oslo peace process, Israel recognizes "the
    PLO as the representative of the Palestinian people", though Israel
-   does not recognize the State of Palestine.^[266] In return, it was
+   does not recognize the State of Palestine.^[267] In return, it was
    agreed that Palestinians would promote peaceful co-existence, renounce
    violence and promote recognition of Israel among their own people.
    Despite Yasser Arafat's official renunciation of terrorism and
    recognition of Israel, some Palestinian groups continue to practice and
    advocate violence against civilians and do not recognize Israel as a
-   legitimate political entity.^[26]^[267]^[unreliable source?]
+   legitimate political entity.^[26]^[268]^[unreliable source?]
    Palestinians state that their ability to spread acceptance of Israel
    was greatly hampered by Israeli restrictions on Palestinian political
    freedoms, economic freedoms, civil liberties, and quality of life.
@@ -1774,7 +1779,7 @@ Actions toward stabilizing the conflict
    The Palestinian president Mahmoud Abbas has in recent years refused to
    recognize Israel as a Jewish state, citing concerns for Israeli Arabs
    and a possible future right to return for Palestinian refugees, though
-   Palestine continues to recognize Israel as a state.^[268]^[269]
+   Palestine continues to recognize Israel as a state.^[269]^[270]
 
    This article needs to be updated. Please help update this article to
    reflect recent events or newly available information. (January 2023)
@@ -1783,11 +1788,11 @@ Actions toward stabilizing the conflict
    military wing, has stated that any peace agreement must include the
    right of return of Palestinian refugees into lands now part of Israel,
    which some Israeli commenters view as "destroying the Jewish
-   state".^[270] In 2006, Hamas won a majority in the Palestinian
+   state".^[271] In 2006, Hamas won a majority in the Palestinian
    Legislative Council, where it remains the majority party. Hamas'
    charter openly states they seek Israel's destruction, though Hamas
    leaders have spoken of long-term truces with Israel in exchange for an
-   end to the occupation of Palestinian territory.^[267]^[271]
+   end to the occupation of Palestinian territory.^[268]^[272]
 
   Palestinian government
 
@@ -1797,12 +1802,12 @@ Actions toward stabilizing the conflict
    Fatah-controlled Palestinian Authority.
 
    The Palestinian Authority is considered corrupt by a wide variety of
-   sources, including some Palestinians.^[272]^[273]^[274] Some Israelis
+   sources, including some Palestinians.^[273]^[274]^[275] Some Israelis
    argue that it provides tacit support for militants via its relationship
    with Hamas and other Islamic militant movements, and that therefore it
    is unsuitable for governing any putative Palestinian state or
    (especially according to the right wing of Israeli politics), even
-   negotiating about the character of such a state.^[208] Because of that,
+   negotiating about the character of such a state.^[209] Because of that,
    a number of organizations, including the previously ruling Likud party,
    declared they would not accept a Palestinian state based on the current
    PA.
@@ -1812,11 +1817,11 @@ Actions toward stabilizing the conflict
    Starting in 2006, the United States began training, equipping, and
    funding the Palestinian Authority's security forces, which had been
    cooperating with Israel at unprecedented levels in the West Bank to
-   quell supporters of Hamas.^[182] The US government has spent over $500
+   quell supporters of Hamas.^[183] The US government has spent over $500
    million building and training the Palestinian National Security Forces
-   and Presidential Guard.^[182] The IDF maintains that the US-trained
+   and Presidential Guard.^[183] The IDF maintains that the US-trained
    forces will soon be capable of "overrunning small IDF outposts and
-   isolated Israeli communities" in the event of a conflict.^[275]
+   isolated Israeli communities" in the event of a conflict.^[276]
 
   Views on dialogue versus violence
 
@@ -1847,30 +1852,30 @@ Fatalities
    A variety of studies provide aggregated casualty data for the
    Israeli–Palestinian conflict. According to the Stockholm International
    Peace Research Institute, 13,000 Israelis and Palestinians were killed
-   in conflict with each other between 1948 and 1997.^[276] Other
-   estimations give 14,500 killed between 1948 and 2009.^[276]^[277]
+   in conflict with each other between 1948 and 1997.^[277] Other
+   estimations give 14,500 killed between 1948 and 2009.^[277]^[278]
    Palestinian fatalities during the 1982 Lebanon War were 2,000 PLO
-   combatants killed in armed conflict with Israel.^[278]
+   combatants killed in armed conflict with Israel.^[279]
 
    According to B'tselem, during the first intifada from 1987 until 2000,
-   1,551 Palestinians and 421 Israelis lost their lives.^[279] According
+   1,551 Palestinians and 421 Israelis lost their lives.^[280] According
    to the database of the United Nations Office for the Coordination of
    Humanitarian Affairs - occupied Palestinian territory (OCHAoPt), 6,407
    Palestinians and 308 Israelis were killed in the ongoing
    Israeli–Palestinian conflict from 2008 to September 2023, before the
-   2023 Israel–Hamas war.^[280]^[281]
+   2023 Israel–Hamas war.^[281]^[282]
 
    [440px-Timeline_of_Israel-Palestine_fatalities_2008-2023.png] Israeli
    and Palestinian deaths preceding the 2023 Israel–Hamas war. Of the
    Palestinian deaths 5,360 were in Gaza, 1,007 in the West Bank, 37 in
-   Israel. Most were civilians on both sides.^[280]^[281]
+   Israel. Most were civilians on both sides.^[281]^[282]
 
    [550px-Israel-Palestine_conflict_deaths_per_month.png] Bar chart
    showing Israeli and Palestinian deaths from September 2000 to July 2014
 
    CAPTION: Demographic percentages for the Israeli–Palestinian conflict
    according to Office for the Coordination of Humanitarian Affairs from
-   September 2000 until the end of July 2007.^[282]
+   September 2000 until the end of July 2007.^[283]
 
  Belligerent Combatant Civilian Male Female Children Children male
    Children female
@@ -1878,12 +1883,12 @@ Fatalities
  Israeli     31%       69%      69%  31%    12%      Not available Not available
 
    CAPTION: Partial casualty figures for the Israeli–Palestinian conflict
-   from the OCHAoPt^[283]
+   from the OCHAoPt^[284]
    (numbers in parentheses represent casualties under age 18)
 
       Year           Deaths                Injuries
               Palestinians Israelis Palestinians  Israelis
-   2008^[284] 464 (87)     31 (4)
+   2008^[285] 464 (87)     31 (4)
       2007    396 (43)     13 (0)   1,843 (265)  322 (3)
       2006    678 (127)    25 (2)   3,194 (470)  377 (7)
       2005    216 (52)     48 (6)   1,260 (129)  484 (4)
@@ -1897,7 +1902,7 @@ Fatalities
    figures do not include events indirectly related to the conflict such
    as casualties from unexploded ordnance, etc., or events when the
    circumstances remain unclear or are in dispute. The figures include all
-   reported casualties of all ages and both genders.^[283]
+   reported casualties of all ages and both genders.^[284]
 
   Criticism of casualty statistics
 
@@ -1906,28 +1911,28 @@ Fatalities
    were killed due to the conflict. According to the report, 1,317 of the
    6,371 Palestinians were minors, and at least 2,996 did not participate
    in fighting at the time of death. Palestinians killed 1,083 Israelis,
-   including 741 civilians, of whom 124 were minors.^[285]
+   including 741 civilians, of whom 124 were minors.^[286]
 
    The Israeli-based International Policy Institute for Counter-Terrorism
    criticized the methodology of Israeli and Palestinian rights groups,
    including B'Tselem, and questioned their accuracy in classifying
-   civilian/combatant ratios.^[286]^[287]
+   civilian/combatant ratios.^[287]^[288]
 
   Landmines and unexploded ordnance
 
    A comprehensive collection mechanism to gather land mine and explosive
    remnants of war (ERW) casualty data does not exist for the Palestinian
-   territories.^[288] In 2009, the United Nations Mine Action Centre
+   territories.^[289] In 2009, the United Nations Mine Action Centre
    reported that more than 2,500 mine and explosive remnants of war
    casualties occurred between 1967 and 1998, at least 794 casualties (127
    killed, 654 injured and 13 unknown) occurred between 1999 and 2008 and
-   that 12 people had been killed and 27 injured since the Gaza War.^[288]
+   that 12 people had been killed and 27 injured since the Gaza War.^[289]
    The UN Mine Action Centre identified the main risks as coming from "ERW
    left behind by Israeli aerial and artillery weapon systems, or from
-   militant caches targeted by the Israeli forces."^[288] There are at
+   militant caches targeted by the Israeli forces."^[289] There are at
    least 15 confirmed minefields in the West Bank on the border with
    Jordan. The Palestinian National Security Forces do not have maps or
-   records of the minefields.^[288]
+   records of the minefields.^[289]
 
 See also
 
@@ -1958,10 +1963,6 @@ See also
      * Seeds of Peace
 
 Notes
-
-    1. ^ Designated as a terrorist group by Australia, Canada, the
-       European Union, Israel, Japan, Paraguay, the United Kingdom, and
-       the United States
 
 Explanatory notes
 
@@ -2152,149 +2153,152 @@ References
    45. ^ "Seven Truths About Israel, Hamas and Violence". Bloomberg.com.
        20 November 2012. Archived from the original on 7 May 2021.
        Retrieved 24 October 2022.
-   46. ^ "In Israel and the U.S., 'apartheid' is the elephant in the
+   46. ^ "Urban battle from past Gaza war offers glimpse of what an
+       Israeli ground offensive might look like". AP News. 16 October
+       2023. Retrieved 2 December 2023.
+   47. ^ "In Israel and the U.S., 'apartheid' is the elephant in the
        room". Washington Post.
-   47. ^ "Israeli-Palestinian death toll highest since 2005: UN envoy".
+   48. ^ "Israeli-Palestinian death toll highest since 2005: UN envoy".
        UN. 21 August 2023. Archived from the original on 23 August 2023.
        Retrieved 24 August 2023.
-   48. ^ Agha, Hussein; Malley, Robert. "Camp David: The Tragedy of
+   49. ^ Agha, Hussein; Malley, Robert. "Camp David: The Tragedy of
        Errors". New York Review of Books. ISSN 0028-7504. Archived from
        the original on 6 September 2018. Retrieved 5 March 2022.
-   49. ^ "Propositions israéliennes, de Camp David (2000) à Taba (2001)".
+   50. ^ "Propositions israéliennes, de Camp David (2000) à Taba (2001)".
        Le Monde diplomatique (in French). 1 September 2001. Archived from
        the original on 5 March 2022. Retrieved 5 March 2022.
-   50. ^ Agha, Hussein; Malley, Robert. "Camp David and After: An Exchange
+   51. ^ Agha, Hussein; Malley, Robert. "Camp David and After: An Exchange
        (2. A Reply to Ehud Barak)". New York Review of Books.
        ISSN 0028-7504. Archived from the original on 5 March 2022.
        Retrieved 5 March 2022.
-   51. ^ Barak, Ehud; Morris, Benny; Agha, Hussein; Malley, Robert. "Camp
+   52. ^ Barak, Ehud; Morris, Benny; Agha, Hussein; Malley, Robert. "Camp
        David and After—Continued". New York Review of Books.
        ISSN 0028-7504. Archived from the original on 5 March 2022.
        Retrieved 5 March 2022.
-   52. ^ ^a ^b Karsh, Efraim. Arafat's War: The Man and His Battle for
+   53. ^ ^a ^b Karsh, Efraim. Arafat's War: The Man and His Battle for
        Israeli Conquest. New York: Grove Press, 2003. p. 168. "Arafat
        rejected the proposal" (emphasis added).
-   53. ^ Morris, Benny. "Camp David and After: An Exchange (1. An
+   54. ^ Morris, Benny. "Camp David and After: An Exchange (1. An
        Interview with Ehud Barak)". New York Review of Books.
        ISSN 0028-7504. Archived from the original on 5 March 2022.
        Retrieved 5 March 2022.
-   54. ^ ^a ^b Robert Malley and Hussein Agha (9 August 2001). "Camp
+   55. ^ ^a ^b Robert Malley and Hussein Agha (9 August 2001). "Camp
        David: The Tragedy of Errors". New York Review of Books. Archived
        from the original on 6 September 2018. Retrieved 5 September 2018.
-   55. ^ ^a ^b Jeremy Pressman, International Security, vol 28, no. 2,
+   56. ^ ^a ^b Jeremy Pressman, International Security, vol 28, no. 2,
        Fall 2003, "Visions in Collision: What Happened at Camp David and
        Taba?" Archived 4 March 2016 at the Wayback Machine. On [2]
        Archived 22 July 2011 at the Wayback Machine. See pp. 7, 15–19
-   56. ^ Shamir, Shimon (2005). The Camp David Summit—what Went Wrong?:
+   57. ^ Shamir, Shimon (2005). The Camp David Summit—what Went Wrong?:
        Americans, Israelis, and Palestinians Analyze the Failure of the
        Boldest Attempt Ever to Resolve the Palestinian-Israeli Conflict.
        Sussex Academic Press. ISBN 978-1-84519-099-6. Archived from the
        original on 21 April 2023. Retrieved 24 October 2022.
-   57. ^ Wright, Robert (18 April 2002). "Was Arafat the problem?". Slate
+   58. ^ Wright, Robert (18 April 2002). "Was Arafat the problem?". Slate
        Magazine. Archived from the original on 5 March 2022. Retrieved 5
        March 2022.
-   58. ^ Bennet, James. "Clinton criticizes Arafat actions." Archived 13
+   59. ^ Bennet, James. "Clinton criticizes Arafat actions." Archived 13
        May 2013 at the Wayback Machine Chicago Tribune. 21 January 2002.
        14 January 2012. "'Chairman Arafat missed a golden opportunity,'
        [President Bill] Clinton said in a speech Sunday night, referring
        to Arafat's rejection of a peace proposal made at Camp David in
        2000" (emphasis added).
-   59. ^ Rubin, Barry M.; Rubin, Judith Colp (2008). Chronologies of
+   60. ^ Rubin, Barry M.; Rubin, Judith Colp (2008). Chronologies of
        Modern Terrorism. M.E. Sharpe. ISBN 978-0-7656-2206-8. Archived
        from the original on 21 April 2023. Retrieved 24 October 2022.
-   60. ^ Rabinovich, Itamar (11 November 2011). The Lingering Conflict:
+   61. ^ Rabinovich, Itamar (11 November 2011). The Lingering Conflict:
        Israel, the Arabs, and the Middle East, 1948 2011. Brookings
        Institution Press. ISBN 978-0-8157-2229-8. Archived from the
        original on 21 April 2023. Retrieved 24 October 2022.
-   61. ^ ^a ^b ^c ^d ^e Pressman, Jeremy (Fall 2003). "Visions in
+   62. ^ ^a ^b ^c ^d ^e Pressman, Jeremy (Fall 2003). "Visions in
        Collision – What Happened at Camp David and Taba". International
        Security. 28 (2): 6. doi:10.1162/016228803322761955.
        S2CID 57564925.
-   62. ^ "End of a Journey". Haaretz. Archived from the original on 5
+   63. ^ "End of a Journey". Haaretz. Archived from the original on 5
        March 2022. Retrieved 5 March 2022.
-   63. ^ Ben Ami, Shlomo. "Fmr. Israeli Foreign Minister: "If I were a
+   64. ^ Ben Ami, Shlomo. "Fmr. Israeli Foreign Minister: "If I were a
        Palestinian, I Would Have Rejected Camp David"". Democracy Now!.
        Archived from the original on 21 June 2014. Retrieved 24 June 2014.
-   64. ^ "Clinton: Arafat changed mind on peace deal". The Washington
+   65. ^ "Clinton: Arafat changed mind on peace deal". The Washington
        Times. Archived from the original on 5 March 2022. Retrieved 5
        March 2022.
-   65. ^ Altman, Alex (22 January 2009). "Middle East Envoy George
+   66. ^ Altman, Alex (22 January 2009). "Middle East Envoy George
        Mitchell". Time. Archived from the original on 8 December 2015.
        Retrieved 3 December 2015.
-   66. ^ "Excerpts: State Dept; Spokesman on Mideast Peace Prospects (Both
+   67. ^ "Excerpts: State Dept; Spokesman on Mideast Peace Prospects (Both
        sides accept Clinton's parameters with reservations)". Embassy of
        the United States, Israel. Archived from the original on 21 July
        2011. Retrieved 3 June 2012.
-   67. ^ Wren, Christopher (3 January 2001). "Renewed Hope for Peace Talks
+   68. ^ Wren, Christopher (3 January 2001). "Renewed Hope for Peace Talks
        as Arafat Returns to Mideast". New York Times. Archived from the
        original on 20 September 2012. Retrieved 3 June 2012.
-   68. ^ Levinson, Chaim (9 November 2015). "Israel moves to green light
+   69. ^ Levinson, Chaim (9 November 2015). "Israel moves to green light
        2,200 new settlement units, recognizes outposts". Haaretz. Archived
        from the original on 30 November 2015. Retrieved 3 December 2015.
-   69. ^ "UN: Israeli-Palestinian violence nears 'catastrophe'". Al
+   70. ^ "UN: Israeli-Palestinian violence nears 'catastrophe'". Al
        Jazeera. Archived from the original on 8 December 2015. Retrieved 3
        December 2015.
-   70. ^ "Mapping the dead in latest Israeli-Palestinian violence". Al
+   71. ^ "Mapping the dead in latest Israeli-Palestinian violence". Al
        Jazeera. Archived from the original on 29 November 2015. Retrieved
        3 December 2015.
-   71. ^ "Saudi Prince al-Faisal tells Haaretz: Desire for peace exists
+   72. ^ "Saudi Prince al-Faisal tells Haaretz: Desire for peace exists
        both in Gaza and Ramallah – Israel Conference on Peace TLV".
        Haaretz. 12 November 2015. Archived from the original on 3 December
        2015. Retrieved 3 December 2015.
-   72. ^ "The Saudi Arabia peace initiative". Ynetnews. 23 March 2009.
+   73. ^ "The Saudi Arabia peace initiative". Ynetnews. 23 March 2009.
        Archived from the original on 5 March 2022. Retrieved 5 March 2022.
-   73. ^ "Support for the Saudi Initiative". The New York Times. 28
+   74. ^ "Support for the Saudi Initiative". The New York Times. 28
        February 2002. Archived from the original on 11 November 2016.
        Retrieved 24 June 2016.
-   74. ^ Stern, Yoav (November 22, 2008). "Abbas calls on Obama to enact
+   75. ^ Stern, Yoav (November 22, 2008). "Abbas calls on Obama to enact
        Arab peace plan as soon as he takes office" Archived 25 December
        2008 at the Wayback Machine. Haaretz. Associated Press.
-   75. ^ "Hamas' al-Zahar: Arab peace initiative impractical" Archived 20
+   76. ^ "Hamas' al-Zahar: Arab peace initiative impractical" Archived 20
        July 2008 at the Wayback Machine. Ynet News. Associated Press. June
        1, 2006.
-   76. ^ Time to Test the Arab Peace Offer. By Scott MacLeod. Time.
+   77. ^ Time to Test the Arab Peace Offer. By Scott MacLeod. Time.
        January 8, 2009.
-   77. ^ "Saudi former intel chief slams Palestinian's criticism of
+   78. ^ "Saudi former intel chief slams Palestinian's criticism of
        UAE-Israel deal". The Jerusalem Post | JPost.com. 6 October 2020.
        Archived from the original on 6 October 2020. Retrieved 8 May 2023.
-   78. ^ "Arabs offer Israel peace plan". BBC News. 28 March 2002.
+   79. ^ "Arabs offer Israel peace plan". BBC News. 28 March 2002.
        Archived from the original on 14 December 2006. Retrieved 17 April
        2013.
-   79. ^ Hoffman, Gil (4 March 2002). "Sharon warns Saudi plan may be Arab
+   80. ^ Hoffman, Gil (4 March 2002). "Sharon warns Saudi plan may be Arab
        plot". The Jerusalem Post. Archived from the original on 3 February
        2004. Retrieved 1 October 2011.
-   80. ^ "Olmert gives cautious welcome to Arab peace plan".
+   81. ^ "Olmert gives cautious welcome to Arab peace plan".
        TheGuardian.com. 30 March 2007. Archived from the original on 20
        December 2016. Retrieved 8 May 2023.
-   81. ^ "Netanyahu backs 'general idea' behind Arab Peace Initiative".
+   82. ^ "Netanyahu backs 'general idea' behind Arab Peace Initiative".
        Times of Israel. 28 May 2015. Archived from the original on 30 May
        2015. Retrieved 30 May 2015.
-   82. ^ "Netanyahu: Israel Will Never Accept Arab Peace Initiative as
+   83. ^ "Netanyahu: Israel Will Never Accept Arab Peace Initiative as
        Basis for Talks With Palestinians". Haaretz. Archived from the
        original on 1 February 2023. Retrieved 8 May 2023.
-   83. ^ Richard Horowitz (18 June 2013). "Palestinian Chief Negotiator,
+   84. ^ Richard Horowitz (18 June 2013). "Palestinian Chief Negotiator,
        Saeb Erekat, on Israel's Legal Obligations". World Policy Review.
        Archived from the original on 4 September 2014. Retrieved 18
        October 2014.
-   84. ^ S. Daniel Abraham (8 March 2013). "Israel's Dreaded Tipping Point
+   85. ^ S. Daniel Abraham (8 March 2013). "Israel's Dreaded Tipping Point
        Has Finally Arrived". The Atlantic. Archived from the original on
        10 March 2013. Retrieved 10 March 2013.
-   85. ^ Holmes, Oliver (27 April 2021). "Israel is committing the crime
+   86. ^ Holmes, Oliver (27 April 2021). "Israel is committing the crime
        of apartheid, rights group says". The Guardian. Archived from the
        original on 2 February 2022.
-   86. ^ Israel's Apartheid Against Palestinians: Cruel System of
+   87. ^ Israel's Apartheid Against Palestinians: Cruel System of
        Domination and Crime Against Humanity (PDF) (Report). Amnesty
        International. January 2022. Archived (PDF) from the original on 1
        February 2022. Retrieved 8 December 2022.
-   87. ^ Harriet Sherwood (18 January 2012). "EU report calls for action
+   88. ^ Harriet Sherwood (18 January 2012). "EU report calls for action
        over Israeli settlement growth". The Guardian. London. Archived
        from the original on 4 September 2013. Retrieved 11 February 2012.
-   88. ^ See the following:
+   89. ^ See the following:
           +
        Keinon, Herb. "Critical EU paper draws fire from Israeli
        officials". The Jerusalem Post. Archived from the original on 6
        October 2012. Retrieved 11 February 2012.
-   89.
+   90.
 
    Hass, Amira (1 December 2012). "EU report: Israel policy in West Bank
    endangers two-state solution". Haaretz. Archived from the original on
@@ -3192,7 +3196,7 @@ External links
    Israeli–Palestinian conflict
 
    Participants
-   Israel
+   Israelis
      * Israel Defense Forces
      * Israel Police
      * Mossad
@@ -3201,7 +3205,7 @@ External links
    Palestinians
    Principals
      * All-Palestine Protectorate
-     * Palestine Liberation Organization (PLO)
+     * Palestine Liberation Organization
      * Fatah
      * Hamas
      * Palestinian National Authority
@@ -3210,8 +3214,8 @@ External links
      * al-Aqsa Brigades
      * DFLP
      * Jenin Brigades
-     * Islamic Jihad
      * Lions' Den
+     * PIJ
      * PLF
      * PPSF
      * PFLP
@@ -3310,7 +3314,7 @@ External links
           + massacres
      * 1948–present Fedayeen insurgency
           + 1951–1967 Attacks against Israeli civilians
-          + 1950s–1960s IDF reprisal operations
+          + 1950s–1960s Reprisal operations
      * 1953 Qibya massacre
      * 1956 Kafr Qasim / Khan Yunis / Rafah massacres
      * 1967 Six-Day War
@@ -3321,11 +3325,11 @@ External links
    insurgency
    1968–1982
      * 1970 Avivim school bus bombing
-     * 1972 Sabena Flight 571 / Munich massacre / Mossad assassinations
-       following the Munich massacre (1973 Lillehammer affair)
+     * 1972 Sabena Flight 571 / Munich massacre / "Bayonet"
+       (1973 Lillehammer affair)
      * 1974 Kiryat Shmona massacre / Ma'alot massacre
      * 1975 Savoy Hotel attack
-     * 1976 Operation "Entebbe"
+     * 1976 Entebbe raid
      * 1978 Coastal Road massacre / South Lebanon conflict
      * 1980 Misgav Am hostage crisis
 
@@ -3337,14 +3341,14 @@ External links
           + Siege of Beirut
      * 1983 1983 West Bank fainting epidemic
      * 1984 Bus 300 affair
-     * 1985 Achille Lauro hijacking / Operation "Wooden Leg"
+     * 1985 Achille Lauro hijacking / "Wooden Leg"
      * 1987 Night of the Gliders
 
    First Intifada
    1987–1991
-     * 1988 Tunis Raid
+     * 1988 Tunis raid
      * 1989 Bus 405 attack
-     * 1990 Temple Mount riots
+     * 1990 Temple Mount killings
      * 1990s Palestinian suicide attacks
      * 1994 Cave of the Patriarchs massacre
 
@@ -3356,40 +3360,39 @@ External links
      * Israeli assassinations
      * 2000 October events
      * 2001 Santorini
-     * 2002 Karine A / Operation "Defensive Shield" / Battle of Jenin /
-       Battle of Nablus / Operation "Determined Path"
+     * 2002 Karine A / "Defensive Shield" / Battle of Jenin / Battle of
+       Nablus / "Determined Path"
      * 2003 Ain es Saheb airstrike
-     * 2004 Operation "Rainbow" / Beit Hanoun raid / Operation "Days of
-       Penitence"
+     * 2004 "Rainbow" / Beit Hanoun raid / "Days of Penitence"
 
    Palestinian dissident
    campaigns
    2006–present
-     * 2006 Operation "Bringing Home the Goods"
+     * 2006 "Bringing Home the Goods"
      * 2008 Jerusalem yeshiva attack / Jerusalem bulldozer attack
-     * 2009 Temple Mount clashes
+     * 2009 Al-Aqsa clashes
      * 2010 Palestinian militancy campaign
-     * 2015–2016 wave of violence
+     * 2015–2016 violence
      * 2017 Temple Mount crisis
      * 2021 Israel–Palestine crisis
-     * 2022 Al-Aqsa Mosque clashes
+     * 2022 Al-Aqsa clashes
 
    Gaza–Israel
    conflict
    2006–present
-     * 2006 Gaza beach explosion / Gaza cross-border raid / Operation
-       "Summer Rains" / Operation "Autumn Clouds" / Beit Hanoun shelling
-     * 2008 Gaza–Egypt border breach / Operation "Hot Winter"
+     * 2006 Gaza beach explosion / Gaza cross-border raid / "Summer
+       Rains" / "Autumn Clouds" / Beit Hanoun shelling
+     * 2008 Egypt–Gaza border breach / "Hot Winter"
      * 2008–2009 Gaza War
      * 2010 Gaza flotilla raid
-     * 2012 Operation "Returning Echo" / Operation "Pillar of Defense"
-     * 2014 Operation "Protective Edge"
+     * 2012 "Returning Echo" / "Pillar of Defense"
+     * 2014 "Protective Edge"
      * 2015 Freedom Flotilla III
      * 2018 Gaza border protests / November clashes
-     * 2019 May clashes / November clashes
-     * 2021 Operation "Guardian of the Walls"
-     * 2022 Operation "Breaking Dawn"
-     * 2023 May 2023 Gaza–Israel clashes / 2023 Israel–Hamas war
+     * 2019 May clashes / "Black Belt"
+     * 2021 "Guardian of the Walls"
+     * 2022 "Breaking Dawn"
+     * 2023 "Shield and Arrow" / 2023 Israel–Hamas war
 
    Diplomacy
    Timeline
@@ -3405,9 +3408,9 @@ External links
      * 1981–1982 Fahd Plan
      * 1991 Madrid Conference
      * 1993–1995 Oslo Accords
-     * 1994 Protocol on Economic Relations (Paris Protocol)
+     * 1994 Paris Protocol
      * 1994 Gaza–Jericho Agreement
-     * 1994–present US security assistance to PNA
+     * 1994–present US security assistance to the PA
      * 1997 Hebron Agreement
      * 1998 Wye River Memorandum
      * 1999 Sharm El Sheikh Memorandum
@@ -3428,7 +3431,9 @@ External links
      * 2011 Palestine Papers
      * 2013–2014 Israeli–Palestinian peace talks
 
-   Israel, Palestine and the United Nations
+   United Nations
+     * Israel and the UN
+     * Palestine and the UN
      * 1947 UN Resolution 181
      * 1948 UN Resolution 194
      * 1967 UN Resolution 242
@@ -3626,45 +3631,44 @@ External links
      * Iraqi Kingdom and Ba'athist Iraq
      * Israel
      * Jordan
-     * Palestinian National Authority
+     * Palestinian Authority
      * Saudi Arabia
      * Syrian Republic and Ba'athist Syria
 
    Organizations
    Active
-     * Abu Nidal Organization
+     * Abu Nidal
      * Amal
      * al-Aqsa Martyrs' Brigades
-     * Syrian Social Nationalist Party
      * Arab League
      * Arab Liberation Front
-     * Democratic Front for the Liberation of Palestine
+     * Army of Islam
+     * DFLP
      * Fatah
      * Guardians of the Cedars
      * Hamas
      * Hezbollah
-     * Jaish al-Islam
      * Kataeb
      * Lebanese Forces
      * al-Mourabitoun
      * Muslim Brotherhood
-     * Palestinian Islamic Jihad
-     * Palestinian Liberation Front
-     * Palestine Liberation Organization
+     * PIJ
+     * PLF
+     * PLO
      * Palestinian Popular Struggle Front
-     * Popular Front for the Liberation of Palestine
-     * Popular Front for the Liberation of Palestine – General Command
+     * PFLP
+     * PFLP-GC
      * Popular Resistance Committees
      * as-Sa'iqa
+     * Syrian Social Nationalist Party
 
-   Inactive or
-   former
+   Former
      * Arab Higher Committee
      * Arab Liberation Army
      * Black September
      * Haganah
      * Holy War Army
-     * Irgun (Etzel)
+     * Irgun
      * Japanese Red Army
      * Lehi
      * Palmach
@@ -3696,7 +3700,7 @@ External links
 
    Armed engagements
    1947–1959
-     * 1947–1949 Palestine war
+     * 1948 Palestine war
      * Arab–Israeli War (1948–1949)
      * Palestinian Fedayeen insurgency (1949–1956)
      * Suez Crisis (1956)
@@ -3707,18 +3711,18 @@ External links
      * War of Attrition (1967–1970)
      * Battle of Karameh (1968)
      * Palestinian insurgency in South Lebanon (1968–1982)
-     * 1968 Israeli raid on Lebanon (1968)
+     * Gift (1968)
      * Yom Kippur War (1973)
      * Sabena Flight 571 (1972)
      * Lod Airport massacre (1972)
      * Munich massacre (1972)
-     * Mossad assassinations following the Munich massacre (1972–1979)
+     * Bayonet (1972–1979)
      * Libyan Arab Airlines Flight 114 (1973)
      * Ma'alot massacre (1974)
      * Savoy Hotel attack (1975)
      * Entebbe (1976)
      * Coastal Road massacre (1978)
-     * 1978 South Lebanon conflict (1978)
+     * Litani (1978)
 
    1980–1999
      * Misgav Am hostage crisis (1980)
@@ -3729,7 +3733,7 @@ External links
      * Wooden Leg (1985)
      * First Intifada (1987–1993)
      * Mothers' Bus attack (1988)
-     * Tunis Raid (1988)
+     * Tunis raid (1988)
      * Iraqi rocket attacks on Israel (1991)
      * Bramble Bush (1992)
      * Palestinian suicide attacks (1993–2008)
@@ -3740,9 +3744,9 @@ External links
      * Second Intifada (2000–2005)
      * Palestinian rocket attacks on Israel (2001–)
      * Ain es Saheb airstrike (2003)
-     * Battle of Jericho Prison (2006)
+     * Bringing Home the Goods (2006)
      * Summer Rains (2006)
-     * Israeli operation in Beit Hanoun (2006)
+     * Autumn Clouds (2006)
      * Lebanon War (2006)
      * Gaza–Israel conflict (2006–)
           + Hot Winter (2007–2008)
@@ -3752,12 +3756,11 @@ External links
           + Returning Echo (2012)
           + Pillar of Defense (2012)
           + Gaza War (2014)
-          + Wave of violence in the Israeli–Palestinian conflict
-            (2015–2016)
+          + Wave of violence (2015–2016)
           + Gaza border protests (2018)
           + Gaza–Israel clashes (2018)
           + Gaza–Israel clashes (2019)
-          + Gaza–Israel clashes (2019)
+          + Black Belt (2019)
           + Israel–Palestine crisis (2021)
           + Breaking Dawn (2022)
           + Shield and Arrow (2023)
@@ -3774,7 +3777,7 @@ External links
      * 1916 Sykes–Picot Agreement
      * 1917 Balfour Declaration
      * 1918 Declaration to the Seven / Anglo-French Declaration
-     * 1919 Faisal–Weizmann Agreement
+     * 1919 Faisal–Weizmann agreement
      * 1920 San Remo conference
      * 1922 Churchill White Paper
      * 1937 Peel Commission
@@ -3831,7 +3834,7 @@ External links
           + Bahrain–Israel normalization agreement
           + Israel–Sudan normalization agreement
           + Israel–Morocco normalization agreement
-     * 2022  Israeli–Lebanese maritime border dispute agreement
+     * 2022 Israeli–Lebanese maritime border agreement
 
      * v
      * t
@@ -3965,6 +3968,7 @@ External links
      * Botswana
      * Cameroon
      * Chad
+     * Democratic Republic of the Congo
      * Egypt
      * Equatorial Guinea
      * Eritrea
@@ -4465,6 +4469,7 @@ External links
      * Amin al-Husseini
      * Salah Jadid
      * Abd al-Rahman al-Kawakibi
+     * Mostéfa Merarda
      * Gamal Abdel Nasser
      * Adnan Pachachi
      * Ameen Rihani
@@ -4549,7 +4554,7 @@ External links
 
    Retrieved from
    "https://en.wikipedia.org/w/index.php?title=Israeli–Palestinian_conflic
-   t&oldid=1187080810"
+   t&oldid=1188431049"
 
    Categories:
      * Israeli–Palestinian conflict
@@ -4598,7 +4603,7 @@ External links
      * Wikipedia articles in need of updating from January 2023
      * Pages using Sister project links with hidden wikidata
 
-     * This page was last edited on 27 November 2023, at 09:56 (UTC).
+     * This page was last edited on 5 December 2023, at 11:03 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        License 4.0; additional terms may apply. By using this site, you
        agree to the Terms of Use and Privacy Policy. Wikipedia® is a

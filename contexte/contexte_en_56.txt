@@ -6,6 +6,10 @@
           + Ukraine war
           + Coronavirus
 --
+     * Live tracker
+     * Has the war divided the world?
+     * A simple guide
+--
    With the truce the first break in fighting after seven weeks, several
    scenarios in the war are now possible.
    Palestinians gather at Al Shifa Hospital compound in Gaza City, amid
