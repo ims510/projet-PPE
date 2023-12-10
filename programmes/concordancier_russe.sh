@@ -4,7 +4,7 @@
 INPUT_PATH=$1
 OUTPUT_PATH=$2
 
-WORD_REGEX="[Вв]ойн((а)|(ы)|(у)|(ой)|(е)|(ам)|(ами)|(ах))?"
+WORD_REGEX="[Вв]ойн((ам?и?х?)|(ы)|(у)|(ой)|(е))?"
 
 echo "<!DOCTYPE html>
 <html>
