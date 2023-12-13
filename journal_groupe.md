@@ -69,7 +69,7 @@ _Ioana-Madalina SILAI :_
 WORDCOUNT=$(cat ../dumps-text/dump_ro_$N.txt | egrep -o "[Rr]ăzbo((iul)|(iului)|(aiele)|(aie)|(aielor)|i)"| wc -w)
 ```
 
-- Enfin, nous avons ajouté une colonne "Contextes" à notre tableau. Cette colonne contient un lien menant à un fichier texte contenant toutes les occurences du mot "guerre" entouré par une ligne de la page web de chaque coté. Pour obtenir une ligne avant et après le mot nous avons utilisé l'option `-C 1` après la commande `egrep`. Nous avons aussi utilisé la commande sed pour supprimer les éventuelles lignes vides (avant ou après notre mot) :
+- Nous avons également ajouté une colonne "Contextes" à notre tableau. Cette colonne contient un lien menant à un fichier texte contenant toutes les occurences du mot "guerre" entouré par une ligne de la page web de chaque coté. Pour obtenir une ligne avant et après le mot nous avons utilisé l'option `-C 1` après la commande `egrep`. Nous avons aussi utilisé la commande sed pour supprimer les éventuelles lignes vides (avant ou après notre mot) :
 
 _Kehina MANSERI:_ 
 ```
@@ -81,6 +81,43 @@ _Ioana-Madalina SILAI :_
 ```
 cat ../dumps-text/dump_ro_$N.txt | sed '/^$/d'| egrep -C 1 "[Rr]ăzbo((iul)|(iului)|(aiele)|(aie)|(aielor)|i)" > ../contexte/contexte_ro_$N.txt
 ```
+
+
+- Enfin, nous avons ajouté une colonne "Concordances" à notre tableau. Nous avions initialement rencontré de grandes difficultés.
+
+*Semaine du 21 novembre 2023*
+
+Nous avons essayé de faire le dernier exercice de la fiche "Concordances". Nous avons premièrement cherché à garder uniquement jusqu'à 5 mots à gauche et à droite des occurences de notre mot cible. 
+Nous avons crée un script spécifique pour cet exercice (`concordancier_roumain.sh`) que nous avions prévu d'appeler dans notre script principal. 
+
+Pour celà, nous avions utilisé sed pour essayer de supprimer le mot et le contexte droit (pour obtenir le contexte gauche) et inversement. Nous n'avons cependant pas réussi à remplacer notre commentaire $TABLE par le résultat de notre script "concordance". Nous obtenions l'erreur : 
+
+![Alt text](image.png)
+
+Nous avons essayé de remplacer les pipes par d'autres caractères. Nous avons également essayé d'ajuster notre expressions régulières car nous avons appris que sed ne prend pas plus de 9 groupes d'expressions régulières. Même si cette commande fonctionne bien dans notre script principal, elle ne semble pas fonctionner ici.
+
+
+*Semaine du 28 novembre 2023*
+
+Nous avons modifié la présentation de notre fichier (`miniprojet_roumain`) afin d'avoir une ligne "TABLEROW" pour chacune de nos variables. Nous avons également reformulé notre ligne correspondant à la variable CONCORDANCE_TABLE dans notre fichier (`concordancier_roumain.sh`). 
+
+*Semaine du 5 décembre 2023*
+
+Nous avons voulu créer la colonne "Concordances" dans les tableaux russe et anglais afin de pouvoir commencer la mise en page de notre page GitHub. Nous avons cependant recontré deux obstacles différents. 
+
+Pour ce qui est du concordancier anglais, nous avons rencontré des difficultés en rapport avec l'encodage de nos pages web. En effet, après avoir adapté nos scripts en se basant sur ceux du roumain, nous obtenions toujours la même erreur : `sed: -e expression #1, char 18205: unterminated s' command`.
+
+Il semblait y avoir un problème avec notre commande sed utilisée ici pour obtenir nos contextes droit et gauche. Nous avons bien remplacé les valeurs à remplacer dans notre scripts (ce qui incluait les noms des fichiers à prendre en compte ainsi que le nombre de groupes "match" de notre expression régulière) et ne comprenions donc pas le problème. En executant notre script sur l'ordinateur de Maddie (un mac), nous obtenions une erreur différente : `illegal byte sequence`. 
+
+En recherchant cette erreur sur internet nous avons compris qu'elle se produisait lorsqu'un fichier avec des caractères majoritairement ASCII était donné à un opérateur qui attendait de l'UTF-8. Tous nos fichiers étaient cependant bien encodés en UTF-8. Les erreurs semblaient systématiquement provenir des pages Wikipédia qui contenaient des caractères diacrités et encodés sur plus de 1 octet. Lynx semblait alors interpréter ces caractères en ASCII alors qu'ils ne pouvaient pas être reconnus par cet encodage. Nous avons donc décidé d'utiliser LINKS au lieu de LYNX et notre problème s'est résolu. Nous avons ensuite ajouté une colonne "Concordances" à notre fichier (`tableau_anglais`) et mis à jour nos scripts.
+
+Pour ce qui est du russe, notre problème était au niveau du nombres de "matches" acceptés par la commande sed pour ce qui est des expressions régulières. La limite de ces matches étant de 9, il était impossible pour nous d'inclure tous les groupes "matches" de notre expression régulière, qui en comptait 8, ainsi que du contenu textuel de groupe de droite et de gauche. Nous aurions eu besoin d'une limite de 10.
+
+Nous avons donc modifié notre expression régulière pour que cette dernière ne reconnaisse uniquement que 6 groupes "matches" :
+
+```[Вв]ойн((а)|(ы)|(у)|(ой)|(е)|(ам)|(ами)|(ах))``` -> ```[Вв]ойн((ам?и?х?)|(ы)|(у)|(ой)|(е))?```
+
+
 
 ## Création des pages HTML :
 Nous avons choisi d'utiliser un template html à la place d'avoir les balises html dans notre script bash pour faciliter la lecture et éviter de relancer à chaque fois notre script lors des futures modifications de la page. 
@@ -95,15 +132,7 @@ Nous venons remplacer le commentaire < !-- Table -- > qui se trouve dans le temp
 Nous avons également remplacé les slashs (la syntaxe initiale étant `sed "s/element_a_remplacer/element_remplaçant/g"`) par des pipes pour éviter les mauvaises interprétations. 
 
 
-## Difficultés : 
-Nous avons essayé de faire le dernier exercice de la fiche "Concordances". Nous avons premièrement cherché à garder uniquement jusqu'à 5 mots à gauche et à droite des occurences de notre mot cible. 
-Nous avons crée un script spécifique pour cet exercice (`concordancier_roumain.sh`) que nous avions prévu d'appeler dans notre script principal. 
 
-Pour celà, nous avions utilisé sed pour essayer de supprimer le mot et le contexte droit (pour obtenir le contexte gauche) et inversement. Nous n'avons cependant pas réussi à remplacer notre commentaire $TABLE par le résultat de notre script "concordance". Nous obtenions l'erreur : 
-
-![Alt text](image.png)
-
-Nous avons essayé de remplacer les pipes par d'autres caractères. Nous avons également essayé d'ajuster notre expressions régulières car nous avons appris que sed ne prend pas plus de 9 groupes d'expressions régulières. Même si cette commande fonctionne bien dans notre script principal, elle ne semble pas fonctionner ici.
 
 ## À faire pour la prochaine fois : 
 - Arriver à faire une page HTML pour les concordances de chaque lien.
@@ -144,3 +173,11 @@ Nous n'avons également pas énormement compris ce que l'on devait faire avec no
 Nous ne sommes enfin pas sûre de comprendre s'il faut obtenir un seul fichier avec les contextes concaténés de chaque langue ou bien garder un fichier par langue.
 
 Pour ce qui est de l'interface graphique, nous sommes inquiètes de ne pas avoir le temps de créer notre page. Nous ne savons pas s'il faut suivre les thèmes graphiques des années précédentes ou bien faire complétement autre chose.
+
+## Mise en page de notre site dédié :
+
+**Choix du thème**
+
+*Semaine du 5 décembre*
+
+Nous avons commencé par chercher un thème sur Bulma qui pourrait être utilisé pour la présentation finale de notre projet. Nous nous sommes mises d'accord sur un thème
