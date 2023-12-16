@@ -98,6 +98,16 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
+.sidebar-nav-item.child {
+  color: #bbb;
+  font-size: 90%;
+  margin-left: 0.8rem;
+}
+.sidebar-nav-item.child::before { 
+  content: "-";
+  display: inline-block;
+  margin-right: 0.3rem;
+}
 
 /* Sticky sidebar
  *

@@ -11,10 +11,13 @@ then
 fi
 
 N=1
+#supprimer les fichier avant de commencer, pour ne pas avoir les memes fichier plusieurs fois si on execute le script de nouveau
+echo "" > $FOLDER/dump-pals-$URL.txt
+echo "" > $FOLDER/contexte-pals-$URL.txt
 
 while read -r line;
 do
-	cat ../dumps-text/dump_${URL}_$N.txt | tr -cs "[:alpha:]." "\n" | sed "s/\./\n/g" > $FOLDER/dump-pals-$URL.txt
-	cat ../contexte/contexte_${URL}_$N.txt | tr -cs "[:alpha:]." "\n" | sed "s/\./\n/g" > $FOLDER/contexte-pals-$URL.txt
+	cat ../dumps-text/dump_${URL}_$N.txt | tr -cs "[:alpha:]." "\n" | sed "s/\./\n/g" >> $FOLDER/dump-pals-$URL.txt
+	cat ../contexte/contexte_${URL}_$N.txt | tr -cs "[:alpha:]." "\n" | sed "s/\./\n/g" >> $FOLDER/contexte-pals-$URL.txt
 	N=$(expr $N + 1)
 done < $URL_FILE
