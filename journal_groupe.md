@@ -1,4 +1,9 @@
-﻿# Projet PPE:
+﻿---
+layout: page
+id: journal_groupe.md
+
+---
+# Projet PPE:
 ### - Elisa LEPLUVIER (Russe) 
 ### - Kehina MANSERI (Anglais) 
 ### - Ioana-Madalina SILAI (Roumain)

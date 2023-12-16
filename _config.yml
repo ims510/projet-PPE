@@ -42,6 +42,17 @@ permalink:        pretty
 github:
   repo:           https://github.com/ims510/projet-PPE
 
+auto_page_title: true
+sidebar:
+  - index.markdown
+  - tableaux.md
+  - analyse_linguistique.md
+  - a_propos.md
+  - scripts.md
+  - journal_groupe.md
+  - label: Section one
+    children:
+      - scripts.md
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
