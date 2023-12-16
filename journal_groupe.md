@@ -147,6 +147,8 @@ Nous avons également remplacé les slashs (la syntaxe initiale étant `sed "s/e
 
 ## Itrameur : 
 
+*Semaine du 29 novembre*
+
 Nous avons fait le script pour introduire les balises qui lui permettront d'être chargé sur Itrameur.
 
 ```
@@ -155,6 +157,10 @@ cat ../contexte/contexte_${URL_LANG}_$N.txt | sed "s|&|&amp;|g" | sed "s|<|&lt;|
 ```
 
 L'écriture de ce script s'est avéré assez simple car il nous a suffit de ré-utiliser des concepts appris auparavant. De plus, comme nous donnons le code de la langue en argument (ro, ru ou en), nous n'avons pas eu besoin de faire 3 scripts différents.
+
+*Semaine du 12 décembre* 
+
+Nous avons remarqué une erreur dans notre script générant les fichiers contexte-$URL_LANG.txt et dump-$URL_LANG.txt. Nos fichiers se créeaient en écrasant le précédent à chaque itération. Nous avons résolu cette erreur en adaptant le nombre de chevrons. 
 
 ## Programmes Python Autonomous Lafon specificity Scripts (PALS) :
 
@@ -185,4 +191,47 @@ Pour ce qui est de l'interface graphique, nous sommes inquiètes de ne pas avoir
 
 *Semaine du 5 décembre*
 
-Nous avons commencé par chercher un thème sur Bulma qui pourrait être utilisé pour la présentation finale de notre projet. Nous nous sommes mises d'accord sur un thème
+Nous avons commencé par chercher un thème sur Bulma qui pourrait être utilisé pour la présentation finale de notre projet. Nous nous sommes finalement mise d'accord sur le thème suivant (Nous étions très fans de la sidebar) : https://hyde.getpoole.com
+
+En lisant la page GitHub du thème (https://github.com/poole/hyde), nous nous sommes rendues compte qu'il fallait utiliser Jekyll pour implémanter le thème. Nous sommes allées sur le site Jekyll et avons lu la documentation (http://jekyllrb.com/docs/) permettant d'installer Jekyll sur nos machines. Nous avons appris que Jekyll nous permet de voir la reconstruction du site en temps réel sans avoir à passer par GitHUb en utilisant la commande : 
+
+```
+bundle exec jekyll serve
+```
+Nous avons télechargé les fichiers du thème et les avons mis dans notr dépôt GitHub partagé. Nous nous sommes rendues compte qu'il y avait beaucoup de caractéristiques du thème que nous n'allions pas utiliser. Nous nous sommes alors renseignées sur les fichiers que nous pourrions supprimer sans danger, nous avons par exemple supprimé le fichier post car nous ne désirions pas utiliser ces derniers sur notre site. Car le thème a crée en 2015, nous avons eu du mal à comprendre comment adapter la logique de Jekyll à notre projet. 
+
+Nous avons testé le template à l'aide d'un fichier précédemment crée mais nous nous sommes rendues compte que les tableaux crées étaient trop larges. 
+
+Nous avons réussi à inclure le mot "Guerre" comme titre du site et à ajouter le lien vers nos tableaux html sur la page d'accueil.
+
+*Semaine du 12 décembre*
+
+Nous avons crée des fichiers Markdown pour nos pages. Nous y avons écrit quelques lignes de texte afin de tester le bon fonctionnement de ces dernières. 
+
+Nous avons premièrement modifié le script Jekyll pour affiner le contenu et l'apparence de notre sibebar. Nous avons notamment lu la documentation pour apprendre à créer des variables dans le langage utilisé par Jekyll (Liquid) afin de changer nos pages plus facilement à partir du fichier config.yml. Nous avons crée des variables spécifiques à chaque page.
+Après de nombreuses erreurs de syntaxe dans les fichiers sidebar et config, nous avons finalement réussi les bonnes ocmbinaisons.
+
+Nous avons ensuite décidé de nous concentrer sur les sous-menus de notre sidebar en commencant par les sous-menus de notre page "Tableau". Nous avons appris à ajouter des sous-pages dans le fichier config_yml en utilisant des boucles for et if avec liquid. Nous voulions changer l'apparence visuel de nos sous-menus. Nous avons alors modifié le script css. 
+Nous nous sommes rendues compte que nous avions besoin d'un lien entre notre site et nos tableaux html, nous avons donc utilisé les sections de code proposées par Bulma pour ajouter des breadcrumbes en haut de nos pages tableaux permettant donc de revenir à notre page d'accueil ou à la description générale de la page tableau. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
