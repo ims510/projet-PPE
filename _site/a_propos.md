@@ -1,1 +1,0 @@
-Voici nos présentations.
