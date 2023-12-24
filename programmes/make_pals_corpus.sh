@@ -6,7 +6,7 @@ URL_FILE="../urls/$URL.txt"
 
 if [ $# -ne 2 ] # verifier si le script a un argument
 then
-	echo "ce programme demande deux arguments: un argument pour le chemin vers le dossier itrameur et la langue (version courte)" 
+	echo "ce programme demande deux arguments: un argument pour le chemin vers le dossier itrameur et le fichier text format ro_ukraine, ro_israel, ro_general" 
 	exit
 fi
 
