@@ -51,8 +51,11 @@ sidebar:
     children:
       - name: tableau_roumain
         title: Tableau roumain
-  - name: analyse_linguistique
+  - name: itrameur
     title: Analyse linguistique
+    children:
+      - name: analyse_linguistique_roumain
+        title: Analyse linguistique - roumain
   - name: scripts
     title: Scripts
   - name: journal_groupe
