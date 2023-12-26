@@ -51,11 +51,17 @@ sidebar:
     children:
       - name: tableau_roumain
         title: Tableau roumain
+      - name: tableau_anglais
+        title: Tableau anglais
+      - name: tableau_russe
+        title: Tableau russe
   - name: itrameur
     title: Analyse linguistique
     children:
       - name: analyse_linguistique_roumain
         title: Analyse linguistique - roumain
+      - name: analyse_linguistique_anglais
+        title: Analyse linguistique - anglais
   - name: scripts
     title: Scripts
     children:
