@@ -1,0 +1,448 @@
+   Link: canonical
+   Link: shortlink
+   Link: amphtml
+   [IMG]
+     * D:News
+     * Știință
+     * Cultură
+     * Natură
+     * Lumea digitală
+     * Istorie
+     * Video
+     * _____________________ [ Submit ]
+     * *  *  *  Home » Maratoanele Descopera » Capcanele internetului » Trăim
+   în epoca ciber-războaielor
+
+                        Trăim în epoca ciber-războaielor
+
+   Trăim în epoca ciber-războaielor
+   Imagine #2
+   Imagine #3
+   Imagine #4
+   10 poze
+   Vezi galeria foto »
+   Marius Comper
+   Publicat: 16.05.2012
+   Share:    
+   Pe măsură ce economiile ţărilor dezvoltate exploatează avantajele oferite
+   de Internet, intrastructura şi secretele acestor ţări devin din ce în ce
+   mai vulnerabile atacurilor cibernetice. Dacă în secolul trecut războaiele
+   aveau loc pe câmpul de luptă, astăzi obţinerea resurselor adversarilor
+   implică din ce în ce mai des o bătălie în teritoriul virtual.
+   Teoreticienii consideră ciberspaţiul ca fiind al cincilea domeniu în care
+   se poate desfăşura un război, după sol, mare, aer şi spaţiu.
+
+   Printre infrastructurile cibernetice vulnerabile se numără reţelele
+   electrice, cele ale spitalelor, băncilor, ale companiilor de
+   telecomunicaţii sau din domeniul apărării, iar pe măsură ce tot mai multe
+   informaţii devin conectate la spaţiul virtual, lista potenţialelor ţinte
+   se măreşte. Pentru că toate aceste sisteme sunt interconectate, un atac
+   cibernetic poate dezactiva în doar 15 minute reţeaua electrică a SUA, cu
+   consecinţe devastatoare asupra reţelelor bancare, de transport, de
+   comunicare, afectând chiar şi lanţurile logistice ce asigură alimentarea
+   cu hrană a populaţiei.
+
+   Pe lângă avantajul pe care ciberspaţiul îl oferă potenţialilor atacatori
+   prin uşurinţa şi viteza cu care resursele adversarului pot fi obţinute sau
+   distruse, ciber-războiul poate aduce un alt atu forţei agresoare:
+   identitatea atactorilor poate fi disimulată.
+
+     * Viruşii devin mobili – cum ne protejăm telefonul de ameninţări?
+     * Like. Share. Protect: securitatea în reţelele sociale
+
+   În cazul armei-cheie a secolului XX-lea, bomba nucleară, ţările ce o
+   puteau folosi în luptă au ales să nu o facă, fiind descurajate de faptul
+   că un contraatac al inamicului ar fi fost la fel de devastator, Hiroshima
+   şi Nagasaki servind drept exemplu. În schimb, atacul cibernetic, ce se
+   anunţă a fi instrumentul militar esenţial al secolului al XXI-lea, ar
+   putea evita acest impendiment dacă victima atacului nu ştie împotriva
+   cărei ţări să lanseze contraatacul.
+
+   1982 – primele daune produse de o armă cibernetică
+
+   Primul atac informatic a avut loc în 1982, când spionii sovietici au furat
+   un sistem de control computerizat de la o companie canadiană. Ceea ce nu
+   ştiau agenţii secreţi sovietici era că specialiştii CIA reuşiseră să
+   introducă în software-ul furat o „bombă logică”, aşa cum sunt numite
+   liniile de cod introduse în programele de computer care, atunci când
+   anumite condiţii sunt împlinite, activează o funcţie maliţioasă. În cazul
+   sistemului furat de spionii URSS, bomba logică inserată de CIA a condus la
+   o explozie masivă ce a avut loc la o conductă de gaz din Siberia.
+   Deflagraţia a fost atât de mare încât a fost detectată din spaţiu de
+   sateliţii americani, iar Thomas Reed, un fost comandant al aviaţiei SUA, a
+   descris-o în autobiografia sa ca fiind „cea mai mare explozie non-nucleară
+   detectată vreodată din spaţiu”.
+
+   Cu toate acestea, atacurile cibernetice nu au intrat în atenţia opiniei
+   publice decât la 25 de ani după acest eveniment.
+
+   2007 – prima dată când o ţară întreagă este atacată în ciberspaţiu
+
+   În aprilie 2007, Estonia a fost supusă unui atac cibernetic fără
+   precedent, site-urile parlamentului, ministerelor, băncilor, principalelor
+   ziare şi televiziuni fiind ţintele răufăcătorilor virtuali. Timp de trei
+   săptămâni, ţara a fost paralizată, ministerele, băncile şi numeroase
+   companii fiind nevoite să-şi oprească activitatea, iar cetăţenii au avut
+   probleme în a accesa Internetul. Primul atac cibernetic asupra unei
+   întregi ţări a venit pe fondul unei dispute politice pe tema mutării unui
+   monument dedicat eroilor sovietici, propunere îndelung contestată de
+   minoritatea rusă din Estonia şi de Kremlin.
+
+   Majoritatea informaţiilor au indicat adrese de internet originare din
+   Rusia ca sursă a atacurilor, iar ministrul de externe al Estoniei a acuzat
+   Kremlinul de implicare. Rusia a susţinut că acuzele sunt nefondate, însă
+   şeful Centrului Militar de Prognoză din Rusia, Colonelul Anatoli Tsiganok,
+   a lăsat de înţeles că armata rusă are forţa de a conduce un astfel de
+   atac, declarând că „aceste atacuri au fost încununate de succes, iar NATO
+   nu a avut nici un fel de replică la ofensiva virtuală a Rusiei„.
+
+   Georgia a suferit atacuri similare în 2008, într-o perioadă ce a coincis
+   cu conflictul georgiano-rus din Osetia de Sud. Din cauza atacurilor venite
+   dinspre Rusia, routerele din Turcia şi Rusia ce făceau legătura cu Georgia
+   erau supraîncărcate cu date spre ţara gruzină, astfel că traficul spre
+   lume era complet sufocat. Din acest motiv, cetăţenii Georgiei nu puteau
+   accesa niciun site străin pentru a se informa şi nici nu puteau trimite
+   emailuri sau alte tipuri de pachete de date în afara ţării. De asemenea,
+   Georgia a pierdut controlul asupra domeniului .ge, fiind nevoită să
+   transfere site-urile guvernamentale pe servere din afara ţării. Pagina
+   preşedintelui ţării a fost mutată în „exil virtual” pe un blog găzduit de
+   Google în California.
+
+   Cel mai devastator atac a fost cel înregistrat de sistemul bancar
+   georgian. Pentru că băncile din Georgia şi-au sistat orice activitate
+   online şi nu puteau fi astfel atacate de către hackerii ruşi, aceştia au
+   trimis atacuri înspre sistemul bancar internaţional, camuflând sursa
+   atacurilor pentru a părea că originează din Georgia! Sistemele de
+   securitate ale băncilor internaţionale au reacţionat automat, blocând
+   toate conexiunile cu sistemul bancar georgian. Acest lucru a dus la
+   blocarea imediată a operaţiunilor bancare din Georgia şi la paralizarea
+   sistemului de cărţi de credit, lucru ce a atras şi oprirea reţelelor de
+   telefonie mobilă.
+
+   Atacurile asupra Estoniei şi Georgiei au condus la o reevaluare a
+   doctrinelor militare ale statelor membre NATO, securitatea cibernetică
+   căpătând mai multă importanţă.
+
+   Cu toate acestea, Rusia a reuşit să atace şi pe cel mai important membru
+   NATO: în noiembrie 2008, un virus de origine rusă a reuşit să penetreze
+   cel puţin una din reţelele secrete ale armatei SUA, reuşita atacului fiind
+   recunoscută în mod public de Pentagon.
+
+   2010 – Stuxnet, arma cibernetică ce a deraiat programul nuclear iranian
+
+   Cea mai sofisticată armă cibernetică ce a ieşit până acum la iveală este
+   Stuxnet, un vierme informatic ce a fost folosit pentru a întârzia
+   programul nuclear iranian. Un virus extrem de complex, despre care se
+   crede că a fost elaborat în urma unei colaborări americano-israeliene,
+   Stuxnet a impresionat analiştii din domeniul securităţii informatice prin
+   numărul de vulnerabilităţi pe care acesta le-a exploatat, fiind de departe
+   cel mai ingenios şi complex vierme informatic descoperit vreodată. Atacul
+   informatic a fost la fel de eficient ca unul militar, estimează analiştii,
+   provocând o întârziere de aproximativ 2 ani programului nuclear iranian.
+
+   Deşi nici SUA, nici Israelul nu şi-au asumat această armă cibernetică,
+   complexitatea acesteia indică implicarea a cel puţin unui guvern în
+   elaborarea sa (Microsoft estimează că au fost necesare echivalentul a
+   10.000 de zile de muncă pentru crearea Stuxnet), iar reprezentanţii celor
+   două ţări au ezitat să nege participarea la conceperea acestui virus
+   informatic. O investigaţie a New York Times a arătat că proiectul de
+   sabotaj al programului nuclear iranian a fost început de preşedintele Bush
+   în ianuarie 2009, fiind accelerat sub conducerea preşedintelui Obama.
+
+   Analiştii israelieni consideră că Iranul va obţine o bombă atomică în
+   2014-2015, cu trei ani mai târziu decât se estima iniţial, Stuxnet fiind
+   considerat un succes răsunător, urmând să fie consemnat în cărţile de
+   istorie ca prima armă cibernetică ce a avut un efect devastator.
+
+   Iranul a reacţionat investind 500 de milioane de dolari în departamentul
+   militar dedicat războiului cibernetic, estimându-se că deţine a doua
+   „armată virtuală” la nivel mondial.
+
+   [EMBED]
+
+   2011 – Războiul cibernetic dintre SUA şi China se ascute
+
+   Până în 1991, strategia militară a Chinei în cazul unui război cu SUA se
+   baza în mare parte pe numărul mare de soldaţi, liderii comunişti
+   considerând că armata americană va fi învinsă graţie avantajului numeric.
+   După desfăşurarea masivă de forţe americane cu ocazia războiului din Golf,
+   conducătorii chinezi au conştientizat că această strategie nu va
+   funcţiona. Supremaţia militară a SUA nu poate fi contestată de nimeni, au
+   conchis ei, cel puţin nu cea convenţională.
+
+   Şefii armatei şi-au dat seama că au nevoie de o capacitate de război
+   asimetric care să pună SUA în dificultate. Atuul din mânecă identificat de
+   generalul Wang Pufeng s-a intitulat „zhinxinziquan„, adică „dominarea
+   informaţiei”, dominare ce putea fi atinsă doar printr-un atac cibernetic.
+   Tocmai de aceea, strategii militari chinezi pun un mare accent pe
+   cyberspaţiu, recunoscând că acest domeniu este unul în care dominaţia
+   americană poate fi contestată, compensând pentru diferenţa calitativă
+   dintre forţele convenţionale chineze şi cele americane.
+
+   În ultimii ani, hackerii chinezi au lansat din ce în ce mai multe atacuri
+   asupra computerelor ce aparţin guvernului SUA şi companiilor din industria
+   apărării. Din 2006 până în 2011, numărul atacurilor lansate împotriva
+   computerelor aparţinând guvernului federal american a crescut cu 650%.
+   Printre oficialii de rang înalt atacaţi de agenţii chinezi se numără
+   Secretarul Apărării, Robert Gates, şi Secretarul Comerţului, Carlos
+   Gutierrez, căruia i s-au copiat toate datele de pe laptop cu ocazia unei
+   vizite la Beijing, pentru ca apoi să se încerce conectarea cu ajutorul lor
+   la serverele Departamentului Comerţului din SUA.
+
+   SUA nu este singura ţară afectată. În 2011, instituţii precum Comisia
+   Europeană şi FMI au fost ţinta unor atacuri semnificative, iar computerele
+   guvernului francez au căzut victimă hackerilor cu puţin timp înainte ca
+   această ţară să găzduiască summitul G20. Guvernul german susţine că
+   hackerii chinezi au accesat computerul personal al premierului Angela
+   Merkel, o altă victimă a acestora fiind premierul Australiei. Directorul
+   MI5, Jonathan Evans, a comunicat celor mai importante 300 de companii din
+   Marea Britanie că reţelele lor au fost penetrate de agenţii guvernului
+   chinez.
+
+   Instituţiile guvernamentale nu sunt singurele ce cad pradă spionilor
+   virtuali. După ce hackerii au reuşit să pătrundă în sistemele companiei
+   RSA Security, care oferă servicii de securitate, au folosit codurile de
+   acces obţinute pentru a accesa sistemele Lockheed Martin, cel mai mare
+   mare furnizor din lume de soluţii în domeniul apărării.
+
+   Recent, Richard Clarke, fostul consilier principal pe probleme de
+   securitate al lui Bill Clinton şi al lui George W. Bush, a tras un semnal
+   de alarmă în ceea ce priveşte atacurile lansate de China asupra SUA în
+   ciberspaţiu. Clarke este cunoscut pentru faptul că a încercat să
+   avertizeze structura de conducere a SUA cu mai mult timp înainte de
+   evenimentele din 11 septembrie 2001 despre pericolul pe care îl reprezenta
+   Al-Qaeda, fără a reuşi să convingă administraţia Bush.
+
+   Acum, Richard Clarke condamnă dur atacurile chineze asupra infrastructurii
+   cibernetice americane. „Dacă am descoperi explozibili de origine chineză
+   de-a lungul reţelei electrice naţionale a SUA, am considera acest lucru un
+   act de război. Bombele digitale ale Chinei constituie un pericol la fel de
+   grav„, a avertizat el recent într-un editorial publicat în Wall Street
+   Journal. China a obţinut date secrete din reţelele americane în volume
+   imense, de ordinul terabiţilor, de la coduri de acces ale Departamentului
+   de Stat până la design-ul armelor în valoare de miliarde de dolari.
+
+   Clarke menţionează că în 2009, reţeaua electrică a SUA a fost atacată de
+   hackeri, care au lăsat o poartă de acces care le permite să preia
+   controlul, atac recunoscut de preşedintele Obama. „Atacul asupra reţelelor
+   electrice nu poate conduce nici la îmbogăţire şi nici nu oferă date de
+   interes spionilor. Singurul motiv pentru care acest lucru poate fi
+   explicat este ca formă de contracarare a supremaţiei militare americane
+   prin ameninţarea cu distrugerea a elementelor de bază ale economiei SUA.
+   Strategii militari chinezi au scris că aceasta este metoda prin care China
+   poate fi pe picior egal cu SUA din punct de vedere militar”, a explicat
+   Clarke.
+
+   Cum va continua era războaielor cibernetice?
+
+   Ca răspuns la numeroasele atacuri la care infrastructura SUA a fost supusă
+   în ultima vreme, Pentagonul a anunţat recent noua strategie asupra
+   spaţiului virtual. Aceasta cuprinde o schimbare dramatică, guvernul
+   american anunţând că intenţionează să clasifice sabotajul computerizat
+   drept un act de război. Acest lucru înseamnă că, pentru prima dată, SUA
+   afirmă deschis că este dispusă să folosească forţele militare tradiţionale
+   pentru a răspunde la un atac cibernetic. „Dacă foloseşti atacuri
+   cibernetice pentru a ne dezactiva reţelele electrice, nu fi surprins dacă
+   te vei trezi lovit de o rachetă”, a descris un oficial din armata SUA noua
+   doctrină.
+
+   Pentagonul intenţionează să folosească conceptul de „echivalenţă” pentru a
+   decide căror atacuri cibernetice să răspundă cu arme convenţionale.
+   Astfel, dacă un atac cibernetic va produce victime, daune materiale şi
+   perturbări în funcţionarea normală a societăţii similare cu efectul unui
+   atac militar tradiţional, armata SUA va lua în calcul posibilitatea de a
+   răspunde prin forţa militară convenţională.
+
+   De asemenea, Pentagonul a anunţat că lucrează la un sistem intitulat
+   National Cyber Range, ce reprezintă o „clonă” a Internetului în care vor
+   putea fi simulate ciber-războaie. Terenul de antrenament virtual va
+   permite armatei americane dezvoltarea de strategii şi tehnici de atac şi
+   de apărare în spaţiul virtual. Acest sistem va intra în funcţiune în 2012,
+   fiind conceput de DARPA, agenţia care a conceput Arpanet, precursorul
+   Internetului de azi.
+
+   Recent, NSA (Agenţia de Securitate Naţională a SUA) a anunţat un
+   parteneriat cu majoritatea furnizorilor de conexiuni la Internet din SUA
+   în cadrul căruia vor scana traficul de date transportat de acestea, în
+   scopul detectării atacurilor cibernetice şi eliminării lor.
+
+   China a reacţionat prompt la aceste măsuri, oferind o replică în
+   principalul ziar al armatei. Într-un articol publicat la jumătatea lunii
+   iunie 2011, publicaţia a acuzat măsurile SUA, acuzând armata americană de
+   „o încercare grăbită de a obţine avantaje militare pe Internet, ridicând
+   un nou război virtual pe o culme furtunoasă”. Jurnalul, cunoscut pentru
+   faptul că reflectă gândirea conducătorilor militari chinezi, a adăugat că
+   „acţiunile americanilor ne reamintesc că pentru a proteja siguranţa
+   naţiunii noastre pe Internet este nevoie să accelerăm dezvoltarea
+   capacităţilor de apărare şi să grăbim paşii prin care vom concepe o armată
+   a Internetului puternică„.
+
+   Şi alte ţări reacţionează la pericolul atacurilor cibernetice. Germania
+   şi-a inaugurat pe 16 iunie 2011 centrul de securitate cibernetică,
+   ministerul de interne declarând că „protejarea infrastructurii esenţiale
+   este elementul cheie al cibersecurităţii”. Tot în această lună, Guvernul
+   României a aprobat înfiinţarea Centrului Naţional de Răspuns la Incidente
+   de Securitate Cibernetică. Acesta va avea rolul de a proteja
+   infrastructurile cibernetice ale României.
+
+   Evenimentele ce au loc în ultimii ani conturează, din ce în ce mai clar,
+   faptul că suntem martorii primilor paşi făcuţi în cursa înarmării în
+   spaţiul cibernetic. Astfel, va trebui recunoaştem războiul cibernetic
+   drept un element important al lumii de astăzi şi să conştientizăm
+   riscurile şi vulnerabilităţile pe care le implică acest nou domeniu al
+   războiului, ce are potenţialul de a provoca daune devastatoare, similare
+   celora înregistrate în marile războaie ale secolului al XX-lea.
+
+   Tags: ArmaarmatachinaciberCyberdomeniuinternetlumea
+   virtualaLuptamilitarrazboiSUA
+   Urmărește DESCOPERĂ.ro pe
+   Google News și Google Showcase
+   [IMG]
+   Ce se întâmplă doctore
+   Pensia imensă pe care o încasează Gheorghe Turda! 'Să ştie asta toţi
+   proştii care comentează!'
+   [IMG]
+   Gandul.ro
+   Cât costa o noapte de CAZARE la pensiunea Ferma Dacilor/Complex turistic
+   cu o capacitate de...
+   [IMG]
+   Razi cu Lacrimi
+   BANCUL ZILEI. Într-o seară, pe la ora 22:00, Bubulina primește un mesaj de
+   la Bulă:...
+   [IMG]
+   Avantaje.ro
+   De ce a murit mama Laurei Coso? Boala de care suferea: ”Era o doamnă în...
+   [IMG]
+   Prosport
+   FOTO. Una dintre cele mai frumoase gimnaste ale României, în costum de
+   baie! Imagini hot...
+   Adresa de email*
+   ___________________________________________
+   Numele
+   ___________________________________________
+   Prenumele
+   ___________________________________________
+   [ ] Sunt de acord cu Politica de confidentialitate *
+   [ Abonează-te la newsletter ]
+   Iți recomandăm
+   Internetul şi copiii – conexiuni primejdioase
+   Capcanele internetului
+   Internetul şi copiii – conexiuni primejdioase
+   Cum îţi protejezi banii online – ameninţările în online banking şi
+   comerţul electronic
+   Capcanele internetului
+   Cum îţi protejezi banii online – ameninţările în online banking şi
+   comerţul electronic
+   Furturile de identitate & date de pe Internet: cazuri celebre
+   Capcanele internetului
+   Furturile de identitate & date de pe Internet: cazuri celebre
+   Spionajul electronic – cea mai importantă armă a secolului al XXI-lea?
+   Capcanele internetului
+   Spionajul electronic – cea mai importantă armă a secolului al XXI-lea?
+   Internetul sub ameninţare: viruşii informatici
+   Capcanele internetului
+   Internetul sub ameninţare: viruşii informatici
+   Ce este Internetul şi cum a apărut?
+   Capcanele internetului
+   Ce este Internetul şi cum a apărut?
+   [IMG]
+   Promotor.ro
+   Mașini de care să FUGI în 2024. Cele mai stricăcioase modele – VIDEO
+   [IMG]
+   Shtiu.ro
+   Ce tradiție are Familia Regală de Crăciun? Inițiată de Diana trebuie să o
+   respecte și...
+   [IMG]
+   Ciao.ro
+   Poze interzise cu Simona Trașcă în Crăciuniță! Cum s-a fotografiat
+   blondina
+   [IMG]
+   go4it.ro
+   Smart TV de 101 CM disponibil la preț accesibil la Dedeman
+   Cele mai noi articole
+   Kemal Atatürk, primul președinte al Turciei și fondatorul Republicii
+   Turcia. „Tot ceea ce vedem în lume este opera creativă a femeilor”
+   Kemal Atatürk, primul președinte al Turciei și fondatorul Republicii
+   Turcia. „Tot ceea ce vedem în lume este opera ...
+   Exoplanetele înghețate ar putea avea un ingredient esențial pentru viață
+   Exoplanetele înghețate ar putea avea un ingredient esențial pentru viață
+   Papagalii și păsările cântătoare și-au dezvoltat mecanisme distincte ale
+   creierului
+   Papagalii și păsările cântătoare și-au dezvoltat mecanisme distincte ale
+   creierului
+   Prima descoperire preistorică de artă rupestră cu cărbune din Franța
+   Prima descoperire preistorică de artă rupestră cu cărbune din Franța
+   Oamenii de știință au descoperit o sursă de proteine prietenoasă cu mediul
+   Oamenii de știință au descoperit o sursă de proteine prietenoasă cu mediul
+   Musculițele obeze trăiesc mai mult dacă țin dietă
+   Musculițele obeze trăiesc mai mult dacă țin dietă
+   Test de cultură generală. Cât combustibil arde Soarele într-o secundă?
+   Test de cultură generală. Cât combustibil arde Soarele într-o secundă?
+   O baterie care stochează energia în pietre? Un start-up crede că o poate
+   realiza!
+   O baterie care stochează energia în pietre? Un start-up crede că o poate
+   realiza!
+   Meteorologii au anunțat de când se răcește vremea din nou
+   Meteorologii au anunțat de când se răcește vremea din nou
+   Putin „a decis să continue războiul până la victoria finală”, a declarat
+   Josep Borrell
+   Putin „a decis să continue războiul până la victoria finală”, a declarat
+   Josep Borrell
+   Cercetătorii au creat o capsulă care vibrează și ar putea ajuta la
+   tratarea obezității
+   Cercetătorii au creat o capsulă care vibrează și ar putea ajuta la
+   tratarea obezității
+   Unul dintre cele mai controversate personaje ale istoriei contemporane.
+   Adorat cu îndârjire şi astăzi în ţara natală, este vinovat pentru moartea
+   a 70 de milioane de oameni
+   Unul dintre cele mai controversate personaje ale istoriei contemporane.
+   Adorat cu îndârjire şi astăzi în ţara natală, ...
+   Crește punctul de amendă în 2024! Tot ce trebuie să știe șoferii
+   Crește punctul de amendă în 2024! Tot ce trebuie să știe șoferii
+   O companie va da prime angajaților în funcție de câți kilometri aleargă pe
+   lună
+   O companie va da prime angajaților în funcție de câți kilometri aleargă pe
+   lună
+   Peste 1 miliard de smartphone-uri cu Inteligență Artificială Generativă,
+   lansate în următorii trei ani
+   Peste 1 miliard de smartphone-uri cu Inteligență Artificială Generativă,
+   lansate în următorii trei ani
+   Cum să evităm îmbolnăvirile în perioada sărbătorilor?
+   Cum să evităm îmbolnăvirile în perioada sărbătorilor?
+   Fața nevăzută a Lunii este mai conductivă, a descoperit o misiune
+   sud-coreeană
+   Fața nevăzută a Lunii este mai conductivă, a descoperit o misiune
+   sud-coreeană
+   Ce s-ar întâmpla cu un asteroid dacă ar fi distrus cu arme nucleare?
+   Ce s-ar întâmpla cu un asteroid dacă ar fi distrus cu arme nucleare?
+
+      Cautare
+
+   Introdu cuvântul căutat și apasă ENTER
+
+   _____________________
+     * Facebook
+     * Instagram
+     * Twitter
+     * Youtube
+   Inchide
+   _____________________
+     * D:News
+     * Știință
+     * Cultură
+     * Natură
+     * Lumea digitală
+     * Istorie
+     * Video
+     * Politica de confidenţialitate
+     * Politica de cookies
+     * Termeni şi condiţii
+     * Echipa redacțională
+     * Contact
+     * *  *  *  Citarea se poate face în limita a 250 de semne. Nici o
+   instituţie sau persoană (site-uri, instituţii mass-media, firme de
+   monitorizare) nu poate reproduce integral scrierile publicistice
+   purtătoare de Drepturi de Autor.
+
+   Decizia ONJN nr. 1598/16.09.2021. Jocurile de noroc sunt interzise
+   minorilor.
