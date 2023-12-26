@@ -56,8 +56,8 @@ generate_file() {
 
 # Process each file separately
 generate_file
-process_file "$FILE_PATH_IN_UKRAINE" "Ukraine"
-process_file "$FILE_PATH_IN_ISRAEL" "Israel"
-process_file "$FILE_PATH_IN_GENERAL" "General"
+process_file "$FILE_PATH_IN_UKRAINE" "ukraine"
+process_file "$FILE_PATH_IN_ISRAEL" "israel"
+process_file "$FILE_PATH_IN_GENERAL" "general"
 
 
