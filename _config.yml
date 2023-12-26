@@ -58,6 +58,13 @@ sidebar:
         title: Analyse linguistique - roumain
   - name: scripts
     title: Scripts
+    children:
+      - name: creation_tableaux
+        title: Creation tableaux
+      - name: concordancier
+        title: Creation concordancier
+      - name: corpus_itrameur_pals
+        title: Creation corpus itrameur/pals
   - name: journal_groupe
     title: Journal
   - name: a_propos
