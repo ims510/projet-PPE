@@ -149,7 +149,21 @@ cat ../dumps-text/dump_ro_$N.txt | sed '/^$/d'| egrep -C 1 "[Rr]ăzbo((iul)|(iul
     
     ```[Вв]ойн((ам?и?х?)|(ы)|(у)|(ой)|(е))?```
 
+*Semaine du 26 décembre*
 
+- Division de nos tableaux : 
+
+Nous avons choisi de diviser nos 50 liens par thématiques (20 liens pour la guerre en Ukraine, 20 liens pour le conflit israëlo-palestinien et 10 liens pour la guerre en général). Initialement, nous avions une boucle `while` qui permettait d'effectuer des manipulations sur l'ensemble de nos liens. En voulant faire cette division par thématique, il aurait fallu faire trois boucles `while`. Nous avons préféré avoir recours à une fonction qu'on a appelé trois fois en donnant comme argument le nom du conflit qui a ensuite été inseré dans les noms des fichiers résultants du script. 
+
+Cette modification nous a également poussé à changer notre commande `sed` en `awk` à la fin de notre script. `sed` nous permet d'effectuer des transformations assez basiques sur du texte car il fonctionne ligne par ligne. Nous pouvons l'utiliser pour des suppressions, substitutions ou insertions simples. `awk` peut-elle effectuer des transformations plus complexes sur du texte. Elle est notamment plus adaptée à des données structurées comme le sont les colonnes d'un tableau. Nous avons utilisé la commande : 
+
+```
+awk -v table="$TABLE" '/<!-- Table '"$2"' -->/{print table; next} 1' "$FILE_PATH_OUT"
+```
+Dans notre cas, nous avons utilisé `awk` pour insérer le tableau généré par le script dans notre template html. La partie `awk -v table="$TABLE"` donne la valeur de notre variable shell `"$TABLE"` à une variable awk nommée `"table"`. La partie /<!-- Table '"$2"' -->/{print table; next} permet de faire en sorte que si la ligne match `<!-- Table $2 -->`, elle va être remplacée par le contenu de la variable `"table"`.
+ Enfin, `1` vient imprimer la ligne entièrement.
+
+Nous avons ensuite modifié nos templates html en dupliquant trois fois nos tableaux. 
 
 ## Création des pages HTML :
 
@@ -164,6 +178,7 @@ sed "s|<!-- Table -->|$TABLE|g" template_anglais.html > "$FILE_PATH_OUT"
 Nous venons remplacer le commentaire < !-- Table -- > qui se trouve dans le template par le tableau que nous obtenons lorsque nous excécutons le script. 
 Nous avons également remplacé les slashs (la syntaxe initiale étant `sed "s/element_a_remplacer/element_remplaçant/g"`) par des pipes pour éviter les mauvaises interprétations. 
 
+_Nous avions initialement utilisé `sed` pour cette partie du projet. Comme indiqué précédemment, quand nos scripts sont devenus plus complexes, nous avons finalement décidé d'utiliser la commande `awk`._
 
 ## Analyse I-Trameur : 
 
@@ -237,9 +252,26 @@ Après de nombreuses erreurs de syntaxe dans les fichiers sidebar et config, nou
 Nous avons ensuite décidé de nous concentrer sur les sous-menus de notre sidebar en commencant par les sous-menus de notre page **"Tableau"**. Nous avons appris à ajouter des sous-pages dans le fichier config_yml en utilisant des boucles for et if avec liquid. Nous voulions changer l'apparence visuel de nos sous-menus. **Nous avons alors modifié le script css.** 
 Nous nous sommes rendues compte que nous avions besoin d'un lien entre notre site et nos tableaux html, nous avons donc utilisé les sections de code proposées par Bulma pour ajouter des **breadcrumbs** en haut de nos pages tableaux permettant donc de revenir à notre page d'accueil ou à la description générale de la page tableau. 
 
+*Semaine du 26 décembre* 
+
+Nous avons crée tous les sous-menus de notre site en créant des fichiers markdown spécifiques et en les ajoutant au fichier config.yml. Nous avons fait en sorte que lorsque l'on clique sur un sous-menu, les autres restent affichés dans la side-bar. Pour cela, nous avons trouvé (en cherchant dans la documentation), la fonction contains que nous avons utilisé dans le fichier sidebar.html. Ce changement nous a donné le bout de script suivant : 
 
 
+```
+{% for item in site.sidebar %}
+        {% assign url = '/' | append: item.name | append: '/' %}
+        <a class="sidebar-nav-item{% if page.url contains url %} active{% endif %}" href="{{ site.baseurl }}/{{ item.name }}/">{{ item.title }}</a>
+        {% if page.url contains url %}
+          {% for child in item.children %}
+            {% assign child_url = url | append: child.name | append: '/' %}
+            <a class="sidebar-nav-item child sidebar-nav-item{% if page.url == child_url %} active{% endif %}" href="{{ site.baseurl }}/{{ item.name }}/{{ child.name }}">{{ child.title }}</a>
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
 
+```
+
+Nous avons également rédigé le contenu de chacune des pages racines de notre sidebar.
 
 
 
