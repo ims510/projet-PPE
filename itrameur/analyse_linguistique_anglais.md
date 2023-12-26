@@ -8,7 +8,7 @@ id: analyse_linguistique_anglais.md
 
 L'analyse ci-dessous est réalisée à partir de l'outil d'analyse textométrique iTrameur.
 
-En utilisant le script qui se trouve [ici](INSERT LINK).
+En utilisant le script qui se trouve [ici](../../scripts/corpus_itrameur_pals/).
 , on a obtenu un fichier texte contenant les dumps, donc le texte de toutes les pages web choisies dans le cadre de ce projet. Ce fichier contient aussi les balises nécessaires pour que iTrameur puisse bien tokeniser et analyser le contenu des articles.
 
 Comme dans le reste de notre analyse, on a divisé nos articles en 3 parties : ceux sur la guerre en Ukraine, ceux sur le conflit israelo-palestinien et des articles donnant des informations plus generales sur la guerre. Comme ça on peut bien determiner si les mots utilisés autour du mot "guerre" sont differents lorsqu'on parle des differents conflits.
