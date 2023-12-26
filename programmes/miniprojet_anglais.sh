@@ -17,8 +17,8 @@ do
 	echo "Manipulation lien ${N} ${line}"
 	ASPIRATION=$(curl -s -L ${line} > ../aspirations/url_en_$N.html)
 	DUMP=$(links -dump ../aspirations/url_en_$N.html > ../dumps-text/dump_en_$N.txt)
-	WORDCOUNT=$(cat ../dumps-text/dump_en_$N.txt | egrep -o "(wars?)|(WARS?)|(Wars?)"| wc -w)
-	cat ../dumps-text/dump_en_$N.txt | sed '/^$/d'| egrep -C 1 "(wars?)|(WARS?)|(Wars?)" > ../contexte/contexte_en_$N.txt
+	WORDCOUNT=$(cat ../dumps-text/dump_en_$N.txt | egrep -o "(W|w)ars?"| wc -w)
+	cat ../dumps-text/dump_en_$N.txt | sed '/^$/d'| egrep -C 1 "(W|w)ars?" > ../contexte/contexte_en_$N.txt
 	./concordancier_anglais.sh ../dumps-text/dump_en_$N.txt ../tableaux/concordances_anglais_$N.html
 	#obtenir le code HTTP and store it in a variable
 	CURL=$(curl -s -I -L ${line} | tr -d "\r" ) #obtenir les headers
