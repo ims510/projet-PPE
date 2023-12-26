@@ -58,10 +58,10 @@ sidebar:
   - name: itrameur
     title: Analyse linguistique
     children:
-      - name: analyse_linguistique_roumain
-        title: Analyse linguistique - roumain
       - name: analyse_linguistique_anglais
-        title: Analyse linguistique - anglais
+        title: Anglais
+      - name: analyse_linguistique_roumain
+        title: Roumain
   - name: scripts
     title: Scripts
     children:
@@ -70,7 +70,7 @@ sidebar:
       - name: concordancier
         title: Creation concordancier
       - name: corpus_itrameur_pals
-        title: Creation corpus itrameur/pals
+        title: Creation corpus iTrameur/PALS
   - name: journal_groupe
     title: Journal
   - name: a_propos
