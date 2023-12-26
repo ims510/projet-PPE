@@ -1,23 +1,24 @@
-          * 3.1 Invadarea Etiopiei (1935)
-          * 3.2 Războiul Civil Spaniol (1936–39)
-          * 3.3 Invazia japoneză a Chinei (1937)
+          * 3.1Invadarea Etiopiei (1935)
+          * 3.2Războiul Civil Spaniol (1936–39)
+          * 3.3Invazia japoneză a Chinei (1937)
 --
-          * 3.5 Ocupațiile și acordurile europene
-     * 4 Cursul războiului
-          * 4.1 Izbucnirea războiului în Europa (1939–40)
-          * 4.2 Europa de Vest (1940–41)
+          * 3.5Ocupațiile și acordurile europene
+     * 4Cursul războiului
+       Toggle Cursul războiului subsection
+          * 4.1Izbucnirea războiului în Europa (1939–40)
+          * 4.2Europa de Vest (1940–41)
 --
-          * 4.4 Atacul Axei asupra URSS (1941)
-          * 4.5 Izbucnirea războiului din Pacific (1941)
-          * 4.6 Încetinirea înaintării Axei (perioada 1942–43)
+          * 4.4Atacul Axei asupra URSS (1941)
+          * 4.5Izbucnirea războiului din Pacific (1941)
+          * 4.6Încetinirea înaintării Axei (perioada 1942–43)
 --
-     * 6 Impactul
-          * 6.1 Victime și crime de război
-          * 6.2 Lagărele de concentrare, munca forțată și genocidele
+       Toggle Impactul subsection
+          * 6.1Victime și crime de război
+          * 6.2Lagărele de concentrare, munca forțată și genocidele
 --
-          * 6.4 Frontul intern și producția
-          * 6.5 Progresele în tehnologie și tehnica de război
-     * 7 Note de completare
+          * 6.4Frontul intern și producția
+          * 6.5Progresele în tehnologie și tehnica de război
+     * 7Note de completare
 --
    [ ] Comută cuprinsul
                             Al Doilea Război Mondial

@@ -4,6 +4,7 @@
    Sari la conținut
    [ ] Meniul principal
    Meniul principal
+   mută în bara laterală ascunde
    Navigare
      * Pagina principală
      * Schimbări recente
@@ -34,12 +35,13 @@
 
 Cuprins
 
+   mută în bara laterală ascunde
      * Început
-     * 1 Premise
-     * 2 Conflictul propriu-zis
-     * 3 Note
-     * 4 Vezi și
-     * 5 Legături externe
+     * 1Premise
+     * 2Conflictul propriu-zis
+     * 3Note
+     * 4Vezi și
+     * 5Legături externe
    [ ] Comută cuprinsul
 
                      Conflictul dintre Israel și Fâșia Gaza
@@ -74,6 +76,7 @@ Cuprins
      * Istoric
    [ ] Unelte
    Unelte
+   mută în bara laterală ascunde
    Acțiuni
      * Lectură
      * Modificare

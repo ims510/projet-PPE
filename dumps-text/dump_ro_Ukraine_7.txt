@@ -4,6 +4,7 @@
    Sari la conținut
    [ ] Meniul principal
    Meniul principal
+   mută în bara laterală ascunde
    Navigare
      * Pagina principală
      * Schimbări recente
@@ -34,36 +35,40 @@
 
 Cuprins
 
+   mută în bara laterală ascunde
      * Început
-     * 1 Preludiul invaziei
-          * 1.1 Anunțul rusesc privind o „operațiune militară specială”
-     * 2 Invazia și rezistența
-          * 2.1 Invazia inițială a Ucrainei (24 februarie - 7 aprilie)
-          * 2.2 Frontul de Nord
-          * 2.3 Frontul de Nord-Est
-          * 2.4 Frontul de Sud
-          * 2.5 Frontul de Est
-          * 2.6 Frontul din sud-est (8 aprilie - 5 septembrie)
-          * 2.7 Căderea orașului Mariupol
-          * 2.8 Frontul din Harkov
-          * 2.9 Frontul din Herson-Nicolaev
-          * 2.10 Frontul din Zaporojie
-          * 2.11 Anexările și pierderile cauzate de ocupația rusiei (6
+     * 1Preludiul invaziei
+       Toggle Preludiul invaziei subsection
+          * 1.1Anunțul rusesc privind o „operațiune militară specială”
+     * 2Invazia și rezistența
+       Toggle Invazia și rezistența subsection
+          * 2.1Invazia inițială a Ucrainei (24 februarie - 7 aprilie)
+          * 2.2Frontul de Nord
+          * 2.3Frontul de Nord-Est
+          * 2.4Frontul de Sud
+          * 2.5Frontul de Est
+          * 2.6Frontul din sud-est (8 aprilie - 5 septembrie)
+          * 2.7Căderea orașului Mariupol
+          * 2.8Frontul din Harkov
+          * 2.9Frontul din Herson-Nicolaev
+          * 2.10Frontul din Zaporojie
+          * 2.11Anexările și pierderile cauzate de ocupația rusiei (6
             septembrie - 11 noiembrie 2022)
-          * 2.12 Anexarea de către Rusia a regiunilor Donetsk, Herson,
-            Luhansk și Zaporizhzhia
-          * 2.13 Contraofensiva din Herson
-          * 2.14 Contraofensiva din Harkov
-          * 2.15 Blocaj de iarnă, campanie de uzură și intensificare militară
+          * 2.12Anexarea de către Rusia a regiunilor Donetsk, Herson, Luhansk
+            și Zaporizhzhia
+          * 2.13Contraofensiva din Herson
+          * 2.14Contraofensiva din Harkov
+          * 2.15Blocaj de iarnă, campanie de uzură și intensificare militară
             (12 noiembrie 2022 - 7 iunie 2023)
-          * 2.16 Contraofensivele din 2023 și campania de vară (8 iunie 2023
-            - prezent)
-     * 3 Implicare străină
-     * 4 Victimele și criza refugiaților
-          * 4.1 Victime și răniți pe teren
-          * 4.2 Criza refugiaților
-     * 5 Note explicative
-     * 6 Note
+          * 2.16Contraofensivele din 2023 și campania de vară (8 iunie 2023 -
+            prezent)
+     * 3Implicare străină
+     * 4Victimele și criza refugiaților
+       Toggle Victimele și criza refugiaților subsection
+          * 4.1Victime și răniți pe teren
+          * 4.2Criza refugiaților
+     * 5Note explicative
+     * 6Note
    [ ] Comută cuprinsul
 
                     Invazia Rusiei în Ucraina (2022–prezent)
@@ -218,6 +223,7 @@ Cuprins
      * Istoric
    [ ] Unelte
    Unelte
+   mută în bara laterală ascunde
    Acțiuni
      * Lectură
      * Modificare
@@ -254,14 +260,14 @@ Cuprins
    Invazia Rusiei în Ucraina (2022)     
    Parte a Războiul ruso-ucrainean      
    [IMG]                                
-   Harta Ucrainei la 14 decembrie 2023  
+   Harta Ucrainei la 26 decembrie 2023  
    Legenda:                             
           Controlat în permanență de Ucraina
           Ocupat de Rusia               
           Recapturat de la Rusia        
    Informații generale                  
    Perioadă                             24 februarie 2022 — prezent (1 an,   
-                                        9 luni și 20 zile)                   
+                                        10 luni și 2 zile)                   
    Loc                                  Ucraina, Rusia, Marea Neagră         
                                         În desfășurare (lista de angajamente 
    Rezultat                             · controlul orașelor · cronologia    
@@ -912,7 +918,7 @@ Invazia și rezistența[modificare | modificare sursă]
           Reținut de Ucraina
           Recucerit de Ucraina
           Ocupat de Rusia
-   Harta frontului de la Harkov la data de 14 decembrie 2023
+   Harta frontului de la Harkov la data de 26 decembrie 2023
 
    Între timp, forțele ucrainene au lansat o altă contraofensivă surpriză la
    6 septembrie în regiunea Harkov, începând de lângă Balakliia. Această

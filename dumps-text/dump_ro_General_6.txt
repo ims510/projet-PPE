@@ -4,6 +4,7 @@
    Sari la conținut
    [ ] Meniul principal
    Meniul principal
+   mută în bara laterală ascunde
    Navigare
      * Pagina principală
      * Schimbări recente
@@ -34,53 +35,63 @@
 
 Cuprins
 
+   mută în bara laterală ascunde
      * Început
-     * 1 Denumirea
-     * 2 Cauze
-          * 2.1 Cauze și responsabilități
-     * 3 1914: Primele bătălii
-          * 3.1 Mobilizare și chemarea la arme
-          * 3.2 Frontul de Vest
-               * 3.2.1 Violarea neutralității Belgiei de către Germania
-               * 3.2.2 Marna
-               * 3.2.3 Ypres
-          * 3.3 Frontul de Est
-               * 3.3.1 Tannenberg
-          * 3.4 Frontul Oriental
-               * 3.4.1 Primele bătălii navale
-     * 4 1915: Războiul de poziții
-          * 4.1 Frontul din Orientul Mijlociu: Gallipoli
-          * 4.2 Frontul Italian: Isonzo
-     * 5 1916: Infernul
-          * 5.1 Frontul de Vest
-               * 5.1.1 Verdun (1916)
-               * 5.1.2 Somme (1916)
-     * 6 Revoluția Rusă
-          * 6.1 Prolog: 1916
-          * 6.2 Guvernul Kerenski (martie - octombrie 1917)
-          * 6.3 Bolșevicii; ieșirea din război
-     * 7 Ultima jumătate
-          * 7.1 Intrarea Statelor Unite în război
-          * 7.2 Ofensiva germană din primăvara anului 1918
-          * 7.3 Victoria Antantei
-     * 8 Sfârșitul războiului
-     * 9 Experiența cotidiană în tranșee
-     * 10 Societatea la război
-     * 11 Economia pe timp de război
-     * 12 Cultura în timp de război
-          * 12.1 Literatura
-          * 12.2 Cinematografie
-          * 12.3 Memoria Primului Război Mondial
-     * 13 Scurtă cronologie
-     * 14 Bilanțul războiului
-          * 14.1 Soldați aliați morți
-          * 14.2 Soldați morți ai Puterilor Centrale
-          * 14.3 Civili morți
-     * 15 Note
-     * 16 Bibliografie
-     * 17 Vezi și
-     * 18 Legături externe
-          * 18.1 Media
+     * 1Denumirea
+     * 2Cauze
+       Toggle Cauze subsection
+          * 2.1Cauze și responsabilități
+     * 31914: Primele bătălii
+       Toggle 1914: Primele bătălii subsection
+          * 3.1Mobilizare și chemarea la arme
+          * 3.2Frontul de Vest
+               * 3.2.1Violarea neutralității Belgiei de către Germania
+               * 3.2.2Marna
+               * 3.2.3Ypres
+          * 3.3Frontul de Est
+               * 3.3.1Tannenberg
+          * 3.4Frontul Oriental
+               * 3.4.1Primele bătălii navale
+     * 41915: Războiul de poziții
+       Toggle 1915: Războiul de poziții subsection
+          * 4.1Frontul din Orientul Mijlociu: Gallipoli
+          * 4.2Frontul Italian: Isonzo
+     * 51916: Infernul
+       Toggle 1916: Infernul subsection
+          * 5.1Frontul de Vest
+               * 5.1.1Verdun (1916)
+               * 5.1.2Somme (1916)
+     * 6Revoluția Rusă
+       Toggle Revoluția Rusă subsection
+          * 6.1Prolog: 1916
+          * 6.2Guvernul Kerenski (martie - octombrie 1917)
+          * 6.3Bolșevicii; ieșirea din război
+     * 7Ultima jumătate
+       Toggle Ultima jumătate subsection
+          * 7.1Intrarea Statelor Unite în război
+          * 7.2Ofensiva germană din primăvara anului 1918
+          * 7.3Victoria Antantei
+     * 8Sfârșitul războiului
+     * 9Experiența cotidiană în tranșee
+     * 10Societatea la război
+     * 11Economia pe timp de război
+     * 12Cultura în timp de război
+       Toggle Cultura în timp de război subsection
+          * 12.1Literatura
+          * 12.2Cinematografie
+          * 12.3Memoria Primului Război Mondial
+     * 13Scurtă cronologie
+     * 14Bilanțul războiului
+       Toggle Bilanțul războiului subsection
+          * 14.1Soldați aliați morți
+          * 14.2Soldați morți ai Puterilor Centrale
+          * 14.3Civili morți
+     * 15Note
+     * 16Bibliografie
+     * 17Vezi și
+     * 18Legături externe
+       Toggle Legături externe subsection
+          * 18.1Media
    [ ] Comută cuprinsul
 
                              Primul Război Mondial
@@ -310,6 +321,7 @@ Cuprins
      * Istoric
    [ ] Unelte
    Unelte
+   mută în bara laterală ascunde
    Acțiuni
      * Lectură
      * Modificare

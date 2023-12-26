@@ -1,24 +1,28 @@
-               * 3.4.1 Primele bătălii navale
-     * 4 1915: Războiul de poziții
-          * 4.1 Frontul din Orientul Mijlociu: Gallipoli
+               * 3.4.1Primele bătălii navale
+     * 41915: Războiul de poziții
+       Toggle 1915: Războiul de poziții subsection
+          * 4.1Frontul din Orientul Mijlociu: Gallipoli
 --
-          * 6.2 Guvernul Kerenski (martie - octombrie 1917)
-          * 6.3 Bolșevicii; ieșirea din război
-     * 7 Ultima jumătate
-          * 7.1 Intrarea Statelor Unite în război
-          * 7.2 Ofensiva germană din primăvara anului 1918
-          * 7.3 Victoria Antantei
-     * 8 Sfârșitul războiului
-     * 9 Experiența cotidiană în tranșee
-     * 10 Societatea la război
-     * 11 Economia pe timp de război
-     * 12 Cultura în timp de război
-          * 12.1 Literatura
-          * 12.2 Cinematografie
-          * 12.3 Memoria Primului Război Mondial
-     * 13 Scurtă cronologie
-     * 14 Bilanțul războiului
-          * 14.1 Soldați aliați morți
+          * 6.2Guvernul Kerenski (martie - octombrie 1917)
+          * 6.3Bolșevicii; ieșirea din război
+     * 7Ultima jumătate
+       Toggle Ultima jumătate subsection
+          * 7.1Intrarea Statelor Unite în război
+          * 7.2Ofensiva germană din primăvara anului 1918
+          * 7.3Victoria Antantei
+     * 8Sfârșitul războiului
+     * 9Experiența cotidiană în tranșee
+     * 10Societatea la război
+     * 11Economia pe timp de război
+     * 12Cultura în timp de război
+       Toggle Cultura în timp de război subsection
+          * 12.1Literatura
+          * 12.2Cinematografie
+          * 12.3Memoria Primului Război Mondial
+     * 13Scurtă cronologie
+     * 14Bilanțul războiului
+       Toggle Bilanțul războiului subsection
+          * 14.1Soldați aliați morți
 --
    [ ] Comută cuprinsul
                              Primul Război Mondial

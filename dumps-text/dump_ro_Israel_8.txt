@@ -4,6 +4,7 @@
    Sari la conținut
    [ ] Meniul principal
    Meniul principal
+   mută în bara laterală ascunde
    Navigare
      * Pagina principală
      * Schimbări recente
@@ -34,9 +35,10 @@
 
 Cuprins
 
+   mută în bara laterală ascunde
      * Început
-     * 1 Note
-     * 2 Referințe
+     * 1Note
+     * 2Referințe
    [ ] Comută cuprinsul
 
                          Războiul Israel-Hamas din 2023
@@ -129,6 +131,7 @@ Cuprins
      * Istoric
    [ ] Unelte
    Unelte
+   mută în bara laterală ascunde
    Acțiuni
      * Lectură
      * Modificare
