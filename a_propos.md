@@ -3,4 +3,8 @@ layout: page
 id: a_propos.md
 
 ---
-Voici nos présentations.
+
+| Ioana-Madalina SILAI                         | Kehina MANSERI                            |
+| ----------------------------------- | ----------------------------------- |
+| ![Maddie](maddie.jpg) | ![Kehina](maddie-1.jpg) |
+| She is a belly dancer | She is not a belly dancer |
