@@ -20,8 +20,8 @@ Initialement, nous avions prévu d’uniquement nous intéresser à la guerre en
     * Contrairement à mes camarades, je n'avais que très peu de variations à prendre en compte pour rédiger une expression régulière adaptée à l'anglais. La seule flexion à prendre en compte était le pluriel. Je n'ai pas pris en compte les occurences du mot "war" avec tous les caractères en majuscules, ces dernières correspondaient en effet généralement à des onglets ou autre mentions distinctes des articles. 
     * L'expression régulière utilisée est : ```(W|w)ars?```
     * Les formes du mot que je vais chercher seront : 
-        1. **(W|w)ar** = guerre
-        2. **(W|w)ars** = guerres
+    1. **[Ww]ar** = guerre
+    2. **[Ww]ars** = guerres
 
 
 - **Roumain _Război_ (Ioana-Madalina SILAI) :** 
@@ -30,27 +30,27 @@ Initialement, nous avions prévu d’uniquement nous intéresser à la guerre en
     * En ce qui concerne le mot en soi, il s'agit d'un nom du genre neutre (masculin au singulier, feminin au pluriel), qui fait que le mot change beaucoup en fonction du contexte. De plus, en roumain les articles sont des suffixes, donc on ne peut pas les ignorer quand on cherche le mot. 
     * L'expression régulière utilisée est : ```[Rr]ăzbo((iul)|(iului)|(aiele)|(aie)|(aielor)|i)```
     * Les formes du mot que je vais chercher donc seront:
-        1. **(R|r)ăzboi** = guerre 
-        2. **(R|r)ăzboaie** = guerres
-        3. **(R|r)ăzboiul** = la guerre
-        4. **(R|r)ăzboaiele** = les guerres
-        5. **(R|r)ăzboiului** = à la / de la guerre 
-        6. **(R|r)ăzboaielor** = aux / des guerres
+    1. **[Rr]ăzboi** = guerre 
+    2. **[Rr]ăzboaie** = guerres
+    3. **[Rr]ăzboiul** = la guerre
+    4. **[Rr]ăzboaiele** = les guerres
+    5. **[Rr]ăzboiului** = à la / de la guerre 
+    6. **[Rr]ăzboaielor** = aux / des guerres
 
-- **Russe _(В|в)oйнa_ (Elisa LEPLUVIER) :** 
+- **Russe _Вoйнa_ (Elisa LEPLUVIER) :** 
     * L'étude du traitement du mot **"Guerre"** semblait directement être intéressant à cause du rôle de la Russie et des pays rusophones dans la guerre en Ukraine. Nous voulions voir si l'utilisation du mot était différente dans les médias du pays instigateur du conflit.
     * La position de la Russie quant au conflit Israélo-Palestinien est différente de celle des pays anglophones (généralement pour Israël). Il était donc intéressant de voir si l'utilisation changeait en fonction de cette prise de position.
     * L'expression régulière du russe posait des problématiques similaires à celle du roumain. Tout comme pour **Război**, le mot **"Boйнa"** varie en fonction du contexte, du genre et du nombre. Il suit les déclinaisons habituelles des substantifs en russe.
     * L'expression régulière utilisée est : ```[Вв]ойн((ам?и?х?)|(ы)|(у)|(ой)|(е))?```
     * Les formes du mot que je vais chercher donc seronts :
-        1. **(В|в)oйнa** = guerre
-        2. **(В|в)ойнам** = aux guerres 
-        3. **(В|в)ойнaи** = des guerres 
-        4. **(В|в)ойнaх** = dans les guerres 
-        5. **(В|в)ойны** = guerres
-        6. **(В|в)ойну** = guerre
-        7. **(В|в)ойной** = par la guerre 
-        8. **(В|в)ойне** = dans la guerre
+    1. **[Вв]oйнa** = guerre
+    2. **[Вв]ойнам** = aux guerres 
+    3. **[Вв]ойнaи** = des guerres 
+    4. **[Вв]ойнaх** = dans les guerres 
+    5. **[Вв]ойны** = guerres
+    6. **[Вв]ойну** = guerre
+    7. **[Вв]ойной** = par la guerre 
+    8. **[Вв]ойне** = dans la guerre
       
 
 
@@ -65,7 +65,7 @@ Après plusieurs essais, nous nous sommes donc mises d’accord pour avoir **50 
 ## Script pour la création des tableaux :
 Après avoir choisi notre mot, nous avons utilisé le script du mini-projet adapté aux besoins de notre projet. 
 
-- Nous avons commencé par ajouter une colonne **« Aspirations »** à notre tableau. Cette colonne contient un lien amenant à la page html de chacun de nos liens. Comme nous avions déjà une variable N qui comptait le nombre de liens dans la liste, nous l’avons ré-utilisé pour nommer tous nos fichiers html sous la forme **« url_<langue>_$N.html ».** 
+- Nous avons commencé par ajouter une colonne **« Aspirations »** à notre tableau. Cette colonne contient un lien amenant à la page html de chacun de nos liens. Comme nous avions déjà une variable N qui comptait le nombre de liens dans la liste, nous l’avons ré-utilisé pour nommer tous nos fichiers html sous la forme `« url_<langue>_$N.html »`. 
 
 ```
 ASPIRATION=$(curl -s -L ${line} > ../aspirations/url_en_$N.html)
