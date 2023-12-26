@@ -258,6 +258,7 @@ Nous avons crée tous les sous-menus de notre site en créant des fichiers markd
 
 
 ```
+{% raw %}
 {% for item in site.sidebar %}
         {% assign url = '/' | append: item.name | append: '/' %}
         <a class="sidebar-nav-item{% if page.url contains url %} active{% endif %}" href="{{ site.baseurl }}/{{ item.name }}/">{{ item.title }}</a>
@@ -268,7 +269,7 @@ Nous avons crée tous les sous-menus de notre site en créant des fichiers markd
           {% endfor %}
         {% endif %}
       {% endfor %}
-
+{% endraw %}
 ```
 
 Nous avons également rédigé le contenu de chacune des pages racines de notre sidebar.
