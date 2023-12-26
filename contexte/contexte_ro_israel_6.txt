@@ -113,10 +113,10 @@ conform Institutului pentru Studiul Războiului
 --
       
    LIVETEXT: Șeful armatei israeliene anunță că „războiul va continua pentru
-   multe luni” în timp ce operațiunile se extind în sudul și centrul Gazei
+   multe luni” în timp ce operațiunile se extind în sudul și centrul Gazei 26
 --
    aduci zâmbetul pe fețele copiilor palestinieni și israelieni traumatizați
-   de război: „În spital nu există ideologii și politică” 06:55 Citește mai
+   de război: „În spital nu există ideologii și politică” 26 dec. Citește mai
    multe
    Două războaie, zeci de alegeri și incertitudine economică: lumea se
    pregătește pentru un 2024 complicat și imprevizibil 25 dec. Citește mai
@@ -150,20 +150,16 @@ conform Institutului pentru Studiul Războiului
        traumatizați de război: „În spital nu există ideologii și politică”
      * PARTENERI - GSP.ro
 --
-   Ferma Dacilor, unde au murit șase oameni 22:43 Citește și alte știri noi
+   Ferma Dacilor, unde au murit șase oameni 26 dec. Citește și alte știri noi
    LIVETEXT Război în Ucraina, ziua 671 | Cel puțin un mort și patru răniți
-   într-un bombardament asupra unei gări pline de oameni din Herson 22:07
+   într-un bombardament asupra unei gări din Herson pline cu oameni 26 dec.
    Citește și alte știri noi
    LIVETEXT: Șeful armatei israeliene anunță că „războiul va continua pentru
-   multe luni” în timp ce operațiunile se extind în sudul și centrul Gazei
+   multe luni” în timp ce operațiunile se extind în sudul și centrul Gazei 26
 --
    Marinka, orașul care „nu mai există”. Ce semnifică avansul Rusiei în
-   localitatea care a rezistat în prima linie a războiului încă din 2014
-   18:10 Citește și alte știri noi
---
-   De ce lovitura ucraineană de la Marea Neagră împotriva navei de asalt
-   Novocerkask este foarte importantă în războiul cu Rusia 15:55 Citește și
-   alte știri noi
+   localitatea care a rezistat în prima linie a războiului încă din 2014 26
+   dec. Citește și alte știri noi
 --
    Hamas afirmă că 20.000 de persoane au fost ucise în Gaza de la începutul
    războiului
@@ -184,6 +180,13 @@ conform Institutului pentru Studiul Războiului
    Israelul se află "în faza finală" a operațiunilor din nordul Fâșiei Gaza,
    conform Institutului pentru Studiul Războiului
    Acum 6 zile
+--
+     * De ce lovitura ucraineană de la Marea Neagră împotriva navei de asalt
+       Novocerkask este foarte importantă în războiul cu Rusia
+       21 comentarii 26 dec. Știri Externe
+       De ce lovitura ucraineană de la Marea Neagră împotriva navei de asalt
+       Novocerkask este foarte importantă în războiul cu Rusia
+     * Incendiu pe Calea Dorobanților din București. Două persoane au fost
 --
           * Tehnologie
           * Război în Ucraina

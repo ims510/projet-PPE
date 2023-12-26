@@ -130,9 +130,9 @@ palestinian al Sănătății
    De la începutul războiului dintre Israel și Hamas, pe 7 octombrie, și până
    la 15 decembrie, în Fâșia Gaza au murit aproximativ 18.800 de
 --
-   LIVETEXT: Aproape 21.000 de oameni au fost uciși în atacurile israeliene
-   asupra Gaza. Israelul spune că poartă un război „în șapte teatre” 15:15
-   Citește mai multe
+      
+   LIVETEXT: Șeful armatei israeliene anunță că „războiul va continua pentru
+   multe luni” în timp ce operațiunile se extind în sudul și centrul Gazei
 --
    aduci zâmbetul pe fețele copiilor palestinieni și israelieni traumatizați
    de război: „În spital nu există ideologii și politică” 06:55 Citește mai
@@ -156,13 +156,6 @@ palestinian al Sănătății
    războiului: „Dacă Iisus s-ar fi născut astăzi, s-ar fi născut sub ruine”
    24 dec. Citește mai multe
 --
-   medicul Vlad Ciurea! Respectă acest obicei de mulți ani
-   Patronul „Ferma Dacilor”, implicat într-un război al interlopilor din
-   Capitală. Anchetă „România, te iubesc” difuzată în 2021
-   Știrileprotv.ro
-   Patronul „Ferma Dacilor”, implicat într-un război al interlopilor din
-   Capitală. Anchetă „România, te iubesc” difuzată în 2021
---
        De ce lovitura ucraineană de la Marea Neagră împotriva navei de asalt
        Novocerkask este foarte importantă în războiul cu Rusia
        De ce lovitura ucraineană de la Marea Neagră împotriva navei de asalt
@@ -176,17 +169,16 @@ palestinian al Sănătății
        traumatizați de război: „În spital nu există ideologii și politică”
      * PARTENERI - GSP.ro
 --
+   Ferma Dacilor, unde au murit șase oameni 22:43 Citește și alte știri noi
+   LIVETEXT Război în Ucraina, ziua 671 | Cel puțin un mort și patru răniți
+   într-un bombardament asupra unei gări din Herson pline cu oameni 22:07
+   Citește și alte știri noi
+   LIVETEXT: Șeful armatei israeliene anunță că „războiul va continua pentru
+   multe luni” în timp ce operațiunile se extind în sudul și centrul Gazei
+--
    Marinka, orașul care „nu mai există”. Ce semnifică avansul Rusiei în
    localitatea care a rezistat în prima linie a războiului încă din 2014
    18:10 Citește și alte știri noi
---
-   De ce lovitura ucraineană de la Marea Neagră împotriva navei de asalt
-   Novocerkask este foarte importantă în războiul cu Rusia 15:55 Citește și
-   alte știri noi
---
-   LIVETEXT: Aproape 21.000 de oameni au fost uciși în atacurile israeliene
-   asupra Gaza. Israelul spune că poartă un război „în șapte teatre” 15:15
-   Citește și alte știri noi
 --
    Ministerul Sănătății condus de Hamas anunță că peste 19.000 de
    palestinieni au fost uciși de la începutul războiului
@@ -196,13 +188,12 @@ palestinian al Sănătății
    Human Rights Watch: Israelul folosește înfometarea ca armă de război
    Acum o saptamana
 --
-       în Carpaţii Occidentali şi în vestul celor Meridionali
-     * LIVETEXT Război în Ucraina, ziua 671 | Rusia confirmă atacul Kievului:
-       o navă rusească de asalt din Marea Neagră, distrusă. Imagini cu
---
-       33 comentarii 07:48 Știri Externe
-       LIVETEXT Război în Ucraina, ziua 671 | Rusia confirmă atacul Kievului:
-       o navă rusească de asalt din Marea Neagră, distrusă. Imagini cu
+     * De ce lovitura ucraineană de la Marea Neagră împotriva navei de asalt
+       Novocerkask este foarte importantă în războiul cu Rusia
+       21 comentarii 15:55 Știri Externe
+       De ce lovitura ucraineană de la Marea Neagră împotriva navei de asalt
+       Novocerkask este foarte importantă în războiul cu Rusia
+     * Incendiu pe Calea Dorobanților din București. Două persoane au fost
 --
           * Tehnologie
           * Război în Ucraina

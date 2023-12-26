@@ -9,6 +9,12 @@
    când militanţi palestinieni din gruparea Hamas au lansat atacuri pe uscat,
    din aer şi de pe apă asupra unor ţinte din sudul şi centrul Israelului.
      * Război în Israel
+       26 Dec, 23:59
+--
+       razboi israel 27 decembrie 2023
+Război în Israel, ziua 82. Armata israeliană și-a extins ofensiva în taberele de
+refugiați din centrul Fâșiei Gaza
+     * Război în Israel
        26 Dec, 20:09
 --
        razboi israel 26 decembrie 2023
@@ -31,6 +37,14 @@ uciderea unuia dintre comandanții militari trimiși de Teheran în Siria
        razboi israel 24 decembrie 2023
 Război în Israel, ziua 79. Cel puțin 15 soldați ai IDF au fost uciși în Gaza
 începând de vineri
+--
+  valoare are și cum poate fi obținut
+  Război în Israel, ziua 82. Armata israeliană și-a extins ofensiva în taberele
+  de refugiați din centrul Fâșiei Gaza
+  Război în Ucraina, ziua 672. Un om a murit și alți patru au fost răniți după
+  un atac cu rachete asupra gării din Herson
+--
+   » Vezi toate știrile
      * Război în Israel
        23 Dec, 22:00
        Război în Israel, ziua 78. Un american cu dublă cetăţenie, care se
@@ -39,8 +53,6 @@ Război în Israel, ziua 79. Cel puțin 15 soldați ai IDF au fost uciși în Ga
        razboi israel 23 decembrie 2023
 Război în Israel, ziua 78. IDF anunță că furnizorul de arme pentru Hamas a fost
 eliminat
---
-   » Vezi toate știrile
      * Război în Israel
        22 Dec, 21:50
        Război în Israel, ziua 77. Luptele din Fâșia Gaza au escaladat joi cu
@@ -233,5 +245,3 @@ schimburi de prizonieri până la încheierea războiului
        razboi in israel 1 decembrie 2023
 Război în Israel, ziua 56. Purtătorul de cuvânt al guvernului israelian a
 transmis că Hamas va primi "cea mai cruntă bătaie"
-     * Război în Israel
-       01 Dec, 07:49

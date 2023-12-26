@@ -63,7 +63,7 @@ Top Stories
      * Russia confirms damage to warship in Black Sea
           * Published
 --
-            3 hours ago
+            5 hours ago
      * Drivers warned of disruption when Storm Gerrit hits on Wednesday
           * Published
 --
@@ -76,6 +76,6 @@ Top Stories
        Drivers warned of disruption as Storm Gerrit hits
     2. 2
 --
-    4. 4
-       Russia confirms damage to warship in Black Sea
     5. 5
+       Russia confirms damage to warship in Black Sea
+    6. 6

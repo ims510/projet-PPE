@@ -16,6 +16,7 @@ echo "<!DOCTYPE html>
   </head>
 
   <body>
+  <section class="section">
           <div class="container">
             <nav class="breadcrumb" aria-label="breadcrumbs">
                 <ul>
@@ -38,6 +39,8 @@ echo "$CONCORDANCE_TABLE" >> "$OUTPUT_PATH"
 
 echo "      </tbody>
     </table>
+    </div>
+    </section>
   </body>
 </html>" >> "$OUTPUT_PATH"
 

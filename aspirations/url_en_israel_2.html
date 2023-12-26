@@ -73,9 +73,9 @@
     <meta property="fb:app_id" content="2220391788200892">
 
 
-    <meta name="ntv-kv" key="content" values="Celebrity,SusanSarandon,Israel,MelissaBarrera,Generalnews,TrendingNews,Israel-Hamaswar,e,U.S.news,a,Artsandentertainment,Worldnews,Movies,Hamas,WorldNews,U.S.News">
-
     <meta data-rh="true" name="keywords" content="Celebrity, Susan Sarandon, Israel, Melissa Barrera, General news, Trending News, Israel-Hamas war, e, U.S. news, a, Arts and entertainment, World news, Movies, Hamas, World News, U.S. News">
+
+    <meta name="ntv-kv" key="content" values="Celebrity,SusanSarandon,Israel,MelissaBarrera,Generalnews,TrendingNews,Israel-Hamaswar,e,U.S.news,a,Artsandentertainment,Worldnews,Movies,Hamas,WorldNews,U.S.News">
 
     <meta name="robots" content="max-image-preview:large">
 
@@ -554,27 +554,16 @@ type="text/javascript" async></script></script>
         })
     })
 })('.Zephr-bar, .Zephr-donateModule', 'background: #00D2B9;color: black; padding: 4px;')</script>
-<link rel="preconnect" href="https://connect.facebook.net">
-<script>
-  window.fbAsyncInit = function() {
-      FB.init({
-          
-              appId : '2220391788200892',
-          
-          xfbml : true,
-          version : 'v2.9'
-      });
-  };
+<script type="text/javascript" src="https://s.ntv.io/serve/load.js" async id="nativo-head"></script>
 
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
-<meta name="ga-dataLayer" content="{
+<script>
+    window.ntvConfig = window.ntvConfig || {};
+    window.ntvConfig.keyValues = window.ntvConfig.keyValues || {};
+    var segs = localStorage.getItem('_pnativo');
+    if (segs) {
+        window.ntvConfig.keyValues.permutive = JSON.parse(segs).join(",");
+    }
+</script><meta name="ga-dataLayer" content="{
   &quot;dimension1&quot; : &quot;101895c5aafe2ec2f77e3dcda706e6ec&quot;,
   &quot;dimension15&quot; : &quot;Celebrity,Melissa Barrera,General news,Susan Sarandon,Israel,Trending News,World News,U.S. News&quot;,
   &quot;dimension9&quot; : &quot;2023-11-22 13:01:06&quot;,
@@ -674,16 +663,27 @@ type="text/javascript" async></script></script>
 
   if(window.performance && typeof window.performance.mark == 'function')
     {window.performance.mark('tbl_ic');}
-</script><script type="text/javascript" src="https://s.ntv.io/serve/load.js" async id="nativo-head"></script>
-
+</script><link rel="preconnect" href="https://connect.facebook.net">
 <script>
-    window.ntvConfig = window.ntvConfig || {};
-    window.ntvConfig.keyValues = window.ntvConfig.keyValues || {};
-    var segs = localStorage.getItem('_pnativo');
-    if (segs) {
-        window.ntvConfig.keyValues.permutive = JSON.parse(segs).join(",");
-    }
-</script><link rel="preconnect" href="https://fonts.googleapis.com">
+  window.fbAsyncInit = function() {
+      FB.init({
+          
+              appId : '2220391788200892',
+          
+          xfbml : true,
+          version : 'v2.9'
+      });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <script>
         var link = document.createElement('link');
