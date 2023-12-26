@@ -8,7 +8,7 @@ id: analyse_linguistique_roumain.md
 
 L'analyse ci-dessous est réalisée à partir de l'outil d'analyse textométrique iTrameur.
 
-En utilisant le script qui se trouve [ici](INSERT LINK).
+En utilisant le script qui se trouve [ici](../../scripts/corpus_itrameur_pals/)
 , on a obtenu un fichier texte contenant les dumps, donc le texte de toutes les pages web choisies dans le cadre de ce projet. Ce fichier contient aussi les balises nécessaires pour que iTrameur puisse bien tokeniser et analyser le contenu des articles.
 
 Comme dans le reste de notre analyse, on a divisé nos articles en 3 parties: ceux sur la guerre en Ukraine, ceux sur le conflit israelo-palestinien et des articles donnant des informations plus generales sur la guerre. Comme ça on peut bien determiner si les mots utilisés autour du mot "guerre" sont differents lorsqu'on parle des differents conflits.
@@ -19,19 +19,19 @@ En regardant les coocurents du mot guerre (război), au singulier et sans aucun 
 
 On observe donc une tendence vers des mots assez techniques, l'idée d'appartenence à l'Europe et l'idée d'un effort et de la durée. En particulier le mot  "uzura" (_usure_) est intéressant ici, car la guerre d'usure est un conflit qui se joue sur la durée, dans le but de faire céder l'adversaire. 
 
-![Alt text](image.png) 
+![Alt text](image.png){:width="80%"}
 
-![Alt text](image-1.png)
+![Alt text](image-1.png){:width="50%"}
 
 En ce qui concerne le contexte, parmi les mots qu'on a déjà mentionné on voit aussi "într-un război istovitor" (_dans une guerre fatiguante_) confirmant donc cette image d'une guerre longue, qui se joue sur de nombreuses petites avancées.
 
-![Alt text](image-2.png)
+![Alt text](image-2.png){:width="80%"}
 
 ### Guerre entre Israel et Palestine
 
 Les coocurences du mot guerre dans le contexte du conflit israelo-palestinien confirme notre hypothese, car les mots qui se retrouvent autour du mot cible sont en effet très différents.
 
-![Alt text](image-3.png) 
+![Alt text](image-3.png){:width="50%"} 
 
 Le premier mot dans la liste c'est "crime" (_crimes_), suivi par des mots comme "cabinetului" (_du cabinet (de ministres)_), "crimă" (_crime_), "anti" (_anti_), "reuşit" (_réussi_), "navă"(_navire_), "armă" (_arme_). On voit donc que l'image créée dans les articles sur ce conflit est beaucoup plus violente. En plus, c'est intéressant de trouver un mot de la sphere politique avec un indice de specificité si élévé - démontrant ainsi un lien beaucoup plus fort entre le gouvernement des pays impliqués et le conflit.
 
@@ -45,13 +45,13 @@ Si on analyse les articles qui parle de la notion de guerre en général, on obs
 
 Le mot avec l'indice de specificité le plus élévé est le mot "sfant" (_saint_), suivi par des mots comme "mondial", "consacrarii" (_consacrer_), "expresia" (_l'expression_), "poporul" (_le peuple_), "impotriva" (_contre_). Cela nous indique que lorsqu'on parle de la guerre en general on parle plutot des guerres de l'histoire, commme les guerres à cause des raisons religieuses ou les deux Guerres Mondiales. Aussi le mot _contre_ dépeint une image plus simple de la guerre, ou il s'agit d'une lutte claire d'une partie contre l'autre. 
 
-![Alt text](image-5.png)
+![Alt text](image-5.png){:width="50%"}
 
 # Analyse utilisant PALS:
 
 En utilisant le script Python PALS, on a pu completer l'image obtenue par iTrameur grâce au fait qu'on a la possibilité d'utiliser des expressions regulieres. Dans le cas du roumain en particulier, on s'attendait que les differences entre les resultats soient signficatives, car en roumain les differents articles s'ajoutent sous la forme des suffixes. En prennant donc juste le mot "război" on elimine en fait des formes comme "la guerre", "les guerres", "à la guerre", "aux guerres", "des guerres" etc. 
 
-Pour utiliser ce script il a fallu ajuster notre corpus, pour qu'il soit dans le format adequat, ce qu'on a fait en utilisant le script ici. 
+Pour utiliser ce script il a fallu ajuster notre corpus, pour qu'il soit dans le format adequat, ce qu'on a fait en utilisant le script [ici](../../scripts/corpus_itrameur_pals/). 
 
 La commande utilisé pour obtenir les résultats nécessaires a été:
 
@@ -116,3 +116,18 @@ Ici on voit clairement des mots décrivant la Premiere Guerre Mondiale ("Primul"
 | Franței   | 79007          | 6208              | 22               | 14               | 11.25       |
 | Rece      | 79007          | 6208              | 9                | 9                | 10.94       |
 | în        | 79007          | 6208              | 1722             | 206              | 10.31       |
+
+
+# Nuage des mots
+
+### Nuage des mots - guerre en Ukraine
+
+![Alt text](image-9.png)
+
+### Nuage des mots - guerre israelo-palestinien
+
+![Alt text](image-7.png)
+
+### Nuage des mots - guerre en general
+
+ ![Alt text](image-8.png)

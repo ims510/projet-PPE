@@ -16,6 +16,15 @@ echo "<!DOCTYPE html>
   </head>
 
   <body>
+          <div class="container">
+            <nav class="breadcrumb" aria-label="breadcrumbs">
+                <ul>
+                    <li><a href="/projet-PPE/">Page d'accueil</a></li>
+                    <li><a href="/projet-PPE/tableaux/">Tableaux</a></li>
+                    <li><a href="/projet-PPE/tableaux/tableau_roumain">Tableau d'URLs - Roumain</a></li>
+                    <li class="is-active"><a href="#" aria-current="page">Concordances</a></li>
+                </ul>
+            </nav>
     <h1 class="title is-1">Tableau d'URLs</h1>
     <table class="table is-striped is-hoverable is-fullwidth">
       <thead>

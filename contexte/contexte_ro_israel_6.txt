@@ -111,9 +111,9 @@ conform Institutului pentru Studiul Războiului
    războiului în Fâşia Gaza, după cea din 9 noiembrie.
    19 dec. - Acum 7 zile
 --
-   LIVETEXT: Aproape 21.000 de oameni au fost uciși în atacurile israeliene
-   asupra Gaza. Israelul spune că poartă un război „în șapte teatre” 15:15
-   Citește mai multe
+      
+   LIVETEXT: Șeful armatei israeliene anunță că „războiul va continua pentru
+   multe luni” în timp ce operațiunile se extind în sudul și centrul Gazei
 --
    aduci zâmbetul pe fețele copiilor palestinieni și israelieni traumatizați
    de război: „În spital nu există ideologii și politică” 06:55 Citește mai
@@ -137,13 +137,6 @@ conform Institutului pentru Studiul Războiului
    războiului: „Dacă Iisus s-ar fi născut astăzi, s-ar fi născut sub ruine”
    24 dec. Citește mai multe
 --
-   medicul Vlad Ciurea! Respectă acest obicei de mulți ani
-   Patronul „Ferma Dacilor”, implicat într-un război al interlopilor din
-   Capitală. Anchetă „România, te iubesc” difuzată în 2021
-   Știrileprotv.ro
-   Patronul „Ferma Dacilor”, implicat într-un război al interlopilor din
-   Capitală. Anchetă „România, te iubesc” difuzată în 2021
---
        De ce lovitura ucraineană de la Marea Neagră împotriva navei de asalt
        Novocerkask este foarte importantă în războiul cu Rusia
        De ce lovitura ucraineană de la Marea Neagră împotriva navei de asalt
@@ -157,6 +150,13 @@ conform Institutului pentru Studiul Războiului
        traumatizați de război: „În spital nu există ideologii și politică”
      * PARTENERI - GSP.ro
 --
+   Ferma Dacilor, unde au murit șase oameni 22:43 Citește și alte știri noi
+   LIVETEXT Război în Ucraina, ziua 671 | Cel puțin un mort și patru răniți
+   într-un bombardament asupra unei gări pline de oameni din Herson 22:07
+   Citește și alte știri noi
+   LIVETEXT: Șeful armatei israeliene anunță că „războiul va continua pentru
+   multe luni” în timp ce operațiunile se extind în sudul și centrul Gazei
+--
    Marinka, orașul care „nu mai există”. Ce semnifică avansul Rusiei în
    localitatea care a rezistat în prima linie a războiului încă din 2014
    18:10 Citește și alte știri noi
@@ -164,10 +164,6 @@ conform Institutului pentru Studiul Războiului
    De ce lovitura ucraineană de la Marea Neagră împotriva navei de asalt
    Novocerkask este foarte importantă în războiul cu Rusia 15:55 Citește și
    alte știri noi
---
-   LIVETEXT: Aproape 21.000 de oameni au fost uciși în atacurile israeliene
-   asupra Gaza. Israelul spune că poartă un război „în șapte teatre” 15:15
-   Citește și alte știri noi
 --
    Hamas afirmă că 20.000 de persoane au fost ucise în Gaza de la începutul
    războiului
@@ -188,14 +184,6 @@ conform Institutului pentru Studiul Războiului
    Israelul se află "în faza finală" a operațiunilor din nordul Fâșiei Gaza,
    conform Institutului pentru Studiul Războiului
    Acum 6 zile
---
-       în Carpaţii Occidentali şi în vestul celor Meridionali
-     * LIVETEXT Război în Ucraina, ziua 671 | Rusia confirmă atacul Kievului:
-       o navă rusească de asalt din Marea Neagră, distrusă. Imagini cu
---
-       33 comentarii 07:48 Știri Externe
-       LIVETEXT Război în Ucraina, ziua 671 | Rusia confirmă atacul Kievului:
-       o navă rusească de asalt din Marea Neagră, distrusă. Imagini cu
 --
           * Tehnologie
           * Război în Ucraina

@@ -3715,20 +3715,21 @@ Americas                 * El Salvador
                               * Kurdistan Region                  
                          * Israel                                 
                          * Japan                                  
-Asia                     * Jordan                                 
-                         * Lebanon                                
+                         * Jordan                                 
+Asia                     * Lebanon                                
                          * Kazakhstan                             
                          * Malaysia                               
                          * Maldives                               
                          * North Korea                            
+                         * Oman                                   
                          * Pakistan                               
                          * Saudi Arabia                           
                          * Sri Lanka                              
                          * Syria                                  
                          * Thailand                               
-                         * Turkey                                 
-                         * United Arab Emirates                   Coat of arms of
-                         * Vietnam                                Palestine
+                         * Turkey                                 Coat of arms of
+                         * United Arab Emirates                   Palestine
+                         * Vietnam                                
                          * Yemen                                  
                          * Albania                                
                          * Austria                                
