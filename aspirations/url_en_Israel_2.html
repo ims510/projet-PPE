@@ -73,9 +73,9 @@
     <meta property="fb:app_id" content="2220391788200892">
 
 
-    <meta name="ntv-kv" key="content" values="Celebrity,SusanSarandon,Israel,MelissaBarrera,Generalnews,TrendingNews,Israel-Hamaswar,e,U.S.news,a,Artsandentertainment,Worldnews,Movies,Hamas,WorldNews,U.S.News">
-
     <meta data-rh="true" name="keywords" content="Celebrity, Susan Sarandon, Israel, Melissa Barrera, General news, Trending News, Israel-Hamas war, e, U.S. news, a, Arts and entertainment, World news, Movies, Hamas, World News, U.S. News">
+
+    <meta name="ntv-kv" key="content" values="Celebrity,SusanSarandon,Israel,MelissaBarrera,Generalnews,TrendingNews,Israel-Hamaswar,e,U.S.news,a,Artsandentertainment,Worldnews,Movies,Hamas,WorldNews,U.S.News">
 
     <meta name="robots" content="max-image-preview:large">
 
@@ -554,7 +554,16 @@ type="text/javascript" async></script></script>
         })
     })
 })('.Zephr-bar, .Zephr-donateModule', 'background: #00D2B9;color: black; padding: 4px;')</script>
-<link rel="preconnect" href="https://connect.facebook.net">
+<script type="text/javascript" src="https://s.ntv.io/serve/load.js" async id="nativo-head"></script>
+
+<script>
+    window.ntvConfig = window.ntvConfig || {};
+    window.ntvConfig.keyValues = window.ntvConfig.keyValues || {};
+    var segs = localStorage.getItem('_pnativo');
+    if (segs) {
+        window.ntvConfig.keyValues.permutive = JSON.parse(segs).join(",");
+    }
+</script><link rel="preconnect" href="https://connect.facebook.net">
 <script>
   window.fbAsyncInit = function() {
       FB.init({
@@ -674,15 +683,6 @@ type="text/javascript" async></script></script>
 
   if(window.performance && typeof window.performance.mark == 'function')
     {window.performance.mark('tbl_ic');}
-</script><script type="text/javascript" src="https://s.ntv.io/serve/load.js" async id="nativo-head"></script>
-
-<script>
-    window.ntvConfig = window.ntvConfig || {};
-    window.ntvConfig.keyValues = window.ntvConfig.keyValues || {};
-    var segs = localStorage.getItem('_pnativo');
-    if (segs) {
-        window.ntvConfig.keyValues.permutive = JSON.parse(segs).join(",");
-    }
 </script><link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <script>

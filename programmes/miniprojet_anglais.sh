@@ -23,7 +23,7 @@ process_file() {
 		DUMP=$(links -dump ../aspirations/url_en_${TYPE}_$N.html > ../dumps-text/dump_en_${TYPE}_$N.txt)
 		WORDCOUNT=$(cat ../dumps-text/dump_en_${TYPE}_$N.txt | egrep -o "(W|w)ars?"| wc -w)
 		cat ../dumps-text/dump_en_${TYPE}_$N.txt | sed '/^$/d'| egrep -C 1 "(W|w)ars?" > ../contexte/contexte_en_${TYPE}_$N.txt
-		./concordancier_anglais.sh ../dumps-text/dump_en_${TYPE}_$N.txt ../tableaux/concordances_angais_${TYPE}_$N.html
+		./concordancier_anglais.sh ../dumps-text/dump_en_${TYPE}_$N.txt ../tableaux/concordances_anglais_${TYPE}_$N.html
 		#obtenir le code HTTP and store it in a variable
 		CURL=$(curl -s -I -L ${line} | tr -d "\r" ) #obtenir les headers
 		HTTPCODE=$(echo "$CURL" | grep "^HTTP" | egrep -o "[[:digit:]]{3}" | tail -n 1)
@@ -37,7 +37,7 @@ process_file() {
 		TABLEROW+="<td><a href="../dumps-text/dump_en_${TYPE}_$N.txt">dump</a></td>\n"
 		TABLEROW+="<td>$WORDCOUNT</td>\n"
 		TABLEROW+="<td><a href="../contexte/contexte_en_${TYPE}_$N.txt">contexte</a></td>\n"
-		TABLEROW+="<td><a href="../tableaux/concordances_angais_${TYPE}_$N.html">concordances</a></td>\n"
+		TABLEROW+="<td><a href="../tableaux/concordances_anglais_${TYPE}_$N.html">concordances</a></td>\n"
 		TABLEROW+="</tr>"
 		TABLE+="$TABLEROW\n"
 
