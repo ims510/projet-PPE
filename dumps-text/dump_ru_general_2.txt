@@ -3,8 +3,8 @@
    Link: alternate es
    Link: alternate pt
    Link: alternate zh
-   Link: alternate ar
    Link: alternate fr
+   Link: alternate ar
    Link: alternate en
    Link: alternate ru
    Link: alternate ja
@@ -100,11 +100,11 @@
      * Português (pt) Como obter informações confiáveis sobre a guerra entre
        Israel e Palestina?
      * 中文 (zh) 您如何获得关于巴以战争以及其他全球冲突的可靠消息？
-     * عربي (ar) كيف تحصلون على معلومات موثوقة حول الحرب الإسرائيلية
-       الفلسطينية والصراعات الدولية الأخرى؟
      * Français (fr) Comment faites-vous pour obtenir des informations
        fiables sur la guerre israélo-palestinienne et les autres conflits
        mondiaux?
+     * عربي (ar) كيف تحصلون على معلومات موثوقة حول الحرب الإسرائيلية
+       الفلسطينية والصراعات الدولية الأخرى؟
      * English (en) How do you get reliable information on the
        Israeli-Palestinian war and other global conflicts? (Оригинал)
      * 日本語 (ja) イスラエル・パレスチナの戦闘に関し、信頼できる情報をどこで入手していますか？
