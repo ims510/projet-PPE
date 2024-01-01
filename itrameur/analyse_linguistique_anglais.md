@@ -133,3 +133,17 @@ Enfin, le script utilisé avec notre corpus général nous renvoie les résultat
 | Cold     | 91148 | 12401 | 22   | 22  | 20.07  |
 
 Ici, nous voyons également le terme "films" (_films_) accompagné de "Second" (_seconde_) et "First" (_première_) faisant référence aux première et seconde guerres mondiales. Ce corpus nous permet, comme observé via l'analyse Itrameur, de voir que le mot "war" est également très souvent utilisé dans le domaine culturel et éducatif. Nous le retrouvons ainsi dans plusieurs oeuvres de fiction et articles historiques. 
+
+# Nuage des mots
+
+### Nuage des mots - guerre en Ukraine
+
+![Alt text](nuage_uk_en.png)
+
+### Nuage des mots - guerre israelo-palestinien
+
+![Alt text](nuage_is_en.png)
+
+### Nuage des mots - guerre en general
+
+ ![Alt text](nuage_gen_en.png)
