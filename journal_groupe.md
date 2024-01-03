@@ -4,20 +4,21 @@ id: journal_groupe.md
 
 ---
 # Projet PPE : Analyse du mot GUERRE
-### - Elisa LEPLUVIER (Russe) 
+### - Elisa LEPLUVIER (Russe)*
 ### - Kehina MANSERI (Anglais) 
 ### - Ioana-Madalina SILAI (Roumain)
+*Elisa a abandonné le projet pendant le semestre. 
 
 ## Choix du mot : 
 Nous avons choisi le mot **"Guerre"** à l’unanimité car il était très présent dans l’actualité au commencement du projet.
 
-Initialement, nous avions prévu d’uniquement nous intéresser à la guerre en Ukraine mais l’escalade des affrontements au Moyen-Orient (entre Israël et la Palestine) nous a fait nous rendre compte que des conflicts différents n'étaient pas traités de la même manière dans les médias. Nous avons donc trouvé intéressant de voir si notre intuition était averée en analysant et comparant l'utilisation du mot **"Guerre"** dans des articles sur la guerre **Ukraine-Russe** et des articles sur la guerre **Israël-Palestine**. 
+Initialement, nous avions prévu d’uniquement nous intéresser à la guerre en Ukraine mais l’escalade des affrontements au Moyen-Orient (entre Israël et la Palestine) nous a fait nous rendre compte que des conflicts différents n'étaient pas traités de la même manière dans les médias. Nous avons donc trouvé intéressant de voir si notre intuition était averée en analysant et comparant l'utilisation du mot **"Guerre"** dans des articles sur la guerre **Ukraine-Russe** et des articles sur la guerre **Israël-Palestine**. Nous avons décidé de ne pas prendre en compte la distinction Guerre/Conflit notamment présente pour la guerre Israël Palestine. Cela aurait doubler la charge de travail liée à l'analyse linguistique. 
 
 
 - **Anglais _WAR_ (Kehina MANSERI) :**
-    * J'ai considéré que le choix du mot **"Guerre"** était intéressant car les médias anglophones (américains, britanniques ou autres) apportent le point de vue "occidental" ou de l'"ouest" sur certains conflits. L'Angleterre comme les États-Unis ont par exemple apporté leur soutien au peuple ukrainien.
-    * Dans le cas du conflit Israélo-Palestinien, les États-Unis ont apporté leur soutien à Israël. Nous nous sommes donc demandés si le traitement des deux conflits était différent dans les médias anglophones. 
-    * Contrairement à mes camarades, je n'avais que très peu de variations à prendre en compte pour rédiger une expression régulière adaptée à l'anglais. La seule flexion à prendre en compte était le pluriel. Je n'ai pas pris en compte les occurences du mot "war" avec tous les caractères en majuscules, ces dernières correspondaient en effet généralement à des onglets ou autre mentions distinctes des articles. 
+    * **Kehina** : j'ai considéré que le choix du mot **"Guerre"** était intéressant car les médias anglophones (américains, britanniques ou autres) apportent le point de vue "occidental" ou de l'"ouest" sur certains conflits. L'Angleterre comme les États-Unis ont par exemple apporté leur soutien au peuple ukrainien.
+    * Dans le cas du conflit Israélo-Palestinien, les États-Unis ont apporté leur soutien à Israël. Nous nous sommes donc demandées si le traitement des deux conflits était différent dans les médias anglophones. 
+    * Contrairement à mes camarades, je n'avais que très peu de variations à prendre en compte pour rédiger une expression régulière adaptée à l'anglais. La seule flexion à prendre en compte était le pluriel. Je n'ai pas pris en compte les occurrences du mot "war" avec tous les caractères en majuscules, ces dernières correspondaient en effet généralement à des onglets ou autres mentions distinctes des articles. 
     * L'expression régulière utilisée est : ```(W|w)ars?```
     * Les formes du mot que je vais chercher seront : 
     1. **[Ww]ar** = guerre
@@ -25,7 +26,7 @@ Initialement, nous avions prévu d’uniquement nous intéresser à la guerre en
 
 
 - **Roumain _Război_ (Ioana-Madalina SILAI) :** 
-    * J'ai consideré que ce mot était intéressant pour le roumain dans le contexte de la guerre en Ukraine. La position geographique du pays en fait en effet un évènement majeur pour la Roumanie.  
+    * **Maddie** : j'ai consideré que ce mot était intéressant pour le roumain dans le contexte de la guerre en Ukraine. La position geographique du pays en fait en effet un évènement majeur pour la Roumanie.  
     * Lorsque le conflit Israélo-Palestinien a escaladé, il était intéressant de voir la difference entre les mentions de cette guerre et celle de l'Ukraine dans les medias roumains.
     * En ce qui concerne le mot en soi, il s'agit d'un nom du genre neutre (masculin au singulier, feminin au pluriel), qui fait que le mot change beaucoup en fonction du contexte. De plus, en roumain les articles sont des suffixes, donc on ne peut pas les ignorer quand on cherche le mot. 
     * L'expression régulière utilisée est : ```[Rr]ăzbo((iul)|(iului)|(aiele)|(aie)|(aielor)|i)```
@@ -38,9 +39,9 @@ Initialement, nous avions prévu d’uniquement nous intéresser à la guerre en
     6. **[Rr]ăzboaielor** = aux / des guerres
 
 - **Russe _Вoйнa_ (Elisa LEPLUVIER) :** 
-    * L'étude du traitement du mot **"Guerre"** semblait directement être intéressant à cause du rôle de la Russie et des pays rusophones dans la guerre en Ukraine. Nous voulions voir si l'utilisation du mot était différente dans les médias du pays instigateur du conflit.
+    * **Kehina** : l'étude du traitement du mot **"Guerre"** semblait directement être intéressante à cause du rôle de la Russie et des pays rusophones dans la guerre en Ukraine. Nous voulions voir si l'utilisation du mot était différente dans les médias du pays instigateur du conflit.
     * La position de la Russie quant au conflit Israélo-Palestinien est différente de celle des pays anglophones (généralement pour Israël). Il était donc intéressant de voir si l'utilisation changeait en fonction de cette prise de position.
-    * L'expression régulière du russe posait des problématiques similaires à celle du roumain. Tout comme pour **Război**, le mot **"Boйнa"** varie en fonction du contexte, du genre et du nombre. Il suit les déclinaisons habituelles des substantifs en russe.
+    * L'expression régulière du russe posait des problématiques similaires à celle du roumain. Tout comme pour **Război**, le mot **"Boйнa"** varie en fonction du contexte, du genre et du nombre. Il suit les déclinaisons habituelles des substantifs en russe. Elisa a donc proposé l'expréssion régulière utilisée pour ce projet. 
     * L'expression régulière utilisée est : ```[Вв]ойн((ам?и?х?)|(ы)|(у)|(ой)|(е))?```
     * Les formes du mot que je vais chercher donc seronts :
     1. **[Вв]oйнa** = guerre
@@ -83,7 +84,7 @@ Nous avons précisé à Lynx l'encodage d'affichage de chacun de nos fichiers es
 _Ioana-Madalina SILAI :_ J'utilise Safari comme browser principal, qui n'ouvre pas les fichiers dumps avec l'encodage UTF-8, sauf si on fait un changement dans les paramètres du browser à chaque ouverture d'un nouveau fichier dump. Je ne sais pas s'il y a une autre commande que je devrais utiliser dans ce cas, car je n'ai pas trouvé de solution, à part utiliser un autre browser.
 
 
-- Nous avons ensuite ajouté une autre colonne **« Nombre d'occurences »** à notre tableau. Cette colonne contient le nombre d'occurences du mot "guerre" dans chaque fichier dump crée précedemment. Pour obtenir ce nombre, nous avons utilisé les commandes **egrep** et **wc** associées à nos expressions régulières : 
+- Nous avons ensuite ajouté une autre colonne **« Nombre d'occurrences »** à notre tableau. Cette colonne contient le nombre d'occurrences du mot "guerre" dans chaque fichier dump crée précedemment. Pour obtenir ce nombre, nous avons utilisé les commandes **egrep** et **wc** associées à nos expressions régulières : 
 
 _Kehina MANSERI:_ 
 ```
@@ -95,7 +96,7 @@ _Ioana-Madalina SILAI :_
 WORDCOUNT=$(cat ../dumps-text/dump_ro_$N.txt | egrep -o "[Rr]ăzbo((iul)|(iului)|(aiele)|(aie)|(aielor)|i)"| wc -w)
 ```
 
-- Nous avons également ajouté une colonne **« Contextes »** à notre tableau. Cette colonne contient un lien menant à un fichier texte contenant toutes les occurences du mot "guerre" entourées par une ligne de la page web de chaque coté. Pour obtenir une ligne avant et après le mot nous avons utilisé l'option `-C 1` après la commande **egrep**. Nous avons aussi utilisé la commande **sed** pour supprimer les éventuelles lignes vides (avant ou après notre mot) :
+- Nous avons également ajouté une colonne **« Contextes »** à notre tableau. Cette colonne contient un lien menant à un fichier texte contenant toutes les occurrences du mot "guerre" entourées par une ligne de la page web de chaque coté. Pour obtenir une ligne avant et après le mot nous avons utilisé l'option `-C 1` après la commande **egrep**. Nous avons aussi utilisé la commande **sed** pour supprimer les éventuelles lignes vides (avant ou après notre mot) :
 
 _Kehina MANSERI:_ 
 ```
@@ -222,6 +223,8 @@ Pour ce qui est de l'interface graphique, nous sommes inquiètes de ne pas avoir
 
 *Semaine du 26 décembre* 
 
+Les analyses du roumain et de l'anglais ont été rédigées par Kehina et Maddie. Les fichiers dumps ont été utilisés pour I-trameur et le programme PALS.
+
 ## Mise en page de notre site dédié :
 
 **Choix du thème**
@@ -254,7 +257,7 @@ Nous nous sommes rendues compte que nous avions besoin d'un lien entre notre sit
 
 *Semaine du 26 décembre* 
 
-Nous avons crée tous les sous-menus de notre site en créant des fichiers markdown spécifiques et en les ajoutant au fichier config.yml. Nous avons fait en sorte que lorsque l'on clique sur un sous-menu, les autres restent affichés dans la side-bar. Pour cela, nous avons trouvé (en cherchant dans la documentation), la fonction contains que nous avons utilisé dans le fichier sidebar.html. Ce changement nous a donné le bout de script suivant : 
+Nous avons crée tous les sous-menus de notre site en créant des fichiers markdown spécifiques et en les ajoutant au fichier config.yml. Nous avons fait en sorte que lorsque l'on clique sur un sous-menu, les autres restent affichés dans la side-bar. Pour cela, nous avons trouvé (en cherchant dans la documentation), la fonction *contains* que nous avons utilisée dans le fichier sidebar.html. Ce changement nous a donné le bout de script suivant : 
 
 
 ```
