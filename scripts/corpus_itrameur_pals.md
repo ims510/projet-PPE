@@ -5,9 +5,9 @@ id: corpus_itrameur_pals.md
 
 Pour pouvoir utiliser les outils comme iTrameur ou le script PALS, il a fallu adapter les textes pour qu'ils soient dans le format reconnu par ces outils. 
 
-Dans le cas d'iTrameur, il a fallu ajouter des balises à la fin et au debut de chaque dump textuel, pendant que pour le script PALS il a fallu structurer le texte pour avoir un mot par ligne et une ligne vide entre chaque phrase.
+Dans le cas d'iTrameur, il a fallu ajouter des balises à la fin et au debut de chaque dump textuel. POur ce qui est du script PALS, il a fallu structurer le texte pour avoir un mot par ligne et une ligne vide entre chaque phrase.
 
-Voici les scripts qui nous ont permis de faire ça:
+Voici les scripts utilisés :
 
 ### Script pour la creation du corpus iTrameur:
 

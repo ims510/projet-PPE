@@ -3,7 +3,7 @@ layout: page
 id: concordancier.md
 ---
 
-Pour obtenir les contextes droits et gauches de chaque repetition du mot cible, dans chacune des pages aspirées, dans les 3 langues on a utilisé les scripts suivant:
+Pour obtenir les contextes droits et gauches de chaque repetition du mot cible dans chacune des pages aspirées et dans les 3 langues, nous avons utilisé les scripts suivants :
 
 ## Concordancier anglais
 

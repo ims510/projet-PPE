@@ -3,7 +3,7 @@ layout: page
 id: creation_tableaux.md
 ---
 
-Pour obtenir les tableaux qui se trouvent [ici](../tableaux) on a utilisé les scripts bash suivants pour les 3 langues. Ensuite, on a mis les resultats de ces scripts dans un template html, pour que tout s'affiche sous la forme d'une page web. 
+Pour obtenir les tableaux qui se trouvent [ici](../tableaux.md) on a utilisé les scripts bash suivants pour les 3 langues. Ensuite, on a mis les resultats de ces scripts dans un template html, pour que tout s'affiche sous la forme d'une page web. 
 
 
 ## Creation tableaux anglais
